@@ -1,0 +1,12 @@
+#矩阵论
+#Qt 5开发及实例
+*随机过程
+*Qt Creator快速入门
+*Control of solar energy systems =太阳能系统控制 /太阳能系统控制
+*LTE : UMTS长期演进理论与实践 = LTE-the UMTS long term evolution from theory to practice
+*Android移动应用开发从入门到精通
+*Java典型模块与项目实战大全
+*Java 宝典
+*先秦诸子八大家
+*R语言实战 = R in action : data analysis and graphics with R
+*博弈论与信息经济学

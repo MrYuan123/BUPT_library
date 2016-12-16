@@ -1,0 +1,13 @@
+#内容中心网络体系架构
+#交换机·路由器·防火墙
+#网络编程与分层协议设计 : 基于Linux平台实现
+*车联网技术及应用
+*博弈论及其在无线通信网络中的应用
+*无线网络中的博弈论研究 = = Game theory for wireless engineers
+*VANET : 车载网技术及应用 = VANET : vehicular applications and inter-networking technologies
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

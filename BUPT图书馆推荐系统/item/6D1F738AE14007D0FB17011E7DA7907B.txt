@@ -1,0 +1,12 @@
+#认知无线网络
+#认知与协作无线通信网络 = Communication network technology
+*协作通信及其在 LTE-Advanced 中的应用 = Cooperative communication and its application in LTE-Advanced systems
+*认知无线网络无线传输技术 = Wireless transmission technologies for cognitive radio networks
+*认知无线电网络
+*认知无线电
+*认知无线电通信与组网 : 原理与应用
+*认知协作通信能效优化
+*协作通信及网络 = Cooperative communications and networking
+*认知无线网络中的人工智能
+*认知无线网络组网协议与应用 = Cognitive radio netwoking [i.e. networking] protocol and applications
+*高维数据挖掘技术研究 = Research on technologies for high dimensional data mining

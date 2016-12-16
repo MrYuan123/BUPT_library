@@ -1,0 +1,13 @@
+#C 语言开发手册 : 典藏版
+#VC++就业培训宝典之MFC视频教程
+#C++编程兵书
+*海子经典诗歌
+*VC++项目开发实战密码
+*诺贝尔文学奖获奖作家微型小说精品
+*Unity 4.3游戏开发项目实战 : C#、JavaScript版本
+*JavaScript框架设计
+*Linux 核心应用命令速查
+*品悟C : 抛弃C程序设计中的谬误与恶习
+*Visual C++开发实例大全 , 提高卷
+*数据结构与算法JavaScript描述 = Data structures and algorithms with JavaScript
+*C 语言详解 = Problem solving and program design in C

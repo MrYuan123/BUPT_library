@@ -1,0 +1,18 @@
+#计算机网络
+#802.11 无线网络权威指南
+#光网络规划与优化
+#宽带无线通信技术
+#光纤接入网规划设计手册
+#光网络 = Optical networks : a practical perspective
+#Cisco网络技术教程
+#基于以太网的无源光网络 = Ethernet passive optical networks
+*通信原理教程
+*光网络速成教程
+*2015版计算机网络高分笔记
+*智能天线技术与应用
+*通信抗干扰技术
+*计算机网络基础教程
+*宽带通信网原理
+*宽带光接入技术
+*接入网技术 = Access network technology
+*FTTx PON 技术与应用

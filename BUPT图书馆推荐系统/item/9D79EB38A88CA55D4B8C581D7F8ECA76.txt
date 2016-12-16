@@ -1,0 +1,12 @@
+#LTE无线网络规划与设计 = LTE wireless network planning & design
+#移动通信原理
+*Hadoop大数据处理 = Big data processing
+*LTE协议栈与信令分析 = LTE protocol stack and signaling analysis
+*高级无线网络 : 4G技术
+*移动通信基础
+*LTE网络规划设计手册 = LTE network planning and design handbook
+*Hadoop海量数据处理 : 技术详解与项目实战
+*LTE 基础原理与关键技术
+*大话无线通信
+*无线通信 = Wireless communications
+*无线通信原理与应用 = Wireless communications principles and practice

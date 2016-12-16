@@ -1,0 +1,20 @@
+#C++编程实战宝典
+#老人与海 = The old man and the sea
+#Visual C++ 项目开发案例精粹
+#C++开发实战
+#C++基础与案例开发详解
+#了不起的盖茨比 = The great Gasby
+#数据结构与经典算法
+#数据结构教程 : C++语言描述
+#C++程序设计经典300例
+#算法之美 : 隐匿在数据结构背后的原理 : C++版
+*多传感器多源信息融合理论及应用
+*雷达数据处理及应用 = Radar data processing with applications
+*Java语言程序设计
+*起风了
+*Visual C++ 编程宝典 : 十年典藏版
+*Visual C++数字图像处理技术详解 = Digital image processing using Visual C++
+*Java 语言程序设计
+*实战突击 , Visual C++项目开发案例整合
+*从零开始学Java
+*大学英语6级考试巅峰训练

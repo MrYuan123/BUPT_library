@@ -1,0 +1,20 @@
+#数据分析 : 企业的贤内助 = Data analysis : the smart assistant for enterprise
+#国际金融新论 = International finance
+#R语言数据操作 = Data manipulation with R
+#数据挖掘 : 概念与技术 = Data mining : concepts and techniques
+#投资学导论 = Investments : an introduction
+#数据挖掘 : R语言实战
+#金融工程学原理 = Principles of financial engineering
+#数据挖掘导论 = Introduction to data mining
+#金融学原理 = Principles of finance
+#数据挖掘教程
+*数据挖掘原理与实践
+*数据挖掘 : 实用案例分析 = Data mining : practical case analysis
+*数据挖掘与机器学习 : WEKA应用技术与实践
+*投资学 = Investments
+*经济数学
+*计量经济学导论 = Intrductory econometrics : a modern approach
+*计量经济学
+*数据挖掘 : 概念、模型、方法和算法
+*妙趣横生的算法 : C++语言实现
+*深入体验Java项目开发

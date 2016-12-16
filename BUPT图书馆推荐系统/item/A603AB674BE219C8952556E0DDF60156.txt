@@ -1,0 +1,12 @@
+#大学英语六级考试赢在真题通过真题记单词
+#Java 6 从入门到精通
+*十天突破雅思写作 = Pat's ten-day step-by-step guide to the IELTS writing test
+*不拖延的心理学 = Don't delay of psychology
+*2015年考研英语短文写作及英汉翻译
+*神一样的产品经理 : 基于移动与互联网产品实践
+*就这么做产品 = Product methodology : 体系、方法暨产品兵法
+*世界500强互联网产品经理管理笔记 = Fortune 500 internet product manager management notes
+*轻松 Scrum 之旅 : 敏捷开发故事
+*一本书读懂24种互联网思维
+*人人都是产品经理 = Everyone is a produot manager : version 1.1
+*你的项目靠谱吗 : 大数据时代的精准定位

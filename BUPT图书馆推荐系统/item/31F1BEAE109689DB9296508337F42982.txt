@@ -1,0 +1,29 @@
+#Head First HTML 与 CSS、XHTML (中文版)
+#拖延心理学 = Procrastination : why you do it, what to do about it now
+#ETS 新托福考试官方指南 = The official guide to the TOEFL test
+#李·哈蒙德素描教程 = Lifelike drawing with Lee Hammond
+#MATLAB图像处理超级学习手册
+#黑客攻防从入门到精通 : 命令版
+#怪诞心理学 =   : 揭秘不可思议的日常现象the curious science of everyday lives
+#剑指Offer : 名企面试官精讲典型编程题
+#初学铅笔素描练习册
+#拯救我的TOEFL写作 = Saving my TOEFL writing
+#7天精通素描 , 基础入门
+#小心! 软瘾 : 最实用的“战瘾”指南
+#新托福写作真经 . 2
+#我们都是突然长大的 = The moment we grow up
+#GRE & GMAT 阅读难句教程
+#风尚 : 魏晋名士的生活美学
+#零基础学素描
+#蒋勋说文学 : 从《诗经》到陶渊明
+#离散数学
+*JavaScript+jQuery从入门到精通
+*大学基础物理 . 第三册
+*大学基础物理 . 第二册
+*大学基础物理 . 第一册
+*怎样解题 : 数学教学法的新面貌
+*新托福长难句白金课堂
+*离散数学教程
+*Java 编程思想 = Thinking in Java
+*Java程序设计
+*JavaScript学习指南

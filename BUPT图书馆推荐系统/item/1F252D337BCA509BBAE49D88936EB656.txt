@@ -1,0 +1,11 @@
+#效用函数及优化
+*TD-LTE 技术原理与系统设计 = TD-LTE principles and system design
+*全面详解LTE : MATLAB建模、仿真与实现
+*华尔街之狼 = The wolf of Wall Street : 我走过的金钱、权力与欲望的迷途
+*5G : 开启移动网络新时代
+*LTE教程 : 机制与流程
+*UMTS中的LTE : 向LTW-Advanced演进
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

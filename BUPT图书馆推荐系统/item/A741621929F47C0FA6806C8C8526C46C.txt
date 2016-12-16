@@ -1,0 +1,12 @@
+#Altera FPGA/CPLD 设计 , 基础篇
+#Griffiths量子力学概论学习指导与习题解答
+*Altera FPGA/CPLD 设计 , 高级篇
+*C++ 程序设计语言 = The C++ programming language
+*修出好照片 : 数码照片处理核心技法
+*C++ 面向对象程序设计习题解答与上机指导
+*FPGA/CPLD边练边学 : 快速入门Verilog/VHDL
+*深入浅出玩转FPGA
+*托福词汇速记精典
+*打破思维里的框 : 激发创造力只需五步 = Thinking in new boxes : a new paradigm for business creativity
+*美国的本质 : 基督新教支配的国家和外交
+*学会提问 = Asking the right questions : a guide to critical thinking

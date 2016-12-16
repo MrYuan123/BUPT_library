@@ -1,0 +1,12 @@
+#无线通信的 MATLAB 和 FPGA 实现
+#MIMO 通信系统编码 = Coding for MIMO communication systems
+*光通信中的 OFDM = OFDM for optical communications
+*MIMO 无线通信 : 从真实世界的传播到空-时编码的设计 = MIMO wireless communications : from real-world propagation to space-time code design
+*数据结构与STL
+*下一代宽带无线通信系统 : OFDM与WiMAX
+*MATLAB R2013a工程分析与仿真
+*光通信信号处理
+*超长距离光传输技术基础及其应用
+*多载波通信 = Multicarrier communications
+*高速光纤传输系统
+*自适应滤波算法与实现 = Adaptive filtering : algorithms and practical implementation

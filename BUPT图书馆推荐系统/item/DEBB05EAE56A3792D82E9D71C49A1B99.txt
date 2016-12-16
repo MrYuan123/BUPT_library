@@ -1,0 +1,12 @@
+#运筹学习题集
+#运筹学教程
+*运筹学 (第三版) 同步辅导及习题全解
+*运筹学
+*商业模式新生代 , 个人篇 : 一张画布重塑你的职业生涯 = Business model you : a one-page method for reinventing your career
+*模式识别与智能计算 : MATLAB技术实现
+*实变函数习题精选
+*矩阵论教程
+*矩阵论 = Matrix
+*大数据 = The big data revolution : 正在到来的数据革命, 以及它如何改变政府、商业与我们的生活
+*逻辑学
+*GRE & GMAT 阅读难句教程

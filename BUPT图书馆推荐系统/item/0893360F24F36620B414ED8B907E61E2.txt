@@ -1,0 +1,16 @@
+#大嘴巴漫谈数据挖掘
+#从大学数学走向现代数学
+#数学桥 : 对高等数学的一次观赏之旅 = A Mathematical bridge : an intuitive journey in higher mathematics
+#应用MATLAB实现神经网络
+#MATLAB技术大全
+#数学哲学
+*MATLAB工程与科学绘图 = MATLAB drawing engineering and science
+*分布式计算
+*数据结构与问题求解 : Java语言版
+*数据结构
+*大数据挖掘 = Using big data to build your business : 系统方法与实例分析
+*钓愚 : 操纵与欺骗的经济学 = Phishing for phools : the economics of manipulation and deception
+*数值方法
+*矩阵分析与应用 = Matrix analysis and applications
+*人工神经网络原理
+*矩阵的半张量积 : 理论与应用

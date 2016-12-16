@@ -1,0 +1,11 @@
+#R语言轻松入门与提高
+*CFA考试辅导指南
+*R语言数据挖掘方法及应用
+*R语言初学者指南 = A Beginner's guide to R
+*CFA考试辅导指南 : 配套习题集
+*CFA 模拟题详解
+*Excel 2010数据处理与分析实战技巧精粹
+*Python 学习手册
+*统计学 = Statistics
+*R语言与网站分析 = Web analysis and mining with R
+*广告统计基础 = Basis of advertising statistics

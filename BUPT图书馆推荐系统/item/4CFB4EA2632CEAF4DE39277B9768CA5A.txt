@@ -1,0 +1,14 @@
+#运筹学辅导及习题精解 : 清华修订版
+#梁山政治
+#运筹学习题详解与考研辅导
+#运筹学
+*六级词汇词根 + 联想记忆法 : 乱序版
+*TCP/IP 协议族
+*运筹学习题集
+*运筹学 (第三版) 同步辅导及习题全解
+*数据通信与网络教程 = Understanding data communications and networks
+*形式语言与自动机导论 = An introduction to formal languages and automata
+*操作系统 : 原理、设计与应用
+*时间序列分析 : 预测与控制 = Time series analysis : forecasting and control
+*计量经济学基础 . 上册 = Basic econometrics
+*实变函数论 = Theory of functions of a real variable

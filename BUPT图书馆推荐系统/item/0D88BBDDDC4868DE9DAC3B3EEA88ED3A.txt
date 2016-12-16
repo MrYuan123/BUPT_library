@@ -1,0 +1,19 @@
+#弯曲时空中的黑洞 = Black hole in curved spacetime
+#深入学习MongoDB = Scaling mongoDB. 50 tips and tricks for mongoDB developers
+#宇宙与天体
+#神经网络 = Neural networks
+#MongoDB实战 = MongoDB in action
+#统计自然语言处理
+#人工神经网络原理
+#计算机算法设计与分析
+#分布式算法导论 = Introduction to distributed algorithms
+*深入理解 LINUX 内核
+*Node.js开发实战详解
+*汤姆·索亚历险记 = The adventures of tom sawwyer
+*走进搜索引擎 = Stepping into search engine
+*机器学习实战 = Machine learning in action
+*数据结构 : C语言版
+*自然语言处理综论 = Speech and language processing : an introduction to natural language processing, computational linguistics, and speech recognition
+*Android程序开发实用教程
+*一学就会的手机APP用户界面设计
+*算法与数据结构习题精解与实验指导

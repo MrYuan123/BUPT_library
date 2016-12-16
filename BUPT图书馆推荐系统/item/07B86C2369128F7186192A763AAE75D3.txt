@@ -1,0 +1,17 @@
+#红楼梦 : 注释本 . 上册
+#不朽 = L'immortalite
+#少年天子
+#中国通史 . 第一册
+#西厢记 = The Romance of the western bower
+#拜伦 雪莱 济慈抒情诗精选集 : 英汉双语对照
+#史记 : 简体白文本
+*MATLAB 基础与编程入门
+*红楼梦 : 注释本 . 下册
+*MATLAB/Simulink 建模与仿真
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

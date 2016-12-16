@@ -1,0 +1,12 @@
+#深入浅出Node.js
+#Node.js实战 = Learning Node.js : a hands-on guide to building web applications in JavaScript
+*JavaScript语言精粹 = JavaScript : the good parts
+*JavaScript设计模式
+*Node.js开发指南
+*Node.js实战
+*Node.js实战 : 第2季
+*移动Web手册 = The mobile Web handbook
+*高性能网站建设进阶指南 : Web开发者性能优化最佳实践 = Even faster Web sites : performance best practices for Web developers
+*程序员面试金典 = Cracking the coding interview : 150 programming questions and solutions
+*高性能网站建设指南 = High performance web sites
+*Linux环境编程 = Linux programming

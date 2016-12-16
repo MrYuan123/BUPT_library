@@ -1,0 +1,12 @@
+#数学建模方法与分析 = Mathematical modeling
+#数学模型
+*数学建模 = A first course in mathematical modeling
+*数学建模算法与应用
+*MATLAB 在数学建模中的应用
+*数学建模
+*不完备性 = Incompleteness : 哥德尔的证明和悖论the proof and paradox of Kurt Godel
+*MATLAB在数学建模中的应用
+*复变函数典型题
+*计算机组成原理教程
+*信号分析与处理
+*现代数学建模方法

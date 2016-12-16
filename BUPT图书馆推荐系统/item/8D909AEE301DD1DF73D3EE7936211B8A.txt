@@ -1,0 +1,19 @@
+#应急管理概论 = Introduction to emergency management
+#沙克尔顿的领导艺术 : 危机环境下的领导力 = Leading at the edge : leadership lessons from the extraordinary saga of Shackleton's antarctic expedition
+#危机下, 领导怎么办 = In extremis leadership
+#眨眼之间 : 不假思索的决断力 = Blink : the power of thinking without thinking
+#应急管理概论 : 理论与实践
+#突发事件战略管理 : 风险管理与风险评估 = Managing strategic surprise : lessons from risk management and risk assessment
+#公共管理的技巧 = The craft of public administration
+#为什么选错的总是我 = Decisions, decisions the art of effective decision making
+#公共危机管控力
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

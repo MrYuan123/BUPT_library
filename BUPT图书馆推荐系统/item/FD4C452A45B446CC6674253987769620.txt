@@ -1,0 +1,11 @@
+#鸟哥的Linux私房菜 , 服务器架设篇
+*疯狂Android讲义
+*疯狂Java讲义精粹
+*Ubuntu Linux 从初学到精通
+*JAVA核心技术 . 卷I , 基础知识 = Core Java . volume I , Fundamentals
+*ubuntu 官方指南 = The official ubuntu book
+*编程之美 : 微软技术面试心得
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

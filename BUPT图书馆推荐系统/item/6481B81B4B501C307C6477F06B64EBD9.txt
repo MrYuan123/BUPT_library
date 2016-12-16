@@ -1,0 +1,15 @@
+#Java Web技术及应用
+#轻量级Java EE程序设计及实践
+#MongoDB入门经典
+#推荐系统 = Recommender systems handbook : 技术、评估及高效算法
+#MySQL数据库管理与开发实践教程
+*嵌入式软件开发导论
+*嵌入式软件开发精解 = Embedded software : the works
+*UNIX网络编程 . 卷1 , 套接字联网API
+*MySQL技术内幕 = MySQL
+*Java程序员面试宝典
+*JavaScript语言精粹 = JavaScript : the good parts
+*Git权威指南 = Got Git : the definitive guide of Git
+*HTML5权威指南 = The Definitive guide to HTML5
+*疯狂Java讲义
+*锋利的jQuery

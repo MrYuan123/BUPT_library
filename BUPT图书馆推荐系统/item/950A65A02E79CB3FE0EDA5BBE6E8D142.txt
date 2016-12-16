@@ -1,0 +1,17 @@
+#SAI+Photoshop漫画绘制技法从入门到精通
+#辽金元史考索
+#北平历史地理 = An Historical geography of peiping
+#芥川龙之介作品选
+#Docker全攻略
+#舞女
+#郁达夫自选集
+*Python编程实践 = Practical programming : an introduction to computer science using python
+*Python 3面向对象编程 = Python 3 object oriented programming
+*Kubernetes实战
+*OpenStack云计算实战手册
+*Docker : 容器与容器云
+*Kubernetes权威指南 : 从Docker到Kubernetes实践全接触
+*六级词汇词根 + 联想记忆法 : 乱序版
+*Docker开发实践
+*概率论与数理统计
+*设计模式沉思录 = Pattern hatching design patterns applied

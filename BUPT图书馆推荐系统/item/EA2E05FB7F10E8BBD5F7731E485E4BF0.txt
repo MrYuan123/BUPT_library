@@ -1,0 +1,13 @@
+#Python编程实践 = Practical programming : an introduction to computer science using python
+#MATLAB数值分析与仿真案例
+#精通 MATLAB : 升级版
+*剩余价值理论 = Theorien uber den mehrwert
+*易学Python
+*SPSS统计分析与行业应用案例详解
+*MATLAB 8.X实战指南 : R2014a中文版 = MATLAB 8.X application guide : R2014A Chinese version
+*Docker全攻略
+*Python 3面向对象编程 = Python 3 object oriented programming
+*Java Web 开发实战经典基础篇 : JSP、Servlet、Struts、Ajax
+*Spring实战 = Spring in action
+*Python 开发技术详解
+*21天学通Python

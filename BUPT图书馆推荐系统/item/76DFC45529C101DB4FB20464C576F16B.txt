@@ -1,0 +1,15 @@
+#金字塔原理 : 思考、表达和解决问题的逻辑 = The minto pyramid principle : logic in writing, thinking and problem solving
+#批判性思维 : 带你走出思维的误区 = Critical thinking
+#沟通的艺术 : 看入人里看出人外 = Looking out /looking in
+#统计学 : 在经济和管理中的应用 = Managerial statistics
+#谈话的力量=Conversationally speaking
+*非暴力沟通 = Nonviolent communication
+*生气不如争气全集
+*网络安全编程技术与实例
+*网络安全管理实践
+*道教十讲
+*ubuntu 官方指南 = The official ubuntu book
+*LATEX　入门与提高
+*拆掉思维里的墙 : 原来我还可以这样活
+*基础会计学 = Fundamentals of accounting
+*概率论、随机过程与数理统计

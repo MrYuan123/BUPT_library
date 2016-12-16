@@ -1,0 +1,12 @@
+#数学物理方程
+#通信原理 = Communication principles
+*算法竞赛入门经典训练指南
+*Android 4编程入门经典 : 开发智能手机与平板电脑应用
+*数字信号处理原理及实现学习指导
+*通信原理学习与实验指导 = Instruction to exercise and experiment for communication principle
+*数学物理方法 = Mathematical methods for physics
+*离散数学习题与解析 = Solution and analysis of problems in discrete mathematics
+*模拟电子技术基础
+*离散数学 = Discrete mathematics
+*量子理论 : 爱因斯坦与玻尔关于世界本质的伟大论战
+*2000 离散数学习题精解

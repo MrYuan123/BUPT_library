@@ -1,0 +1,12 @@
+#高等数学 . 上册
+#矩阵理论
+*MIMO 无线通信 : 从真实世界的传播到空-时编码的设计 = MIMO wireless communications : from real-world propagation to space-time code design
+*MIMO-OFDM系统原理、应用及仿真
+*动物农场 = Animal farm
+*高等数学 . 下册
+*线性代数
+*概率论与数理统计
+*复变函数
+*高等数学 . 上
+*英语应用语法 = Modern English grammar in use
+*工程电路分析

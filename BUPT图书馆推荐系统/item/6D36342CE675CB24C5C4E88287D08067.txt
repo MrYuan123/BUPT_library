@@ -1,0 +1,18 @@
+#通信原理辅导与习题解答
+#电磁场与电磁波教学指导 : 习题解答与实验
+#通信原理实验教程
+#图像模式识别 : VC++技术实现
+#《微机原理与接口技术 (第二版)》习题解析和实验指导
+#基本通信原理习题解答
+#数字图像处理与识别
+#数字图像处理 = Digital image processing
+*数字图像处理 = Digital image processing : MATLAB版using MATLAB
+*通信原理学习指导及习题解答
+*数字图像处理 : MATLAB版 : 本科教学版 = Digital image processing using MATLAB
+*通信原理学习与考研指导
+*通信原理教程
+*Java 程序设计简明教程 = Beginning Java for developer
+*通信原理辅导及习题精解 : 樊昌信 第6版
+*幸福了吗?
+*微型计算机原理及应用习题集
+*C# 数字图像处理算法典型实例

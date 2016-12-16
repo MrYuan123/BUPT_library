@@ -1,0 +1,14 @@
+#大数据算法 = Big data algorithms
+#Python 高级编程
+#基于 Struts2 + Hibernate + Spring 实用开发指南
+#数据挖掘 : 概念、模型、方法和算法
+*计算机网络 : 系统方法 = Computer networks : a systems approach
+*Python宝典
+*你不知道的JavaScript = Scope & closures this & object prototypes . 上卷
+*ADuC7026 原理与应用
+*操作系统原理
+*支持向量机 : 理论、算法与拓展
+*计算机网络 : 网络设计的原理、技术和协议 = Computer networks : principles, technologies and protocols for network design
+*Java 2 从入门到精通 : J2SE1.4版 = Mastering Java 2 J2SE 1.4
+*数据挖掘 : 概念与技术
+*TCP/IP 协议族

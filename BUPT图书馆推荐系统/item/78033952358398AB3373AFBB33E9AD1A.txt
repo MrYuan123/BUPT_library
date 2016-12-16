@@ -1,0 +1,30 @@
+#ELK stack权威指南 = The definitive guide to Elasticsearch + Logstash + Kibana
+#大数据挑战与NoSQL数据库技术
+#白帽子讲浏览器安全
+#OpenStack开源云王者归来 : 云计算、虚拟化、Nova、Swift、Quantum与Hadoop
+#Netty权威指南
+#易学Python
+#编写高质量代码 = Writing solid web front-end code : Web前端开发修炼之道
+#大话Java性能优化
+#HotSpot实战
+#RabbitMQ实战 : 高效部署分布式消息队列 = RabbitMQ in action : distributed messaging for everyone
+#实战Java虚拟机 : JVM故障诊断与性能优化
+#Bootstrap基础教程
+#Head First 设计模式
+#让云落地 : 云计算服务模式 (SaaS、PaaS和IaaS) 设计Architecting the cloud : design decisions for cloud computing service models (SaaS、PaaS, and IaaS)
+#Java多线程编程实战指南 , 设计模式篇
+#Java虚拟机精讲
+#Struts2技术内幕 = Struts2 internals : 深入解析Struts2架构设计与实现原理
+#Redis入门指南
+#Java特种兵 . 上册
+#Spark大数据处理技术
+*写给大忙人看的Java核心技术 = Core Java for the impatient
+*程序员代码面试指南 : IT名企算法与数据结构题目最优解
+*Java编程指南 = Java 7 : a comprehensive tutorial
+*Nginx高性能Web服务器详解
+*MapReduce 2.0源码分析与编程实战
+*Effective Java 中文版 = Effective Java
+*Spring 3.0就这么简单
+*Hadoop实战手册
+*Storm实时数据处理 = Storm real-time processing cookbook
+*Java程序员面试宝典

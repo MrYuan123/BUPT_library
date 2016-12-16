@@ -1,0 +1,15 @@
+#高功率光纤激光器及其应用 = High-power fiber laser and its applications
+#高功率光纤激光技术
+#光纤激光器及其应用
+#图解光纤激光器入门
+#超短脉冲及混沌光纤激光器
+*光纤光栅理论基础与传感技术
+*光纤光学前沿
+*激光原理及应用
+*激光原理 (第2版） 教案与学习指导 = Study guide for principles of lasers
+*激光原理 = Principles of lasers
+*半导体光放大器及其应用
+*偏振光学
+*半导体激光器
+*非线性光学
+*光放大器及其应用

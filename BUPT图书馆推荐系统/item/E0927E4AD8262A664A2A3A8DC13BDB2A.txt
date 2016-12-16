@@ -1,0 +1,12 @@
+#Python Cookbook (第3版) 中文版
+#雪国
+*卡夫卡小说选
+*傲慢与偏见
+*数据挖掘 : R语言实战
+*宏观经济学简明教程
+*不能说的秘密 : Photoshop人像摄影后期调色圣经
+*C 语言程序设计案例教程
+*期货市场技术分析 : 期(现)货市场、股票市场、外汇市场、利率(债券)市场之道
+*管理学原理
+*计算机硬件及组成原理 = Hardware and computer organization : the software perspective
+*NumPy攻略 = NumPy cookbook : Python科学计算与数据分析

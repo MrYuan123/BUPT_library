@@ -1,0 +1,11 @@
+#AngularJS权威教程 = The complete book on AngularJS
+*Scala 编程 = Programming in Scala
+*Node.js开发实战详解
+*JavaScript & jQuery交互式Web前端开发
+*正则指引 = Regular expression yet another introduction
+*Python绝技 : 运用Python成为顶级黑客 = Violent Python : a cookbook for hackers, forensic analysts, penetration testers and security engineers
+*AngularJS 高级编程
+*Wow! 不一样的插画设计 : Chunso的梦幻世界
+*JavaScript面向对象编程指南
+*你不知道的JavaScript = Scope & closures this & object prototypes . 上卷
+*冰与火之歌 . 卷一 , 权力的游戏 . 下 = A Song of ice and fire , a game of thrones

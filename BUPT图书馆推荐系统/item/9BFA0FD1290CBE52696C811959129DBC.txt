@@ -1,0 +1,14 @@
+#详解MATLAB/Simulink通信系统建模与仿真 : 配视频教程
+#CDMA 系统工程手册
+#cdma2000 1x 无线网络规划与优化
+#CDMA 无线通信原理
+*移动通信原理与应用技术 = Principles and technical applications of mobile communications
+*CDMA 空中接口技术
+*MATLAB/Simulink 通信系统建模与仿真实例精讲
+*易学Python
+*MATLAB通信系统建模与仿真 = Modeling and simulation of MATLAB communication system
+*现代通信系统 = Contemporary communication systems using MATLAB and simulink : MATLAB版
+*数学及其认识 = Mathematics and it's recognize
+*现代通信理论
+*矩阵计算与应用
+*多用户、多小区 MIMO 通信技术 = Multi-user multi-cell MIMO communication technology

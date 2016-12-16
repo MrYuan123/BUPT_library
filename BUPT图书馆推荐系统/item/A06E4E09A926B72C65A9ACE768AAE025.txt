@@ -1,0 +1,14 @@
+#视觉 . 1 , 激情藏在安静的角落
+#大数据时代小数据分析
+#Visual C++开发实例大全 , 基础卷
+#大数据技术前沿
+*Python项目开发实战
+*Python绝技 : 运用Python成为顶级黑客 = Violent Python : a cookbook for hackers, forensic analysts, penetration testers and security engineers
+*数据挖掘 : 你必须知道的32个经典案例
+*从零进阶！数据分析的统计基础
+*谁说菜鸟不会数据分析 , 工具篇
+*大数据的互联网思维
+*无线电安全攻防大揭秘
+*计算机网络
+*线性代数
+*高等数学 . 上册

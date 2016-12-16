@@ -1,0 +1,13 @@
+#SDN核心技术剖析和实战指南 = Deciphering SDN : core techniques and practical guide
+#另一个地球 : 互联网+社会 = Society and the internet : how networks of information and communication are changing our lives
+#软件定义网络 : 原理、技术与实践 = Software defined networks : a comprehensive approach
+*软件定义网络技术及应用
+*软件定义网络核心原理与应用实践 = SDN core principles and application practice
+*复杂网络理论及其应用
+*软件定义网络 : 基于OpenFlow的SDN技术揭秘 = Software defined networking with OpenFlow
+*信息中心网络
+*黑客攻防从新手到高手
+*国家地理 , 中国卷 = National geography of China
+*软件定义数据中心 : 技术与实践 = Software defined data center : technology and application
+*SDN :software defined networks = 软件定义网络 /Software Defined Networks
+*深度解析SDN : 利益、战略、技术、实践

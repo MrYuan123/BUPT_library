@@ -1,0 +1,23 @@
+#Verilog数字系统设计教程
+#6 级词汇 : 词以类记 = Classified vocabulary
+#四元数矩阵
+#惯性导航与组合导航基础 = Fundamentals of inertial navigation and integrated navigation
+#Core Java.Vol. I,Fundamentals =Java核心技术.卷I,基础知识.上 /Java 核心技术
+#Core Java.Vol. I,Fundamentals =Java核心技术.卷I,基础知识.下 /Java 核心技术
+#JAVA核心技术 . 卷I , 基础知识 = Core Java . volume I , Fundamentals
+#Java 编程思想 = Thinking in Java
+#惯性导航
+#算法设计与分析基础
+#卡尔曼滤波与组合导航原理
+#疯狂Java讲义
+#惯性导航基础
+*Java面向对象程序设计
+*新日本语能力测试50天逐级突破N5 N4 N3阅读天天做
+*构图决定一切 = Composition is everything
+*数码单反摄影完全宝典
+*C++程序设计经典300例
+*5分钟修出好照片 : Photoshop CC实例精讲版
+*Photoshop CC人像调色秘籍一本通
+*面对面 : Rick Sammon人像摄影完全指南
+*C++ 实用编程技术 : 百例精编与妙解
+*自然摄影经典教程

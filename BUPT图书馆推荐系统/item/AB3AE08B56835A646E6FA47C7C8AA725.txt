@@ -1,0 +1,11 @@
+#数据库设计教程 = Database solutions : a step-by-step guide to building database
+*TCP/IP 协议族
+*七周七并发模型 = Seven concurrency models in seven weeks : when threads unravel
+*C++并发编程实战 = C++ concurrency in action
+*现代控制系统 = Modern control systems
+*MATLAB 与控制系统仿真实践
+*高质量程序设计指南 : C++/C语言
+*The algorithm design manual =算法设计手册 /算法设计手册
+*通信原理 : 基于Matlab的计算机仿真
+*计算机网络
+*线性代数

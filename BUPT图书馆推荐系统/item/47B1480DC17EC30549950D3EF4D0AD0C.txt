@@ -1,0 +1,17 @@
+#Oracle DBA高效入职指南
+#程序设计基础视频教程
+#Access 数据库基础教程
+#简明物理学史 = Concise history of phycics
+#基础数学 . I , 高等数学
+#大学物理简明双语教程 = Concise bilingual course of university physics
+#计算机软件基础
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

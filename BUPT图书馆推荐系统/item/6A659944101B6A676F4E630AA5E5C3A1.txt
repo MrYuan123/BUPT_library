@@ -1,0 +1,19 @@
+#RESTful web services cookbook中文版 = RESTful web services cookbook
+#Visual C++网络编程案例实战
+#PHP网络编程技术详解
+#PHP框架高级编程 : 应用Symfony、CakePHP和Zend
+#Java RESTful Web service实战 = Java RESTful Web service in action
+#HTML5 WebSocket权威指南 = The definitive guide to HTML5 WebSocket
+#Symfony 权威指南 = The Definitive guide to Symfony
+#RESTful Web APIs中文版 = RESTful Web APIs
+#TCP Sockets编程 = Working with TCP Sockets
+*C++ 探秘 : 68讲贯通C++ = Exploring C++ : the programmer's introduction to C++
+*HTML5 + CSS + JavaScript网页布局从入门到精通
+*C++黑客编程揭秘与防范
+*Nginx高性能Web服务器详解
+*数据挖掘原理 = Principles of data mining
+*大型分布式网站架构设计与实践
+*恰如其分的软件架构 : 风险驱动的设计方法 = Just enough software architecture : a risk-driven approach
+*Redis入门指南
+*黑客与画家 : 硅谷创业之父Paul Graham文集 = Hackers and painters : big ldeas from the computer age
+*微服务架构与实践

@@ -1,0 +1,11 @@
+#高性能网站建设进阶指南 : Web开发者性能优化最佳实践 = Even faster web sites : performance best practices for web developers
+*金字塔原理 : 思考、表达和解决问题的逻辑 = The minto pyramid principle : logic in writing, thinking and problem solving
+*人事工作的第一本心理书
+*Java性能优化权威指南 = Java performance
+*薪酬管理 : 理论·实务·案例 = Compensation management : theory, practice, case
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

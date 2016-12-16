@@ -1,0 +1,23 @@
+#啊哈! 原来如此 = Aha! gotcha
+#想当厨子的生物学家是个好黑客 = Biopunk DIY scientists hack the software of life
+#黑客攻防入门与实战
+#新手学黑客攻防
+#卢梭经典文存
+#本·拉登传 : 一个恐怖大亨的隐秘人生 = Growing up bin Laden
+#时间旅行者的妻子 = The time traveler's wife
+#美国顶级大学传奇
+#移民美国 : 中国人在美国的生存法则纪实100篇
+#计算机网络安全原理与实现
+#数学之美 = Beauty of mathematics
+#社会契约论 = The social contract
+#再会, 老北京 = The Last days of old Beijing : 一座转型的城, 一段正在消逝的老街生活
+*北京胡同
+*明朝那些事儿 . 贰
+*控制系统仿真与计算机辅助设计
+*爱的艺术 = The art of loving
+*Xilinx FPGA 设计基础 : VHDL版
+*电路原理学习指导与习题集 = Learning guide and exercises for principles of electric circuits
+*Android 应用开发范例大全
+*了不起的盖茨比 = The great Gatsby : 插图·中文导读英文版
+*JAVA 2 核心技术 = Core Java 2 . 卷Ⅰvolume Ⅰ , 基础知识fundamentals
+*月亮和六便士 = The moon and sixpence

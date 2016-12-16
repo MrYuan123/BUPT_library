@@ -1,0 +1,13 @@
+#物联网技术基础教程
+#写给大家看的设计书 = The Non-designer's design book
+#结网@改变世界的互联网产品经理
+*一本书读懂互联网+金融
+*神一样的产品经理 : 基于移动与互联网产品实践
+*用户体验要素 : 以用户为中心的产品设计 = The Elements of user experience : user-centered design for the web and beyond
+*常用黑客攻防技术大全
+*互联网产品设计 = Product design for the web
+*墨菲定律 = Murphy's law
+*Axure RP 7网站和APP原型制作从入门到精通 = Axure Rapid Prototyping 7 for web & App prototype design
+*浪潮之巅 = On top of tides . 上册
+*飞鸟集 = Stray birds : 英汉对照
+*浪潮之巅 = On top of tides . 下册

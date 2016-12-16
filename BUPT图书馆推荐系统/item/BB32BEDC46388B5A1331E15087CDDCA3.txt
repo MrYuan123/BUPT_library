@@ -1,0 +1,16 @@
+#Android应用开发入门 = Android apps for absolute beginners
+#Android手机应用开发简明教程
+#Android应用开发实践教程
+#Google Android SDK开发范例大全
+#Android网络开发从入门到精通
+#App开发案例教程 = Software design of mobile applications : a case tutorial
+*数据结构
+*考研数学复习指南 , 数学一 : 网络增值版
+*算法设计、分析与实现 : C、C++和Java
+*白帽子讲Web安全
+*揭秘家用路由器0day漏洞挖掘技术
+*加密与解密
+*Linux C编程从基础到实践
+*高质量嵌入式Linux C编程
+*Android编程权威指南 = Android programming : the big nerd ranch guide
+*新手学Photoshop智能手机APP界面设计 : 实例版

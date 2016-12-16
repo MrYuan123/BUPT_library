@@ -1,0 +1,12 @@
+#微机原理与接口技术 : 辅导及习题
+#自动控制原理习题详解与考研辅导
+*通信原理习题集
+*电磁场与电磁波习题精解
+*自动控制原理题海与考研指导
+*基于ARM Cortex-M3的STM32微控制器实战教程
+*高等代数 . 上册 : 大学高等代数课程创新教材
+*代数结构
+*信息简史 = The Information : a history, a theory, a flood
+*数据结构与算法分析新视角
+*微机原理与接口技术
+*电磁场与电磁波 = Electromagnetic field theory fundamentals

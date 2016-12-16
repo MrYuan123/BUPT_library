@@ -1,0 +1,12 @@
+#Excel/PPT 2013办公应用从入门到精通
+#怪诞行为学 , 可预测的非理性 : 升级版
+*深入理解Spark : 核心思想与源码分析 = Spark internals : core design and source code analysis
+*MySQL核心技术与最佳实践 = MySQL core technology & best practice
+*数据结构教程
+*解构互联网金融实战 : 探寻金融的“风口”
+*互联网金融 : 即将到来的新金融时代
+*番茄工作法图解 : 简单易行的时间管理方法
+*新托业词汇必备
+*频率选择表面理论与设计
+*设计职人讲座 Illustrator 特效范例 60+60
+*乐享PowerPoint! : 5个PPT成就幻灯片达人

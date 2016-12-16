@@ -1,0 +1,16 @@
+#商务与经济统计 = Statistics for business and economics
+#数字信号处理教程 : MATLAB释义与实现
+#计量经济学同步辅导
+#计量经济学导论 = Introductory econometrics : 现代观点a modern approach
+#高级应用计量经济学 = Advanced applied econometrics
+#计量经济学习题集
+*鲜活的数据 : 数据可视化指南
+*数据挖掘与数据化运营实战 = Data mining, leading with data driven practice : 思路、方法、技巧与应用
+*概率论与数理统计
+*日本语 . 2
+*日本语 . 1
+*财务成本管理 : 经典题解
+*《计量经济学》 (第 2 版) 笔记和习题详解
+*标准韩国语 . 第一册
+*韩国语能力考试真题解析与仿真突破 = Complete guide to the TOPIK , 初级
+*计量经济学

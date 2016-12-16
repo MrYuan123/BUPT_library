@@ -1,0 +1,24 @@
+#博弈论
+#钓愚 : 操纵与欺骗的经济学 = Phishing for phools : the economics of manipulation and deception
+#经济增长理论导论 = Introduction to theory of economic growth
+#性学三论
+#基于稀疏算法的人脸识别 = Face recognition based on sparse representation algorithms
+#社会学专业英语
+#经济学精要 = Essentials of economics
+#演化博弈论 : 问题导向的策略互动模型 = Game theory evolving : a problem-centered introduction to modeling strategic interaction
+#网络金融
+#阅读经典 : 美国大学的人文教育
+#如何看一幅画 . Ⅱ = Comprendre les symboles en peinture . II
+#贝叶斯统计学及其应用 = Bayesian statistics and its applications
+#卡尔曼滤波原理及应用 : MATLAB仿真
+#宏观经济学 = Macroeconomics
+*量子物理史话 = History of quantum physics : 上帝掷骰子吗
+*高等代数辅导与习题解答
+*竞争战略 : 分析产业和竞争者的技巧
+*SPSS统计分析与应用
+*宏观经济学 = Macroeconomics : 精要版
+*傲慢与偏见 = Pride and prejudice : 插图·中文导读英文版
+*求职, 从大一开始
+*博弈论教程
+*微观经济学考研真题及强化习题详解
+*宏观经济学考研重难题解析 300 题

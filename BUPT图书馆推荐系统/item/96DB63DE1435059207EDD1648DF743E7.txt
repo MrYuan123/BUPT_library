@@ -1,0 +1,15 @@
+#版本控制之道 : 使用Git = Pragmatic version control using Git
+#沉默的大多数 : 彩绘插图本
+#React : 引领未来的用户界面开发框架 = Developing a React edge : the javascript library for user interfaces
+#我的孤独是一座花园 : 阿多尼斯诗选
+#Harry Potter and the sorcerer's stone 
+*20课轻松学会弹尤克里里
+*Android物联网开发从入门到实战
+*Python基础教程 = Beginning python : from novice to professional
+*实用西班牙语 = Espanol practico : 2008奥运版juegos Olimpicos 2008
+*The art of public speaking =演讲的艺术 /演讲的艺术
+*无线移动自组织网
+*无线传感器网络 = Wireless sensor networks a networking perspective
+*Ad Hoc 网络技术
+*移动Ad Hoc网络 = Mobile Ad Hoc networking
+*计算机网络

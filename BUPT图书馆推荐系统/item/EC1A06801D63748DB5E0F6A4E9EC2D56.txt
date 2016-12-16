@@ -1,0 +1,20 @@
+#纳米材料的理化特性与应用
+#纳米毒理学研究方法与实验技术
+#纳米科技概论
+#纳米材料
+#中国至 2050 年纳米科技发展路线图
+#金属氮化物纳米材料的制备、物性及高压相变
+#金属纳米体系表面等离激元共振及应用
+#纳米结构和纳米材料合成、性能及应用 = Nanostructures and nanomaterials synthesis, properties, and applications
+#纳米科技
+#纳米材料与技术应用进展 : 第四届全国纳米材料会议论文集
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

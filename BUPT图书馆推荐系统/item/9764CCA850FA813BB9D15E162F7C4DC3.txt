@@ -1,0 +1,15 @@
+#基于SPSS Modeler的数据挖掘
+#SPSS 统计分析从入门到精通
+#SPSS统计分析与数据挖掘
+#IBM SPSS Modeler数据与文本挖掘实战
+#SPSS 19.0统计分析综合案例详解
+*SQL宝典
+*SPSS宝典
+*Python宝典
+*基于SPSS的数据分析
+*SQL Server 2012从零开始学
+*基于Clementine的数据挖掘
+*数据挖掘 Clementine 应用实务
+*SPSS 21.0行业统计分析与应用
+*跨文化交际 = Intercultural communication , 教师手册Teacher's guide
+*网络科学导论 = Network science : an introduction

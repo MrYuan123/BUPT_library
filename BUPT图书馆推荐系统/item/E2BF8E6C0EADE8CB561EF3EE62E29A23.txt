@@ -1,0 +1,15 @@
+#合作的微观经济学 : 一种博弈论的阐释
+#博弈论及其应用 = Game theory and its application
+#用Maple学大学数学
+#吉米多维奇数学分析习题集精选精解
+#Maple 教程
+*LTE/LTE-Advanced-UMTS长期演进理论与实践 = LTE-LTE UMTS long term evolution : from theory to practice
+*线性代数全程学习指导与习题精解 : 同济五版
+*网络融合环境下宽带接入技术与应用
+*网络融合 : 业务、应用、传输和运营支撑
+*卑鄙的圣人 : 曹操 . 第3部
+*博弈论 = Game theory
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

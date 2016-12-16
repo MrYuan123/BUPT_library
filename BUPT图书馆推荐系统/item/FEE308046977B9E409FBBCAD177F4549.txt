@@ -1,0 +1,16 @@
+#华尔街冲击波
+#星球 Google : 我们的生活将怎样被一家公司彻底改变 = Planet Google : one company's audacious plan to organize everything we know
+#C 语言程序设计
+#二级 C 语言一本通
+#次贷飓风的未解之谜 : 全新版
+#新手学电脑
+*高等数学
+*C 语言程序设计上机指导与习题解答
+*数据结构实用教程 : C语言版
+*高等数学 : 常见题型解析及模拟题
+*C++ 面向对象程序设计
+*卓越 = Superexcellence
+*濒死之眼
+*C 程序设计
+*C 语言程序设计案例教程
+*TCP/IP 指南 = The TCP/IP guide . 卷1 , 底层核心协议a comprehensive, illustrated internet protocols reference

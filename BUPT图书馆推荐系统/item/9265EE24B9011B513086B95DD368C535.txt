@@ -1,0 +1,14 @@
+#微波工程 = Microwave engineering
+#数据库系统原理及应用
+#微波技术与天线
+#微波与射频技术实验教程
+*微信公众平台应用开发实战
+*数据库系统导论 = An Introduction to database systems
+*HFSS 原理与工程应用
+*HTML+CSS网页设计详解
+*LATEX　入门与提高
+*大话数据结构 = Play with data structure
+*零点起飞学PHP
+*射频电路工程设计 = RF circuit design
+*ADS2008 射频电路设计与仿真实例
+*微波固态电路设计 = Microwave solid state circuit design

@@ -1,0 +1,17 @@
+#基于关联信息的决策分析方法研究
+#MATLAB 2013实用教程
+#群决策的理论方法及其应用
+#牛奶可乐经济学 = The economic naturalist : in search of explanations for everyday enigmas
+#英语招聘面试指南 = What to say at job interview
+#海底两万里 = 20000 leagues under the sea : 插图·中文导读英文版
+#基于判断矩阵的决策理论与方法
+*天才在左 疯子在右
+*王小波小说全集
+*JavaScript高级程序设计 = Professional JavaScript for web developers
+*牛奶可乐经济学 : 行为经济学版 = Microeconomics and behavior . 2
+*曼昆《经济学原理: 宏观经济学分册》 (第5版) 学习精要·习题解析·补充训练
+*经济学原理 , 宏观经济学分册
+*红楼梦
+*霍乱时期的爱情 = El amor en los tiempos del colera
+*激荡三十年 : 中国企业1978-2008 . 下
+*视觉贩卖 : 职业摄影师成功之道 = Visionmongers : making a life and a living in photography

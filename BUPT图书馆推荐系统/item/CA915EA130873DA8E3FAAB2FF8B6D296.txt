@@ -1,0 +1,14 @@
+#C++编程思想 : 第1卷标准C++导引(原书第2版) & 第2卷实用编程技术 = Thinking in C++ : Volume one : introduction to standard C++, Second Edition & Volume Two : practical programming
+#STL源码剖析 = The Annotated STL sources
+#数据结构基础 = Fundamentals of data structures in C : C语言版
+#程序员面试宝典
+*Java程序员面试宝典
+*C/C++求职宝典
+*数据库系统设计与管理 : 考点解析及模拟训练
+*大数据技术全解 : 基础、设计、开发与实践
+*轻松学C++编程
+*C++ 程序设计原理与实践 = Programming principles and practice using C++
+*数据结构 : Java版
+*Python 核心编程
+*Natural language processing with Python =Python自然语言处理 /自然语言处理
+*编程珠玑 . 续 = More programming pearls

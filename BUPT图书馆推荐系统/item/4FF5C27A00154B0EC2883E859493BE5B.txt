@@ -1,0 +1,15 @@
+#微信公众平台应用开发实战
+#jQuery Mobile移动网站开发
+#微信公众平台开发与案例分析
+#微信公众平台搭建与开发揭秘
+#贯通 Tomcat 开发 : Java Web 开发配置、整合、应用开发详解
+*数据库系统导论 = An Introduction to database systems
+*数据库系统原理及应用
+*HTML、CSS、JavaScript网页制作从入门到精通
+*C#基础与案例开发祥解
+*Android开发从入门到精通
+*Android开发实例大全
+*MySQL数据库应用从入门到精通
+*HTML 5从入门到精通
+*HTML5 & CSS3 & Javascript App程序开发实战
+*HTML5+CSS3精致范例辞典 = Deluxe web designers handbook

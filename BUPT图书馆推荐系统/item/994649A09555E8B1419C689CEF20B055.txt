@@ -1,0 +1,13 @@
+#实用MATLAB图像和视频处理 = Practical image and video processing using MATLAB
+#学习 OpenCV : 中文版
+#数字图像处理 = Digital image processing
+*数字图像处理 = Digital image processing : MATLAB版using MATLAB
+*电磁场与电磁波习题精解
+*数字图像处理 : MATLAB版 : 本科教学版 = Digital image processing using MATLAB
+*数据结构 : C++语言版
+*史蒂夫·乔布斯传 = Steve Jobs
+*Head First Java (中文版)
+*图像处理、分析与机器视觉 = Image processing, analysis, and machine vision
+*精通MATLAB智能算法 = Proficient in MATLAB intelligent algorithm
+*汇编语言
+*MATLAB图像处理375例

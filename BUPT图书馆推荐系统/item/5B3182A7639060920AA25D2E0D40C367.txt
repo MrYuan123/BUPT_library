@@ -1,0 +1,12 @@
+#C/C++求职宝典
+#STL源码剖析 = The Annotated STL sources
+*像天使一般地唱 : 纪伯伦经典诗选
+*卡尔曼滤波及其实时应用 = Kalman filtering with real-time applications
+*断舍离
+*马尔可夫链 : 模型、算法与应用 = Markov Chains : models, algorithms and applications
+*贝叶斯网络学习、推理与应用
+*流萤集 = Fireflies
+*纪伯伦诗选 = Selected poems of Kahlil Gibran
+*程序员面试宝典 = Best practice for programmer interview
+*愿你要的明天, 如约而至 : 吉檀迦利
+*C++ 程序设计原理与实践 = Programming principles and practice using C++

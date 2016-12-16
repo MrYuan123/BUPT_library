@@ -1,0 +1,12 @@
+#编程之美 : 微软技术面试心得
+#Java Web 整合开发王者归来 : JSP+Servlet+Struts+Hibernate+Spring
+*大话数据结构 = Play with data structure
+*经济学原理 = Principles of economics
+*算法导论 = Introduction to algorithms
+*算法与数据结构 : Java语言描述
+*Android群英传
+*JAVA 2 核心技术 = Core Java 2 . 卷Ⅰvolume Ⅰ , 基础知识fundamentals
+*JAVA核心技术 . 卷I , 基础知识 = Core Java . volume I , Fundamentals
+*疯狂Java讲义精粹
+*鸟哥的Linux私房菜 , 服务器架设篇
+*Head First Python中文版

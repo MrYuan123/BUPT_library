@@ -1,0 +1,13 @@
+#算法导论 = Introduction to algorithms
+#Python 3 程序开发指南 = Programming in Python 3
+#通信系统中 MATLAB 基础与仿真应用
+*Hadoop 权威指南 : 中文版
+*算法设计与分析
+*SPSS 与统计分析
+*机器学习实战 = Machine learning in action
+*高性能 JavaScript = High performance JavaScript
+*西藏生死书
+*追风筝的人 = The kite runner
+*Python编程入门 = Python : Visual quickstart guide
+*Hadoop基础教程 = Hadoop beginner's guide
+*深入理解大数据 : 大数据处理与编程实践 = Understanding big data : big data processing and programming

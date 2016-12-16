@@ -1,0 +1,13 @@
+#数学模型
+#现代数学建模方法
+#计算机组成原理教程
+*数学建模 = A first course in mathematical modeling
+*操作系统教程
+*计算机组成原理与系统结构
+*操作系统 : 原理、设计与应用
+*数学建模方法与分析 = Mathematical modeling
+*MATLAB在数学建模中的应用
+*数学建模算法与应用
+*信号分析与处理
+*复变函数典型题
+*2001 : 太空漫游 = 2001 : a space odyssey

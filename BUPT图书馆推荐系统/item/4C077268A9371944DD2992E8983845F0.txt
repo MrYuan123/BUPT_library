@@ -1,0 +1,14 @@
+#数字图像处理的MATLAB实现
+#3D 显示技术与器件
+#MathCAD学步随笔
+#Mathcad Prime 2.0基础与应用技巧
+*3D 视频通信 = 3D videocommunication
+*计算机图形学 : 基于MFC三维图形开发
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

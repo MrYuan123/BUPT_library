@@ -1,0 +1,12 @@
+#机器学习基础教程 = A First course in machine learning
+#模式识别导论
+*计算机图形学 = Fundamentals of computer graphics
+*机器学习实战 = Machine learning in action
+*机器学习与R语言 = Machine learning with R
+*泛函分析 = Analyse fonctionnelle : 理论和应用theorie et applications
+*线性算子理论
+*MapReduce设计模式
+*Spark快速数据处理 = Fast data processing with Spark
+*数据挖掘基础教程 = Insight into data mining : theory and practice
+*数据挖掘 = Data mining : 实用机器学习技术practical machine learning tools and techniques
+*Python数据分析基础教程 : NumPy学习指南 = NumPy beginner's guide

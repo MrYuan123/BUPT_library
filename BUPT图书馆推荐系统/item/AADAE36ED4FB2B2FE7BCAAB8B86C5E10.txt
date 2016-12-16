@@ -1,0 +1,13 @@
+#大数据搜索与日志挖掘及可视化方案 = ELK stack : Elasticsearch、Logstash、Kibana
+#解密搜索引擎技术实战 : Lucene & Java精华版
+#ElasticSearch可扩展的开源弹性搜索解决方案 = ElasticSearch server create a fast, scalable, and flexible search solution with the energing open source search server, ElasticSearch
+*开发自己的搜索引擎 : Lucene + Heritrix
+*从Paxos到Zookeeper分布式一致性原理与实践
+*Java程序员面试宝典
+*信息检索导论 = Introduction to information retrieval
+*零基础学Java : 13小时多媒体教学视频
+*Linux shell脚本攻略
+*MySQL 性能调优与架构设计
+*大型网站系统与Java中间件实践
+*MySQL技术内幕 : SQL编程 = Inside MySQL : SQL programming
+*Nginx模块开发指南 : 使用C++11和Boost程序库

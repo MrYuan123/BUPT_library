@@ -1,0 +1,13 @@
+#MATLAB GUI设计学习手记
+#当行善统治商业 = Screw business as usual
+#日本蜡烛图技术新解 = Beyond candlesticks : new Japanese charting techniques revealed
+*数学建模入门与提高
+*MATLAB数学实验与建模
+*无线通信的 MATLAB 和 FPGA 实现
+*无线通信系统的 DSP 实现
+*3GPP LTE物理层和空中接口技术
+*下一代宽带无线通信系统 : OFDM与WiMAX
+*3GPP 长期演进 (LTE) 系统架构与技术规范 = 3GPP long term evolution : architecture and specification
+*2007—2016十年考研英语真题详解
+*8 倍速记大学英语六级考试核心词汇
+*复杂网络传输及资源限制下负载能力提升问题研究 = On transmission dynamics of complex networks and enhancing of load capacity by limited resource

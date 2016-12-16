@@ -1,0 +1,19 @@
+#中国触动 : 百国视野下的观察与思考
+#爱, 永纯
+#中国触动全球 = China touches the world : 邓小平资深翻译走访百国后的思考
+#数学建模竞赛优秀论文评析
+#中国震撼 : 一个“文明型国家”的崛起
+#浪潮之巅 = On top of tides . 下册
+#算法艺术与信息学竞赛
+#数学建模与数学实验
+#利剑
+*浪潮之巅 = On top of tides . 上册
+*数学建模
+*数学建模方法与分析 = Mathematical modeling
+*还本归宗 : 六爻预测指南
+*算法设计与分析
+*MATLAB 在数学建模中的应用
+*数学建模及其实验
+*数学建模原理与案例
+*高性能FPGA系统 : 时序设计与分析
+*数学建模 = A first course in mathematical modeling

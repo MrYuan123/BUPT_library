@@ -1,0 +1,13 @@
+#英国文学经典选读 = Classical readings of English literature . 下
+#网页动画 : Flash最新培训教程
+#计算机网络组建与应用标准教程
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

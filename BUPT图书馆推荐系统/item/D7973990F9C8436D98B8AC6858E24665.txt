@@ -1,0 +1,30 @@
+#多水平模型及其在经济领域中的应用
+#现代统计研究基础
+#高等数理统计学
+#概率论与数理统计教程
+#有约束条件的统计推断及其应用
+#统计模拟 = Simulation
+#现代非参数统计
+#应用时间序列分析 : R软件陪同 = Applied time series analysis with R
+#实验设计与分析 = Design and analysis of experiments
+#广义估计方程估计方法
+#统计检验的理论与方法
+#广义线性模型的拟似然法
+#数理统计引论
+#贝叶斯分析 = Bayesian analysis
+#科研论文写作新解 : 以主编和审稿人的视角
+#线性和广义线性混合模型及其统计诊断
+#分类数据分析 = Categorical data analysis
+#软件测试基础教程 = Foundations of software testing
+#统计诊断 = Statistical diagnostics
+#统计模拟及其 R 实现
+*程序员面试逻辑题解析 = Puzzles for programmers and pros
+*软件测试 = Software testing
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

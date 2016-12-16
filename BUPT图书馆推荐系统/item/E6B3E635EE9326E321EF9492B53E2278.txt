@@ -1,0 +1,11 @@
+#数据结构 : 用面向对象方法与 C++ 语言描述
+*矩阵论札记
+*快速数论变换
+*图论算法理论、实现及应用
+*Java程序设计教程 = Building Java programs : a back to basics approach
+*数据结构与算法分析新视角
+*数据结构及应用算法教程
+*数据结构 : C语言描述 = Data structures in C
+*C++标准库 = The C++ standard library : a tutorial and reference
+*数据结构与算法分析 = Data structures and algorithm analysis in C++ : C++ 描述
+*挑战程序设计竞赛

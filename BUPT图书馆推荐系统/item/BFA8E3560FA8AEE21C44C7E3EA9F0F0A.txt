@@ -1,0 +1,13 @@
+#教与写的记忆 : 信号与系统评注
+#离散时间信号处理 = Discrete-time signal processing
+#数字信号处理教程
+*信号与系统 (第三版) 习题解析
+*数字信号处理
+*数字信号处理教程习题分析与解答
+*信号与系统
+*矩阵计算 = Matrix computations
+*信号检测与估计理论
+*最优阵列处理技术 = Optimum array processing part IV of detection, estimation, and modulation theory
+*空间谱估计理论与算法
+*Linux C程序设计王者归来
+*宽带阵列信号波达方向估计理论与方法 = Wideband array signal direction of arrive estimation theory and methods

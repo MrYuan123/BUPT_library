@@ -1,0 +1,15 @@
+#穷查理宝典 : 查理·芒格的智慧箴言录 = Poor Charlie's almanack : the wit and wisdom of Charles T. Munger
+#劝导 = Persuasion
+#精通D3.js : 交互式数据可视化高级编程
+#像艺术家一样思考 = The new drawing on the right side of the brain
+#Python 学习手册
+*数据可视化
+*数据之美 : 一本书学会可视化设计 = Pata points : visualization that means something
+*数据可视化之美
+*用AngularJS开发下一代Web应用 = AngularJS
+*Div+CSS 3+jQuery网页布局案例精粹
+*扩展jQuery = Extending jQuery
+*Node.js项目实践 : 构建可扩展的Web应用 = Practical node.js : building real-world scalable web apps
+*推荐系统 = Recommender systems : an introduction
+*数据挖掘原理、算法与应用
+*汇编语言

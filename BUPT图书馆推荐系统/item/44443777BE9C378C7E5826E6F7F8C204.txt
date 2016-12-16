@@ -1,0 +1,16 @@
+#数据挖掘导论 : 完整版 = Introduction to data mining
+#数据挖掘十大算法
+#Java程序员面试笔试宝典
+#Hadoop基础教程 = Hadoop beginner's guide
+#自然语言处理基本理论和方法
+#中文信息抽取原理及应用
+*机器学习实战 = Machine learning in action
+*实战Hadoop : 开启通向云计算的捷径
+*数据挖掘 : 概念、模型、方法和算法
+*数据结构与问题求解 : Java语言版
+*Spark技术内幕 : 深入解析Spark内核架构设计与实现原理 = Spark internals : design and implement principle of Spark core
+*Spark快速数据处理 = Fast data processing with Spark
+*疯狂Android讲义
+*说孝庄
+*QTP 自动化测试实践
+*Python数据分析基础教程 : NumPy学习指南 = NumPy beginner's guide

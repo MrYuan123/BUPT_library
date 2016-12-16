@@ -1,0 +1,17 @@
+#MIMO 技术原理及应用
+#无线通信 = Wireless communications
+#基于 Quartus Ⅱ 的数字系统 Verilog HDL 设计实例详解
+#LTE轻松进阶
+#移动通信中的空时信号处理 = Space-time signal processing for mobile communications
+#MIMO 多天线无线通信系统
+#无线通信的 MATLAB 和 FPGA 实现
+*无线通信原理与应用 = Wireless communications principles and practice
+*MIMO系统与空时编码 : 分集的理论与实践 = MIMO system and STC : the theory and practice of diversity
+*现代无线通信原理
+*MIMO 无线通信原理及应用
+*宽带移动通信系统的网络自组织 (SON) 技术
+*Xilinx FPGA开发实用教程 = Xilinx FPGA : development and application
+*移动通信原理
+*现代通信网络
+*移动通信中的先进信号处理技术
+*现代交换技术

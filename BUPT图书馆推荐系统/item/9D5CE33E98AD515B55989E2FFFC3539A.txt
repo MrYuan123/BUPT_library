@@ -1,0 +1,18 @@
+#光纤通信系统
+#光的相干与偏振理论导论 = Introduction to the theory of coherence and polarization of light
+#通信原理及系统实验 = Experiments on communication principles and system
+#激光原理
+#宽频带激光的传输特性和应用 = Propagation properties and applications of broadband lasers
+#通信原理实验与课程设计
+#现代通信原理实验教程
+#光纤通信技术 = Optical fiber communications technology
+*光纤通信 = Optical fiber communications
+*光纤通信
+*光纤通信技术
+*光纤光学前沿
+*光纤通信 = Fiber optic communications
+*光纤光栅 : 原理、技术与传感应用
+*光子学 = Photonics : 现代通信光电子学optical electronics in modern communications
+*光纤技术及应用
+*光纤光学与光纤应用技术
+*光纤通信入门130问

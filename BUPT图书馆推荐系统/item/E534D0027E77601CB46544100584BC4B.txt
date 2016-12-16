@@ -1,0 +1,12 @@
+#数字图像处理
+#编译原理 = Compilers : principles, techniques, and tools
+*别输在不懂博弈上 : 人生一定要懂的博弈法则
+*疯狂Java讲义精粹
+*MATLAB基础及在信号与系统中的应用
+*图像处理与识别
+*PHP和MySQL Web开发从新手到高手
+*Android程序设计入门、应用到精通
+*数字通信原理
+*精通PHP+MySQL动态网站开发
+*操作系统概念 = Operating system concepts
+*标准C程序设计

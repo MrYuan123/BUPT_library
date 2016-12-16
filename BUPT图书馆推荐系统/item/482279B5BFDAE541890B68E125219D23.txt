@@ -1,0 +1,11 @@
+#C++ 游戏开发 = Creating games in C++ : a step-by-step guide
+*英语习语用法精粹 = Concise dictionary of English idioms
+*科学怪人 = Frankenstein
+*Python编程入门经典
+*挑战 TOEFL iBT 作文满分 = It's your path to a higher TOEFL iBT writing score!
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

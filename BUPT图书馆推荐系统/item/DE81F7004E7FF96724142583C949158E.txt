@@ -1,0 +1,12 @@
+#名著的力量 = Literary impact of masterpieces : 向文学大师学英语
+#信号与系统
+*数字信号处理
+*信号与系统学习指导及题解
+*费恩曼物理学讲义 . 第2卷 = The Feynman lectures on physics . Volume Ⅱ
+*学Arduino玩转Android应用 = Beginning Android ADK with Arduino
+*挪威的森林
+*MATLAB信号处理超级学习手册
+*信号与系统教与学精要
+*现代控制系统
+*微机原理与接口技术
+*模拟电子技术基础

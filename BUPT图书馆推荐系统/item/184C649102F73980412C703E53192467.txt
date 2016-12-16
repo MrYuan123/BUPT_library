@@ -1,0 +1,13 @@
+#MATLAB GUI设计入门与实战
+#Python语言程序设计
+#大学算法教程
+*Python数据分析基础教程 : NumPy学习指南 = NumPy beginner's guide
+*HTML 5从入门到精通
+*OpenCV 教程 , 基础篇
+*数据挖掘原理、算法与应用
+*Java Web开发入门很简单
+*大数据分析与数据挖掘
+*Python入门经典
+*神经网络盲均衡理论、算法与应用
+*神经网络设计方法与实例分析
+*MATLAB神经网络编程

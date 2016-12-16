@@ -1,0 +1,20 @@
+#大型分布式网站架构设计与实践
+#美国总统就职演说赏析 = Appreciating the inaugural addresses of the U.S. presidents : 1789-20051789-2005
+#世界500强名企模板简历 : 迈进华尔街的简历
+#大规模分布式存储系统原理解析与架构实战
+#大型网站系统与Java中间件实践
+#周鸿祎自述 : 我的互联网方法论
+#会计
+#HBase企业应用开发实战 = Enterprise application development with HBase
+#博弈论 = The game theory
+#美国历届总统就职演说 = The inaugural speeches of the U. S. presidents
+*Redis入门指南
+*密码编码学与网络安全 : 原理与实践 = Cryptography and network security : principles and practice
+*从算法到程序
+*应用概率统计
+*现代模式识别 = Modern pattern recognition
+*分布式 Java 应用 : 基础与实践
+*从Paxos到Zookeeper分布式一致性原理与实践
+*分布式系统及云计算概论
+*纠删码存储集群系统设计与优化 = Design and optimization of erasure-coded clustered storage systems
+*自制编程语言

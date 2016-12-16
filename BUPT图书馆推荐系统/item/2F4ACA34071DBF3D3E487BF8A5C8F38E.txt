@@ -1,0 +1,12 @@
+#大话数据结构 = Play with data structure
+#JavaScript设计模式与开发实践
+*编程之美 : 微软技术面试心得
+*大话数据挖掘
+*Head First Python中文版
+*雨季不再来
+*梦里花落知多少
+*Excel 2013从新手到高手
+*剑指Offer : 名企面试官精讲典型编程题
+*Spring 3.0就这么简单
+*数据挖掘与R语言 = Data mining with R : learning with case studies
+*PHP项目开发实战密码

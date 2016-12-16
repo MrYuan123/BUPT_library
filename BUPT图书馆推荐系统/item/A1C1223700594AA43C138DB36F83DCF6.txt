@@ -1,0 +1,14 @@
+#数据分析方法及SPSS应用
+#大数据分析 : 用互联网思维创造惊人价值 = Win with advanced business analytics : creating business value from your data
+#数据分析方法
+#数据分析方法五种
+*程序员突击 , Tomcat原理与Java Web系统开发
+*数据挖掘导论 : 完整版 = Introduction to data mining
+*数据之美
+*实战Hadoop : 开启通向云计算的捷径
+*啤酒与尿布 : 神奇的购物篮分析
+*应用多元统计分析 = Applied multivariate statistical analysis
+*深入浅出数据分析 = Head first data analysis
+*中国周边安全形势评估 . 2016 = China's regional security environment review . 2016 , “一带一路”：战略对接与安全风险
+*实用数据分析 = Practical data analysis
+*Hadoop硬实战 = Hadoop in practice

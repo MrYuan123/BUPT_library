@@ -1,0 +1,16 @@
+#计算机操作系统
+#自立 = Self-reliance
+#计算机网络教程 = A textbook no computer networks
+#计算机组成原理 : 第五版·立体化教材
+#数据结构 = Data structure : C语言版
+#FORTRAN 95 程序设计与数据结构基础教程
+*现代通信网监控与管理
+*操作系统概念 = Operating system concepts
+*数据结构 : C语言描述 = Data structures in C
+*计算机网络
+*Linux入门与实战经典
+*计算机操作系统教程
+*Hadoop核心技术 = Core hadoop
+*计算机网络教程
+*2012年计算机学科专业基础考研辅导
+*PHP入门很简单

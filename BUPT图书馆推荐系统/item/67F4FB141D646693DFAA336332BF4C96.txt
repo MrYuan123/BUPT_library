@@ -1,0 +1,17 @@
+#数量金融 . 第2卷 = Paul Wilmott on quantitative finance
+#数量金融 . 第1卷 = Paul Wilmott on quantitative finance
+#太傻十日谈 = Ten-day conversation by Taisha
+#非寿险精算数学
+#精算学 : 评估与研究风险的科学
+#从零开始玩转信用卡
+#数量金融 . 第3卷 = Paul wilmott on quantitative finance
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

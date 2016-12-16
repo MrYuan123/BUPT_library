@@ -1,0 +1,12 @@
+#高等数学 . 下册
+#离散数学常见题型解析及模拟题
+*高等数学 . 上册
+*线性代数
+*2015年考研数学新编考试参考书
+*托福考试官方指南 = The official guide to the TOEFL test
+*复变函数
+*数学复习全书 , 数学一
+*Verilog HDL高级数字设计 = Advanced digital design with the verilog HDL
+*高等数学 , 理工类 . 上册
+*概率统计
+*大数据分析的道与术

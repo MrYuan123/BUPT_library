@@ -1,0 +1,12 @@
+#Java 语言程序设计 = Introduction to Java programming , 进阶篇
+#Java 语言程序设计 = Introduction to Java programming , 基础篇comprehensive version
+*血字的研究 = A Study in scarlet
+*剧院魅影 = The phantom of the opera
+*3GPP 长期演进 (LTE) 技术原理与系统设计 = 3GPP long term evolution : principle and system design
+*实施工业4.0 : 智能工厂的生产·自动化·物流及其关键技术、应用迁移和实战案例
+*模式识别 = Pattern recognition
+*JAVA 2 核心技术 = Core Java 2 . 卷Ⅰvolume Ⅰ , 基础知识fundamentals
+*Java 从入门到精通
+*数字信号处理基础 = Fundamentals of digital signal processing
+*月亮和六便士 = The moon and sixpence
+*数字与模拟通信系统 = Digital and analog communication systems

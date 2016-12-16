@@ -1,0 +1,12 @@
+#微信公众平台JSSDK开发实战 : 公众号与HTML 5混合模式揭秘
+#微信公众平台开发基础与实战
+*微信公众平台开发实战与应用案例
+*PHP 和 MySQL Web 开发 = PHP and MySQL Web development
+*PHP+MySQL 开发实战
+*下一代宽带无线通信 OFDM 与 MIMO 技术
+*微信公众平台应用开发 : 方法、技巧与案例 = Wechat public platform application developing : method, technique and example
+*新一代 PHP + MySQL + Dreamweaver 网站建设典型案例
+*博弈论基础 = A Primer in Game Theory
+*微信公众平台应用开发实战 = Wechat public platform application developing
+*哈佛博弈论 : 日常生活中的智慧策略
+*Head First PHP & MySQL : 中文版

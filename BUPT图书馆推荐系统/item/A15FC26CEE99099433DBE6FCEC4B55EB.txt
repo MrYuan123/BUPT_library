@@ -1,0 +1,12 @@
+#马克思主义哲学原理
+#Linux Shell脚本攻略 = Linux Shell Scripting Cookbook
+*数学之美 = Beauty of mathematics
+*Unix Shell 编程
+*Ubuntu Linux 应用技术教程
+*Linux 快速入门 : 系统安装、管理、维护及服务器配置
+*OMNeT++与网络仿真
+*Java 面向对象程序设计
+*Web 搜索 = Web search
+*P2P 网络技术原理与系统开发案例 = Technology principle and system development
+*Java经典编程300例
+*Linux操作系统 = Linux operating system

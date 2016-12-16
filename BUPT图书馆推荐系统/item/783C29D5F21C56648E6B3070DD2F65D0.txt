@@ -1,0 +1,15 @@
+#女性不可不知的心理技巧
+#情商主宰人生 = Emotional quotient dominate the life
+#自控力 = Self-contorl : 如何掌控自己的情绪心理学
+#性别的战争 : 男女性格差异对比书 = Gender wars : personality differences between men and women
+#博感情法则 : 建立你的感情资产
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

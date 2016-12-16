@@ -1,0 +1,20 @@
+#大设计 : BBC写给大众的设计史
+#古埃及美术 : 尼罗河的夕阳
+#人格心理学 = Personality psychology
+#概率论与数理统计
+#新日语能力考试全程训练 , N3语法攻略篇
+#夏目漱石作品选
+#可用性工程 = Usability engineering
+#如何管理设计流程 , 设计执行力 = Implementing design
+#渡 : 书的信仰 , 思想卷
+#人机交互 : 以用户为中心的设计和评估
+*计量经济学 = Econometrics
+*设计艺术史
+*完美网页的视觉设计法则 = The principles of beautiful web design
+*Java程序设计基础教程
+*平面设计基础教程 = The fundamentals of graphic design
+*超越 LOGO 设计 : 国际顶级平面设计师的成功法则 = Logo design love : a guide to creating iconic brand identities
+*真实的设计 : 荷兰现代主义与视觉识别 = Droom van helderheid : Huisstijlen, ontwerpbureaus en modernisme in Nederland : 1960-1975
+*创意 : 工业设计产品手绘实录
+*设计中的设计 = Designing design : 全本
+*设计的觉醒 = Awakening of design

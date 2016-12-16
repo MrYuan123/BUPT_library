@@ -1,0 +1,16 @@
+#SQL Cookbook 中文版
+#UML 和模式应用 = Applying UML and patterns : an introduction to object-oriented analysis and design and iterative development
+#深入 Java 虚拟机
+#Spring实战 = Spring in action
+#Java Web高级编程 : 涵盖WebSockets、Spring Framework、JPA Hibernate和spring security
+#LaTeX 2e 完全学习手册
+*Effective STL中文版 : 50条有效使用STL的经验 = Effective STL : 50 specific ways to improve the use of the standard template library
+*Java EE开发的颠覆者 : Spring Boot实战
+*科学也爱恶作剧 : 来自哈佛的搞笑诺贝尔奖
+*赖世雄经典语法
+*大数据 : 战略·技术·实践
+*大话设计模式
+*MySQL 5 权威指南 = The definitive guide to MySQL 5
+*图像识别与项目实践 : VC++、MATLAB技术实现
+*JUnit实战 = JUnit in action
+*C语言程序设计

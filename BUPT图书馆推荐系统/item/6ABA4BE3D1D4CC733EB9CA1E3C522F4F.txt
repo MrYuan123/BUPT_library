@@ -1,0 +1,12 @@
+#MongoDB权威指南 = MongoDB : the deinitive guide
+#Python 开发技术详解
+*Node.js开发指南
+*深入浅出Node.js
+*JavaScript语言精粹 = JavaScript : the good parts
+*CSS 权威指南
+*Java Web 开发实战经典基础篇 : JSP、Servlet、Struts、Ajax
+*Python编程实践 = Practical programming : an introduction to computer science using python
+*Spring实战 = Spring in action
+*21天学通Python
+*商务经济统计学
+*数据库系统原理及MySQL应用教程

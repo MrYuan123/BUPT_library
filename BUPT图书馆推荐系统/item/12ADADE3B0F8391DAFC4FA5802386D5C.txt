@@ -1,0 +1,13 @@
+#统计推断
+#波达方向估计
+#数值逼近
+*Android嵌入式系统程序开发 : 基于Cortex-A8
+*多用户、多小区 MIMO 通信技术 = Multi-user multi-cell MIMO communication technology
+*3GPP 长期演进 (LTE) 系统架构与技术规范 = 3GPP long term evolution : architecture and specification
+*现代信号处理 = Modern signal processing
+*3GPP 长期演进 (LTE) 技术原理与系统设计 = 3GPP long term evolution : principle and system design
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

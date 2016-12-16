@@ -1,0 +1,21 @@
+#第七天 = The seventh day
+#人工智能的未来
+#R语言 : 迈向大数据之路
+#梦断代码 = Dreaming in code
+#午门囧事 . Ⅰ , 帝灵篇
+#布谷鸟的蛋是谁的
+#历史是个什么玩意儿 . 上 , 袁腾飞说中国史
+#午门囧事 . Ⅲ : 大结局
+#午门囧事 . Ⅱ
+#大问题 = The big questions : 简明哲学导论a short introduction to philosophy
+#乖, 摸摸头
+*在路上 : 跨越时代的影像记忆
+*巴赫的烟斗 = Bach's pipe
+*平生欢
+*数据挖掘 : 实用案例分析 = Data mining : practical case analysis
+*零基础学算法
+*正则表达式必知必会 = Sams teach yourself regular expressions in 10 minutes
+*机器学习实战 = Machine learning in action
+*零基础学数据结构 : 24小时多媒体教学视频
+*计算机网络
+*线性代数

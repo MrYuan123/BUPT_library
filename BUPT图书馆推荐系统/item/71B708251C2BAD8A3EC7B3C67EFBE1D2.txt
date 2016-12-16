@@ -1,0 +1,12 @@
+#模糊数学方法及其应用
+#动态贝叶斯网络推理学习理论及应用
+*青梅煮酒论领导
+*舌尖上的中国 . 第2季 = A bite of China . II
+*领导力 = Leadership : 研究·实践·技巧
+*遗传算法 : 理论、应用与软件实现
+*精通 MATLAB 神经网络
+*精通MATLAB智能算法 = Proficient in MATLAB intelligent algorithm
+*MATLAB神经网络超级学习手册
+*模糊数学及其应用
+*模糊数学基础及应用
+*MATLAB神经网络43个案例分析

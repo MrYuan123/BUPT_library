@@ -1,0 +1,11 @@
+#C++ 面向对象实用教程
+*Visual C++ 程序开发参考手册 = Visual C++ : the Complete reference
+*C++ 大学自学教程 = Wiley's teach yourself C++
+*通信原理 (第7版) 学习辅导与考研指导
+*C++ 程序设计实验指导与课程设计
+*C++ 程序设计综合实践
+*精通 MATLAB 6
+*大话无线通信
+*计算机网络
+*线性代数
+*高等数学 . 上册

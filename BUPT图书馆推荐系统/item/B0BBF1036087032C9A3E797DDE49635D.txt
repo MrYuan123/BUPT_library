@@ -1,0 +1,20 @@
+#Lucene 搜索引擎开发权威经典
+#由浅入深学C++ : 基础、进阶与必做300题
+#自己动手写搜索引擎
+#MySQL入门经典
+#Lucene + nutch 搜索引擎开发
+#搜索引擎零距离 : 基于Ruby+Java搜索引擎原理与实现
+#Spring入门经典
+#Redis入门指南
+#自己动手写网络爬虫
+#Python编程入门经典
+*妙趣横生的算法 : C++语言实现
+*数据挖掘 : R语言实战
+*精通 SQL : 结构化查询语言详解
+*深入云计算 : Hadoop应用开发实战详解
+*Java 面向对象编程
+*HTML5程序开发范例宝典
+*数据结构教程 (Java 语言描述)
+*Computer vision =计算机视觉 /
+*Web 服务 : 原理与技术 = Web Services : principles and technology
+*MapReduce 2.0源码分析与编程实战

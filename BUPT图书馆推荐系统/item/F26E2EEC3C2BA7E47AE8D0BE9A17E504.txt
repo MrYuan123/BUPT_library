@@ -1,0 +1,14 @@
+#数字卫星通信
+#现代无线通信原理
+#卫星通信系统
+#卫星通信系统工程 = Satellite communications systems engineering atmospheric effects, satellite link design and system performance
+*无线通信 = Wireless communications
+*卫星通信导论
+*卫星轨道 : 模型、方法和应用 = Satellite orbits : models, methods and applications
+*航空与航天 : 双语版 = Air and space
+*现代小卫星及其应用
+*卫星通信系统工程设计与应用
+*天线理论与技术 = Antenna theory and techniques
+*卫星网络中的资源管理 : 优化与跨层设计 = Resource management in satellite networks optimization and cross-layer design
+*卫星通信 = Satellite communications
+*卫星通信网路由技术及其模拟 = Satellite communication network routing technology and simulation

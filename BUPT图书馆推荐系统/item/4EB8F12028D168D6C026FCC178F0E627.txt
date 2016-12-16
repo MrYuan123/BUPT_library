@@ -1,0 +1,11 @@
+#Linux命令、编辑器与Shell编程
+*Spark大数据实例开发教程
+*Spark原理、机制及应用
+*深入云计算 : Hadoop源代码分析
+*电路板设计
+*J2EE 企业级应用测试实践 = J2EE enterprise software test
+*Web性能测试实战详解
+*计算机网络 : 用自顶向下方法描述因特网特色
+*天线测量实用手册 = Antenna measurement engineering handbook
+*Altium Designer 10入门与PCB设计实例
+*增强学习与近似动态规划

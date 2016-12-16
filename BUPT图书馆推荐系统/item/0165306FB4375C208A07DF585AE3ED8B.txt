@@ -1,0 +1,13 @@
+#数据挖掘导论
+#SPSS统计分析与数据挖掘
+#Python标准库 = The Python standard library by example
+*RESTful Web Services 中文版 = RESTful web services
+*计算机硬件及组成原理 = Hardware and computer organization : the software perspective
+*机器学习及其应用2011
+*Eclipse 从入门到精通
+*NumPy攻略 = NumPy cookbook : Python科学计算与数据分析
+*机器学习方法
+*Python Cookbook (第3版) 中文版
+*货币的力量 = The Power of currency
+*SPSS 统计分析从入门到精通
+*SPSS 19.0统计分析综合案例详解

@@ -1,0 +1,13 @@
+#写给大家看的 C 语言书
+#The art of public speaking =演讲的艺术 /演讲的艺术
+#C 语言程序设计一体化案例教程
+*Python基础教程 = Beginning python : from novice to professional
+*版本控制之道 : 使用Git = Pragmatic version control using Git
+*隐私权的比较研究 : 法国、德国、美国及其他国家的隐私权
+*侵权责任法
+*担保物权法比较研究
+*谈美·谈修养 = Talk about beauty and self-cultivation
+*红拂夜奔 : 彩绘插图本
+*深入理解计算机网络 = Understanding computer networks
+*计算机网络
+*结构方程模型 : AMOS的操作与应用

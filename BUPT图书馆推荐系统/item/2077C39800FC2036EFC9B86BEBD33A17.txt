@@ -1,0 +1,13 @@
+#新托福高分词汇 = TOEFL guide excellence vocabulary
+#TOEFL托福主题词汇与阅读
+#青楼纪之人面桃花
+*概率、统计与随机过程 = Probability, statistics, and random processes for engineers
+*每天30分钟, 像老外一样说英语
+*快时变信道下的无线通信 = Wireless communications over rapidly time-varying channels
+*MySQL教程
+*数学建模入门与提高
+*大洪水 : 帝舜时代
+*伊索寓言日语诵读
+*JLPT新题型读解教程 , N3
+*歪歪的漫画书 , 疯狂的6级词汇 = Waiwai's cartoon , Crazy CET-6 vocabulary
+*80C51 单片机原理与应用

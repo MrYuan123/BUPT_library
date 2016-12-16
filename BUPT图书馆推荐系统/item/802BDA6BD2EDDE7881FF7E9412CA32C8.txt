@@ -1,0 +1,13 @@
+#CUDA专家手册 : GPU编程权威指南 = The CUDA handbook : a comprehensive guide to GPU programming
+#高性能CUDA应用设计与开发 = CUDA application design and development : 方法与最佳实践
+#GPU 高性能编程 CUDA 实战 = CUDA by example and introduction to general-purpose GPU programming
+*GPGPU编程技术 : 从GLSL、CUDA到OpenCL
+*GPU 高性能运算之 CUDA
+*语音处理及人机交互技术
+*统计自然语言处理
+*高维信息几何与语音分析
+*图像处理、分析与机器视觉 = Image processing, analysis, and machine vision
+*图像处理与计算机视觉算法及应用
+*随机过程及其应用 = Random processes and their applications
+*PaaS实现与运维管理 : 基于Mesos +Docker+ELK的实战指南
+*MATLAB概率与数理统计分析

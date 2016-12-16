@@ -1,0 +1,12 @@
+#近世代数及其应用
+#现代信号处理 = Modern signal processing
+*现代密码学教程
+*近世代数基础
+*近世代数
+*彼得·林奇的成功投资 : 珍藏版 = One up on wall street : how to use what you already know to make money in the market
+*富爸爸投资指南 = Rich Dad's guide to investing
+*Ubuntu Linux 指南 = A practical guide to Ubuntu Linux
+*机器学习实战 = Machine learning in action
+*形式语言与自动机
+*推荐系统实践
+*Java 编程思想 = Thinking in Java

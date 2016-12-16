@@ -1,0 +1,17 @@
+#UNIX环境高级编程
+#Python自然语言处理
+#并行程序设计导论 = An Introduction to parallel programming
+#Unix/Linux 编程实践教程
+#UNIX 网络编程 . 卷1 , 套接字联网API = UNIX network programming . volume 1 , The Sockets networking API
+#Hadoop 权威指南 : 中文版
+#应用密码学 : 协议、算法与C源程序 = Applied cryptography : protocols, algorithms, and source code in C
+*Python 3 程序开发指南 = Programming in Python 3
+*深度探索C++对象模型 = Inside the C++ object model
+*Python数据可视化编程实战
+*UNIX 环境高级编程 = Advanced programming in the UNIX environment
+*了不起的Node.js : 将JavaScript进行到底 = Smashing Node. js : JavaScript everywhere
+*Hadoop基础教程 = Hadoop beginner's guide
+*深入理解大数据 : 大数据处理与编程实践 = Understanding big data : big data processing and programming
+*计算机图形学 = Fundamentals of computer graphics
+*给秘密加把锁 : 每个人都应学点密码学
+*基辛格 : 美国的全球战略 = Does America need a foreign policy

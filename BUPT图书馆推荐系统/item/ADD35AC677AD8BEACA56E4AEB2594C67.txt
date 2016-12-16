@@ -1,0 +1,23 @@
+#非线性时间序列分析及其应用
+#神经网络结构优化方法及应用
+#混沌波形的相关性 : 相空间轨迹与混沌序列自相关特性
+#应用时间序列分析
+#混沌时间序列分析及其应用
+#网站性能监测与优化 : 用户行为分析/网站性能分析/社区管理/竞争对手分析
+#神经网络
+#模糊集理论及其应用
+#基于微粒群的神经网络预测控制理论及应用
+#混沌时间序列预测理论与方法 = Prediction theory and method of chaotic time series
+#时间序列预测实践教程
+#模糊理论基础
+#模糊数学理论与方法
+*时间序列分析 . 上册 = Time series analysis
+*时间序列分析 . 下册 = Time series analysis
+*颠覆与重整 : 手机人的群落与游牧
+*移动互联网技术架构及其发展 = Mobile internet technical architecture
+*移动互联网环境下的核心网剖析及演进 = Analysis of mobile core network and evolution
+*模糊数学理论及其应用
+*模糊数学及其应用
+*剩余格与模糊集
+*序信息系统与粗糙集
+*模糊粗糙集理论与方法

@@ -1,0 +1,12 @@
+#21 天学通 Linux C 编程
+#Linux从新手到高手
+*jQuery Mobile移动网站开发
+*MySQL数据库应用从入门到精通
+*HTML5 & CSS3 & Javascript App程序开发实战
+*HTML5+CSS3精致范例辞典 = Deluxe web designers handbook
+*PHP Web开发学习实录
+*jQuery 即学即用
+*21天学通JavaScript
+*HTML 5从入门到精通
+*计算机网络
+*线性代数

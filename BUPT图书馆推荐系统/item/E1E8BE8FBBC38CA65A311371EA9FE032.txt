@@ -1,0 +1,16 @@
+#大数据 : 从海量到精准
+#MySQL 必知必会 = MySQL crash course
+#软件测试从入门到精通
+#NoSQL数据库入门
+#ZigBee技术开发 : CC2530单片机原理及应用
+#MySQL高效编程
+*玩转全面预算魔方 : 实例+图解版·全彩印刷
+*互联网求职全攻略
+*SPSS Modeler数据挖掘方法及应用
+*亲爱的提奥 = Dear Theo : 凡高自传
+*Excel 数据分析之道 : 让你的数据更有说服力
+*来吧!带你玩转Excel VBA
+*近世代数讲义
+*Spark核心技术与高级应用 = Spark core technology and advanced applications
+*写给大忙人看的C++ = C++ for the impatient
+*JavaScript 基础教程

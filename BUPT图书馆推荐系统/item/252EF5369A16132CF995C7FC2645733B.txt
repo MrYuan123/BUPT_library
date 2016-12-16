@@ -1,0 +1,11 @@
+#Redis入门指南
+*MapReduce 2.0源码分析与编程实战
+*Nginx高性能Web服务器详解
+*Netty权威指南
+*Java多线程编程实战指南 , 设计模式篇
+*数据挖掘原理与 SPSS Clementine 应用宝典
+*数据挖掘 : 实用案例分析 = Data mining : practical case analysis
+*实战大数据
+*编写高质量代码 = Writing solid web front-end code : Web前端开发修炼之道
+*Head First 设计模式
+*大型分布式网站架构设计与实践

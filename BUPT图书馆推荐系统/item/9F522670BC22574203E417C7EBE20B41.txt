@@ -1,0 +1,11 @@
+#微信公众平台应用开发 : 方法、技巧与案例 = Wechat public platform application developing : method, technique and example
+*兄弟
+*不能承受的生命之轻 = L'insoutenable legerete de l'etre
+*信息论基础 = Elements of information theory
+*Python 基础教程 = Beginning Python from novice to professional
+*微信公众平台开发实战与应用案例
+*微信公众平台开发基础与实战
+*下一代宽带无线通信 OFDM 与 MIMO 技术
+*Python 学习手册
+*快学Scala = Scala for the impatient
+*Python Cookbook (第3版) 中文版

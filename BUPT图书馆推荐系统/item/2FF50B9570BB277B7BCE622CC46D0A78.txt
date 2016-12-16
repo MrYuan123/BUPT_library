@@ -1,0 +1,19 @@
+#无线通信基础
+#高等微波网络
+#电磁兼容测试技术
+#微波网络及其应用
+#MIMO 技术原理及应用
+#微分方程及边值问题 = Differential equations and boundary value problems : 计算与建模computing and modeling
+#电磁场与电磁兼容
+#数学物理方法习题全解
+#射频电路设计原理
+*MATLAB与科学计算教程
+*大学数学复习指南 : 理工类、经济类
+*MATLAB R2014a从入门到精通
+*下一代无线局域网 : 802.11n的吞吐率、强健性和可靠性 = Next generation wireless LANs : throughput, robustness, and reliability in 802.11n
+*无线城市 : 电信级Wi-Fi网络建设与运营
+*设计创新型物理实验导论
+*大学物理实验
+*理论力学学习指导与题解
+*理论力学基本训练 : 同步作业及综合练习
+*理论力学 (第六版) 同步辅导及习题全解

@@ -1,0 +1,14 @@
+#Shell 脚本学习指南
+#jQuery网页开发实例精解
+#Linux Shell命令行及脚本编程实例详解
+#Java 8基础应用与开发
+*C和C++程序员面试秘笈
+*Head First jQuery : 中文版
+*JavaScript学习指南
+*HTML5 Canvas开发详解
+*由浅入深学SQL Server : 基础、进阶与必做300题
+*Java程序开发范例宝典
+*ns-3网络模拟器基础及应用
+*相守一生的秘密 : 幸福婚姻枕边书
+*图论导引 = Introduction to graph theory
+*Web 搜索 = Web search

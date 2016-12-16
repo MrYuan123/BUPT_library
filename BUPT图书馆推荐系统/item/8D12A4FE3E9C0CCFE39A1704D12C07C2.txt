@@ -1,0 +1,12 @@
+#Xilinx系列FPGA芯片IP核详解
+#数字通信同步技术的MATLAB与FPGA实现 : Altera/Verilog版
+*TCP/IP 网络与协议
+*Xilinx FPGA权威设计指南 : Vivado 2014集成开发环境
+*PCI 局部总线及其应用
+*ARM9嵌入式系统设计直通车
+*白先勇自选集
+*深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM : advanced features and best practices
+*Java并发编程实战 = Java concurrency in practice
+*打赢职场遭遇战
+*中外经典导读与欣赏 = A guide to Chinese and Western classics : 代表人类知识与文化的名著和名作精选
+*基于FPGA的现代数字系统设计

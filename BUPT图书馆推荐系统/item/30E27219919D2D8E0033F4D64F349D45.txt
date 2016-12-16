@@ -1,0 +1,14 @@
+#数字通信 = Digital Communications
+#数字通信理论与系统
+#运筹学学习指导及习题集
+#运筹学解题指导
+*数字与模拟通信系统 = Digital and analog communication systems
+*运筹学 = Operations research
+*运筹学教程例题分析与题解
+*大学英语新六级阅读周计划
+*TCP/IP 协议族
+*Java从入门到精通
+*JavaScript编程精解 = Eloquent JavaScript : a modern introduction to programming
+*Digital and analog communication systems =数字与模拟通信系统 /数字与模拟通信系统
+*MySQL 入门很简单
+*3ds Max 2012从入门到精通

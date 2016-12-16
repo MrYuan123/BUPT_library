@@ -1,0 +1,15 @@
+#MATLAB建模与仿真
+#统计学 : 基于Excel和R语言
+#博弈论与信息经济学
+#SPSS 22.0统计分析应用教程
+#雅思机经词汇精选
+*经济博弈论
+*深入浅出统计学 = Head first statistics
+*博弈论与经济模型
+*先秦诸子八大家
+*R语言实战 = R in action : data analysis and graphics with R
+*矩阵论
+*100年26篇最原声名家励志演讲
+*莎士比亚全集 . Ⅰ
+*剑桥 FCE 词汇 = Cambridge vocabulary for first certificate with answers
+*资治通鉴故事

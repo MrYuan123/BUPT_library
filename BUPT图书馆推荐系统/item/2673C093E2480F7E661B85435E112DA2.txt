@@ -1,0 +1,13 @@
+#高性能MySQL = High performance MySQL
+#Flask Web开发 : 基于Python的Web应用开发实战 = Flask Web development : developing web applications with python
+#鹿男
+*MySQL技术内幕 : SQL编程 = Inside MySQL : SQL programming
+*LTE/LTE-Advanced-UMTS长期演进理论与实践 = LTE-LTE UMTS long term evolution : from theory to practice
+*TMS320C6000 系列 DSP 编程工具与指南
+*TD-LTE 网络规划设计与优化 = TD-LTE network planning, design and optimization
+*TMS320 C6000 DSP 结构原理与硬件设计
+*腾云 : 云计算和大数据时代网络技术揭秘
+*TMS320C6000 系列 DSP 开发应用技巧 : 重点与难点部析
+*高可用MySQL = MySQL high availability
+*机器学习实战 = Machine learning in action
+*数据挖掘导论 : 完整版 = Introduction to data mining

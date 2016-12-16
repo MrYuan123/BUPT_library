@@ -1,0 +1,17 @@
+#认真对待权利 = Taking rights seriously
+#信息财产 = Information property  : 数字内容产业的法律基础the legal foundation of digital content industry
+#网络环境中的著作权保护研究 = Copyright protection in the network environment
+#知识产权法利益平衡理论
+#纯粹法理论
+#著作权权利体系之研究 : 以原始性利益人为主线的理论探讨
+#法律之门 = Before the law
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

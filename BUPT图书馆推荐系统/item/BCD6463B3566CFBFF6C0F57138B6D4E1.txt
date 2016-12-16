@@ -1,0 +1,15 @@
+#神经网络与机器学习 = Neural networks and learning machines
+#Java语言程序设计教程
+#Shell从入门到精通
+#数据结构 : Java语言描述
+#人工神经网络原理
+*从零进阶！数据分析的统计基础
+*Linux从入门到精通
+*神经网络控制
+*SQL查询的艺术
+*数据结构和 Java 集合框架
+*软件测试基础与测试案例分析
+*软件功能测试 : 基于QuickTest Professional应用
+*Oracle 数据库基础
+*Java程序设计完全学习手册
+*C++语言基础教程

@@ -1,0 +1,17 @@
+#ZigBee技术开发 : Z-Stack协议栈原理及应用
+#ZigBee原理、实践及综合应用
+#ZigBee技术原理与实战
+#ZigBee 技术及应用
+#Unity 3D游戏开发技术详解与典型案例
+#MATLAB 编程与最优化设计应用
+#Lua游戏开发实践指南 = Game development with lua
+*无线通信 = Wireless communications
+*电动力学
+*短距离无线系统的可靠通信
+*概率论、随机过程与数理统计
+*智能无线传感器网络系统
+*无线传感器网络原理与应用 = Principles and applications of wireless sensor networks
+*无线传感器网络的理论及应用
+*电磁波空间传播 = Electromagnetic wave propagation in space
+*随机过程理论与应用
+*Linux 培训教程 : 从实践中学习Linux

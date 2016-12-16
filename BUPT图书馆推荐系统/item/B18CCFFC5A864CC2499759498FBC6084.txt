@@ -1,0 +1,11 @@
+#MySQL核心技术与最佳实践 = MySQL core technology & best practice
+*Excel/PPT 2013办公应用从入门到精通
+*深入理解Spark : 核心思想与源码分析 = Spark internals : core design and source code analysis
+*数据结构教程
+*每天读点英文感动你一生的英文全集
+*涂抹MySQL : 跟着三思一步一步学MySQL
+*学习R = Learning R
+*数据挖掘 : R语言实战
+*Spring 3.0就这么简单
+*编程珠玑 = Programming pearls
+*实战Java虚拟机 : JVM故障诊断与性能优化

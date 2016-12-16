@@ -1,0 +1,22 @@
+#申论10天通关教程 : 2014最新版
+#应用写作
+#国家公务员录用考试真题系列历年真题精解 , 行政职业能力测验+申论
+#常见应用文写作暨范例大全
+#6年国考4年联考考点分类解读 , 行测·言语理解与表达 : 2014版
+#算法技术手册
+#公务员实用写作
+#申论 : 三级飞跃法
+#算法导论 = Introduction to algorithms
+#求职必胜 : 面试英语随身带
+#12 周摘掉眼镜恢复视力
+#瑜伽入门宝典
+*深度解析SDN : 利益、战略、技术、实践
+*算法之道 = Ex nihilo : algorithmica logos
+*算法设计与分析
+*机器学习实战 = Machine learning in action
+*密码编码学与网络安全 = Cryptography and network security : 原理与实践principles and practices
+*2016版计算机网络高分笔记
+*剑指Offer : 名企面试官精讲典型编程题
+*编程之美 : 微软技术面试心得
+*Python袖珍指南
+*通信系统中 MATLAB 基础与仿真应用

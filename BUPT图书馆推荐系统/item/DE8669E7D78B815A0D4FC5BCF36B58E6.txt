@@ -1,0 +1,13 @@
+#概率论札记
+#统计学完全教程
+#数据统计分析的R软件应用
+*数据挖掘基础教程 = Insight into data mining : theory and practice
+*代数学 . I
+*概率论与数理统计学习指导
+*管理科学研究方法
+*SPSS 19.0统计分析从入门到精通
+*研究生信息素质高级教程
+*IBM SPSS数据分析与挖掘实战案例精粹
+*论语别裁 . 下册
+*信息与社会
+*企业价值评估 = Corporate valuation for portfolio investment

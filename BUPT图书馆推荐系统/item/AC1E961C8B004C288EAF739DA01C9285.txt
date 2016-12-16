@@ -1,0 +1,21 @@
+#深入浅出Node.js
+#Node.js实战 : 第2季
+#HTML5游戏编程核心技术与实战
+#Node.js实战
+#数据隐藏技术揭秘 : 破解多媒体、操作系统、移动设备和网络协议中的隐秘数据 = Data hiding exposing concealed data in multimedia operating systems, mobile devices and network protocols
+#游戏设计艺术 = The art of game design
+#Python袖珍指南
+#算法导论 = Introduction to algorithms
+#JavaScript函数式编程
+#正则表达式经典实例
+#深入浅出密码学 : 常用加密技术原理与应用
+*Node.js实战 = Learning Node.js : a hands-on guide to building web applications in JavaScript
+*Node.js开发指南
+*计算机网络
+*机器学习实战 = Machine learning in action
+*Android内核剖析
+*Java程序设计教程 = Building Java programs : a back to basics approach
+*JavaScript 语言精粹 = JavaScript : the good parts
+*疯狂Java讲义精粹
+*Node.js实战 = Node.js in action
+*你不知道的JavaScript = Scope & closures this & object prototypes . 上卷

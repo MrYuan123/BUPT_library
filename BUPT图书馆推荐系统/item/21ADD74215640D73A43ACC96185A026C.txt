@@ -1,0 +1,15 @@
+#快时变信道下的无线通信 = Wireless communications over rapidly time-varying channels
+#新托福高分词汇 = TOEFL guide excellence vocabulary
+#概率、统计与随机过程 = Probability, statistics, and random processes for engineers
+#MySQL教程
+#每天30分钟, 像老外一样说英语
+*程序员面试逻辑题解析 = Puzzles for programmers and pros
+*剑指Offer : 名企面试官精讲典型编程题
+*青楼纪之人面桃花
+*TOEFL托福主题词汇与阅读
+*博弈论 : 矛盾冲突分析 = Game theory : analysis of conflict
+*OpenStack设计与实现
+*跟老齐学Python : 从入门到精通
+*雅思写作机经词汇 : 最新版
+*剑桥雅思全真试题4·5·6最新解析
+*高等应用数学问题的MATLAB求解 = Advanced applied mathematical problem solutions with MATLAB

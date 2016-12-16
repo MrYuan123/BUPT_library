@@ -1,0 +1,15 @@
+#Node.js项目实践 : 构建可扩展的Web应用 = Practical node.js : building real-world scalable web apps
+#Div+CSS 3+jQuery网页布局案例精粹
+#精通D3.js : 交互式数据可视化高级编程
+#扩展jQuery = Extending jQuery
+#用AngularJS开发下一代Web应用 = AngularJS
+*了不起的Node.js : 将JavaScript进行到底 = Smashing Node. js : JavaScript everywhere
+*数据可视化之美
+*高性能网站建设进阶指南 : Web开发者性能优化最佳实践 = Even faster Web sites : performance best practices for Web developers
+*Node.js权威指南 = Node.js : the definitive guide
+*数据可视化
+*数据之美 : 一本书学会可视化设计 = Pata points : visualization that means something
+*高性能网站建设指南 : 前端工程师技能精髓 = High performance web sites
+*Node与Express开发 = Web development with node and express leveraging the JavaScript stack
+*Node.js开发实战详解
+*Node.js实战

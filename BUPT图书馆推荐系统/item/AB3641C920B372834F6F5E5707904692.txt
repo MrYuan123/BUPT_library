@@ -1,0 +1,18 @@
+#Head first Python =深入浅出Python /深入浅出Python
+#设计模式解析 = Design patterns explained : a new perspective on object-oriented design
+#利用Python进行数据分析
+#人月神话 : 32 周年中文纪念版
+#用 Python 学编程 = Learn to program using python
+#统计学习方法
+#第一本Docker书 = The docker book
+#机器学习及其应用2011
+*产品经理面试宝典 = Cracking the interview : how to land product manager job in technology
+*推荐系统 = Recommender systems : an introduction
+*基于 MATLAB 的实用数值计算
+*Python 语言入门
+*精通MATLAB R2014a = Proficient in MATLAB R2014a
+*奇点临近 = The singularity is near when humans transcend biology
+*数据结构与算法分析 = Data structures and algorithm analysis in Java : Java语言描述
+*MySQL 实用教程
+*软件工程 = Software engineering : theory and practice
+*MySQL技术精粹 : 架构、高级特性、性能优化与集群实战

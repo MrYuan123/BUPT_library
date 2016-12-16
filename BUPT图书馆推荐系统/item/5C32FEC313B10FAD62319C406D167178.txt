@@ -1,0 +1,14 @@
+#奥黛丽·赫本传
+#求职面试实用英语大全
+#世界500强企业英语面试大全集
+#SPSS 19.0统计分析从入门到精通
+*概率论与数理统计学习指导
+*管理科学研究方法
+*数据统计分析的R软件应用
+*英文说文解词 = A study of English words and their culture-loaded meanings
+*SQL Server应用与开发范例宝典
+*MySQL技术内幕 : SQL编程 = Inside MySQL : SQL programming
+*分布式系统 : 概念与设计 = Distributed systems : concepts and design
+*分布式计算
+*心事 = Heart matters
+*计算机网络

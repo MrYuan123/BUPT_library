@@ -1,0 +1,20 @@
+#计算机网络 : 网络设计的原理、技术和协议 = Computer networks : principles, technologies and protocols for network design
+#自动机理论、语言和计算导论 = Introduction to automata theory, languages, and computation
+#数据挖掘 = Data mining : 实用机器学习技术practical machine learning tools and techniques
+#Python编程入门 = Python : Visual quickstart guide
+#看图自学钢琴演奏 = Teach yourself visually piano : 一看就懂的图解钢琴自学书
+#一九八四 = Nineteen eighty-four
+#数据挖掘 : 实用机器学习工具与技术 = Data mining : practical machine learning tools and techniques
+#逆向工程实战 = Practical reverse engineering x86 x64 ARM windows kernel, reversing tools and obfuscation
+#机器学习 = Machine learning
+#离散数学
+*数据挖掘 : 概念、模型、方法和算法
+*Hadoop应用开发技术详解 = Programming hadoop
+*数值分析 = Numerical analysis
+*数据挖掘 : 概念与技术
+*编译原理 = Compilers : principles, techniques and tools
+*柔性字符串匹配 = Flexible pattern matching in strings : practical on-line search algorithms for texts and biological sequences
+*计算机体系结构 : 量化研究方法 = Computer architecture : a quantitative approach
+*离散数学教程
+*Python Cookbook (第3版) 中文版
+*C++ Primer : 中文版

@@ -1,0 +1,13 @@
+#微机原理与接口技术 : 辅导及习题
+#基于ARM Cortex-M3的STM32微控制器实战教程
+#自动控制原理题海与考研指导
+*Intel 微处理器 = The Intel microprocessors : 8086/8088, 80186/80188, 80286, 80386, 80486, Pentium, Pentium Pro Processor, Pentium II, Pentium III, Pentium 4, and Core2 with 64-bit extensions : architecture, programming, and interfacing
+*自动控制原理习题详解与考研辅导
+*通信原理习题集
+*电磁场与电磁波习题精解
+*工程测试技术 = Engineering measurement technology
+*卡耐基写给青年全集
+*自动控制原理习题解析
+*代数结构
+*高等代数 . 上册 : 大学高等代数课程创新教材
+*信息简史 = The Information : a history, a theory, a flood

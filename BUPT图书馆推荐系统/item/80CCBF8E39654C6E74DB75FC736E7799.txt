@@ -1,0 +1,14 @@
+#浪潮之巅 = On top of tides . 上册
+#傅雷书信选 = Selected letters to sons and friends
+#不要以为老板好当
+#R语言经典实例
+*浪潮之巅 = On top of tides . 下册
+*Java编程指南 = Java 7 : a comprehensive tutorial
+*有源噪声与振动控制 : 原理、算法及实现
+*JavaScript编程全解
+*主动控制中的信号处理 = Signal processing for active control
+*Java多线程编程实战指南 , 设计模式篇
+*Java ME程序开发实用教程
+*下一代 Internet 的网络技术
+*英语四级词汇语境联想记忆
+*从零开始学 C++

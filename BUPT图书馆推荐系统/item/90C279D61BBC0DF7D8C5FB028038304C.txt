@@ -1,0 +1,12 @@
+#穿越计算机的迷雾
+#GPU 精粹 : 实时图形编程的技术、技巧和技艺
+*微分流形与李群基础
+*Visual Studio 2010并行编程从入门到精通
+*演讲师的PPT
+*中国散文排行榜 : 2011
+*蚁群算法原理及其应用 = Ant coloby algorithms : theory and applications
+*随机过程 . Ⅰ = Random process . Ⅰ
+*蚁群优化 = Ant conlony optimization
+*中国书院史
+*CUDA并行程序设计 : GPU编程指南 = CUDA programming : a developer's guide to parallel computing with GPUs
+*微分拓扑 = Differential topology

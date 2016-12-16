@@ -1,0 +1,24 @@
+#软件无线电 = Telecommunication breakdown : concepts of communication transmitted via software-defined radio
+#自适应滤波算法与实现 = Adaptive filtering : algorithms and practical implementation
+#最优状态估计 : 卡尔曼, H及非线性滤波
+#具有马尔可夫跳变的复杂动态网络动力学
+#软件无线电原理与技术
+#认知无线网络
+#Kalman 滤波理论及其在导航系统中的应用
+#卡尔曼滤波及其实时应用 = Kalman filtering with real-time applications
+#粒子滤波算法及其应用
+#非线性系统滤波理论 = Nonlinear system filtering theory
+#卡尔曼滤波与组合导航原理
+#超宽带无线通信系统信道估计技术
+#自适应滤波器原理 = Adaptive filter theory
+#非线性滤波理论与目标跟踪应用
+*数据结构 : Java版
+*系统架构设计师教程
+*Arduino开发实战指南 : STM32篇
+*传感器信息融合 : MATLAB程序实现
+*PID 控制器参数整定与实现
+*无线通信 = Wireless communications
+*无线通信原理与应用 = Wireless communications principles and practice
+*经济学原理 , 微观经济学分册
+*经济学原理 , 宏观经济学分册
+*认知无线电

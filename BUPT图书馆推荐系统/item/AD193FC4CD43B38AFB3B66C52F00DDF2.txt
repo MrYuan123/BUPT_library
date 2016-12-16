@@ -1,0 +1,12 @@
+#数学史 = A history of mathematics . 上
+#数学史 = A history of mathematics . 下
+*大话处理器 : 处理器基础知识读本
+*Head First HTML 与 CSS、XHTML (中文版)
+*深入浅出程序设计
+*数据结构与STL
+*Head first mobile web中文版
+*Head First PHP & MySQL : 中文版
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

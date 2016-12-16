@@ -1,0 +1,12 @@
+#CUDA专家手册 : GPU编程权威指南 = The CUDA handbook : a comprehensive guide to GPU programming
+#GPU 高性能运算之 CUDA
+*GPU 高性能编程 CUDA 实战 = CUDA by example and introduction to general-purpose GPU programming
+*GPGPU编程技术 : 从GLSL、CUDA到OpenCL
+*高性能CUDA应用设计与开发 = CUDA application design and development : 方法与最佳实践
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

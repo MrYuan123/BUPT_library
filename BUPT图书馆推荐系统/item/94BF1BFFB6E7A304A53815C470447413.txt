@@ -1,0 +1,26 @@
+#Spring 3.0就这么简单
+#TCP/IP , Java篇
+#Spring 深度整合指南
+#JSP Web技术及应用教程
+#MySQL数据库基础与实例教程 = MySQL fundamentals & practices
+#Java Web 应用开发 : J2EE和Tomcat
+#零点起飞学Java Web开发
+#图表之美 : 打造优秀的Excel图表 = Beautiful chart : creating excellent Excel chart
+#Spring源码深度解析
+#精通 JavaScript+jQuery
+#Java 邮件开发详解
+#JSP 开发技术详解
+#Spring技术内幕 = Spring internals : 深入解析Spring架构与设计原理
+#SSH框架整合实战教程
+#JSP程序设计实训与案例教程
+#程序员突击 , Tomcat原理与Java Web系统开发
+*HTML 5开发精要与实例详解 = Essential HTML 5 and cases study
+*数据分析方法
+*技术管理与技术创新学科前沿研究报告 = The frontier research report on technology management and technological innovation
+*技术创新管理 = Management of technological innovation
+*Java Web编程实战宝典 : JSP+Servlet+Struts 2+Hibernate+Spring+Ajax
+*新手学 Java Web 开发
+*数据库系统 = Database systems : 概念、设计及应用concepts, design and applications
+*数据库系统设计、实现与管理
+*变身 PPT 高手 : PowerPoint核心关键技术解析
+*精通jQuery = Pro jQrery 2.0

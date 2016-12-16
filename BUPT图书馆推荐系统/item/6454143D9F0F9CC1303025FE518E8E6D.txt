@@ -1,0 +1,12 @@
+#数据结构 : C语言描述 = Data structures in C
+#数据结构 = Data structure : C语言版
+*计算机网络教程 = A textbook no computer networks
+*自立 = Self-reliance
+*FORTRAN 95 程序设计与数据结构基础教程
+*计算机操作系统
+*计算机组成原理 : 第五版·立体化教材
+*数据结构与算法分析新视角
+*数据结构 : 用面向对象方法与 C++ 语言描述
+*进军硅谷 : 程序员面试揭秘
+*程序员面试金典 = Cracking the coding interview : 150 programming questions and solutions
+*C++标准库 = The C++ standard library : a tutorial and reference

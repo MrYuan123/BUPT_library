@@ -1,0 +1,12 @@
+#Java Web编程实战宝典 : JSP+Servlet+Struts 2+Hibernate+Spring+Ajax
+#SSH框架整合实战教程
+*Java Web程序开发入门
+*Java Web程序开发进阶
+*Struts 2+Hibernate+Spring整合开发深入剖析与范例应用
+*Hibernate 开发与实战
+*Java 开发典型模块大全
+*JavaScript详解 = JavaScript by example
+*疯狂Workflow讲义 : 基于Activiti的工作流应用开发
+*Netty权威指南
+*Maven 实战 = Maven 3 in action
+*Redis入门指南

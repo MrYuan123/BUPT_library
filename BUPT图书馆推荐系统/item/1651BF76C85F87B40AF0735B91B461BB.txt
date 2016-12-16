@@ -1,0 +1,13 @@
+#软件测试技术、方法和环境
+#MySQL技术精粹 : 架构、高级特性、性能优化与集群实战
+#软件工程
+*向前一步 : 女性、工作及领导意志 = Lean in for graduates
+*Nginx模块开发指南 : 使用C++11和Boost程序库
+*美国的痛点 : 科学否定派如何威胁我们的未来 = Reality check : how science deniers threaten our future
+*互联网+制造 : 发现工业4.0时代微蓝海 = Internet plus manufacture : strategy of micro blue ocean in the era of industrie 4.0
+*Java典型模块与项目实战大全
+*需求分析与系统设计 = Requirements analysis and system design
+*反直觉思考 : 斯坦福大学思维自修课 = Think twice : harnessing the power of counterintuition
+*数据结构 : 基于C++模板类的实现
+*数据结构与算法分析 = Data structures and algorithm analysis in Java : Java语言描述
+*软件工程 = Software engineering : theory and practice

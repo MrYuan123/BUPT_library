@@ -1,0 +1,12 @@
+#深入浅出 Linux TCP/IP 协议栈
+#Linux内核精髓 : 精通Linux内核必会的75个绝技
+*射频微机电系统的理论、设计、制备及应用
+*RF MEMS 理论·设计·技术 = RF MEMS theory, design, and technology
+*UNIX/Linux应用、编程与系统管理
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

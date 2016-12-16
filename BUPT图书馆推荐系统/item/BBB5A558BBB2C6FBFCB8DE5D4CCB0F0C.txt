@@ -1,0 +1,14 @@
+#Java EE Web开发与项目实战
+#Data structures and algorithm analysis in Java =数据结构与算法分析 : Java语言描述 /数据结构与算法分析 
+#Java EE核心框架实战
+#深入分析Java Web技术内幕
+*Spring 3.x企业应用开发实战
+*Java核心技术精讲
+*Maven 实战 = Maven 3 in action
+*计算机网络
+*UML2基础、建模与设计教程
+*VOA慢速英语随身听 , 听力词汇双突破
+*大象 : Thinking in UML
+*计算机网络与因特网 = Computer networks and internets
+*周鸿祎自述 : 我的互联网方法论
+*我的 J2EE 成功之路 : 实战Ajax, JSP, Struts 2, Spring, Hibernate

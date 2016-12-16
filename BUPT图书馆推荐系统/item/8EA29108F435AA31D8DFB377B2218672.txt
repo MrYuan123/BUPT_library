@@ -1,0 +1,12 @@
+#动物农场 = Animal farm
+#长征
+*类人孩 : 《动物庄园》另类解读
+*无名的裘德 = Jude the obscure
+*电信法学研究
+*GPS 原理与接收机设计 = Principles of GPS and receiver design
+*全球定位系统 = Global positioning system : 信号、测量与性能signals, measurements, and performance
+*走出非洲 = Out of Africa
+*谋杀的解析 = The interpretation of murder
+*当尼采哭泣 = When Nictzsche wept
+*MIMO-OFDM系统原理、应用及仿真
+*MIMO 无线通信 : 从真实世界的传播到空-时编码的设计 = MIMO wireless communications : from real-world propagation to space-time code design

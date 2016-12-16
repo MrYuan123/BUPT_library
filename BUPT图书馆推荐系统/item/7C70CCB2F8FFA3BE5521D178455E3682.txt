@@ -1,0 +1,28 @@
+#计算智能导论
+#红楼梦 . 上
+#Python 网络编程基础 = Foundations of Python network programming
+#Java :how to program = Java 大学教程 /Java 大学教程
+#洛克菲勒留给儿子的38封信 = Thirty-eight Rockefeller Letter to his son : 珍藏版
+#自己动手写网络爬虫
+#玻恩-爱因斯坦书信集 : 1916-1955 : 动荡时代的友谊、政治和物理学
+#Python自动化运维 : 技术与最佳实践 = Automation operations with Python : technique and best practices
+#精通MATLAB图像处理 = Proficient in MATLAB image processing
+#软件工程 = Software engineering : theory and practice
+#Web 数据挖掘 = Web data mining
+#互联网之美 = The Beauty of the internet
+#面向对象软件工程 : 使用UML、模式与Java
+#如何创造思维 : 人类思想所揭示出的奥秘 = How to create a mind : the secret of human thought revealed
+#游戏开发工程师修炼之道 = Game development essentials an introduction
+#亲密关系
+#数字图像处理 : MATLAB版 : 本科教学版 = Digital image processing using MATLAB
+#LaTeX 2e 完全学习手册
+*MATLAB数据分析与挖掘实战 = MATLAB data analysisanddata mining
+*数字图像处理 = Digital image processing
+*飘 = Gone with the wind
+*60设计师演讲录 : icograda世界设计大会产业论坛
+*Ajax、JavaScript 和 PHP 编程导学 = Sams teach yourself Ajax, JavaScript, and PHP all in one
+*AJAX 安全技术 = AJAX security
+*设计心理学 . 3 , 情感设计 = Emotional design
+*网站安全攻防秘笈 : 防御黑客和保护用户的100条超级策略 = The Web application defender's cookbook : battling hackers and protecting users
+*Effective STL中文版 : 50条有效使用STL的经验 = Effective STL : 50 specific ways to improve the use of the standard template library
+*红楼梦 . 下

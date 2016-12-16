@@ -1,0 +1,15 @@
+#Java 程序设计案例教程
+#JavaScript修炼之道 = Pragmatic guide to JavaScript
+#众妙之门 : JavaScript与jQuery技术精粹
+#MATLAB 从入门到精通
+#PHP 网络编程标准教程 : DVD视频教学版
+*Photoshop CS4 从入门到精通
+*精通MATLAB最优化计算
+*科技英语综合教程 = Est integrated course
+*GRE词汇精选 : 乱序版
+*微机系统和接口应用技术
+*宣纸上的记忆 : 中国古代书法人物小影
+*李鸿章传
+*SolidWorks 2013机械设计从入门到精通
+*JAVA 2 核心技术 = Core Java 2 . 卷Ⅰvolume Ⅰ , 基础知识fundamentals
+*C++ 程序设计语言 = The C++ programming language

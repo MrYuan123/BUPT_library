@@ -1,0 +1,12 @@
+#C++ 程序设计语言 = The C++ programming language
+#C++ Primer : 中文版
+*剑指Offer : 名企面试官精讲典型编程题
+*Python编程入门 = Python : Visual quickstart guide
+*JAVA 2 核心技术 = Core Java 2 . 卷Ⅰvolume Ⅰ , 基础知识fundamentals
+*Python 学习手册
+*21 天学通 Java
+*MATLAB 从入门到精通
+*数据结构 = Data structure
+*LTE系统原理及应用
+*TD-LTE-Advanced移动通信系统设计 = TD-LTE-Advanced mobile communications system design
+*Altera FPGA/CPLD 设计 , 基础篇

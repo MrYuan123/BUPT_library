@@ -1,0 +1,11 @@
+#Node.js开发指南
+*深入浅出Node.js
+*JavaScript语言精粹 = JavaScript : the good parts
+*CSS 权威指南
+*MongoDB权威指南 = MongoDB : the deinitive guide
+*Node.js实战 : 第2季
+*Node.js权威指南 = Node.js : the definitive guide
+*疯狂Java讲义精粹
+*Node.js实战
+*你不知道的JavaScript = Scope & closures this & object prototypes . 上卷
+*Node.js入门经典

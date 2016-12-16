@@ -1,0 +1,14 @@
+#信息安全与对抗实践基础
+#矩阵分析与应用 = Matrix analysis and applications
+#软件无线电技术与应用
+#信息安全数学基础
+*编程珠玑 = Programming pearls
+*高维数据挖掘技术研究 = Research on technologies for high dimensional data mining
+*认知无线网络理论与关键技术 = Cognitive wireless network theory and key technology
+*认知与协作无线通信网络 = Communication network technology
+*神经网络在应用科学和工程中的应用 : 从基本原理到复杂的模式识别
+*算法设计
+*矩阵理论及方法
+*21 世纪短篇小说排行榜
+*英语长难句结构分析
+*2009 中国小说

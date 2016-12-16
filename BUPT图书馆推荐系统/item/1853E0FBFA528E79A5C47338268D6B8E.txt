@@ -1,0 +1,13 @@
+#信息存储与管理 : 数字信息的存储、管理和保护
+#网络存储技术
+#微机原理与接口技术习题与解析
+*操作系统习题与解析
+*Java 语言程序设计
+*编译原理学习指导与习题解析
+*通信原理 (第 6 版) 学习辅导与考研指导
+*一头想要被吃掉的猪 : 100个思想实验 = The pig that wants to be eaten and 99 other thought experiments
+*JavaScript DOM 编程艺术 = DOM Scripting : web design with JavaScript and the document object model
+*现代通信原理习题解析
+*人工鱼群算法及其应用
+*人工智能与人工生命
+*汇编语言

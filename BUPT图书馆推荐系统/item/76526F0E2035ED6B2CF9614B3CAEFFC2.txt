@@ -1,0 +1,11 @@
+#基于知识的聚类 = Konwledge-based clustering : 从数据到信息粒from data to information granules
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

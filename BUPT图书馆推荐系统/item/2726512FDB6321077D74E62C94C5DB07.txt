@@ -1,0 +1,16 @@
+#Android嵌入式系统程序开发 : 基于Cortex-A8
+#3GPP 长期演进 (LTE) 技术原理与系统设计 = 3GPP long term evolution : principle and system design
+#多用户、多小区 MIMO 通信技术 = Multi-user multi-cell MIMO communication technology
+#现代信号处理 = Modern signal processing
+#3GPP 长期演进 (LTE) 系统架构与技术规范 = 3GPP long term evolution : architecture and specification
+#波达方向估计
+*MATLAB宝典
+*数值逼近
+*统计推断
+*MIMO 无线通信 : 从真实世界的传播到空-时编码的设计 = MIMO wireless communications : from real-world propagation to space-time code design
+*Effective C++ : 改善程序与设计的55个具体做法 : 中文版 = Effective C++ : 55 specific ways to improve your programs and designs
+*近世代数及其应用
+*MIMO-OFDM无线通信技术及MATLAB实现 = MIMO-OFDM wireless communications with MATLAB
+*Java 编程思想 = Thinking in Java
+*Java 语言程序设计 = Introduction to Java programming , 进阶篇
+*大话移动通信

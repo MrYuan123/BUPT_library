@@ -1,0 +1,15 @@
+#Java Web 开发速学宝典
+#MySQL数据库应用从入门到精通
+#操作系统设计与实现 = Operating systems design and implementation . 上册
+#Android从入门到精通
+#Struts 2 + Spring+Hibernate框架技术与项目实战
+*jQuery基础教程 = Learning jQuery
+*存在与虚无
+*微机系统和接口应用技术
+*微型计算机系统原理及应用 : IA-32 结构 (80x86系列)
+*新编计算机英语 = A New course in computer English
+*MATLAB数学实验与建模
+*PCI Express 系统体系结构标准教材 = PCI express system architecture
+*SPSS统计分析课堂实录
+*数据分析
+*SAS统计分析与应用从入门到精通

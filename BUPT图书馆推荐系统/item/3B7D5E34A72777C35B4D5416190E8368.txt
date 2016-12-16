@@ -1,0 +1,14 @@
+#点石成金 = Don't make me think : 访客至上的网页设计秘笈
+#数据库与数据处理 = Database and data processing : Access 2010实现
+#top 3d 造型技术 : Rhino 3高级应用技法详解
+#3ds Max 2013完全学习手册
+*人人都是产品经理 = Everyone is a produot manager : version 1.1
+*设计心理学 . 3 , 情感设计 = Emotional design
+*用户体验草图设计 : 正确地设计, 设计得正确 = Sketching user experiences : getting the design right and the right design
+*通用设计方法 = Universal methods of design
+*工业设计教程
+*可用性工程 = Usability engineering
+*用户体验面面观 : 方法、工具与实践
+*About Face 3交互设计精髓 = About Face 3 : the essentials of interaction design
+*用户体验设计 : 讲故事的艺术 = Storytelling for user experience : crafting stories for better design
+*交互设计指南 = Designing for interaction creating innovative applications and devices

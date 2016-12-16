@@ -1,0 +1,12 @@
+#疯狂iOS讲义 . 下 , iPhone/iPad高级应用与手游开发
+#疯狂iOS讲义 . 上 : Objective-C 2.0与iPhone/iPad应用开发基础
+*从零开始学 ASP.NET
+*ASP.NET Web开发学习实录
+*HTML 5从入门到精通
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

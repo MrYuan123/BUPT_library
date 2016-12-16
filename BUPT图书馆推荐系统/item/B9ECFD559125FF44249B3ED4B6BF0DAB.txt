@@ -1,0 +1,14 @@
+#Hadoop 权威指南 : 中文版
+#Python 3 程序开发指南 = Programming in Python 3
+#深入理解大数据 : 大数据处理与编程实践 = Understanding big data : big data processing and programming
+#Hadoop基础教程 = Hadoop beginner's guide
+*无线传感器网络
+*数据结构与算法 : C语言版 = Data structures and algorithms in C
+*MySQL技术内幕
+*正则指引 = Regular expression yet another introduction
+*Python 3面向对象编程 = Python 3 object oriented programming
+*大数据 = Mining of massive datasets : 互联网大规模数据挖掘与分布式处理
+*SPSS 与统计分析
+*Spark技术内幕 : 深入解析Spark内核架构设计与实现原理 = Spark internals : design and implement principle of Spark core
+*Spark快速数据处理 = Fast data processing with Spark
+*算法导论 = Introduction to algorithms

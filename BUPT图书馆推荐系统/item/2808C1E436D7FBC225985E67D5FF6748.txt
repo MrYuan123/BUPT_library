@@ -1,0 +1,11 @@
+#MATLAB图像处理375例
+*汇编语言
+*精通MATLAB科学计算 = Proficient in MATLAB scientific computing
+*学习 OpenCV : 中文版
+*精通MATLAB智能算法 = Proficient in MATLAB intelligent algorithm
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

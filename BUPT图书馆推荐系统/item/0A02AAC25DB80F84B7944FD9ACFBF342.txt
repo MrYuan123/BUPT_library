@@ -1,0 +1,13 @@
+#基于SPSS的数据分析
+#数据挖掘 : 实用案例分析 = Data mining : practical case analysis
+#数据挖掘 = Data mining : 概念与技术concepts and techniques
+*零基础学算法
+*应用回归分析 = Applied regression analysis
+*博弈与信息 : 博弈论概论 = Games and information : an introduction to game theory
+*数据挖掘原理与 SPSS Clementine 应用宝典
+*Redis入门指南
+*实战大数据
+*形式语言与自动机
+*资治通鉴直解 : 两朝帝师张居正白话讲本
+*这样读资治通鉴 : 全本 . 第一部
+*数据挖掘 = Data mining : 实用机器学习技术practical machine learning tools and techniques

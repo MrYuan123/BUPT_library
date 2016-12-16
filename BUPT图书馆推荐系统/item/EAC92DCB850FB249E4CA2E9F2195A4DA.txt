@@ -1,0 +1,14 @@
+#Eclipse 从入门到精通
+#机器学习方法
+#机器学习及其应用2011
+#Python标准库 = The Python standard library by example
+*奇点临近 = The singularity is near when humans transcend biology
+*RESTful Web Services 中文版 = RESTful web services
+*J2EE 项目实训 : Spring 框架技术
+*从 Java 走向 Java EE
+*研磨设计模式
+*SPSS统计分析与数据挖掘
+*数据挖掘导论
+*从零开始学 Java Web 开发
+*LabVIEW实用工具详解
+*零基础学PHP

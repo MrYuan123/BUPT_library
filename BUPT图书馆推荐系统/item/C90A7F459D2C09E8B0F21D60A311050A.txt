@@ -1,0 +1,11 @@
+#一九八四 = Nineteen eighty-four
+*路西法效应 : 好人是如何变成恶魔的
+*假面自白
+*网络设计的原理
+*百家争鸣
+*埃隆·马斯克与SPACEX的商业传奇 = SPACEX : making commercial spaceflight a reality
+*从春秋到战国
+*计算机网络 : 网络设计的原理、技术和协议 = Computer networks : principles, technologies and protocols for network design
+*自动机理论、语言和计算导论 = Introduction to automata theory, languages, and computation
+*数据挖掘 = Data mining : 实用机器学习技术practical machine learning tools and techniques
+*Python编程入门 = Python : Visual quickstart guide

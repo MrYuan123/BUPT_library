@@ -1,0 +1,13 @@
+#MATLAB 在信号与图像处理中的应用
+#21天突破雅思听力
+#MATLAB 仿真在通信与电子工程中的应用
+*网络安全技术
+*留学时代
+*通信原理
+*MATLAB基础与实践教程
+*信号与系统 : MATLAB版 = Signals and systems MATLAB
+*30 天通过全国计算机等级考试 = National computer rank examination
+*非线性光纤光学原理及应用 = Nonlinear fiber optics, fourth edition & applications of nonlinear fiber optics, second edition
+*通信系统中 MATLAB 基础与仿真应用
+*通信系统原理 = Fundamentals of communication systems
+*电磁场与电磁波 = Electromagnetic fields and waves

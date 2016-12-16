@@ -1,0 +1,13 @@
+#计算机通信与网络
+#现代交换技术
+#综合宽带接入技术
+*光纤通信技术 = Optical fiber communications
+*现代交换原理与技术
+*光纤通信原理与应用
+*通信原理 : 精简本
+*无线通信技术概论
+*大话移动通信
+*移动通信中的先进信号处理技术
+*MIMO系统与空时编码 : 分集的理论与实践 = MIMO system and STC : the theory and practice of diversity
+*电力信息通信实用技术 , 电力信息部分
+*现代通信网络

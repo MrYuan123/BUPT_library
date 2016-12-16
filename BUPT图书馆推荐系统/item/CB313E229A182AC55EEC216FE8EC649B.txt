@@ -1,0 +1,13 @@
+#瘟疫 人类的影子 : “非典”溯源
+#空速星痕 . Ⅰ
+#龙族 = Dragon raja . 2 , 悼亡者之瞳
+*龙族 = Dragon raja . 1
+*卫星通信 = Satellite communications
+*卫星通信导论
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

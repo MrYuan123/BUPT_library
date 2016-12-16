@@ -1,0 +1,12 @@
+#Node.js权威指南 = Node.js : the definitive guide
+#文化笔记
+*Node与Express开发 = Web development with node and express leveraging the JavaScript stack
+*Node.js项目实践 : 构建可扩展的Web应用 = Practical node.js : building real-world scalable web apps
+*Node.js开发实战详解
+*Node.js开发指南
+*你不知道的JavaScript = Scope & closures this & object prototypes . 上卷
+*Node.js实战 : 第2季
+*JavaScript 语言精粹 = JavaScript : the good parts
+*Node.js实战
+*疯狂Java讲义精粹
+*Node.js入门经典

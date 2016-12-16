@@ -1,0 +1,13 @@
+#轻松学韩语 = Korean for Chinese . 1 , 初级
+#Java 程序设计
+#Android手机程序设计入门、应用到精通
+*Android应用开发入门 = Android apps for absolute beginners
+*Android编程权威指南 = Android programming : the big nerd ranch guide
+*新手学Photoshop智能手机APP界面设计 : 实例版
+*Java 程序设计实用案例教程
+*自动控制原理
+*EDA技术基础
+*模式识别与智能计算 : Matlab技术实现
+*网络安全技术
+*21天学通Java
+*6 级词汇分频精讲速记

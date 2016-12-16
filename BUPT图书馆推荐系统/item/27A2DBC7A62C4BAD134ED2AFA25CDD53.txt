@@ -1,0 +1,13 @@
+#JavaScript编程精解 = Eloquent JavaScript : a modern introduction to programming
+#运筹学解题指导
+#Java从入门到精通
+*运筹学教程例题分析与题解
+*大学英语新六级阅读周计划
+*Linux C从入门到精通
+*第一行代码 : Android
+*民政行政复议与行政诉讼案例研究
+*行政法与行政诉讼法学
+*微机原理与接口技术
+*行政法教程
+*运筹学学习指导及习题集
+*数字通信 = Digital Communications

@@ -1,0 +1,12 @@
+#图像处理与计算机视觉算法及应用
+#计算机视觉 : 算法与应用
+*机器学习导论 = Introduction to machine learning
+*图像处理、分析与机器视觉 = Image processing, analysis, and machine vision
+*语音处理及人机交互技术
+*统计自然语言处理
+*GPU 高性能编程 CUDA 实战 = CUDA by example and introduction to general-purpose GPU programming
+*高维信息几何与语音分析
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

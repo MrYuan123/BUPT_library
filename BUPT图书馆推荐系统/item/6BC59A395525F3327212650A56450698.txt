@@ -1,0 +1,19 @@
+#时间序列分析 . 下册 = Time series analysis
+#RBF神经网络自适应控制MATLAB仿真 = RBF neural network control for mechanical systems design analysis and MATLAB simulation
+#多变量非线性系统的神经网络逆控制方法
+#神经网络原理 = Neural networks : a comprehensive foundation
+#时间序列分析 . 上册 = Time series analysis
+#MATLAB 在时间序列分析中的应用
+#MATLAB神经网络超级学习手册
+#神经网络设计 = Neural network design
+#MATLAB 神经网络应用设计
+*非线性时间序列分析及其应用
+*MATLAB神经网络43个案例分析
+*文明之光 = Civilizations and enlightenments . 第一册
+*浪潮之巅 = On top of tides . 下册
+*GRE考试官方指南 = The official guide to the revised general test
+*计量经济学方法 = Econometric methods
+*GRE词汇精选
+*浪潮之巅 = On top of tides . 上册
+*MATLAB 神经网络 30 个案例分析
+*复杂神经动力网络的稳定性和同步性

@@ -1,0 +1,13 @@
+#新版中日交流标准日本语初级句型手册 : N5-N3考点归纳
+#零基础学HTML + CSS : 11.5小时多媒体教学视频
+#21天学通JavaScript
+*HTML5 & CSS3 & Javascript App程序开发实战
+*数据结构与STL
+*数据结构与STL习题解析与实验指导
+*LTE : UMTS长期演进理论与实践 = LTE-the UMTS long term evolution from theory to practice
+*从零开始学PHP+MySQL+AJAX网页程序设计
+*黑客攻防从入门到精通 : 攻防与脚本编程篇
+*Web 安全测试
+*为什么男人来自火星女人来自金星 : 一辈子不再争吵的秘密 = Why men are from mars & women are from venus
+*啊哈! 算法 = Aha! algorithms
+*了不起的Node.js : 将JavaScript进行到底 = Smashing Node. js : JavaScript everywhere

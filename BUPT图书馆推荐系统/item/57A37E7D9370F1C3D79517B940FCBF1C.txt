@@ -1,0 +1,14 @@
+#MIMO 技术原理及应用
+#电磁场与电磁波基础
+#MIMO 相关技术与应用
+#Android程序设计教程
+*下一代无线局域网 : 802.11n的吞吐率、强健性和可靠性 = Next generation wireless LANs : throughput, robustness, and reliability in 802.11n
+*无线城市 : 电信级Wi-Fi网络建设与运营
+*下一代宽带无线通信 OFDM 与 MIMO 技术
+*Effective C++ : 改善程序与设计的55个具体做法 : 中文版 = Effective C++ : 55 specific ways to improve your programs and designs
+*MIMO系统与空时编码 : 分集的理论与实践 = MIMO system and STC : the theory and practice of diversity
+*C++ 编程规范 : 101条规则、准则与最佳实践 = C++ coding standards : 101 rules, guidelines, and best practices
+*无线光MIMO系统中空时编码理论
+*全面详解LTE : MATLAB建模、仿真与实现
+*光波分复用系统与维护
+*3GPP 长期演进 (LTE) 技术原理与系统设计 = 3GPP long term evolution : principle and system design

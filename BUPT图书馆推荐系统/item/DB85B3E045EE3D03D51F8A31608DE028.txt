@@ -1,0 +1,12 @@
+#命令行中的数据科学 = Data science at the command line facing the future with time-tested tools
+#操作系统设计 : Xinu方法 = Operating system design : the Xinu appraoch, linksys version
+*数据挖掘 : R语言实战
+*计算机科学导论 = Foundations of computer science
+*数据挖掘与知识发现
+*Web渗透测试 : 使用Kali Linux = Web penetration testing with Kali Linux
+*TCP/IP 架构、设计及应用 : Linux版
+*微机系统和接口应用技术
+*IPv6 详解 . 卷1 = IPv6 core protocols implementation
+*UNIX网络编程 . 卷2 , 进程间通信
+*操作系统原理与Linux实践教程
+*微机原理与接口技术

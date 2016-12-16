@@ -1,0 +1,13 @@
+#MATLAB 与外部程序接口编程
+#MATLAB从入门到精通
+#MATLAB GUI 设计学习手记
+*MATLAB基础教程
+*基于 MATLAB 7.x 的系统分析与设计 : 信号处理
+*MATLAB与科学计算教程
+*美国高校创业教育
+*PHP 5.3 入门经典
+*数据通信与网络 = Data communications and networking
+*先生
+*创新人才培养理念与模式
+*Python程序设计教程
+*组合优化导论

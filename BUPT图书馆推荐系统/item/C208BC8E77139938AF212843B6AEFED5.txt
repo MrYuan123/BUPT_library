@@ -1,0 +1,15 @@
+#微型计算机系统原理及应用 : IA-32 结构 (80x86系列)
+#操作系统设计与实现 = Operating systems design and implementation . 上册
+#新编计算机英语 = A New course in computer English
+#MATLAB数学实验与建模
+#微机系统和接口应用技术
+*存在与虚无
+*MATLAB GUI设计学习手记
+*数学建模入门与提高
+*Struts 2 + Spring+Hibernate框架技术与项目实战
+*李鸿章传
+*MySQL数据库应用从入门到精通
+*Android从入门到精通
+*Java Web 开发速学宝典
+*宣纸上的记忆 : 中国古代书法人物小影
+*MATLAB 从入门到精通

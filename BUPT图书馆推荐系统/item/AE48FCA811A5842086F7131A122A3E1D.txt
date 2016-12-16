@@ -1,0 +1,17 @@
+#季羡林随想录 . 二
+#SPSS统计分析与应用
+#黑天鹅 : 如何应对不可预知的未来 = The Black swan : the impact of the highly improbable
+#SPSS基础分析教程 = Introduction to basic analysis using SPSS 22
+#陋巷 : 丰子恺散文
+#iOS开发指南 : 从零基础到App Store上架
+#不确定状况下的判断启发式和偏差 = Judgment under uncertainty : heuristics and biases
+*Excel与数据分析
+*SQL Server 2012数据库技术与应用
+*UML 2.2面向对象分析与设计
+*C语言大学教程 = C how to program
+*C语言参考手册 = C: a reference manual
+*数据库处理 = Database processing : 基础、设计与实现fundamentals, design, and implementation
+*Access 2007 数据库原理、技术与全程实例
+*如丧 : 我们终于老得可以谈谈未来
+*嵌入式实时操作系统 VxWorks 及其开发环境 Tornado
+*系统分析与设计 = Systems analysis & design

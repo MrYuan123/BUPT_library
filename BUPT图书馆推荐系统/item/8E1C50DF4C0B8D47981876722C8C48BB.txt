@@ -1,0 +1,14 @@
+#大数据时代 : 生活、工作与思维的大变革 = Big data : a revolution that will transform how we live, work and think
+#Excel 2010图表实战技巧精粹
+#用户体验度量 : 收集、分析与呈现 = Measuring the user experience : collecing, analyzing, and presenting usability metrics
+#精通色彩搭配 : 100%全能网页配色密码
+*R语言实战 = R in action : data analysis and graphics with R
+*用户体验与可用性测试
+*产品经理那些事儿
+*启示录 : 打造用户喜爱的产品
+*乔布斯 : 产品制胜法则
+*牛奶可乐经济学 : 完整版 = The Economic naturalist : in search of explanations for everyday enigmas
+*智能时代 = On intelligence : 当所有的机器都能学习思考, 我们的生活会如何改变
+*云计算 = Cloud computing : 大数据时代的系统工程
+*基业长青 = Built to last : successful habits of visionary companies
+*失乐园 = Paradise lost

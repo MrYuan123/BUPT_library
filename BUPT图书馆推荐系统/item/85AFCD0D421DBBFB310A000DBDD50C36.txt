@@ -1,0 +1,12 @@
+#C++ 程序设计 = Introduction to programming with C++
+#Visual C++ 从入门到精通
+*非线性光学 = Nonlinear optics
+*数据结构与算法 : C++版
+*Effective C++ : 改善程序与设计的55个具体做法 : 中文版 = Effective C++ : 55 specific ways to improve your programs and designs
+*C++编程兵书
+*C++ PRIMER 中文版 = C++ Primer
+*通过游戏编程实战教新手学C++编程
+*C++ 编程思想 = Thinking in C++ . Volume one , Introduction to standard C++
+*狂人 C : 程序员入门必备
+*计算机网络
+*线性代数

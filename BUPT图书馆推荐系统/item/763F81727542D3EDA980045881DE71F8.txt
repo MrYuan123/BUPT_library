@@ -1,0 +1,12 @@
+#计算机网络 : 原理、技术与应用
+#机器学习系统设计 = Building machine learning systems with python
+*Mahout实战 = Mahout in action
+*机器学习与R语言 = Machine learning with R
+*数据挖掘教程
+*下一代无源光网络
+*离散数学
+*玩转UML与Rose
+*计算机操作系统
+*精通 Verilog HDL 语言编程
+*智能大数据SMART准则 : 数据分析方法、案例和行动纲领 = Big data : using SMART big data, analytics and metrics to make better decisions and improve performance
+*Python Web开发学习实录

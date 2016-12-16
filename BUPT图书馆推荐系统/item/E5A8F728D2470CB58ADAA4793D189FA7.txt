@@ -1,0 +1,12 @@
+#Node.js开发实战详解
+#神经网络 = Neural networks
+*汤姆·索亚历险记 = The adventures of tom sawwyer
+*Node.js权威指南 = Node.js : the definitive guide
+*Scala 编程 = Programming in Scala
+*AngularJS权威教程 = The complete book on AngularJS
+*Node.js项目实践 : 构建可扩展的Web应用 = Practical node.js : building real-world scalable web apps
+*JavaScript & jQuery交互式Web前端开发
+*Node与Express开发 = Web development with node and express leveraging the JavaScript stack
+*MATLAB GUI设计入门与实战
+*MATLAB神经网络编程
+*神经网络盲均衡理论、算法与应用

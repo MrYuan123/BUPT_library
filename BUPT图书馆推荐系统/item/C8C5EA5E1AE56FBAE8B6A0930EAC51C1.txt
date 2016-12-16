@@ -1,0 +1,23 @@
+#概率论·数理统计·随机过程
+#抉择
+#应用随机过程 : 概率模型导论 = Introduction to probability models
+#务虚笔记
+#离散数学与组合数学
+#天黑以后
+#流程的永恒之道 : 工作流及BPM技术的理论、规范、模式及最佳实践
+#工作流管理 : 模型、方法和系统
+#贝叶斯网引论
+#罗生门
+#概率论基础教程 = A first course in probability
+#宿命
+#离散数学
+*罪与罚
+*丁玲小说 = Ding Ling^s selected short stories
+*无线通信 = Wireless communications
+*Xilinx FPGA开发实用教程 = Xilinx FPGA : development and application
+*概率论及其应用 = An introduction to probability theory and its applications . 卷1
+*光荣日 = The glorious day : 第一季
+*恶意
+*景年知几时 = Love can do miracles
+*随机过程 . Ⅰ = Random process . Ⅰ
+*像少年啦飞驰

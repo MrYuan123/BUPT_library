@@ -1,0 +1,14 @@
+#哈佛心理课
+#Linux基础教程与实验指导
+#换个活法 : 临终前会后悔的25件事
+#Hadoop基础教程 = Hadoop beginner's guide
+*Spark快速数据处理 = Fast data processing with Spark
+*Spark技术内幕 : 深入解析Spark内核架构设计与实现原理 = Spark internals : design and implement principle of Spark core
+*深入理解大数据 : 大数据处理与编程实践 = Understanding big data : big data processing and programming
+*Hadoop 权威指南 : 中文版
+*Python 3 程序开发指南 = Programming in Python 3
+*数据挖掘十大算法
+*数据挖掘导论 : 完整版 = Introduction to data mining
+*Java程序员面试笔试宝典
+*中文信息抽取原理及应用
+*自然语言处理基本理论和方法

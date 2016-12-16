@@ -1,0 +1,11 @@
+#MATLAB R2012a超级学习手册
+*MATLAB R2013a基础与可视化编程
+*ARM处理器裸机开发实战 : 机制而非策略
+*C++ STL基础及应用
+*光纤通信 = Fiber optic communications
+*MATLAB 2008 全程指南
+*奇点临近 = The singularity is near when humans transcend biology
+*通信原理及MATLAB/Simulink仿真 = Principles and MATLAB/Simulink simulations of communications
+*数字通信原理 = Principles of digital communication
+*随机过程及其应用
+*随机过程基础 = Essentials of stochastic processes

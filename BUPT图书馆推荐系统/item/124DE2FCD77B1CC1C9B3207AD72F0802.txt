@@ -1,0 +1,13 @@
+#Hadoop实战 = Hadoop in action
+#MySQL 5.6从零开始学 : 视频教学版
+#中文版Photoshop CS5完全自学教程 : 超值版
+*ppk 谈 JavaScript = ppk no JavaScript
+*数据库原理与应用教程
+*模拟电子技术实验教程
+*OpenStack部署实践
+*并行算法导论 = Introduction to parallel algorithms
+*半导体材料
+*数据挖掘原理与算法
+*R语言实战 = R in action : data analysis and graphics with R
+*职业能力测试
+*光电子材料与器件

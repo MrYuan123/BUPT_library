@@ -1,0 +1,14 @@
+#数学物理方法学习指导
+#相控阵雷达数据处理 = Phased array radar data processing
+#OFDM原理与标准 : 通信技术的演进
+#相控阵雷达接收技术 = Receive techniques for phased array radar
+*哈佛凌晨四点半 : 哈佛大学送给青少年的最好礼物
+*数字通信 = Digital communications
+*Visual C++程序设计与项目实践
+*数据结构教程 : C++语言描述
+*世界是平的 : 21世纪简史 = The world is flat : a brief history of the twenty-first century
+*Visual C++典型模块与项目实战大全
+*概率论与随机过程
+*浪潮之巅 = On top of tides
+*OFDM 关键技术与应用
+*习得性无助 = Learned helplessness : a theory for the age of personal control

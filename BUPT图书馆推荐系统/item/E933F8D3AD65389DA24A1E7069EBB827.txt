@@ -1,0 +1,14 @@
+#大学基础物理 . 第二册
+#大学基础物理 . 第三册
+#ETS 新托福考试官方指南 = The official guide to the TOEFL test
+#大学基础物理 . 第一册
+*Java程序设计
+*JavaScript学习指南
+*Java 编程思想 = Thinking in Java
+*Java程序设计经典课堂
+*大学物理 . 下
+*大学物理学 . 第四册
+*大学基础物理学 = University fundamental physics . 下册
+*大学物理解题方法与技巧
+*新编复变函数题解
+*数学建模 = A first course in mathematical modeling

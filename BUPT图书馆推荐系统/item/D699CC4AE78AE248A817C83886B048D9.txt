@@ -1,0 +1,22 @@
+#2016年数据结构联考复习指导 = Review guide of data structures entrance exam
+#2016年计算机组成原理联考复习指导 = Review guide of computer organization and architecture entrance exam
+#2014年计算机网络联考复习指导 = Review guide of computer networks entrance exam
+#MySQL数据库应用从入门到精通
+#信息科学原理
+#数据结构 : C++语言版
+#2016年操作系统联考复习指导 = Review guide of operating systems entrance exam
+#分布式计算原理与应用
+#从零开始学Java
+#计算机网络
+#精通HTML+CSS网页布局与样式 : 视频教学版
+#数据库系统原理与设计
+*量子保密通信协议的设计与分析
+*2016版计算机网络高分笔记
+*2015版计算机组成原理高分笔记
+*2016版数据结构高分笔记
+*面向对象程序设计 = Object-oriented program design : JavaJave
+*数据结构 = Data structure : C语言版
+*数据库原理与应用 (第2版) 实验指导与习题解答
+*Hive编程指南
+*Effective C++ : 改善程序与设计的55个具体做法 : 中文版 = Effective C++ : 55 specific ways to improve your programs and designs
+*Hadoop MapReduce实战手册

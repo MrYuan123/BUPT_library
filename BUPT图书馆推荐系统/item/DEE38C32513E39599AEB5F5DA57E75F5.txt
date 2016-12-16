@@ -1,0 +1,11 @@
+#自己动手写网络爬虫
+*Web 服务 : 原理与技术 = Web Services : principles and technology
+*轻量级Java EE企业应用实战 : Struts 2+Spring 4+Hibernate整合开发
+*统计学习方法
+*Java多线程编程核心技术 = Java multi-thread programming
+*信息科学原理
+*西方文化风情路 , 美国篇
+*黑客攻防入门与进阶
+*大洋彼岸的移民国家 : 美国 = The immigrant nation on the other side of the Ocean : the United Statesof America
+*基于 OpenCV 的计算机视觉技术实现
+*信息理论基础习题集

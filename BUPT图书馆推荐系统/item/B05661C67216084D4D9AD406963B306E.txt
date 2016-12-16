@@ -1,0 +1,12 @@
+#遗传算法 : 理论、应用与软件实现
+#蚁群算法原理及其应用 = Ant coloby algorithms : theory and applications
+*Spark大数据处理技术
+*Computer science illuminated =
+*Fundamentals of computers =计算机基础 /计算机基础
+*设计模式从入门到精通
+*MATLAB应用大全
+*精通MATLAB最优化计算
+*配送车辆优化调度模型与算法
+*云计算 : 资源调度管理
+*遗传算法的基本理论与应用
+*精通 MATLAB 神经网络

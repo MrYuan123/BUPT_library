@@ -1,0 +1,18 @@
+#移动通信基础
+#移动通信原理
+#LTE无线网络规划与设计 = LTE wireless network planning & design
+#Hadoop海量数据处理 : 技术详解与项目实战
+#Hadoop大数据处理 = Big data processing
+#LTE网络规划设计手册 = LTE network planning and design handbook
+#高级无线网络 : 4G技术
+#LTE协议栈与信令分析 = LTE protocol stack and signaling analysis
+*移动通信原理、技术与系统
+*大话核心网
+*LTE系统原理及应用
+*C++ 程序设计
+*C++ 程序设计习题集和实验指导
+*学习R = Learning R
+*C#本质论 = Essential C# 5.0
+*C++ Primer 中文版
+*MySQL技术内幕
+*SQL Server 2012数据库应用案例课堂

@@ -1,0 +1,14 @@
+#More Effective C++ 中文版 : 35个改善编程与设计的有效方法 = More Effective C++ : 35 new ways to improve your programs and designs
+#国际学术会议英语 = English for international academic conference
+#21 天学通 C++
+#天线与电波传播
+*深入理解计算机系统 = Computer systems : a programmer's perspctive
+*Effective STL中文版 : 50条有效使用STL的经验 = Effective STL : 50 specific ways to improve your use of the standard template library
+*智能天线 = Smart antennas for wireless communications : MATLAB版
+*电磁场与电磁波
+*天线测量实用手册 = Antenna measurement engineering handbook
+*天线理论与技术 = Antenna theory and techniques
+*陈列天线理论与工程应用
+*阵列天线分析与综合
+*宽频带微带天线技术及其应用
+*分组密码的设计与分析

@@ -1,0 +1,20 @@
+#研究生信息素质高级教程
+#信息与社会
+#论语别裁 . 下册
+#经济学原理 = Principles of economics
+#IBM SPSS数据分析与挖掘实战案例精粹
+#企业价值评估 = Corporate valuation for portfolio investment
+#互联网金融革命 : 中国金融的颠覆与重建
+#国富论轻松读 = The wealth of nations : 市场经济下必修的经济“圣经”
+#信息简史 = The Information : a history, a theory, a flood
+#数据统计分析的R软件应用
+*HTML5游戏开发实战 = HTML5 games development by example : beginner's guide
+*统计学完全教程
+*概率论札记
+*SPSS与统计分析
+*概率论与数理统计学习指导
+*SPSS 19.0统计分析从入门到精通
+*管理科学研究方法
+*从零开始做运营
+*工业4.0实践手册
+*纠错编码原理及MATLAB实现

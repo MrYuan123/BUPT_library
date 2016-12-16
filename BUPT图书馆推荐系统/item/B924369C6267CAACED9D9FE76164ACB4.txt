@@ -1,0 +1,15 @@
+#数据挖掘技术 : 应用于市场营销、销售与客户关系管理
+#少有人走的路 , 心智成熟的旅程 = The road less traveled
+#数学之美 = Beauty of mathematics
+#犯罪心理学 = Criminal behavior: a psychosocial approach
+#大数据 小故事
+*运筹学导论 = Operations research : an introduction , 初级篇
+*数学建模 = A first course in mathematical modeling
+*智能大数据SMART准则 : 数据分析方法、案例和行动纲领 = Big data : using SMART big data, analytics and metrics to make better decisions and improve performance
+*计算机网络 : 原理、技术与应用
+*Python Web开发学习实录
+*零基础学Python
+*深入解析SAS : 数据处理、分析优化与商业应用
+*Linux Shell脚本攻略 = Linux Shell Scripting Cookbook
+*Python 学习手册
+*LTE协议栈与信令分析 = LTE protocol stack and signaling analysis

@@ -1,0 +1,24 @@
+#二十世纪艺术史 = Die geschichte der kunst im 20. jahrhundert : 文联版
+#中国现代通俗文学史 : 插图本
+#方寸指间 : 移动设计实战手册
+#施蛰存读书
+#西方哲学史 = Socrates to sartre and beyond : 从苏格拉底到萨特及其后a history of philosophy
+#毛泽东自传 = The autobiography of Mao Tse-tung
+#文字艺术设计 = Typography art design
+#情感狱
+#人生
+#中国现代文学新编
+#文字设计
+#西方艺术史
+#写给大众的西方哲学 = Western philosophy to all
+#经典杂文读本
+*潮骚
+*力量 = Force : 动画速写与角色设计character design from life drawing
+*文化苦旅
+*Python 学习手册
+*Linux入门很简单
+*幻夜
+*面向对象的 Java 语言程序设计
+*经济学原理 = Principles of economics
+*统计学习方法
+*推荐系统 = Recommender systems : an introduction

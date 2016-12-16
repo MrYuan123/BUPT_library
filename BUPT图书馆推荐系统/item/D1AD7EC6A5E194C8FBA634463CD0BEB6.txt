@@ -1,0 +1,16 @@
+#认识你自己 : 自我管理的智慧宝典
+#领导学 : 理论、实践与方法
+#《心理学》 (人教版) 笔记和习题详解
+#时间管理 = The management for dummies
+#马克思劳动价值理论与当代现实 = Marx's lalor theory of value and contemporary reality
+#金融学考研真题与典型题详解
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

@@ -1,0 +1,11 @@
+#现代信号处理 = Modern signal processing
+*近世代数及其应用
+*近世代数基础
+*近世代数
+*彼得·林奇的成功投资 : 珍藏版 = One up on wall street : how to use what you already know to make money in the market
+*富爸爸投资指南 = Rich Dad's guide to investing
+*Android嵌入式系统程序开发 : 基于Cortex-A8
+*波达方向估计
+*3GPP 长期演进 (LTE) 技术原理与系统设计 = 3GPP long term evolution : principle and system design
+*多用户、多小区 MIMO 通信技术 = Multi-user multi-cell MIMO communication technology
+*3GPP 长期演进 (LTE) 系统架构与技术规范 = 3GPP long term evolution : architecture and specification

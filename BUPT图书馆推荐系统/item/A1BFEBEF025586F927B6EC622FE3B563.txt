@@ -1,0 +1,13 @@
+#Linux入门与实战经典
+#Hadoop核心技术 = Core hadoop
+#计算机操作系统
+*Hadoop 2.0-YARN核心技术实践
+*图解TCP/IP
+*嗨翻C语言
+*OpenCV图像处理编程实例
+*OpenCV 教程 , 基础篇
+*OpenCV2计算机视觉编程手册
+*React Native : 用JavaScript开发移动应用 = The React Native book
+*ES6标准入门 = ECMAScript 6 primer
+*计算机操作系统教程
+*计算机网络教程

@@ -1,0 +1,12 @@
+#数据库系统概论
+#2016银行业专业人员职业资格考试辅导教材 , 银行业法律法规与综合能力
+*编程珠玑 = More programming pearls : confessions of a coder . Ⅱ
+*编程珠玑 = Programming pearls
+*剑指Offer : 名企面试官精讲典型编程题
+*C++ Primer : 中文版
+*UNIX网络编程 . 卷2 , 进程间通信
+*程序员面试宝典
+*计算机算法设计与分析
+*深入理解 LINUX 内核
+*计算机网络
+*线性代数

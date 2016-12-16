@@ -1,0 +1,14 @@
+#ASP.NET Web开发学习实录
+#从零开始学 ASP.NET
+#疯狂iOS讲义 . 上 : Objective-C 2.0与iPhone/iPad应用开发基础
+#HTML 5从入门到精通
+*疯狂iOS讲义 . 下 , iPhone/iPad高级应用与手游开发
+*精通HTML 5+CSS 3 : 100%网页设计与布局密码
+*OpenCV 教程 , 基础篇
+*数据挖掘原理、算法与应用
+*Python语言程序设计
+*jQuery Mobile移动网站开发
+*MySQL数据库应用从入门到精通
+*HTML5 & CSS3 & Javascript App程序开发实战
+*HTML5+CSS3精致范例辞典 = Deluxe web designers handbook
+*PHP Web开发学习实录

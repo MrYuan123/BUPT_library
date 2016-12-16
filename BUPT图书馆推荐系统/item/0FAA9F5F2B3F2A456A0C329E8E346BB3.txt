@@ -1,0 +1,13 @@
+#C++ 程序设计原理与实践 = Programming principles and practice using C++
+#轻松学C++编程
+#STL源码剖析 = The Annotated STL sources
+*C/C++求职宝典
+*数据结构基础 = Fundamentals of data structures in C : C语言版
+*C++编程思想 : 第1卷标准C++导引(原书第2版) & 第2卷实用编程技术 = Thinking in C++ : Volume one : introduction to standard C++, Second Edition & Volume Two : practical programming
+*Python 核心编程
+*Natural language processing with Python =Python自然语言处理 /自然语言处理
+*编程珠玑 . 续 = More programming pearls
+*程序员面试宝典
+*C++ PRIMER 中文版 = C++ Primer
+*无限的清单
+*ADS2011射频电路设计与仿真实例

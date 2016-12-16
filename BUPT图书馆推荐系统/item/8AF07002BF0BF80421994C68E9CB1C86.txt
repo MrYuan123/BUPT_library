@@ -1,0 +1,11 @@
+#C++ Primer Plus (第五版) 中文版
+*Sobolev 空间与偏微分方程引论
+*Visual C++网络编程
+*C++ 多核高级编程
+*Visual C++ 开发实战
+*计算电磁学的数值方法
+*非线性光纤光学原理及应用 = Nonlinear fiber optics, fourth edition & applications of nonlinear fiber optics, second edition
+*光电技术
+*激光技术
+*C++面向对象程序设计实用教程
+*肠子

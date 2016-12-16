@@ -1,0 +1,14 @@
+#PHP+MySQL网站开发全程实例
+#HTML 5+CSS 3入门经典
+#CSS+HTML 语法与范例详解词典
+#JavaScript 动态网页技术详解
+*从零开始学Android编程
+*MySQL & PHP 快速入门
+*PHP 从入门到精通
+*PHP程序设计经典300例
+*Web 开发的平民英雄 : PHP+MySQL
+*PHP动态网站开发案例课堂
+*机器学习理论及应用 = Machine learning theory and its applications
+*计算机网络
+*线性代数
+*高等数学 . 上册

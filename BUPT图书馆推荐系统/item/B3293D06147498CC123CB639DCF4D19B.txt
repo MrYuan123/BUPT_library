@@ -1,0 +1,13 @@
+#三天读懂五千年中国史
+#Java开发实例大全 , 基础卷
+#SQL 学习指南
+*Fundamentals of computers =计算机基础 /计算机基础
+*Java入门经典
+*数据之美 : 一本书学会可视化设计 = Pata points : visualization that means something
+*电商数据分析淘宝实战
+*CSS禅意花园 = The Zen of CSS design
+*数据挖掘 = Data mining : 实用机器学习技术practical machine learning tools and techniques
+*货币战争 = Currency wars . 4 , 战国时代
+*征服世界的美学暴力 = The force of aesthetics : “电影级”幻灯片设计方法论
+*Python 学习手册
+*Spark核心技术与高级应用 = Spark core technology and advanced applications

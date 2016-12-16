@@ -1,0 +1,15 @@
+#光波导原理与器件 = Optical waveguide principle and devices
+#光子晶体原理及应用
+#光子晶体导论
+#数学物理方法
+#导波光学 = Wave guiding optics
+*数学物理方法简明教程
+*高等光学
+*电动力学 = Electrodynamics
+*硅基光电子发光材料与器件
+*硅基光电子学
+*非线性光纤光学原理及应用 = Nonlinear fiber optics & applications of nonlinear fiber optics
+*光波导理论与技术
+*量子通信原理与技术
+*非线性光学 = Nonlinear optics
+*电子战接收机与接收系统 = Electronic warfare receivers and receiving systems

@@ -1,0 +1,14 @@
+#数据挖掘原理与 SPSS Clementine 应用宝典
+#Redis入门指南
+#数据挖掘 : 实用案例分析 = Data mining : practical case analysis
+#实战大数据
+*Web数据挖掘
+*常用算法深入学习实录
+*解析Java虚拟机开发 : 权衡优化、高效和安全的最优方案
+*Hadoop海量数据处理 : 技术详解与项目实战
+*零基础学算法
+*基于SPSS的数据分析
+*数据挖掘 = Data mining : 概念与技术concepts and techniques
+*MapReduce 2.0源码分析与编程实战
+*TD-LTE 技术原理与系统设计 = TD-LTE principles and system design
+*TD-LTE 网络规划设计与优化 = TD-LTE network planning, design and optimization

@@ -1,0 +1,16 @@
+#简明天线理论与设计应用
+#心理学与口才技巧 . 2 , 打动人心的说话策略
+#信息论基础
+#研究是一门艺术 = The craft of research
+#Fundamentals of wireless communication =无线通信基础 /无线通信基础
+#如何获得博士学位 = How to get a PhD
+*通信系统原理 = Fundamentals of communication systems
+*电子线路与电子系统
+*微波工程 = Microwave engineering
+*天线理论与技术
+*射频与微波电子学
+*数字电子技术基础
+*信息论与编码
+*信息论
+*信息论基础教程习题解答与实验指导
+*信息论基础及应用

@@ -1,0 +1,13 @@
+#疯狂Android讲义
+#数据挖掘十大算法
+#机器学习实战 = Machine learning in action
+*数据挖掘导论 : 完整版 = Introduction to data mining
+*算法导论 = Introduction to algorithms
+*数据结构 : Java语言描述
+*数据库基础教程 : SQL Server平台
+*QTP 自动化测试实践
+*实战Hadoop : 开启通向云计算的捷径
+*Python数据分析基础教程 : NumPy学习指南 = NumPy beginner's guide
+*说孝庄
+*Java 编程思想 = Thinking in Java
+*电磁兼容的印制电路板设计 = Printed circuit board design techniques for EMC compliance

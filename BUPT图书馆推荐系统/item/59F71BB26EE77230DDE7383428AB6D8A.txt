@@ -1,0 +1,15 @@
+#软件工程原理与应用
+#C#开发实例大全 , 基础卷
+#SQL Sever教程
+#SQL Server数据库应用课堂实录
+#C#实践教程
+*C#从入门到精通
+*C#图解教程 = Illustrated C# 2012
+*精通PHP+MySQL动态网站开发
+*C#入门经典
+*微信公众平台开发最佳实践 = WeChat public platform development best practice
+*C#语言程序设计基础
+*大数据技术与应用
+*我的第一本C++书
+*现代微型计算机原理与接口技术教程
+*计算机网络

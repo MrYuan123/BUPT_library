@@ -1,0 +1,13 @@
+#樊昌信《通信原理》 (第6版) 笔记和课后习题 (含考研真题) 详解
+#通信原理 (第六版) 同步辅导及习题全解
+#通信原理学习及考研辅导
+*通信原理学习辅导与习题解答
+*数学建模方法及其应用
+*通信原理
+*微型计算机技术学习指导与习题解答
+*通信原理学习辅导 = Tutorial of problems and test papers for communication principles
+*通信原理考试要点与真题精解
+*通信原理习题集
+*电磁场与电磁波学习及考研辅导
+*TD-LTE 技术原理与系统设计 = TD-LTE principles and system design
+*LTE权威指南 = Fundamentals of LTE

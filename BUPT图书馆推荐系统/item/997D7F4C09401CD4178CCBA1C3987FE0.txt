@@ -1,0 +1,15 @@
+#论“完整的人” = The Whole person : 马克思人学生成论研究
+#价值存在和运动的辩证法 : 马克思《资本论》及其手稿的核心命题研究 = The dialectical being and motion of value : a study of core topics in Karl Marx "on capital" and his manuscripts
+#哲学是最大的安慰
+#先秦易儒道生态价值研究
+#寻找当下最美丽的自己
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

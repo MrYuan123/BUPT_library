@@ -1,0 +1,21 @@
+#数据结构与算法分析新视角
+#数据结构及应用算法教程
+#数据结构 : C语言描述 = Data structures in C
+#C++标准库 = The C++ standard library : a tutorial and reference
+#数据结构与算法分析 = Data structures and algorithm analysis in C++ : C++ 描述
+#数据结构 : 用面向对象方法与 C++ 语言描述
+#挑战程序设计竞赛
+#进军硅谷 : 程序员面试揭秘
+#深度探索C++对象模型 = Inside the C++ object model
+#程序员面试金典 = Cracking the coding interview : 150 programming questions and solutions
+#Java核心技术 . 卷1 , 基础知识 = Core Java . Volume I , Fundamentals
+*数据结构 = Data structure : C语言版
+*Java多线程编程核心技术 = Java multi-thread programming
+*数据挖掘导论 = Introduction to data mining
+*CCNA 实验指南
+*算法之美 : 隐匿在数据结构背后的原理 : C++版
+*Python 参考手册 = Python essential reference
+*OpenStack开源云王者归来 : 云计算、虚拟化、Nova、Swift、Quantum与Hadoop
+*C++泛型 : STL原理和应用
+*STL源码剖析 = The Annotated STL sources
+*七周七语言 : 理解多种编程范型 = Seven languages in seven weeks : a pragmatic guide to learning programming languages

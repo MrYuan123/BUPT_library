@@ -1,0 +1,12 @@
+#通信原理习题集
+#通信原理 : 基于Matlab的计算机仿真
+*TCP/IP 协议族
+*现代控制系统 = Modern control systems
+*通信原理
+*MATLAB 与控制系统仿真实践
+*数据库设计教程 = Database solutions : a step-by-step guide to building database
+*C 程序设计教程 : 理论与实践
+*大话企业级Android应用开发实战
+*电磁场与电磁波习题精解
+*微机原理与接口技术 : 辅导及习题
+*CST天线仿真与工程设计

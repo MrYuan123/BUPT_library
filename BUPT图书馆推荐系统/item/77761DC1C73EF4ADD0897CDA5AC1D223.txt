@@ -1,0 +1,13 @@
+#数据挖掘原理、算法与应用
+#Hadoop 技术内幕 : 深入解析MapReduce架构设计与实现原理 = Hadoop internals : in-depth study of MapReduce
+#Python 学习手册
+*Hadoop权威指南
+*动态数据挖掘
+*数据挖掘技术应用实例
+*数据挖掘原理与实践
+*OpenCV 教程 , 基础篇
+*Python语言程序设计
+*HTML 5从入门到精通
+*Hadoop大数据处理 = Big data processing
+*JAVA 核心技术 . 卷II , 高级特性 = Core Jave . Volume II , Advanced features
+*MySQL高效编程

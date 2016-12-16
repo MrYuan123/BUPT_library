@@ -1,0 +1,16 @@
+#托业基础必备 , 听力
+#TOEIC 990 分核心词汇
+#英语大家说 : 从ABC到脱口秀
+#30天征服新托业语法 = Conquering the TOEIC grammar within 30 days
+#新托业听力应考对策 = New Toeic listening skills and strategies
+#托业基础必备 , 阅读
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

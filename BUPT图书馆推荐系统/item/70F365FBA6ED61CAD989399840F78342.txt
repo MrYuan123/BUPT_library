@@ -1,0 +1,16 @@
+#FDI、贸易开放度与经济增长 : 基于中国的经验分析 = FDI, openness and China's economic growth-based on China's empirical analysis
+#中国吸收外资 30 年
+#外商直接投资和经济增长 : 国内金融市场作用
+#海峡西岸经济区发展报告 = The Report of economic and social development in the economic zone on the west coast of the Taiwan strait : 2006年2006
+#外商对华投资新趋势及影响 : 理论与实证研究
+#中国利用外资的综合效应与结构优化
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

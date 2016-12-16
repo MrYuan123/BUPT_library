@@ -1,0 +1,12 @@
+#Java语言程序设计教程
+#从零进阶！数据分析的统计基础
+*Shell从入门到精通
+*数据结构 : Java语言描述
+*神经网络与机器学习 = Neural networks and learning machines
+*人工神经网络原理
+*Python项目开发实战
+*Python绝技 : 运用Python成为顶级黑客 = Violent Python : a cookbook for hackers, forensic analysts, penetration testers and security engineers
+*大数据技术前沿
+*大数据的互联网思维
+*谁说菜鸟不会数据分析 , 工具篇
+*数据挖掘 : 你必须知道的32个经典案例

@@ -1,0 +1,11 @@
+#HTML、CSS、JavaScript网页制作从入门到精通
+*超实用的JavaScript代码段
+*考研英语词汇词根+联想记忆法[乱序版]
+*PHP 和 MySQL Web 开发 = PHP and MySQL Web development
+*MySQL快速入门
+*普京大传 = Putin biography
+*jQuery 即学即用
+*JavaScript高级程序设计 = Professional JavaScript for web developers
+*张居正 . 第四卷
+*HTML + CSS 网页布局开发指南
+*UML基础与Rose建模案例

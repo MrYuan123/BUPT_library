@@ -1,0 +1,18 @@
+#抽象与移情 = Abstraction and empathy = 对艺术风格的心理学研究
+#手绘的奇思妙想 : 49位设计师的创意速写簿 = An illustrated life : drawing inspiration from the private sketchbooks of artists, illustrators and designers
+#抵抗的群体 = The shape of a pocket
+#电影的故事 = Story of film
+#设计构成基础
+#动画动态造型 = Drawing the motions of characters in animation
+#什么是大师级作品 . Ⅱ
+#什么是大师级作品 . Ⅰ
+*设计鉴赏
+*构成设计
+*设计构成 : 创意 + 方法 + 实践
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

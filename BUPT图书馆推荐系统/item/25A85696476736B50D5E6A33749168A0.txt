@@ -1,0 +1,13 @@
+#JavaScript程序设计 : 基础·PHP·XML = Introduction to JavaScript programming with XML and PHP
+#HTML 5+CSS 3+JavaScript网页设计案例课堂
+#通信原理
+*网络安全基础 : 应用与标准
+*零基础学PHP : 11.5小时多媒体教学视频
+*Python 学习手册
+*HTML+CSS+JavaScript网页制作从新手到高手
+*HTML5与CSS3基础教程 = HTML5 and CSS3 visual quickstart guide
+*数据结构 : Java语言描述
+*标准日本语词汇、语法训练教程 , 初级上、下册
+*中日交流标准日本语单词随身听 , 初级
+*精通HTML5+CSS3+JavaScript网页设计
+*通信原理习题集

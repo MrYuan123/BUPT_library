@@ -1,0 +1,12 @@
+#Python自然语言处理
+#了不起的Node.js : 将JavaScript进行到底 = Smashing Node. js : JavaScript everywhere
+*Python数据可视化编程实战
+*扩展jQuery = Extending jQuery
+*数据结构与算法JavaScript描述 = Data structures and algorithms with JavaScript
+*C++入门经典
+*新常态下的心常态 : 让我们习惯增长的“极限”
+*情商 . 3 : 影响你一生的工作情商
+*21天学通JavaScript
+*十八岁给我一个姑娘
+*Python Cookbook (第2版) 中文版
+*JavaScript 权威指南

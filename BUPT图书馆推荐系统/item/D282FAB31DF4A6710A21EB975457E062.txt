@@ -1,0 +1,11 @@
+#统计学习方法
+*推荐系统 = Recommender systems : an introduction
+*高性能网站建设指南 : 前端工程师技能精髓 = High performance web sites
+*轻量级Java EE企业应用实战 : Struts 2+Spring 4+Hibernate整合开发
+*深入理解计算机系统 = Computer systems : a programmer's perspctive
+*自己动手写网络爬虫
+*Java多线程编程核心技术 = Java multi-thread programming
+*Web性能权威指南 = High performance browser networking
+*图解HTTP
+*神经网络与机器学习 = Neural networks and learning machines
+*数据可视化之美

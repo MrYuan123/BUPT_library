@@ -1,0 +1,18 @@
+#数学经验 : 学习版 = The mathematical experience : study edition
+#数字通信 = Digital communications
+#电磁通论 = A treatise on electricity and magnetism
+#电磁学专题研究
+#古今数学思想 . 第三册
+#数学分析教程 . 上册
+#古今数学思想 . 第二册
+#物理学史 = History of physics
+*数字与模拟通信系统 = Digital and analog communication systems
+*数字通信 : 基础与应用 = Digital communications : fundamentals and applications
+*数字通信 : 中文精简版 = Digital communications
+*TCP/IP 协议族
+*通信系统中的多采样率信号处理 = Multirate signal processing for communication systems
+*Turbo 码设计与应用
+*统计信号处理基础 : 估计与检测理论 . 卷I = Fundamentals of statistical signal processing . volume I , estimation theory统计信号处理基础 : 估计与检测理论 . 卷II = Fundamentals of statistical signal processing . volume II , detection theory
+*宽带无线通信 OFDM 技术
+*高效信道编译码技术及其应用
+*电力线通信技术与实践

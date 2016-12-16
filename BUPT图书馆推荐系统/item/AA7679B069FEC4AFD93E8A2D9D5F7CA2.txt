@@ -1,0 +1,13 @@
+#JavaScript DOM 编程艺术 = DOM Scripting : web design with JavaScript and the document object model
+#启示录 : 打造用户喜爱的产品
+#简约至上 : 交互式设计四策略
+*失控 = Out of control : 全人类的最终命运和结局
+*无线光MIMO系统中空时编码理论
+*C++ 从入门到精通
+*浪潮之巅 = On top of tides
+*设计透视学
+*平面构成设计
+*设计元素 : 罗伊娜·里德·科斯塔罗与视觉构成关系
+*平面构成 = Plane constitution
+*用户体验与可用性测试
+*乔布斯 : 产品制胜法则

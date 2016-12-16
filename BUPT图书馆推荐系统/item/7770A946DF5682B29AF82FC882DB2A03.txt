@@ -1,0 +1,11 @@
+#OpenCV3编程入门
+*深入理解Bootstrap = Understanding Bootstrap
+*图解博弈心理学微表情心理学
+*C++与数据结构
+*这也能想到 : 巧妙解答无厘头问题 = Gusstimation : solving the world's problems on the back of a cocktail napkin
+*我们仨＠1963
+*大数据云图 : 如何在大数据时代寻找下一个大机遇 = Big data demystified
+*实战大数据
+*新版韩国语 . 1
+*浪潮之巅 = On top of tides . 上册
+*数据库原理及应用 (SQL Server) : 内容解析与习题解答

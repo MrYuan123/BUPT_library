@@ -1,0 +1,17 @@
+#MATLAB 7.0 程序设计快速入门
+#MATLAB 语言实用教程
+#Intel 微处理器 = The Intel microprocessors : 8086/8088, 80186/80188, 80286, 80386, 80486, Pentium, Pentium Pro Processor, Pentium II, Pentium III, Pentium 4, and Core2 with 64-bit extensions : architecture, programming, and interfacing
+#控制论 : 或关于在动物和机器中控制和通信的科学
+#深入理解计算机系统 = Computer systems : a programmer's perspective
+#MATLAB函数全能速查宝典
+#这些人, 那些事
+*现代控制理论基础
+*工程测试技术 = Engineering measurement technology
+*如果蜗牛有爱情 . 下
+*如果蜗牛有爱情 . 上
+*一个人的好天气
+*微机原理与接口技术
+*分布式系统原理与范型
+*Go语言程序设计 = Programming in Go : creating applications for the 21st century
+*妙趣横生的算法 : C++语言实现
+*代码大全 = Code complete

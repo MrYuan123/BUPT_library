@@ -1,0 +1,11 @@
+#设计模式之禅 = The Zen of design patterns
+*大数据时代的IT架构设计
+*PHP 函数库查询辞典
+*Spark大数据实例开发教程
+*Go语言编程 = The Go programming language
+*Spark MLlib机器学习实践
+*Go语言程序设计 = Programming in Go : creating applications for the 21st century
+*快学Scala = Scala for the impatient
+*算法与数据结构
+*Spark大数据处理技术
+*设计模式其实很简单

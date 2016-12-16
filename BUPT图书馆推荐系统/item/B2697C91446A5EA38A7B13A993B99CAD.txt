@@ -1,0 +1,14 @@
+#Spring源码深度解析
+#jQuery高级编程
+#JavaScript权威指南
+#CSS 设计彻底研究
+*JSP程序设计实训与案例教程
+*深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM : advanced features and best practices
+*游戏设计全方位学习
+*Unity3D游戏开发基础
+*HTML5游戏开发进阶指南 = Pro HTML5 games
+*荷塘月色
+*Hadoop云计算实战 = Hadoop cloud computing practice
+*SOA与REST : 用REST构建企业级SOA解决方案 = SOA with REST : principles, patterns & constraints for building enterprise solutions with REST
+*HTML 5开发精要与实例详解 = Essential HTML 5 and cases study
+*Hibernate 开发与实战

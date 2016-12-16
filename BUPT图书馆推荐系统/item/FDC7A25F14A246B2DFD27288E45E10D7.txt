@@ -1,0 +1,11 @@
+#数字通信 = Digital Communications
+*数字通信理论与系统
+*数字与模拟通信系统 = Digital and analog communication systems
+*TCP/IP 协议族
+*运筹学学习指导及习题集
+*MySQL 入门很简单
+*Digital and analog communication systems =数字与模拟通信系统 /数字与模拟通信系统
+*运筹学解题指导
+*计算机网络
+*线性代数
+*高等数学 . 上册

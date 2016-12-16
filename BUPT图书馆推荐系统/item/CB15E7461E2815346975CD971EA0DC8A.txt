@@ -1,0 +1,15 @@
+#最优化理论与算法习题解答
+#潮流 : UI设计必修课
+#应用量子密码学 = Applied quantum cryptography
+#无约束最优化计算方法
+#最优化方法
+*数理统计与数据分析 = Mathematical statistics and data analysis
+*量子密码协议的设计和分析
+*信息保护 : 从经典纠错到量子密码 = Protecting information : from classical error correction to quantum cryptography
+*量子计算和量子信息 = Quantum computation and quantum information . 二 , 量子信息部分
+*量子力学习题精选与剖析
+*VANET : 车载网技术及应用 = VANET : vehicular applications and inter-networking technologies
+*最优化方法及应用案例
+*PPT, 要你好看
+*移动无线传感器网 : 原理、应用和发展方向
+*数值最优化

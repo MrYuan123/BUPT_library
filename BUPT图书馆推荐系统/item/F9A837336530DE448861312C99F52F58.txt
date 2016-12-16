@@ -1,0 +1,12 @@
+#计算机组成原理 : 学习指导与习题解答
+#操作系统概念 = Operating system concepts
+*计算机组成与设计 : 硬件/软件接口 = Computer organization and design : the hardware/software interface
+*计算机组成原理 : 第五版·立体化教材
+*现代通信网监控与管理
+*Java 语言程序设计
+*经济学原理 = Principles of economics
+*新大学日语标准教程 , 基础篇 . 1
+*PHP和MySQL Web开发从新手到高手
+*标准C程序设计
+*Android程序设计入门、应用到精通
+*精通PHP+MySQL动态网站开发

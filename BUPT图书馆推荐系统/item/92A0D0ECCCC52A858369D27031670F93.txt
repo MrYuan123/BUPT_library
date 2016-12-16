@@ -1,0 +1,12 @@
+#Java Web开发入门很简单
+#自控力 : 斯坦福大学最受欢迎心理学课程 = The Willpower instinct
+*高等数学解题与分析
+*线性代数学习指导与典型例题
+*Kali Linux渗透测试技术详解
+*Kali渗透测试技术实战 = Hacking with Kail : practical penetration testing techniques
+*萨姆·劳埃德的数学趣题 = Mathematical puzzles of sam loyd
+*女人的能量魔法书
+*大数据分析与数据挖掘
+*Python入门经典
+*Kali Linux渗透测试的艺术 = Kali Linux: assuring security by penetration testing
+*Python语言程序设计

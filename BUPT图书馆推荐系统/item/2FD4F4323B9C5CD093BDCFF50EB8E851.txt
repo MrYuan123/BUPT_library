@@ -1,0 +1,18 @@
+#Visual C++网络编程
+#Java EE设计模式解析与应用
+#Java程序员成功面试秘籍
+#C++ 网络编程 = C++ network programming . 卷1Volume 1 , 运用ACE和模式消除复杂性
+#图解网络硬件
+#分布式服务框架原理与实践
+#Boost程序库探秘 : 深度解析C++准标准库
+#Scala函数式编程 = Functional programming in Scala
+*写给大忙人看的C++ = C++ for the impatient
+*Netty权威指南
+*大型网站技术架构 : 核心原理与案例分析
+*C++ 多核高级编程
+*Visual C++ 开发实战
+*C++ Primer Plus (第五版) 中文版
+*拒绝服务攻击 = Denial of service(DoS) attack
+*入侵检测系统及实例剖析
+*入侵检测理论与技术 = Theory and technologies of intrusion detection
+*疯狂Java讲义

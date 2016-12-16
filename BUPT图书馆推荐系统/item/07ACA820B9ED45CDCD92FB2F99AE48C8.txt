@@ -1,0 +1,15 @@
+#接入网技术 = Access network technology
+#对话下一代网络
+#QTP 从实践到精通
+#软件测试
+#无源光网络技术
+*计算机网络 : 自顶向下方法 = Computer networking : a top-down approach
+*Linux环境C程序设计
+*光纤通信技术
+*信息通信系统接入网维护管理概要
+*面向新型业务的宽带接入网
+*光通信中的 OFDM = OFDM for optical communications
+*接入网技术
+*光纤接入网规划设计手册
+*FTTx PON 技术与应用
+*宽带通信网原理

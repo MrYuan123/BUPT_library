@@ -1,0 +1,18 @@
+#游戏开发中的人工智能
+#Spark MLlib机器学习实践
+#Visual C++空间图形可视化算法原理与实践 = Algorithmic principles and practice of spatial graphics visualization based on VC++
+#并行编程方法与优化实践 = Parallel programmingmethodology and optimization in action
+#零基础学Python = Adventures in Python : 图文版
+#人工智能与机器翻译
+#智能信息处理 : 汉语语料库加工技术及应用
+#Python数据分析基础教程 : NumPy学习指南 = NumPy beginner's guide
+*Python语言程序设计
+*Spark大数据实例开发教程
+*设计模式之禅 = The Zen of design patterns
+*最有人性的“人” : 人工智能带给我们的启示 = The Most human human : what talking with computers teaches us about what it means to be alive
+*Python 3面向对象编程 = Python 3 object oriented programming
+*NumPy攻略 = NumPy cookbook : Python科学计算与数据分析
+*数据挖掘十大算法
+*Python语言程序设计 = Introduction to programming using Python
+*QTP 自动化测试实践
+*利用Python进行数据分析

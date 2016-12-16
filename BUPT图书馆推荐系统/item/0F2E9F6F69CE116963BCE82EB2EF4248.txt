@@ -1,0 +1,14 @@
+#高等数学 . 上册
+#复变函数
+#高等数学 . 下册
+#Verilog HDL高级数字设计 = Advanced digital design with the verilog HDL
+*线性代数
+*概率论与数理统计
+*FPGA 数字逻辑设计教程 : Verilog = Digital design using digilent FPGA boards Verilog/active-HDL edition
+*2015年考研数学新编考试参考书
+*托福考试官方指南 = The official guide to the TOEFL test
+*数学复习全书 , 数学一
+*离散数学常见题型解析及模拟题
+*概率论与数理统计习题集
+*线性代数学习辅导与习题全解
+*高等数学学习指导

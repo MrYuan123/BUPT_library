@@ -1,0 +1,14 @@
+#Java 程序设计学习指导与习题解答 = Schaum's outline of programming with Java
+#数据库技术与应用
+#Visual C++从入门到精通
+#数据库处理 = Database processing : 基础、设计与实现fundamentals, design, and implementation
+*JavaScript应用开发实践指南 = Learning JavaScript : a hands-on guide to the fundamentals of modern JavaScript
+*JavaScript 袖珍速查手册 = JavaScript phrasebook
+*HTML 5 与 CSS 3 权威指南 = HTML 5 and CSS 3 : the definitive guide
+*数据库原理及应用教程 = Database principles and applications
+*当你的才华还撑不起你的梦想时
+*高等数学习题课教程
+*全国硕士研究生入学统一考试计算机学科专业基础综合考点分析与全真模拟
+*HTML5 & CSS3编程入门经典
+*Android应用程序开发权威指南 = Introduction to Android application development
+*计算机网络考研习题解析

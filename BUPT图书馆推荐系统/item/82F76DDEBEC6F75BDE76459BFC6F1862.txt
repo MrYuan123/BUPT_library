@@ -1,0 +1,11 @@
+#信息论基础
+*信息论与编码
+*信息论
+*信息论基础教程习题解答与实验指导
+*信息论基础及应用
+*图论导引 = Introduction to graph theory
+*无师自通日本语 . 1 , 初级
+*信息理论基础
+*C++ 面向对象程序设计
+*信息论基础习题解答 = Elements of information theory : solutions to exercises
+*光纤通信系统

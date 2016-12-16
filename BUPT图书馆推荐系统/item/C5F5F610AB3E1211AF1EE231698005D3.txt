@@ -1,0 +1,13 @@
+#TD-LTE-Advanced移动通信系统设计 = TD-LTE-Advanced mobile communications system design
+#LTE系统原理及应用
+#C++ Primer : 中文版
+*4G移动通信技术权威指南 : LTE与LTE-Advanced = 4G LTE/LTE-Advanced for mobile broadband
+*LTE协议栈与信令分析 = LTE protocol stack and signaling analysis
+*大话核心网
+*剑指Offer : 名企面试官精讲典型编程题
+*LTE轻松进阶
+*C++ 程序设计语言 = The C++ programming language
+*Python编程入门 = Python : Visual quickstart guide
+*3G 核心网技术
+*LTE权威指南 = Fundamentals of LTE
+*LTE及LTE-Advanced无线协议

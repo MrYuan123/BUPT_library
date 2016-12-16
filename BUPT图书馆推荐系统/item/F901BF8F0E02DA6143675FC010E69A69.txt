@@ -1,0 +1,15 @@
+#数学物理方法专题 : 复变函数与积分变换
+#Linux Shell编程与编辑器使用详解
+#数据库原理与应用
+#MySQL技术内幕 : SQL编程 = Inside MySQL : SQL programming
+#MySQL内核 : InnoDB存储引擎 . 卷1
+*Python开发实战
+*Objective-C开发经典教程
+*SQL Server 完全自学手册
+*呼兰河传
+*智能光网络 : 体系结构、协议和标准
+*复变函数与积分变换
+*Java从入门到精通 : 实例版
+*跟老齐学Python : 从入门到精通
+*VC++项目开发实战密码
+*Android应用开发入门 = Android apps for absolute beginners

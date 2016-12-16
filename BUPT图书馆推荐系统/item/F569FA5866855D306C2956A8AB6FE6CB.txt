@@ -1,0 +1,13 @@
+#精通 Hibernate
+#JavaScript权威指南
+#Hibernate 开发与实战
+*HTML5程序设计 = Pro HTML5 programming
+*Spring 3.0就这么简单
+*HTML 5与CSS 3权威指南 = HTML 5 and CSS 3 : the definitive guide . 上册
+*Java Web编程实战宝典 : JSP+Servlet+Struts 2+Hibernate+Spring+Ajax
+*Struts 2+Hibernate+Spring整合开发深入剖析与范例应用
+*Java 开发典型模块大全
+*JavaScript详解 = JavaScript by example
+*疯狂Workflow讲义 : 基于Activiti的工作流应用开发
+*荷塘月色
+*AngularJS高级程序设计

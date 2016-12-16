@@ -1,0 +1,11 @@
+#图像模式识别 : VC++技术实现
+*C# 数字图像处理算法典型实例
+*模式识别 = Pattern recognition
+*数字图像处理 : MATLAB版 : 本科教学版 = Digital image processing using MATLAB
+*Digital image processing =数字图像处理 /数字图像处理
+*通信原理辅导与习题解答
+*电磁场与电磁波教学指导 : 习题解答与实验
+*通信原理实验教程
+*《微机原理与接口技术 (第二版)》习题解析和实验指导
+*基本通信原理习题解答
+*数字图像处理与识别

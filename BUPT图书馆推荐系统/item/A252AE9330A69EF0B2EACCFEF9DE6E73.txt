@@ -1,0 +1,17 @@
+#非线性规划 = Nonlinear programming
+#计算方法 : C语言版
+#最优化技术与数学建模
+#详解MATLAB在最优化计算中的应用 : 配视频教程
+#最优化原理、方法及求解软件
+#现代数值分析方法
+#现代数值计算方法
+*通信原理学习指导与习题解答
+*微机原理与接口技术习题与解析
+*新编微计算机原理解题指南
+*MATLAB应用大全
+*脑动力 , MATLAB函数功能速查效率手册
+*通信原理考研指导
+*MATLAB 使用详解 : 基础、开发及工程应用
+*精通MATLAB最优化计算
+*游戏引擎架构 = Game engine architecture
+*Windows 系统编程 = Windows system programming

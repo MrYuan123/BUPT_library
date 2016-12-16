@@ -1,0 +1,12 @@
+#操作系统设计与实现 = Operating systems design and implementation . 上册
+#存在与虚无
+*新编计算机英语 = A New course in computer English
+*Android从入门到精通
+*微机系统和接口应用技术
+*Java Web 开发速学宝典
+*微型计算机系统原理及应用 : IA-32 结构 (80x86系列)
+*MATLAB数学实验与建模
+*Struts 2 + Spring+Hibernate框架技术与项目实战
+*MySQL数据库应用从入门到精通
+*计算机网络
+*线性代数

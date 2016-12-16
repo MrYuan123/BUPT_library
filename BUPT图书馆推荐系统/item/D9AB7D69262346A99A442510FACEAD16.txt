@@ -1,0 +1,11 @@
+#JavaScript编程全解
+*jQuery Mobile入门经典
+*jQuery从菜鸟到忍者
+*JavaScript 开发技术详解
+*HTML + CSS网页设计实践教程
+*Linux 操作系统原理与应用
+*主动控制中的信号处理 = Signal processing for active control
+*Java编程指南 = Java 7 : a comprehensive tutorial
+*有源噪声与振动控制 : 原理、算法及实现
+*Java多线程编程实战指南 , 设计模式篇
+*R语言经典实例

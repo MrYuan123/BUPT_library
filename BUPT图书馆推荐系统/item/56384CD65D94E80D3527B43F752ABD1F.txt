@@ -1,0 +1,11 @@
+#C++高级编程
+*MySQL高效编程
+*写给大忙人看的C++ = C++ for the impatient
+*Spark核心技术与高级应用 = Spark core technology and advanced applications
+*Python科学计算
+*教育统计学
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

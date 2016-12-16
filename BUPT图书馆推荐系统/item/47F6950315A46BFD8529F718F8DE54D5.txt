@@ -1,0 +1,14 @@
+#计算机科学导论 = Foundations of computer science
+#命令行中的数据科学 = Data science at the command line facing the future with time-tested tools
+#数据挖掘与知识发现
+#数据挖掘 : R语言实战
+*操作系统设计 : Xinu方法 = Operating system design : the Xinu appraoch, linksys version
+*Java语言程序设计 , 基础篇 = Introduction to Java programming
+*Linux 命令、编辑器与 Shell 编程
+*妙趣横生的算法 : C++语言实现
+*傲慢与偏见
+*雪国
+*每天读点英文感动你一生的英文全集
+*深入云计算 : Hadoop应用开发实战详解
+*由浅入深学C++ : 基础、进阶与必做300题
+*涂抹MySQL : 跟着三思一步一步学MySQL

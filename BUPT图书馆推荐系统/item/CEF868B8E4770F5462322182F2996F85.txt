@@ -1,0 +1,15 @@
+#挑战程序设计竞赛
+#数据挖掘导论 : 完整版 = Introduction to data mining
+#机器学习实战 = Machine learning in action
+#Flask Web开发 : 基于Python的Web应用开发实战 = Flask Web development : developing web applications with python
+#Unix & Linux 大学教程
+*思科网络技术学院教程
+*数据挖掘十大算法
+*Spark MLlib机器学习 : 算法、源码及实战详解
+*高性能MySQL = High performance MySQL
+*鹿男
+*算法导论 = Introduction to algorithms
+*程序员面试金典 = Cracking the coding interview : 150 programming questions and solutions
+*设计模式之禅 = The Zen of design patterns
+*Java 编程思想 = Thinking in Java
+*利用Python进行数据分析

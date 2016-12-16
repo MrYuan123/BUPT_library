@@ -1,0 +1,25 @@
+#计算机图形学 : OpenGL版
+#另一个地球 : 互联网+社会 = Society and the internet : how networks of information and communication are changing our lives
+#OpenGL 超级宝典 = OpenGL superbible
+#OS X系统管理和部署
+#计算机网络课程设计
+#iOS游戏框架Sprite Kit技术详解
+#大众传播概论 : 媒介素养与文化 = Introduction to mass communication : Media literacy and culture
+#程序员的数学
+#操作系统原理与实践
+#Cocos2d-x学习笔记 : 完全掌握C + + API与游戏项目开发 = Cocos 2 d-x learning notes : the definitive guide to C + + API and game projects development
+#疯狂Swift讲义
+#App后台开发运维和架构实践
+#互联网 : 一部概念史 = Internet : a history of concepts
+#计算机图形学基础 : OpenGL版
+#物理学与生活 = The physics of everyday phenomena : a conceptual introduction to physics
+*近代光学信息处理
+*SDN核心技术剖析和实战指南 = Deciphering SDN : core techniques and practical guide
+*软件定义网络 : 原理、技术与实践 = Software defined networks : a comprehensive approach
+*Linux系统命令及Shell脚本实践指南 = Linux commands and shell scripting
+*深入理解程序设计 : 使用Linux汇编语言 = Programming from the ground up
+*Cocos2D-X游戏开发技术精解
+*OS X与iOS内核编程 = OS X and iOS kernel programming
+*Linux性能优化大师
+*精通Linux内核网络 = Linux kernel networking : implementation and theory
+*ACM程序设计竞赛基础教程

@@ -1,0 +1,13 @@
+#结构方程模型 : Amos 实务进阶
+#问卷统计分析实务 : SPSS操作与应用
+#结构方程模型 : AMOS的操作与应用
+*结构方程模型 : 方法与应用
+*量化研究与统计分析 : SPSS (PASW) 数据分析范例解析
+*实战Java虚拟机 : JVM故障诊断与性能优化
+*Java 网络编程
+*大学英语6级考试巅峰训练
+*结构方程模型 : SIMPLIS的应用
+*结构方程模型的原理与应用
+*结构方程模型在组织认同研究中的应用 = Structural equation modeling application in organization identification study
+*Servlet/JSP 深入详解 : 基于Tomcat的Web开发
+*TCP/IP 指南 = The TCP/IP guide . 卷1 , 底层核心协议a comprehensive, illustrated internet protocols reference

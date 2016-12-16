@@ -1,0 +1,25 @@
+#矩阵计算 = Matrix computations
+#开始!
+#最美丽的英文 = The most beautiful English , 你也可以不平凡you can be uncommon
+#Probability, random variables, and stochastic processes =随机变量与随机过程 /随机变量与随机过程
+#钟形罩
+#1.2.3.木头人 = Blinking seconds : 插画故事集
+#Probability and stochastic processes for engineers
+#你们我们他们 = Something about love
+#一九八四 = Nineteen Eighty-four
+#Probability, random variables, and random signal principles /
+#现代控制理论与工程 = Modern control theory and engineering
+#概率与计算 = Probability and computing : randomized algorithms and probabilistic analysis
+#4周完美攻克TOEFL iBT词汇周计划
+#又寂寞又美好 = Beautiful solitude : 幾米作品精选集
+#微笑的鱼 = A fish that smiled at me : 幾米作品
+*Linux 从入门到精通 = The Linux A-Z
+*College physics /大学物理
+*万水千山走遍
+*随机过程论
+*概率论习题集
+*大数据 = Mining of massive datasets : 互联网大规模数据挖掘与分布式处理
+*随机过程基础 = Essentials of stochastic processes
+*Hadoop硬实战 = Hadoop in practice
+*随机过程导论 = Introduction to stochastic processes
+*MySQL 5 权威指南 = The definitive guide to MySQL 5

@@ -1,0 +1,16 @@
+#色彩设计 = Color design
+#动画角色设计 = Design of animation characters
+#设计构成
+#动漫游戏造型设计 = Character design of ACG
+#一本书看懂日本人 : 日本是这样练成的
+#原画
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

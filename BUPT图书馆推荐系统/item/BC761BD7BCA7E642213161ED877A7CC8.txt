@@ -1,0 +1,16 @@
+#心理学与人类困境 = Psychology and the human dilemma
+#人的自我寻求 = Man's search for himself
+#自然语言处理综论 = Speech and language processing : an introduction to natural language processing, computational linguistics, and speech recognition
+#R语言实战 : 编程基础、统计分析与数据挖掘宝典
+#R语言与数据挖掘 : 最佳实践和经典案例 = R and data mining : examples and case studies
+#R语言数据挖掘 = Data mining with R
+*统计自然语言处理
+*机器学习实战 = Machine learning in action
+*NumPy攻略 = NumPy cookbook : Python科学计算与数据分析
+*像计算机科学家一样思考Python
+*社交网站的数据挖掘与分析
+*编程之美 : 微软技术面试心得
+*Excel 2010数据处理与分析实战技巧精粹
+*Python 学习手册
+*R语言与网站分析 = Web analysis and mining with R
+*数据库技术与应用系统开发 : SQL Server 2005+C#

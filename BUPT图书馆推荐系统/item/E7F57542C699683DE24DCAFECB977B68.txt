@@ -1,0 +1,23 @@
+#Python Cookbook (第3版) 中文版
+#财务报表分析 = Financial statement Analysis
+#数据库原理与应用
+#实时分析 : 流数据的分析与可视化技术 = Real-time analytics : techniques to analyze and visualize streaming data
+#混合神经网络技术
+#财务管理 : 基于实践的方法 = Financial management : a practical approach
+#机器学习导论 = Introduction to machine learning
+#Python袖珍指南
+#期权、期货及其他衍生产品 = Options, futures and other derivatives
+#从0到1 : 开启商业与未来的秘密 = Zero to one : notes on startups, or how to build the future
+#操作系统 : 精髓与设计原理 = Operating systems : internals and design principles
+#大空头 = The big short
+#埃及
+*ACM/ICPC算法基础训练教程
+*剑桥美国经济史 = The cambridge economic history of the United states . 第一卷volume Ⅰ , 殖民地时期the colonial era
+*大分流 : 欧洲、中国及现代世界经济的发展 = The great divergence : Europe, China, and the making of the modern world economy
+*货币崛起 : 金融如何影响世界历史 = The ascent of money : a financial history of the world
+*算法导论 = Introduction to algorithms
+*MATLAB神经网络应用设计
+*人工神经网络基础
+*过程神经元网络
+*MATLAB神经网络43个案例分析
+*MATLAB神经网络超级学习手册

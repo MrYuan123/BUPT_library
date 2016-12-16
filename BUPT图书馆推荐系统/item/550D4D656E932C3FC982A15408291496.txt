@@ -1,0 +1,12 @@
+#Computer vision =计算机视觉 /
+#Python编程入门经典
+*线性代数 = Linear algebra with applications
+*C++程序设计
+*基督山伯爵 = Le comte de Monte-Cristo . 上
+*科学怪人 = Frankenstein
+*英语习语用法精粹 = Concise dictionary of English idioms
+*雅思周计划 , 语法
+*神一样的产品经理 : 基于移动与互联网产品实践
+*数据结构 : Java版
+*Java程序设计教程 = Building Java programs : a back to basics approach
+*挑战 TOEFL iBT 作文满分 = It's your path to a higher TOEFL iBT writing score!

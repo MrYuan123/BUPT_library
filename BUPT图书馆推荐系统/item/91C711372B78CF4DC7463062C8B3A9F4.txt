@@ -1,0 +1,16 @@
+#计量经济学基础 . 上册 = Basic econometrics
+#R编程入门经典 : 大数据时代的统计分析语言
+#Stata数据统计分析教程 = Data analysis and statistics in Stata
+#计量经济学基础 . 下册 = Basic econometrics
+#SPSS 19.0统计分析入门与提高
+#国富论 = An Inquiry into the nature and causes of the wealth nations : 中文导读英文版 . 上册
+*统计建模与 R 软件
+*MATLAB数学实验与建模
+*SPSS 19.0统计分析综合案例详解
+*Mathematica基础及其在数学建模中的应用
+*优化建模与 LINDO/LINGO 软件
+*数学建模方法与分析 = Mathematical modeling
+*数学建模算法与应用
+*实变函数论 = Theory of functions of a real variable
+*时间序列分析 : 预测与控制 = Time series analysis : forecasting and control
+*运筹学

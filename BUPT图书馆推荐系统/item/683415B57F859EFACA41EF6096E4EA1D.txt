@@ -1,0 +1,16 @@
+#精通 MATLAB 神经网络
+#MATLAB神经网络设计与应用
+#嵌入式Qt实战教程
+#Windows CE 嵌入式开发标准教程
+#精通MATLAB/Simulink系统仿真 = Proficient in MATLAB/Simulink system simulation
+#神经网络模型及其 MATLAB 仿真程序设计
+*MATLAB神经网络43个案例分析
+*智能机器人系统建模与仿真
+*智能预测控制及其 MATLAB 实现
+*虚拟样机软件 MSC.ADAMS 应用与提高
+*ADAMS 入门详解与实例
+*MD ADAMS 虚拟样机从入门到精通
+*MATLAB神经网络应用设计
+*神经网络
+*精通MATLAB智能算法 = Proficient in MATLAB intelligent algorithm
+*Head First Python中文版

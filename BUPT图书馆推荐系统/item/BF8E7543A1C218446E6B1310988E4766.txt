@@ -1,0 +1,14 @@
+#Linux命令、编辑器与Shell编程
+#Spark大数据实例开发教程
+#Spark原理、机制及应用
+#深入云计算 : Hadoop源代码分析
+*Hadoop权威指南
+*一本书读懂大数据 : 全彩图解版
+*计算机是怎样跑起来的 = How computers work
+*设计模式之禅 = The Zen of design patterns
+*Spark MLlib机器学习实践
+*新托福高分·阅读 = Preparation for new TOEFL ibt test· reading
+*现代操作系统 = Modern operating systems
+*Web性能测试实战详解
+*天线测量实用手册 = Antenna measurement engineering handbook
+*计算机网络 : 用自顶向下方法描述因特网特色

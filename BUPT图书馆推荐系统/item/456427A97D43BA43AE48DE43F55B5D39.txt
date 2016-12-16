@@ -1,0 +1,11 @@
+#JAVA 2 核心技术 = Core Java 2 . 卷Ⅰvolume Ⅰ , 基础知识fundamentals
+*大话移动通信网络规划
+*李十三推磨
+*图解TCP/IP
+*操作系统 = Operating systems
+*Java程序设计教程
+*编程之美 : 微软技术面试心得
+*Java 语言程序设计 = Introduction to Java programming , 基础篇comprehensive version
+*月亮和六便士 = The moon and sixpence
+*时间旅行者的妻子 = The time traveler's wife
+*福尔摩斯四大奇案

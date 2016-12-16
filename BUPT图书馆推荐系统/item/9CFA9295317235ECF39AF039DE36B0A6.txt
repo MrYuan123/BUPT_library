@@ -1,0 +1,12 @@
+#Google软件测试之道 : 像Google一样进行软件测试
+#算法概论
+*Python 参考手册 = Python essential reference
+*Head First 软件开发 : 中文版
+*软件工程 = Software engineering : theory and practice
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

@@ -1,0 +1,13 @@
+#21天学通Java Web开发
+#Java Web从入门到精通
+#PHP 从入门到精通
+*MySQL & PHP 快速入门
+*PHP+MySQL网站开发全程实例
+*机器学习理论及应用 = Machine learning theory and its applications
+*Visual C++典型模块与项目实战大全
+*SQL Server从入门到精通
+*Windows Server 2008 服务器架设与配置实战指南
+*数据挖掘 : 概念与技术
+*计算机网络
+*线性代数
+*高等数学 . 上册

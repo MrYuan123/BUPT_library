@@ -1,0 +1,13 @@
+#统计学基础
+#R语言实战 = R in action : data analysis and graphics with R
+#计量经济学导论 = Intrductory econometrics : a modern approach
+*用户体验度量 : 收集、分析与呈现 = Measuring the user experience : collecing, analyzing, and presenting usability metrics
+*R语言编程艺术 = The art of R programming : a tour of statistical software design
+*R的极客理想 , 工具篇
+*庄子译注 . 上
+*经济数学
+*简爱 = Jane Eyre : 插图·中文导读英文版
+*投资学 = Investments
+*计量经济学
+*金融学原理 = Principles of finance
+*跟老外学最地道的英语 = Native English speaker teaching authentic

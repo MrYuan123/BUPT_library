@@ -1,0 +1,15 @@
+#数字图像处理 = Digital image processing : MATLAB版using MATLAB
+#数字图像处理 = Digital image processing
+#Adobe Flash CS5 中文版经典教程
+#计算机网络配置、管理与应用
+#Flash CS5动画制作实用教程
+*计算机视觉 = Computer vision
+*MATLAB图像处理实例详解
+*ADOBE PREMIERE PRO CS6标准培训教材
+*数字图像处理 : MATLAB版 : 本科教学版 = Digital image processing using MATLAB
+*Head First Java (中文版)
+*图像处理、分析与机器视觉 = Image processing, analysis, and machine vision
+*矩阵论典型题解析及自测试题
+*矩阵论导教·导学·导考
+*学习 OpenCV : 中文版
+*实用MATLAB图像和视频处理 = Practical image and video processing using MATLAB

@@ -1,0 +1,14 @@
+#网络安全 : 加密原理、算法与协议
+#卫星通信系统
+#卫星通信导论
+#网络安全 = Network security
+*卫星通信网路由技术及其模拟 = Satellite communication network routing technology and simulation
+*卫星通信 = Satellite communications
+*卫星通信系统工程设计与应用
+*数字调制解调技术的MATLAB和FPGA实现
+*卫星网络中的资源管理 : 优化与跨层设计 = Resource management in satellite networks optimization and cross-layer design
+*龙族 = Dragon raja . 2 , 悼亡者之瞳
+*卫星网络鲁棒 QoS 路由技术研究
+*卫星通信网络技术 = Satellite communication network technology
+*通信卫星工程
+*数字卫星通信

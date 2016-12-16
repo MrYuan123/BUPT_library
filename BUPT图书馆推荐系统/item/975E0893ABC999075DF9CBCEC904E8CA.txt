@@ -1,0 +1,20 @@
+#数据挖掘技术及应用
+#大话数据挖掘
+#PostgreSQL 9.0性能调校
+#人工智能 : 一种现代方法
+#零基础学算法
+#MySQL技术内幕 : SQL编程 = Inside MySQL : SQL programming
+#机器学习及其应用 . 2013
+#机器学习及其应用
+#数据挖掘 : 实用案例分析 = Data mining : practical case analysis
+#机器学习方法
+*数据挖掘 : 概念与技术 = Data mining : concepts and techniques
+*大话数据结构 = Play with data structure
+*机器学习实战 = Machine learning in action
+*R语言 : 迈向大数据之路
+*正则表达式必知必会 = Sams teach yourself regular expressions in 10 minutes
+*零基础学数据结构 : 24小时多媒体教学视频
+*Python入门经典
+*从零开始学MATLAB
+*数据仓库与数据挖掘教程
+*D3.js数据可视化实战手册

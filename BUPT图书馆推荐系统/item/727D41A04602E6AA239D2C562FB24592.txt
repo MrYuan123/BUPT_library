@@ -1,0 +1,13 @@
+#代码阅读 = Code reading : the open source perspective
+#数据结构与程序设计 : C语言
+#代码整洁之道
+*编程珠玑 . 续 = More programming pearls
+*浪潮之巅 = On top of tides . 下册
+*数据挖掘导论 = Introduction to data mining
+*New Internet : 大数据挖掘
+*Hadoop应用开发技术详解 = Programming hadoop
+*大数据日知录 : 架构与算法
+*Spark大数据处理 : 技术、应用与性能优化 = Data processing with spark : technology, application and performance optimization
+*数据挖掘十大算法
+*Hadoop YARN权威指南
+*深入理解计算机网络 = Understanding computer networks

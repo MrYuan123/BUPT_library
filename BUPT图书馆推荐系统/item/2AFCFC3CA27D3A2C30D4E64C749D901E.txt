@@ -1,0 +1,14 @@
+#Unity3D游戏开发实战 : 人气游戏这样做
+#Visual C# 2012大学教程 = Visual C# 2012 how to program
+#JavaScript详解 = JavaScript by example
+#Unity 4.3游戏开发项目实战 : C#、JavaScript版本
+*Hibernate 开发与实战
+*Java Web编程实战宝典 : JSP+Servlet+Struts 2+Hibernate+Spring+Ajax
+*Struts 2+Hibernate+Spring整合开发深入剖析与范例应用
+*疯狂Workflow讲义 : 基于Activiti的工作流应用开发
+*Java 开发典型模块大全
+*wow!1000个彩色简笔画
+*C#编程实战宝典
+*木偶奇遇记 = The Adventures of pinocchio : 插图·中文导读英文版
+*VC++项目开发实战密码
+*C 语言开发手册 : 典藏版

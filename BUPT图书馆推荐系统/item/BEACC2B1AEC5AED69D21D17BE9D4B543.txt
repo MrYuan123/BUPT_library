@@ -1,0 +1,14 @@
+#白帽子讲Web安全
+#白帽子讲浏览器安全
+#网络窃密、监听及防泄密技术
+#网络安全 : 现状与展望 = Network security current status and future directions
+*Web应用漏洞侦测与防御 : 揭秘鲜为人知的攻击手段和防御技术 = Hacking Web apps : detecting and preventing web application security problems
+*破坏之王 : DDoS攻击与防范深度剖析
+*网络攻击与防御技术
+*网络攻击与防御技术 = Information security
+*网络安全基础 = Network security essentials : 应用与标准applications and standards
+*拒绝服务攻击 = Denial of service(DoS) attack
+*Web前端黑客技术揭秘
+*黑客入侵网页攻防修炼
+*Java Web企业项目实战
+*揭秘家用路由器0day漏洞挖掘技术

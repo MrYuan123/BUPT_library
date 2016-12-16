@@ -1,0 +1,11 @@
+#软件定义网络 : SDN与OpenFlow解析 = SDN : software defined networks
+*深度解析SDN : 利益、战略、技术、实践
+*SDN核心技术剖析和实战指南 = Deciphering SDN : core techniques and practical guide
+*现代通信网技术
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

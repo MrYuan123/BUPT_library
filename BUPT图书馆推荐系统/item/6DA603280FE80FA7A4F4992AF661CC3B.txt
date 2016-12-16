@@ -1,0 +1,11 @@
+#Ubuntu Linux 从入门到精通
+*数据库原理、应用与实践 : SQL Server
+*数据挖掘 : 概念与技术 = Data mining : concepts and techniques
+*数据库原理及应用实验与实践教程
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

@@ -1,0 +1,12 @@
+#哈利·波特与魔法石 = Harry Potter and the philosopher's stone
+#从一到无穷大 : 科学中的事实和臆测
+*哈利·波特与凤凰社 = Harry Potter and the order of the phoenix
+*杜拉拉升职记 = A story of Lala's promotion
+*哈利·波特与“混血王子” = Harry Potter and the half-blood prince
+*一日重生 = For one more day
+*哈利·波特与密室 = Harry Potter and the chamber of secrets
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

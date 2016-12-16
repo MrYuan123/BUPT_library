@@ -1,0 +1,13 @@
+#C# 与 .NET 程序员面试宝典
+#C#初学者指南 = C# : a beginner's tutorial
+#Java 程序员面试宝典
+*Java 轻松入门
+*轻松学Java
+*搞定J2EE核心技术与企业应用 : Ajax, JSP, Struts 2, Spring, Hibernate
+*认知无线电网络资源分配 : 博弈模型与性能分析 = Resource management of cognitive radio networks : game theoretic modeling and performance analysis
+*3GPP 长期演进 (LTE) 技术原理与系统设计 = 3GPP long term evolution : principle and system design
+*LTE-Advanced关键技术详解 = LTE-Advanced key technologies detailed analysis
+*Java Web 典型模块与项目实战大全 : 49.5小时多媒体教学视频
+*SQL 范例完全自学手册
+*你必须知道的 261 个 Java 语言问题
+*基于 Java EE 的电子商务网站建设

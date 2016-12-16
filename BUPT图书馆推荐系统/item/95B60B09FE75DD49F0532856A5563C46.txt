@@ -1,0 +1,12 @@
+#新托福考试专项进阶 = How to master skills for the TOEFL iBT
+#数学建模 = A first course in mathematical modeling
+*TOEFL iBT 高分作文 : TOEFL 官方题库范文大全
+*新托福考试专项进阶 = How to master skills for the TOEFL iBT , 中级写作Writing intermediate
+*数学模型
+*数学建模方法与CUMCM赛题详解
+*数据挖掘技术 : 应用于市场营销、销售与客户关系管理
+*算法艺术与信息学竞赛
+*运筹学导论 = Operations research : an introduction , 初级篇
+*MATLAB 在数学建模中的应用
+*数学建模方法与分析 = Mathematical modeling
+*数据结构教程

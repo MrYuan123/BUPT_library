@@ -1,0 +1,13 @@
+#Unity 2D游戏开发实例教程
+#ARM嵌入式Linux系统开发详解
+#Linux 嵌入式系统高级程序设计 = Pro Linux embedded systems
+*离散数学及其应用 = Discrete mathematics and its applications
+*Unity 2D游戏开发秘籍
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

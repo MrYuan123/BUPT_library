@@ -1,0 +1,13 @@
+#Python 基础教程 = Beginning Python from novice to professional
+#Python宝典
+#Python 学习手册
+*经济学原理 = Principles of economics
+*微信公众平台应用开发 : 方法、技巧与案例 = Wechat public platform application developing : method, technique and example
+*凸优化 = Convex optimization
+*Python Web开发学习实录
+*信息处理与编码 = Information processing and coding
+*模式识别
+*Linux C从入门到精通
+*信息论基础 = Elements of information theory
+*你不知道的JavaScript = Scope & closures this & object prototypes . 上卷
+*精通MATLAB信号处理 = Proficient in MATLAB signal processing

@@ -1,0 +1,13 @@
+#ROS机器人程序设计 = Learning ROS for robotics programming
+#CAN总线技术与应用系统设计
+#现场总线CANopen设计与应用 = CANopen-das standardisierte, eingebettete netzwerk
+*国际经典交互设计教程 , 用户体验设计 = User experience design , creating designs users really love
+*敏捷用户体验设计 : 用户体验设计应用敏捷方法的技巧与最佳实践 = Agile user experience design : a practitioner's guide to making it work
+*用户体验与可用性测试
+*随意搜寻
+*在你身边, 为你设计 : 腾讯的用户体验设计之道
+*ROS开源机器人控制基础
+*弹簧
+*众妙之门 : 用户体验设计的秘密 = The smashing book : user experience design
+*情感计算
+*CorelDRAW X6中文版基础与实例教程

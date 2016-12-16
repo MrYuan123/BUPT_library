@@ -1,0 +1,16 @@
+#现代无线通信原理
+#Order statistics and inference :
+#移动无线信道
+#LTE-A和下一代无线网络 : 信道建模与传播 = LTE-advanced and next generation wireless networks : channel modelling and propagation
+#高等数理统计 = Advanced mathematical statistics
+#概率论与数理统计 : 习题精选
+*无线通信 = Wireless communications
+*天线理论与技术 = Antenna theory and techniques
+*卫星通信系统
+*数字卫星通信
+*卫星通信系统工程 = Satellite communications systems engineering atmospheric effects, satellite link design and system performance
+*分布式系统原理与范型
+*LTE-Advanced宽带移动通信系统 = LTE-Advanced broadband mobile communications system
+*LTE-Advanced : 面向IMT-Advanced的3GPP解决方案
+*不要让未来的你讨厌现在的自己 = Writing the future
+*Java并发编程实战 = Java concurrency in practice

@@ -1,0 +1,11 @@
+#Unity3D游戏开发实战 : 人气游戏这样做
+*Visual C# 2012大学教程 = Visual C# 2012 how to program
+*JavaScript详解 = JavaScript by example
+*Unity 4.3游戏开发项目实战 : C#、JavaScript版本
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

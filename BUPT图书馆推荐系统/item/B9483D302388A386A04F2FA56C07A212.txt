@@ -1,0 +1,14 @@
+#统计学习方法
+#Java多线程编程核心技术 = Java multi-thread programming
+#自己动手写网络爬虫
+#轻量级Java EE企业应用实战 : Struts 2+Spring 4+Hibernate整合开发
+*推荐系统 = Recommender systems : an introduction
+*Java 开发实战经典
+*疯狂Java程序员的基本修养
+*Web 服务 : 原理与技术 = Web Services : principles and technology
+*Python 学习手册
+*程序员面试金典 = Cracking the coding interview : 150 programming questions and solutions
+*Hadoop权威指南
+*数据结构 : Java语言描述
+*Java程序设计基础与应用
+*剑指Offer : 名企面试官精讲典型编程题

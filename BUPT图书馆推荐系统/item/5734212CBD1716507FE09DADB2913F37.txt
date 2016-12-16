@@ -1,0 +1,11 @@
+#大学物理
+*物理光学
+*高等数学 . 下册
+*电路分析基础
+*Unity 4.3游戏开发项目实战 : C#、JavaScript版本
+*大学物理学习指导与训练
+*3ds Max 2012从入门到精通
+*Unity 3D人工智能编程 = Unity 4.x game ai programming
+*标准 C 语言基础教程 = A First book of ANIS C
+*运筹学学习指导及习题集
+*计算机网络

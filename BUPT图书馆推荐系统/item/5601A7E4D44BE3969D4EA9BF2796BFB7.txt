@@ -1,0 +1,13 @@
+#Java 语言程序设计 = Introduction to Java programming , 进阶篇comprehensive version
+#面向对象葵花宝典 : 思想、技巧与实践
+#Java 程序设计 = The object of Java : 对象和软件工程方法introduction to programming using software engineering principles
+*数据挖掘 : 概念、模型、方法和算法
+*Java程序设计与项目实战 : 全程实录
+*Java Web 开发权威经典
+*跟我说韩语
+*边听边说韩语流行口语极短句 500 个
+*JavaScript 从入门到精通
+*iOS Auto Layout开发秘籍
+*现代电子通信
+*射频与微波电子学
+*Java 范例大全 = Java by example

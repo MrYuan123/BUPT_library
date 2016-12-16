@@ -1,0 +1,13 @@
+#行政法学
+#行政法与行政诉讼法学 = Administrative law and administrative litigation law
+#行政法与行政诉讼法学
+*民政行政复议与行政诉讼案例研究
+*行政法教程
+*Java从入门到精通
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

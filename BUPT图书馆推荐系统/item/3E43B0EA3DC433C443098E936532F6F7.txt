@@ -1,0 +1,19 @@
+#Spring MVC 学习指南
+#Netty权威指南
+#深入分析Java Web技术内幕
+#大型网站系统与Java中间件实践
+#Maven 实战 = Maven 3 in action
+#MapReduce 2.0源码分析与编程实战
+#SSH框架整合实战教程
+#Redis入门指南
+#Java多线程编程实战指南 , 设计模式篇
+*Hadoop技术内幕 : 深入解析YARN架构设计与实现原理 = Hadoop internals : in-depth study of YARN
+*Effective Java 中文版 = Effective Java
+*Java虚拟机规范 : Java SE 8版 = The Java virtual machine specification : Java SE 8 Edition
+*编写高质量代码 = Writing solid web front-end code : Web前端开发修炼之道
+*Head First 设计模式
+*Java Web编程实战宝典 : JSP+Servlet+Struts 2+Hibernate+Spring+Ajax
+*OSGi实战 = OSGi in action : creating modulaer applications in Java
+*Spring 3.0就这么简单
+*ns-3网络模拟器基础及应用
+*Linux shell脚本攻略

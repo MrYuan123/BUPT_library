@@ -1,0 +1,13 @@
+#卫星通信 = Satellite communications
+#龙族 = Dragon raja . 2 , 悼亡者之瞳
+#卫星通信导论
+*卫星通信系统
+*卫星通信网路由技术及其模拟 = Satellite communication network routing technology and simulation
+*龙族 = Dragon raja . 1
+*瘟疫 人类的影子 : “非典”溯源
+*空速星痕 . Ⅰ
+*数字调制解调技术的MATLAB和FPGA实现
+*OPNET Modeler 与网络仿真
+*Satellite communications =
+*钟表馆幽灵
+*卫星网络中的资源管理 : 优化与跨层设计 = Resource management in satellite networks optimization and cross-layer design

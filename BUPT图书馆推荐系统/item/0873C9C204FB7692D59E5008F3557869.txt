@@ -1,0 +1,16 @@
+#JavaScript专家编程
+#了不起的Node.js : 将JavaScript进行到底 = Smashing Node. js : JavaScript everywhere
+#算法 = Algorithms
+#全分布式光纤传感技术
+#软件测试 = Software testing
+#Node与Express开发 = Web development with node and express leveraging the JavaScript stack
+*jQuery从菜鸟到忍者
+*Node.js权威指南 = Node.js : the definitive guide
+*程序员面试逻辑题解析 = Puzzles for programmers and pros
+*软件测试基础教程 = Foundations of software testing
+*JavaScript 权威指南
+*光子晶体光纤熔接与拉锥理论及技术
+*光子晶体光纤中超连续谱产生及应用
+*敏感材料与传感器 = Sensitive materials and sensors
+*漫话大数据
+*Python自然语言处理

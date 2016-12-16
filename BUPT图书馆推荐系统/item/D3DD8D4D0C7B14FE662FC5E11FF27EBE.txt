@@ -1,0 +1,15 @@
+#大学生数学建模竞赛辅导教材 . 五
+#数学建模方法与分析 = Mathematical modeling
+#数学模型与实验
+#数学建模与实验
+#数学建模 = A First course in mathematical modeling
+*全国大学生数学建模竞赛赛题与优秀论文评析 , 2005-2011年B题
+*数学建模
+*数学建模方法与CUMCM赛题详解
+*戈尔巴乔夫回忆录
+*美国大学生数学建模竞赛题解析与研究 . 第2辑
+*不完备性 = Incompleteness : 哥德尔的证明和悖论the proof and paradox of Kurt Godel
+*数学模型
+*当仓央嘉措遇见纳兰容若 , 仓央嘉措篇
+*Photoshop CS 中文版完全参考 = Photoshop CS : the complete reference
+*C++程序设计教程 = Programming in C++

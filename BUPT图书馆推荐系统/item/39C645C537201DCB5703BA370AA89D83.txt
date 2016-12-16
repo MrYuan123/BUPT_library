@@ -1,0 +1,12 @@
+#数学模型
+#数学建模算法与应用
+*数学建模 = A first course in mathematical modeling
+*数学建模方法与分析 = Mathematical modeling
+*复变函数典型题
+*数学建模
+*MATLAB在数学建模中的应用
+*计算机组成原理教程
+*信号分析与处理
+*现代数学建模方法
+*算法之道 = Ex nihilo : algorithmica logos
+*优化建模与 LINDO/LINGO 软件

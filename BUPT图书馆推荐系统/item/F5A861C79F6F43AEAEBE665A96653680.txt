@@ -1,0 +1,11 @@
+#AngularJS高级程序设计
+*JavaScript权威指南
+*精通jQuery = Pro jQrery 2.0
+*超实用的CSS代码段
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

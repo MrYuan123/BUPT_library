@@ -1,0 +1,18 @@
+#AMOS 与研究方法
+#广告原理与实务
+#广告心理学 = Psychology of advertising
+#消费者行为及网络购物
+#广告心理
+#广告理论与策划
+#广告效果
+#广告心理学教程 = Advertising psycology tutorial
+*统计学 = Statistics
+*MATLAB 8.0从入门到精通
+*回归分析 : 因变量统计模型 = Regression Analysis : statistical modeling of a response variable
+*SPSS统计分析与行业应用案例详解
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

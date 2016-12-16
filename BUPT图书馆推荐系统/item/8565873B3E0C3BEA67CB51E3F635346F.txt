@@ -1,0 +1,11 @@
+#基督山伯爵 . 上 = Le comte de Monte-Cristo
+*少年维特的烦恼 = Die leiden des jungen Werthers
+*大话通信 : 通信基础知识读本
+*通信行业求职宝典 : 猎头视角
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

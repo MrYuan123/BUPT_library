@@ -1,0 +1,17 @@
+#XML实用教程
+#Java 面向对象程序设计
+#Java从入门到精通 : 实例版
+#疯狂XML讲义
+#MySQL 入门很简单
+#Java SE与面向对象编程
+#Oracle从基础到应用
+*Java 编程艺术
+*Python入门经典 = The Practice of computing using Python : 以解决计算问题为导向的Python编程实践
+*轻松学Java
+*Java完全参考手册
+*Linux 快速入门 : 系统安装、管理、维护及服务器配置
+*Linux Shell脚本攻略 = Linux Shell Scripting Cookbook
+*Java经典编程300例
+*Java 范例开发大全
+*Java Web 整合开发实战 : 基于Struts 2+Hibernate+Spring
+*呼兰河传

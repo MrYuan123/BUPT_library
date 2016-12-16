@@ -1,0 +1,13 @@
+#歪歪的漫画书 , 疯狂的6级词汇 = Waiwai's cartoon , Crazy CET-6 vocabulary
+#趣学Python : 教孩子学编程
+#3分钟听懂美国新闻英语 , 社会·文化
+*雅思词汇词根+联想记忆法 : 乱序版
+*IBM SPSS数据分析与挖掘实战案例精粹
+*白话统计学 = Statistics in plain English
+*SPSS统计分析与数据挖掘
+*统计学 = Statistics
+*考研英语经典必背500句
+*MySQL 必知必会 = MySQL crash course
+*与孩子一起学编程 = Computer programming for kids and other beginners
+*数理统计与数据分析 = Mathematical statistics and data analysis
+*程序员面试宝典

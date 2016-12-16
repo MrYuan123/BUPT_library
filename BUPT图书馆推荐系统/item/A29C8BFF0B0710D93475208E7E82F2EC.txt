@@ -1,0 +1,12 @@
+#机器学习及其应用2011
+#奇点临近 = The singularity is near when humans transcend biology
+*MATLAB遗传算法工具箱及应用
+*控制工程基础
+*Python标准库 = The Python standard library by example
+*机器学习理论与算法
+*通信网络基础
+*机器学习方法
+*Eclipse 从入门到精通
+*软件建模与设计 : UML、用例、模式和软件体系结构 = Software modeling & design : UML, use cases, patterns, & software architectures
+*光纤通信 = Fiber optic communications
+*MATLAB R2012a超级学习手册

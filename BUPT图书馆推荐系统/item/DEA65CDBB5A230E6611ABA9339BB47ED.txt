@@ -1,0 +1,24 @@
+#2007—2016十年考研英语真题详解
+#复杂网络传输及资源限制下负载能力提升问题研究 = On transmission dynamics of complex networks and enhancing of load capacity by limited resource
+#多样式攻克大学英语六级词汇 : 积级性分类版
+#大学英语六级听力30天速成胜经 : 新题型
+#大学英语新六级翻译、写作周计划
+#通信原理
+#英语名篇名段背诵精华 : 口袋本
+#科幻 : 原力觉醒 = Cube : science fiction
+#光纤通信 = Optical fiber communications
+#大学英语六级阅读过关必练500题
+#计算机网络实践指导教程
+#8 倍速记大学英语六级考试核心词汇
+#MATLAB GUI设计学习手记
+#托福听力新思维 = TOEFL listening
+*六级单词一笑而过 : 幻彩白金版
+*光纤通信系统
+*光子学 = Photonics : 现代通信光电子学optical electronics in modern communications
+*当行善统治商业 = Screw business as usual
+*MATLAB数学实验与建模
+*数学建模入门与提高
+*日本蜡烛图技术新解 = Beyond candlesticks : new Japanese charting techniques revealed
+*光纤通信技术
+*光交换技术 = Optical switching technology
+*通信原理习题集

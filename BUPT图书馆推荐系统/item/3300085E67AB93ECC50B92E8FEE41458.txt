@@ -1,0 +1,13 @@
+#数值分析与科学计算
+#信号稀疏表示理论及其应用
+#模式分类 = Pattern classification
+*信号处理与模式识别
+*小波分析及其应用
+*信号处理与数据分析 = Signal processing and data analysis
+*小波分析及其在信号处理中的应用
+*数字信号处理 : 原理、算法与应用 = Digital signal processing : principles, algorithms, and applications
+*信号处理的神经网络方法
+*Matlab/Simulink 通信系统建模与仿真实例分析
+*定位技术理论与方法
+*通信系统中 MATLAB 基础与仿真应用
+*数值分析

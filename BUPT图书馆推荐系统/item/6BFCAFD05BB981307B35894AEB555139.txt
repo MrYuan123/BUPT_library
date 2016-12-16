@@ -1,0 +1,14 @@
+#Access 2010数据库技术与应用
+#利用Python进行数据分析
+#零基础学 SQL
+#SAS统计分析与应用从入门到精通
+*MySQL数据库应用从入门到精通
+*数据分析
+*空谷幽魂 = The hollow
+*Python数据分析基础教程 : NumPy学习指南 = NumPy beginner's guide
+*机器学习及其应用2011
+*设计模式解析 = Design patterns explained : a new perspective on object-oriented design
+*人月神话 : 32 周年中文纪念版
+*Head first Python =深入浅出Python /深入浅出Python
+*统计学习方法
+*用 Python 学编程 = Learn to program using python

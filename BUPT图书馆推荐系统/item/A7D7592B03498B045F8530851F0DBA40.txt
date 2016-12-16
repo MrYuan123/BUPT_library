@@ -1,0 +1,13 @@
+#JavaScript基础与案例开发详解
+#Java程序设计经典300例
+#Java 程序设计教程:习题解答
+*微机原理与接口技术习题与解析
+*编译原理与技术练习解答与实验指导
+*程序设计教程 : C++
+*编译原理和技术
+*JavaScript 语法与范例辞典
+*JavaScript面向对象精要 = The principles of Object-Oriented JavaScript
+*社会心理学 = Social psychology
+*HTML5和CSS3快速参考 = Sergey's HTML5 & CSS3 quick reference
+*单页Web应用 : JavaScript从前端到后端 = Single page Web applications
+*Java高手真经 : Java核心编程技术Java基础+核心库+图形+网络+高级特性 , 编程基础卷

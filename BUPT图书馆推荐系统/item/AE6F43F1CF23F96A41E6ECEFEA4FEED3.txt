@@ -1,0 +1,12 @@
+#响应式Web设计HTML5和CSS3实战 = Responsive web design with HTML5 and CSS3
+#HTML5精粹 : 利用HTML5开发令人惊奇的Web站点和革命性应用 = HTML5 for masterminds : how to take advantage of HTML5 to create amazing and revolutionary applications
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

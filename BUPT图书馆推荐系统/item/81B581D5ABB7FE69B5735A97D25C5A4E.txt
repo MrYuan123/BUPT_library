@@ -1,0 +1,13 @@
+#现代通信网监控与管理
+#计算机组成原理 : 第五版·立体化教材
+#操作系统概念 = Operating system concepts
+*计算机网络教程 = A textbook no computer networks
+*自立 = Self-reliance
+*FORTRAN 95 程序设计与数据结构基础教程
+*计算机操作系统
+*数据结构 = Data structure : C语言版
+*宽带接入技术及应用
+*宽带接入技术 = Broadband access technology
+*计算机组成原理 : 学习指导与习题解答
+*计算机组成与设计 : 硬件/软件接口 = Computer organization and design : the hardware/software interface
+*新大学日语标准教程 , 基础篇 . 1

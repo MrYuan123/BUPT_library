@@ -1,0 +1,14 @@
+#现代优化计算方法
+#Docker开发实践
+#Maven 实战 = Maven 3 in action
+#非线性最优化理论与方法
+*OSGi实战 = OSGi in action : creating modulaer applications in Java
+*Kubernetes实战
+*OpenStack云计算实战手册
+*Docker : 容器与容器云
+*Kubernetes权威指南 : 从Docker到Kubernetes实践全接触
+*Docker全攻略
+*六级词汇词根 + 联想记忆法 : 乱序版
+*Redis入门指南
+*Netty权威指南
+*MapReduce 2.0源码分析与编程实战

@@ -1,0 +1,13 @@
+#大话设计模式
+#Java并发编程的艺术 = The art of Java concurrency programming
+#ns-3网络模拟器基础及应用
+*Netty权威指南
+*深入浅出Linux工具与编程
+*Spring实战 = Spring in action
+*飞秒激光技术
+*数据结构、算法与应用 : C++语言描述 = Data structures, algorithms, and applications in C++
+*MySQL 开发者 SQL 权威指南 = SQL for MySQL developers : a comprehensive tutorial and reference
+*轻量级Java EE企业应用实战 : Struts 2+Spring 4+Hibernate整合开发
+*云计算时代 : 本质、技术、创新、战略
+*深入理解 MySQL 核心技术
+*信息安全保卫战 : 企业信息安全建设策略与实践

@@ -1,0 +1,15 @@
+#精通 JavaScript+jQuery
+#精通jQuery Web开发
+#2015考研英语词汇真题词频语境记忆 : 精读版
+#2016年考研英语短文写作及英汉翻译
+#巧用 JQuery
+*考研英语完形填空精讲精练
+*考研英语词汇词根+联想记忆法 : 便携版
+*英语多功能速查词典
+*高等数学解题方法与技巧
+*光网络新技术解析与应用 = Optical network-new technology and implementtation
+*JavaScript 高级程序设计 = Professional JavaScript for web developers
+*JavaScript 入门经典
+*全光通信网技术
+*光纤通信系统与网络
+*HTML 5开发精要与实例详解 = Essential HTML 5 and cases study

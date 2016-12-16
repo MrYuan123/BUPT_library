@@ -1,0 +1,23 @@
+#Hadoop MapReduce实战手册
+#Effective C++ : 改善程序与设计的55个具体做法 : 中文版 = Effective C++ : 55 specific ways to improve your programs and designs
+#计算机图形学
+#计算机系统结构学习指导与题解
+#数据库原理与应用
+#数据库原理与应用 (第2版) 实验指导与习题解答
+#Hive编程指南
+#数据结构 = Data structure : C语言版
+#分布式计算原理与应用
+#操作系统 : 精髓与设计原理 = Operating systems : internals and design principles
+#数理逻辑
+#计算机网络
+#大数据安全技术与应用
+*数据结构 : C语言描述 = Data structures in C
+*SQL查询的艺术
+*操作系统
+*计算机操作系统
+*2016年操作系统联考复习指导 = Review guide of operating systems entrance exam
+*2016年计算机组成原理联考复习指导 = Review guide of computer organization and architecture entrance exam
+*MySQL数据库应用从入门到精通
+*精通HTML+CSS网页布局与样式 : 视频教学版
+*2014年计算机网络联考复习指导 = Review guide of computer networks entrance exam
+*信息科学原理

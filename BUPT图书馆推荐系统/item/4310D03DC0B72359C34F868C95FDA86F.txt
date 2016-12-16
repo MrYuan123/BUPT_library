@@ -1,0 +1,11 @@
+#Unity 3D游戏开发从入门到精通
+*设计方法学 = The methodology of design
+*SolidWorks 2012中文版工程设计速学通
+*设计心理学 = Design psychology
+*工程和设计中的人因学
+*Unity开发实战 = Unity 4.x Cookbook
+*Unity游戏开发入门经典
+*佐藤可士和的超整理术 = Kashiwa Sato's ultimate method for reaching the essentials
+*产品可用性研究方法
+*Rhino 3D 工业级造型与设计
+*计算机网络

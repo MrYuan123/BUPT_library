@@ -1,0 +1,14 @@
+#数据库原理及SQL Server
+#信息隐藏与数字水印
+#数据挖掘 : 方法与应用
+#数据库技术与应用 : SQL Server
+*数字水印理论与技术
+*语音信号处理
+*数据挖掘理论、方法与应用
+*数据挖掘原理与算法
+*数据挖掘教程
+*Hadoop技术内幕 : 深入解析Hadoop Common和HDFS架构设计与实现原理 = Hadoop internals : in-depth study of common and HDFS
+*数据挖掘技术应用实例
+*学习 OpenCV : 中文版
+*Python黑帽子 : 黑客与渗透测试编程之道 = Black hat python : python programming for hackers and pentesters
+*信息隐藏与数字水印实验教程

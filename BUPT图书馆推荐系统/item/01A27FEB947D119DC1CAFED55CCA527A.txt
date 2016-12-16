@@ -1,0 +1,13 @@
+#ANSYS 13.0有限元分析从入门到精通
+#有限元分析 : ANSYS 13.0从入门到实战
+#ANSYS Workbench 13.0从入门到精通
+*有限元方法基础教程 : 国际单位制版 = A first course in the finite element method
+*傲慢与偏见 = Pride and prejudice : 插图·中文导读英文版
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

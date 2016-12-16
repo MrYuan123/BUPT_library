@@ -1,0 +1,17 @@
+#LabVIEW 宝典
+#数字信号处理原理及其LabVIEW实现
+#软件无线电原理与技术 = Software radio principle and technology
+#软件无线电原理与应用
+#Java 编程思想 = Thinking in Java
+#LabVIEW 2013中文版虚拟仪器从入门到精通
+#LabVIEW程序设计与应用
+*Kali Linux无线网络渗透测试详解
+*Linux 程序设计 = Beginning Linux programming
+*嵌入式系统设计与实践
+*新托福120分阅读机经大全 = Original test bible for TOEFL
+*新托福 120 分写作 30 天速成真经 = Original test bible for TOEFL in 30 days
+*机器学习 = Machine learning
+*深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM : advanced features and best practices
+*3GPP 长期演进 (LTE) 技术原理与系统设计 = 3GPP long term evolution : principle and system design
+*雍正皇帝 : 评注本
+*机器学习实战 = Machine learning in action

@@ -1,0 +1,12 @@
+#JavaScript 高级程序设计 = Professional JavaScript for web developers
+#解忧杂货店
+*乌合之众 : 大众心理研究 = a Study of the popular mind
+*放学后
+*数据分析
+*数据结构与算法 = Data structures and algorithms in Java : Java语言版
+*设计素描
+*鸟哥的 Linux 私房菜 , 基础学习篇
+*羊皮卷实践
+*中国小小说年度佳作 . 2013
+*精通 JavaScript+jQuery
+*JavaScript 入门经典

@@ -1,0 +1,14 @@
+#Android编程权威指南 = Android programming : the big nerd ranch guide
+#Android应用开发入门 = Android apps for absolute beginners
+#新手学Photoshop智能手机APP界面设计 : 实例版
+#Android手机程序设计入门、应用到精通
+*轻松学韩语 = Korean for Chinese . 1 , 初级
+*Java 程序设计
+*AVR 单片机 C 语言开发入门与典型实例
+*Operating systems :internals and design principles = 操作系统 : 精髓与设计原理 /操作系统 
+*Б.П. 吉米多维奇数学分析习题集题解 . 1
+*Java 编程思想 = Thinking in Java
+*AVR 单片机 C 语言程序设计实例精粹
+*实变函数与泛函分析
+*Android手机应用开发简明教程
+*Visual C++网络编程开发与实战

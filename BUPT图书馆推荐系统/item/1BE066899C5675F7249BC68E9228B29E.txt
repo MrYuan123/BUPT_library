@@ -1,0 +1,15 @@
+#还本归宗 : 六爻预测指南
+#数学建模方法与分析 = Mathematical modeling
+#数学建模
+#算法设计与分析
+#数学建模竞赛优秀论文评析
+*算法导论 = Introduction to algorithms
+*数学建模与数学实验
+*有一种智慧叫博弈 : 简单的博弈论让你变得更聪明
+*人生就是放下 : 星云大师最新人生开示
+*数学模型
+*数学建模 = A First course in mathematical modeling
+*MATLAB 在数学建模中的应用
+*算法 : C 语言实现 . 第1-4部分 , 基础知识、数据结构、排序及搜索 = Algorithms in C . Parts 1-4 : fundamentals, data structures, sorting, searching
+*愿你要的明天, 如约而至 : 吉檀迦利
+*数学建模算法与应用

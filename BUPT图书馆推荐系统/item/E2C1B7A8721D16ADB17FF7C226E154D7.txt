@@ -1,0 +1,14 @@
+#Verilog HDL与FPGA开发设计及应用
+#Verilog编程艺术
+#基于 Verilog HDL 的 FPGA 设计与工程应用
+#矩阵论 = Matrix
+*模式识别与智能计算 : MATLAB技术实现
+*运筹学教程
+*通信网性能分析基础
+*电子电路设计技术基础
+*通信网理论与应用 = Communication network : principle and applications
+*随机过程与排队论 = Random process and queuing theory
+*Verilog HDL 与数字电路设计
+*易学Python
+*Eclipse 从入门到精通
+*FPGA数字信号处理与工程应用实践 = The engineering application and digital signal processing of FPGA

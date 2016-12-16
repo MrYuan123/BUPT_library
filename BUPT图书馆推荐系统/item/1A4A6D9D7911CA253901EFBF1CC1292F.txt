@@ -1,0 +1,11 @@
+#半导体物理问题与习题
+*固体物理学全程导学及习题全解
+*模拟电子技术基础 (第2版) 学习指导与习题解答
+*半导体集成电路 = Semi-conductor integrated circuits
+*模拟电子技术名校考研真题详解
+*数字集成电路 : 电路、系统与设计 = Digital integrated circuits : a design perspective
+*固体物理概念题和习题指导
+*半导体物理与器件 = Semiconductor physics and devices : basic principles
+*模拟集成电路与系统 = Analog integrated circuits and systems
+*模拟电子技术知识精要与考研真题详解
+*固体物理学习题解答

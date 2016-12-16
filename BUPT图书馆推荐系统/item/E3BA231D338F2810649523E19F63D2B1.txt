@@ -1,0 +1,21 @@
+#数值分析 = Numerical analysis
+#密码学与网络安全
+#Python科学计算
+#概率、随机变量与随机过程 = Probability, random variables and stochastic processes
+#无穷分析引论 . 上 = Infinite analysis introduction . I
+#可视化数据 = Visualizing data
+#Java开发实战1200例 . 第Ⅱ卷
+#Git权威指南 = Got Git : the definitive guide of Git
+#程序设计语言 : 实践之路 = Programming language pragmatics
+#短码之美 = Short coding : 编程达人的心得技法
+#深入浅出密码学 : 常用加密技术原理与应用
+*密码学原理与实践 = Cryptography theory and practice
+*自动机理论、语言和计算导论 = Introduction to automata theory, languages, and computation
+*现代密码学
+*密码学与网络安全 = Cryptography and network security
+*信息安全中的数学方法与技术
+*ns-3网络模拟器基础及应用
+*现代通信网概论 = Modern communication networks
+*图解TCP/IP
+*现代编译原理 = Modern compiler implementation in C : C语言描述
+*C++ API设计 = API design for C++

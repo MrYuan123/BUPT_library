@@ -1,0 +1,14 @@
+#儿子与情人 = Sons and lovers
+#被禁锢的头脑
+#无名的裘德 = Jude the obscure
+#雾都孤儿 = Oliver twist
+*我的名字叫红 = Benim adim kirmizi
+*走出非洲 = Out of Africa
+*动物农场 = Animal farm
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

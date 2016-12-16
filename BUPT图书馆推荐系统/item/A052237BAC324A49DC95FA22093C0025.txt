@@ -1,0 +1,17 @@
+#Hadoop权威指南
+#软件定义网络 : 原理、技术与实践 = Software defined networks : a comprehensive approach
+#大数据 : 战略·技术·实践
+#JSP实训教程
+#疯狂XML讲义
+#实战大数据 : DT时代智能组织工作方法
+#机器学习方法
+*软件定义网络技术及应用
+*赖世雄经典语法
+*科学也爱恶作剧 : 来自哈佛的搞笑诺贝尔奖
+*LaTeX 2e 完全学习手册
+*Hadoop 技术内幕 : 深入解析MapReduce架构设计与实现原理 = Hadoop internals : in-depth study of MapReduce
+*从 Java 走向 Java EE
+*J2EE 项目实训 : Spring 框架技术
+*SDN核心技术剖析和实战指南 = Deciphering SDN : core techniques and practical guide
+*另一个地球 : 互联网+社会 = Society and the internet : how networks of information and communication are changing our lives
+*软件定义网络核心原理与应用实践 = SDN core principles and application practice

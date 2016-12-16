@@ -1,0 +1,12 @@
+#线性代数
+#凸优化 = Convex optimization
+*概率论与数理统计
+*高等数学 . 上册
+*Python宝典
+*具体数学 : 计算机科学基础 = Concrete mathematics : a foundation for computer science
+*高等数学复习指导 : 思路、方法与技巧
+*毕淑敏心灵独白
+*优化技术与 MATLAB 优化工具箱
+*高等数学 . 下册
+*数学之美 = Beauty of mathematics
+*人生的枷锁 = Of human bondage

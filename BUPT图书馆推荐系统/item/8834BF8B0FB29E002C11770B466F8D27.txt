@@ -1,0 +1,21 @@
+#自动控制原理考研大串讲
+#自动控制原理题海大全
+#自动控制原理知识精要与考研真题详解
+#信息论基础 = Elements of information theory
+#Mahout实战 = Mahout in action
+#研究生入学考试考点解析与真题详解 , 自动控制原理
+#机器学习 : 实用案例解析
+#图论算法及其 MATLAB 实现
+#Hadoop实战 = Hadoop in action
+#数学之美 = Beauty of mathematics
+#自动控制原理名校考研真题详解
+*机器学习系统设计 = Building machine learning systems with python
+*Mahout算法解析与案例实战 = Mahout in action : algorithm and cases
+*Python 学习手册
+*Python基础教程 = Beginning python : from novice to professional
+*Hadoop权威指南
+*Linux Shell脚本攻略 = Linux Shell Scripting Cookbook
+*Python 基础教程 = Beginning Python from novice to professional
+*你所谓的稳定，不过是在浪费生命 = Bye stability,morning my life
+*2017年考研英语新教程
+*2017李剑考研英语词汇真经

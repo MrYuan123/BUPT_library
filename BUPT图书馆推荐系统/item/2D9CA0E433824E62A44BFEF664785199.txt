@@ -1,0 +1,11 @@
+#MySQL 5.6从零开始学 : 视频教学版
+*ppk 谈 JavaScript = ppk no JavaScript
+*中文版Photoshop CS5完全自学教程 : 超值版
+*Hadoop实战 = Hadoop in action
+*数据库原理与应用教程
+*半导体材料
+*数据挖掘与R语言 = Data mining with R : learning with case studies
+*R语言实战 = R in action : data analysis and graphics with R
+*职业能力测试
+*数据挖掘原理与算法
+*光电子材料与器件

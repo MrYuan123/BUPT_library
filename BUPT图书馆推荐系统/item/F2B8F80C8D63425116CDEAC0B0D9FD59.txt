@@ -1,0 +1,13 @@
+#控制工程基础
+#MATLAB遗传算法工具箱及应用
+#奇点临近 = The singularity is near when humans transcend biology
+*机器学习及其应用2011
+*控制系统 MATLAB 计算及仿真实训
+*ANSYS 12 有限元分析自学手册
+*有限元方法基础教程 : 国际单位制版 = A first course in the finite element method
+*自动控制原理习题解析
+*微机原理与接口技术 : 基于32位机
+*光纤通信 = Fiber optic communications
+*通信原理及MATLAB/Simulink仿真 = Principles and MATLAB/Simulink simulations of communications
+*MATLAB R2012a超级学习手册
+*数字通信原理 = Principles of digital communication

@@ -1,0 +1,13 @@
+#C#多线程编程实战 = Multithreading in C# 5.0 cookbook
+#C# 从入门到精通
+#C#.NET 程序设计案例教程
+*C#并发编程经典实例 = Concurrency in C# cookbook
+*设计模式 : 可复用面向对象软件的基础 = Design patterns : elements of reusable object-oriented software
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

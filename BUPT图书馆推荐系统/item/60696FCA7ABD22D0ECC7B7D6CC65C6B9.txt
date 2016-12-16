@@ -1,0 +1,24 @@
+#MATLAB 在射频电路设计中的应用
+#复变函数札记
+#射频电路工程设计 = RF circuit design
+#不爱学习的校园侦探
+#电路基础 = Fundamentals of electric circuits
+#电子线路
+#濒死之眼
+#数学物理方法 = Methods of mathematical physics
+#锁相环设计、仿真与应用
+#CMOS 射频集成电路分析与设计 = Analysis and design of CMOS RF integrated circuits
+#射频电路与芯片设计要点 = Key issues in RF/RFIC circuit design
+#月与蟹
+#模拟电子技术基础 : 系统方法 = Analog fundamentals a systems approach
+#黎明之街
+*ADS高速电路信号完整性应用实例
+*数据转换器 = Data converters
+*C 语言程序设计
+*C 程序设计
+*别笑! 我是日语学习书
+*心灵鸡汤 , 快乐与梦想
+*英语短篇小说品鉴 = A Reader's guide to 30 English short stories . 上
+*大学英语新六级词汇周计划
+*微波工程 = Microwave engineering
+*ADS2008 射频电路设计与仿真实例

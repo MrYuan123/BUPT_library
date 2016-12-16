@@ -1,0 +1,14 @@
+#JAVA核心技术 . 卷I , 基础知识 = Core Java . volume I , Fundamentals
+#疯狂Java讲义精粹
+#编程之美 : 微软技术面试心得
+#鸟哥的Linux私房菜 , 服务器架设篇
+*大话数据结构 = Play with data structure
+*Java面向对象程序设计
+*疯狂Android讲义
+*Ubuntu Linux 从初学到精通
+*ubuntu 官方指南 = The official ubuntu book
+*深入理解计算机系统 = Computer systems : a programmer's perspctive
+*疯狂 Java 讲义
+*国家公务员考试深度辅导教材 , 行政职业能力测验
+*经济学原理 = Principles of economics
+*Java Web 整合开发王者归来 : JSP+Servlet+Struts+Hibernate+Spring

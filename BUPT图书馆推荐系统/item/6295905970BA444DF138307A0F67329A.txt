@@ -1,0 +1,19 @@
+#Linux 系统架构与目录解析
+#Python绝技 : 运用Python成为顶级黑客 = Violent Python : a cookbook for hackers, forensic analysts, penetration testers and security engineers
+#设计模式沉思录 = Pattern hatching design patterns applied
+#Docker全攻略
+#晓说 . 2
+#概率论与数理统计
+#我编程, 我快乐 : 程序员职业规划之道 = The Passionate programmer : creating a remarkable career in software development
+#算法Ⅰ-Ⅳ (C++实现) = Algorithms in C++ parts 1-4 , 基础、数据结构、排序和搜索fundamentals, data structures, sorting, searching
+#离散数学及其在计算机中的应用
+*Python 3面向对象编程 = Python 3 object oriented programming
+*Python编程实践 = Practical programming : an introduction to computer science using python
+*计量经济学 = Econometrics
+*高等数学 . 上册
+*大数据技术前沿
+*Python项目开发实战
+*无线电安全攻防大揭秘
+*大数据的互联网思维
+*从零进阶！数据分析的统计基础
+*谁说菜鸟不会数据分析 , 工具篇

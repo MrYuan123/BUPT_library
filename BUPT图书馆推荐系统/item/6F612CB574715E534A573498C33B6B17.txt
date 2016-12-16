@@ -1,0 +1,15 @@
+#基辛格 : 美国的全球战略 = Does America need a foreign policy
+#iBT托福口语全方位解析
+#新托福百日百句百篇 . 第三册
+#应用密码学 : 协议、算法与C源程序 = Applied cryptography : protocols, algorithms, and source code in C
+#给秘密加把锁 : 每个人都应学点密码学
+*TOEFL词汇词根+联想记忆法
+*200个一定要学的英文词根词缀 = The most popular vocabulary lectures
+*解密无印良品
+*蔡康永的说话之道
+*新托福真题详解 , 阅读分卷 . 第三册
+*深度探索C++对象模型 = Inside the C++ object model
+*编译原理 = Compilers : principles, techniques and tools
+*计算机图形学 = Fundamentals of computer graphics
+*应用密码学手册 = Handbook of applied cryptography
+*UNIX环境高级编程

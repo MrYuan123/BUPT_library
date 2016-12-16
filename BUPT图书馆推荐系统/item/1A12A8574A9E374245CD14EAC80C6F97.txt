@@ -1,0 +1,13 @@
+#Learning PHP, MySQL, JavaScript和CSS
+#Rootkit : 系统灰色地带的潜伏者 = The rootkit arsenal : escape and evasion in the dark corners of the system
+#PHP编程 = Programming PHP
+*PHP+MySQL开发技术详解
+*Go语言编程 = The Go programming language
+*桃花劫又劫
+*数字逻辑
+*HTML & Web 设计技术与技巧
+*信息科学原理
+*JavaScript 权威指南
+*数据挖掘十大算法
+*程序员的数学
+*算法 = Algorithms

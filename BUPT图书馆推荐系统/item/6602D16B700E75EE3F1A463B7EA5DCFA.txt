@@ -1,0 +1,11 @@
+#More Effective C++ 中文版 = More Effective C++ : 35个改善编程与设计的有效方法35 new ways to improve your programs and designs
+*Arduino编程从零开始
+*发现数据之美 = = Discover the beauty of data : 数据分析原理与实践
+*你必须知道的 204 个 Visual C++ 开发问题
+*认知心理学 = Cognitive psychology
+*Java语言导学 = Java tutorial a short course on the basics
+*Windows API 开发详解 : 函数、接口、编程实例
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

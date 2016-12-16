@@ -1,0 +1,15 @@
+#计算机原理课程设计 = Course design of computer principle
+#学习正则表达式 = Introducing regular expressions
+#计算理论基础
+#初等数论及其应用 = Elementary number theory and its applications
+#具体数学 : 计算机科学基础 = Concrete mathematics : a foundation for computer science
+*算法艺术与信息学竞赛
+*傲慢与偏见 = Pride and prejudice
+*被窝是青春的坟墓
+*Vim实用技巧 = Practical Vim : edit text at the speed of thought
+*组合数学教程 = A course in combinatorics
+*离散数学结构 = Discrete mathematical structures : 翻译版
+*软件工程实例教程
+*学习vi和Vim编辑器
+*Python UNIX 和 Linux 系统管理指南
+*软件工程

@@ -1,0 +1,14 @@
+#Android安全攻防实战 = Android security cookbook
+#移动APP测试实战 = A practical guide for testing mobile application : 顶级互联网企业软件测试和质量提升最佳实践
+#Android恶意代码分析与渗透测试
+#Android系统安全与攻防
+*物联网概论
+*物联网关键技术与应用
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

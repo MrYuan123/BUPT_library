@@ -1,0 +1,15 @@
+#景观设计基础
+#机构性能指标理论与仿真
+#环境艺术设计手绘表现
+#智能机器人系统建模与仿真
+#自主移动机器人导论 = Introducation on autonomous mobile robots
+*虚拟样机软件 MSC.ADAMS 应用与提高
+*MD ADAMS 虚拟样机从入门到精通
+*ADAMS 入门详解与实例
+*精通MATLAB/Simulink系统仿真 = Proficient in MATLAB/Simulink system simulation
+*智能预测控制及其 MATLAB 实现
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

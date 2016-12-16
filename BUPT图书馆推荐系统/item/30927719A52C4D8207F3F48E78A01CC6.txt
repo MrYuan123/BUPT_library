@@ -1,0 +1,16 @@
+#李群及其在微分方程中的应用
+#微分方程、动力系统与混沌导论 = Differential equations, dynamical systems, and an introduction to chaos
+#孤波和湍流
+#非线性动力系统的运动稳定性、分岔理论及其应用
+#非线性动力学
+#混沌及其应用
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

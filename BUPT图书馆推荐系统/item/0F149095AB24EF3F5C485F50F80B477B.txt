@@ -1,0 +1,13 @@
+#模糊数学及其应用
+#模糊数学理论及其应用
+#应用时间序列分析
+*遗传算法 : 理论、应用与软件实现
+*精通 MATLAB 神经网络
+*模糊数学方法及其应用
+*精通MATLAB智能算法 = Proficient in MATLAB intelligent algorithm
+*模糊数学基础及应用
+*MATLAB神经网络超级学习手册
+*MATLAB神经网络43个案例分析
+*时间序列分析及应用 : R语言 = Time series analysis with applications in R
+*时间序列分析 = Time series analysis
+*EViews统计分析与应用

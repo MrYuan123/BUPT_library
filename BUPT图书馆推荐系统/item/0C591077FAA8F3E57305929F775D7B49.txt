@@ -1,0 +1,13 @@
+#Java Web开发详解 : XML+DTD+XML Schema+XSLT+Servlet3.0+JSP2.2深入剖析与实例应用
+#华为工作法
+#深入分析Java Web技术内幕
+*Java核心技术精讲
+*Spring 3.x企业应用开发实战
+*Java EE Web开发与项目实战
+*Data structures and algorithm analysis in Java =数据结构与算法分析 : Java语言描述 /数据结构与算法分析 
+*Java EE核心框架实战
+*你必须知道的 261 个 Java 语言问题
+*Java 7并发编程实战手册 = Java 7 concurrency cookbook
+*疯狂 Java : 突破程序员基本功的16课
+*Java深入解析 : 透析Java本质的36个话题
+*Maven 实战 = Maven 3 in action

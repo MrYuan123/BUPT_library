@@ -1,0 +1,17 @@
+#大话处理器 : 处理器基础知识读本
+#数学史 = A history of mathematics . 上
+#Head First HTML 与 CSS、XHTML (中文版)
+#深入浅出程序设计
+#Head First PHP & MySQL : 中文版
+#Head first mobile web中文版
+#数据结构与STL
+*数学史 = A history of mathematics . 下
+*MIMO 无线通信 : 从真实世界的传播到空-时编码的设计 = MIMO wireless communications : from real-world propagation to space-time code design
+*MIMO 通信系统编码 = Coding for MIMO communication systems
+*GPU 精粹 3
+*大型RISC处理器设计 : 用描述语言Verilog设计VLSI芯片 = Visi chip design with the hardware description language verilog
+*现代VLSI设计 : 基于IP核的设计 = Modern VLSI design : IP-based design
+*多样式攻克大学英语四级词汇 , 根源记忆法
+*PHP MySQL Apache 超强组合
+*网站 PHP 后台解决方案
+*图解机器学习

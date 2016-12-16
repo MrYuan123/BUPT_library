@@ -1,0 +1,15 @@
+#广岛上空的蘑菇云 = Mushroom cloud hovering hiroshima
+#马里亚纳海空战 = Battle of the sea and sky in Mariana islands
+#南下南下
+#机构投资与资产管理 = Institutional investment and assets management
+#1964 暗战原子弹
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

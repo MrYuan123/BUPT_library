@@ -1,0 +1,13 @@
+#数据挖掘原理与算法
+#数据挖掘技术与应用
+#Java 实例精通 = Mastering Java step by step
+*数据挖掘技术应用实例
+*Visual Basic 2010 & .NET 4高级编程
+*概率论与数理统计
+*数据挖掘理论与技术
+*数据挖掘技术及应用
+*数据挖掘与R语言 = Data mining with R : learning with case studies
+*半导体材料
+*Hadoop技术内幕 : 深入解析Hadoop Common和HDFS架构设计与实现原理 = Hadoop internals : in-depth study of common and HDFS
+*学习 OpenCV : 中文版
+*数据挖掘教程

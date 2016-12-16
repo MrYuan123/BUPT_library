@@ -1,0 +1,18 @@
+#动画史 : 全彩版
+#当代华语电影品牌构建与传播 = The Construction and communication of Chinese cinema branding
+#当代艺术理论 = Contemporary art theory : 分析美学导引
+#动漫研究理论与实践
+#一支笔的素描时光
+#Flash 二维动画设计与制作
+#动漫游戏角色设计
+#插画艺术设计 = Illustration art and design
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

@@ -1,0 +1,13 @@
+#遗传算法 : 理论、应用与软件实现
+#MATLAB应用大全
+#设计模式从入门到精通
+*精通MATLAB最优化计算
+*蚁群算法原理及其应用 = Ant coloby algorithms : theory and applications
+*配送车辆优化调度模型与算法
+*ARM9 嵌入式系统设计与开发教程
+*Python 学习手册
+*Python程序设计基础
+*ARM 嵌入式程序设计
+*Java Web 技术整合应用与项目实战 : JSP+Servlet+Struts2+Hibernate+Spring3
+*AngularJS 高级编程
+*疯狂 Java : 突破程序员基本功的16课

@@ -1,0 +1,12 @@
+#MATLAB仿真在现代通信中的应用
+#LTE教程 : 原理与实现
+*光纤光栅原理及应用
+*通信原理
+*数字调制解调技术的MATLAB和FPGA实现
+*计算机仿真实用教程 : 基于MATLAB/Simulink 7.x
+*MATLAB 函数速查手册
+*MATLAB 通信仿真与应用
+*LTE : UMTS长期演进理论与实践 = LTE-the UMTS long term evolution from theory to practice
+*IEEE 802.11 无线局域网
+*光网络 = Optical networks : a practical perspective . 上卷 , 光纤通信技术与系统
+*光网络新技术解析与应用 = Optical network-new technology and implementtation

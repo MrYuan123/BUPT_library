@@ -1,0 +1,14 @@
+#会计 = Accounting
+#维基经济学 = Wikinomics : how mass collaboration changes everything : 大规模协作如何改变一切
+#雅思 9 分阅读 30 天速成真经 = Original test bible for IELTS in 30 days
+#基础会计
+*雅思写作奚式真题破译
+*雅思听力60大高频场景
+*雅思机经题源大全 = IELTS speaking , 口语分册
+*模拟考官点评雅思写作
+*新GRE高频词汇阅读理解
+*超级单词王4000 = 4000 vocabularies progress of English
+*GRE核心词汇助记与精练
+*计算机网络
+*线性代数
+*高等数学 . 上册

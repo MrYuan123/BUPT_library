@@ -1,0 +1,12 @@
+#摄影构图与用光从入门到精通 : 实战版
+#Python 核心编程
+*Python 编程金典
+*HFSS天线设计
+*STL源码剖析 = The Annotated STL sources
+*深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM advanced features and best practices
+*机器学习实战 = Machine learning in action
+*Hadoop权威指南
+*算法导论 = Introduction to algorithms
+*社交网站的数据挖掘与分析
+*Natural language processing with Python =Python自然语言处理 /自然语言处理
+*编程珠玑 . 续 = More programming pearls

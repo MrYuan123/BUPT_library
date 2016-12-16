@@ -1,0 +1,13 @@
+#薛定谔之猫 : 1935-1945我在日军战俘营的诡异经历
+#影响你一生的财富精英励志演讲 = The Most influential and best inspirational voices
+#青春不应被浪费
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

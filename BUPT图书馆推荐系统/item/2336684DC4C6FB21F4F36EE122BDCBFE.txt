@@ -1,0 +1,16 @@
+#信号的数据获取与信息处理基础
+#高维聚类知识发现关键技术研究及应用
+#数据挖掘原理 = Principles of data mining
+#智能数据挖掘与知识发现
+#剑桥英语语法
+#数据集成原理 = Principles of data integration
+*大型分布式网站架构设计与实践
+*恰如其分的软件架构 : 风险驱动的设计方法 = Just enough software architecture : a risk-driven approach
+*黑客与画家 : 硅谷创业之父Paul Graham文集 = Hackers and painters : big ldeas from the computer age
+*微服务架构与实践
+*Nginx高性能Web服务器详解
+*RESTful Web APIs中文版 = RESTful Web APIs
+*Redis入门指南
+*没有标准答案的哲学问题 = Philosophical dilemmas
+*爱因斯坦与万物之理 : 统一路上人和事 = Einstein's dream : searching for the theory of everything
+*日本为什么会这样

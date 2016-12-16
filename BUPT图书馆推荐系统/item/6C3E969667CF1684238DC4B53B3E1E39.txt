@@ -1,0 +1,11 @@
+#Python Web开发学习实录
+*零基础学Python
+*Python宝典
+*智能大数据SMART准则 : 数据分析方法、案例和行动纲领 = Big data : using SMART big data, analytics and metrics to make better decisions and improve performance
+*深入解析SAS : 数据处理、分析优化与商业应用
+*大数据 小故事
+*计算机网络 : 原理、技术与应用
+*工业大数据 : 工业4.0时代的工业转型与价值创造 = Industrial big data : the revolutionary transformation and value creation in industry 4.0 era
+*LonWorks 技术开发和应用
+*工业4.0大革命
+*流动的盛宴 = A Moveable feast

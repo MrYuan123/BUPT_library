@@ -1,0 +1,21 @@
+#什么是数学 = What is mathematics : 对思想和方法的基本研究
+#量子计算和量子信息 = Quantum computation and quantum information . 一 , 量子计算部分
+#无言的宇宙 : 隐藏在24个数学公式背后的故事
+#哈佛非虚构写作课 : 怎样讲好一个故事 = Telling true stories : a nonfiction writers' guide from the nieman foundation at Harvard university
+#那些古怪又让人忧心的问题 = What if serious scientific answers to absurd hypothetical questions
+#新托福百日百句百篇 . 第四册
+#百日征服雅思写作
+#小说月报 2010 年精品集
+#赖氏图解速记英语语法 = Graphic English grammar
+#英语词源趣谈 = Behind the English words
+#量子计算与量子信息原理 . 第一卷 : 基本概念
+*量子保密通信协议的设计与分析
+*流星雨
+*量子计算和量子信息 = Quantum computation and quantum information . 二 , 量子信息部分
+*量子密码协议的设计和分析
+*量子信息处理技术及算法设计
+*英语学术论文写作 = English acadeng writing
+*量子信息处理技术
+*博弈论教程
+*中国最后一个大儒 : 记父亲梁漱溟
+*博弈论 = Game theory

@@ -1,0 +1,13 @@
+#OpenStack实战指南 = OpenStack in action
+#OpenStack部署实践
+#云计算网络珠玑
+*Hadoop实战 = Hadoop in action
+*CDN技术详解
+*腾云 : 云计算和大数据时代网络技术揭秘
+*图解TCP/IP
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

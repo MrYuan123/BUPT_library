@@ -1,0 +1,11 @@
+#30天自制操作系统
+*反编译技术与软件逆向分析
+*汇编语言程序设计
+*活出生命的意义 : 成为你天生应该成为的人 = What is your what : discover the one amazing thing you were born to do
+*MATLAB 在数学建模中的应用
+*Android SDK程序设计与开发范例
+*逆向工程核心原理
+*多样式攻克大学英语六级词汇 : 便携版
+*英语句法解析 = English syntactic analysis
+*HTML+CSS+JavaScript网页制作简明教程
+*0day安全 : 软件漏洞分析技术

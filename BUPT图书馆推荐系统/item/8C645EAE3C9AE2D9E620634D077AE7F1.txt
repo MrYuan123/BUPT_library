@@ -1,0 +1,13 @@
+#SQL 完全手册 = Introduction to SQL : mastering the relational database language
+#程序员突击 , MySQL原理与Web系统开发
+#深入浅出 MySQL 数据库开发、优化与管理维护
+*SQL Server从入门到精通
+*Android移动开发一本就够
+*Android应用开发入门经典
+*精通 JavaScript+jQuery
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

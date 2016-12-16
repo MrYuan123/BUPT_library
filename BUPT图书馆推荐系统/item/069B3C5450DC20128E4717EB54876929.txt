@@ -1,0 +1,20 @@
+#图论算法理论、实现及应用
+#数据挖掘 : 概念与技术 = Data mining : concepts and techniques
+#规划算法
+#过程挖掘 : 业务过程的发现、合规和改进
+#过程感知的信息系统
+#柔性业务过程管理体系与方法
+#工作流管理 : 模型、方法和系统
+#人工智能 : 一种现代的方法
+#人工智能 = Artificial intelligence : 复杂问题求解的结构和策略structures and strategies for complex problem solving
+#业务流程管理
+*神经计算原理 = Principles of neurocomputing for science & engineering
+*MATLAB 神经网络应用设计
+*概率图模型学习理论及其应用
+*实用 Java 语言程序设计 : 基于Eclipse
+*搜索方法论 : 优化与决策支持技术入门教程
+*Java 7面向对象程序设计教程
+*Linux 服务器配置与管理
+*面向大数据的高效能垃圾文本分类
+*Java 开发实战 1200 例 . 第1卷
+*数据挖掘教程

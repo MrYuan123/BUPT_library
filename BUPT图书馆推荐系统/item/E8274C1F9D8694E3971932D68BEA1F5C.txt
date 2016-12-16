@@ -1,0 +1,13 @@
+#数字通信 = Digital Communications
+#数字与模拟通信系统 = Digital and analog communication systems
+#TCP/IP 协议族
+*Digital and analog communication systems =数字与模拟通信系统 /数字与模拟通信系统
+*数字通信理论与系统
+*现代控制系统 = Modern control systems
+*数字通信 = Digital communications
+*MySQL 入门很简单
+*通信原理 : 基于Matlab的计算机仿真
+*运筹学学习指导及习题集
+*运筹学解题指导
+*高等代数与解析几何 . 下册
+*数字电路与逻辑设计

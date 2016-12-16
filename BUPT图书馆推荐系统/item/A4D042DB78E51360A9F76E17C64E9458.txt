@@ -1,0 +1,11 @@
+#微波网络及其应用
+*无线通信基础
+*高等微波网络
+*电磁兼容测试技术
+*MIMO 技术原理及应用
+*微分方程及边值问题 = Differential equations and boundary value problems : 计算与建模computing and modeling
+*射频电路设计原理
+*数学物理方法习题全解
+*电磁场与电磁兼容
+*计算机网络
+*线性代数

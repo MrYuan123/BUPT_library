@@ -1,0 +1,17 @@
+#会话结构分析
+#每天读点英文英美文化常识全集
+#构式语法研究
+#构式 = Constructions : 论元结构的构式语法研究a construction grammar approach to argument structure
+#语篇分析理论的发展及应用 = New developments in the theory of discourse analysis and lts application
+#会话分析概要 = The rudiments of conversation analysis
+#话语标记 = Discourse markers
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

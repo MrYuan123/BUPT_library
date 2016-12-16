@@ -1,0 +1,30 @@
+#通信原理辅导与习题解答
+#固体物理概念题和习题指导
+#数字信号处理原理及实现学习指导 = Study guide for digital signal processing principles and practice
+#大学英语四、六级写作手边书 = Manual for CET4/6 writing
+#MATLAB 数学建模与仿真
+#光电子学与光子学 : 原理与实践 = Optoelectronics and photonics : principles and practices
+#台湾二〇〇九
+#通信原理学习辅导与习题解答
+#数字信号处理学习指导与习题解答
+#解析台湾的大陆政策
+#固体物理学习辅导与习题解答
+#两岸关系纵横论
+#大陆台湾六十年
+#激光原理 (第2版） 教案与学习指导 = Study guide for principles of lasers
+#激光原理与激光技术
+#动手玩转Arduino = Arduion workshop
+#大学英语6级考试巧攻听力
+#通信原理
+#通信原理 (第六版) 同步辅导及习题全解
+#大学英语六级词汇 21 天速听速记
+*MATLAB信号处理超级学习手册
+*数字信号处理导论 : MATLAB实现 = Introduction to digital signal processing using Matlab
+*樊昌信《通信原理》 (第6版) 笔记和课后习题 (含考研真题) 详解
+*数字信号处理
+*通信原理习题集
+*微型计算机原理及应用习题集
+*信息论与编码学习辅导及习题详解
+*通信原理学习与实验指导 = Instruction to exercise and experiment for communication principle
+*数字信号处理学习指导 典型题解 : 新版
+*大学英语四级词汇熟记这些词就够

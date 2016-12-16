@@ -1,0 +1,14 @@
+#数字信号处理教程 : MATLAB释义与实现
+#概率论与数理统计
+#日本语 . 1
+#日本语 . 2
+*计量经济学导论 = Introductory econometrics : 现代观点a modern approach
+*商务与经济统计 = Statistics for business and economics
+*高级应用计量经济学 = Advanced applied econometrics
+*计量经济学同步辅导
+*计量经济学习题集
+*计量经济学 = Econometrics
+*高等数学 . 上册
+*统计学中的矩阵代数 = Matrix algebra in statistics
+*统计学导论
+*统计学原理与实务

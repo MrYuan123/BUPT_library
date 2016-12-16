@@ -1,0 +1,12 @@
+#Hadoop大数据处理 = Big data processing
+#EDA技术及应用 , Verilog HDL版
+*网络科学 : 原理与应用 = Network science : theory and applications
+*PHP从入门到精通
+*Ubuntu Linux从入门到精通
+*Hadoop 技术内幕 : 深入解析MapReduce架构设计与实现原理 = Hadoop internals : in-depth study of MapReduce
+*Eclipse 开发入门与项目实践
+*Hadoop权威指南
+*轻松学Java
+*解惑大数据 = Big data
+*实战Hadoop : 开启通向云计算的捷径
+*数据结构 : Java版

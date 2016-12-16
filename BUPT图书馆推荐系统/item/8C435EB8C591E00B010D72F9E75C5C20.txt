@@ -1,0 +1,11 @@
+#王道程序员求职宝典
+*剑指Offer : 名企面试官精讲典型编程题
+*欧·亨利短篇小说精选 = The Essential O. Henry collection
+*20 世纪最伟大的心理学实验 : 经典版 = Opening skinner's box : great psychological experiments of the twentieth century
+*HTML5从入门到精通
+*囚徒的困境 = Prisoner's dilemma : 冯·诺伊曼、博弈论和原子弹之谜John Von Neumann, game theory, and the puzzle of the bomb
+*云计算 : 概念、技术与架构 = Cloud computing : concepts, technology & architecture
+*离散数学及其应用 = Discrete mathematics and its applications
+*逻辑学是什么 = What is logic
+*计算机网络
+*线性代数

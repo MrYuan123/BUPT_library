@@ -1,0 +1,14 @@
+#概率论与随机过程
+#应用随机过程
+#TCP/IP 详解 . 卷2 , 实现
+#Windows 黑客技术揭秘与攻防 . Ⅰ
+*信息论基础习题解答 = Elements of information theory : solutions to exercises
+*异构无线网络融合理论与技术实现
+*矩阵论导教·导学·导考
+*异构无线网络切换技术
+*线性代数
+*MATLAB 电子仿真与应用教程
+*矩阵分析学习指导
+*通信网络基础
+*疏散的马尔可夫链 = Scattered Markov chain
+*Satellite communications systems :systems, techniques and technology 

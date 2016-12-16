@@ -1,0 +1,13 @@
+#CDMA 系统工程手册
+#CDMA 空中接口技术
+#移动通信原理与应用技术 = Principles and technical applications of mobile communications
+*详解MATLAB/Simulink通信系统建模与仿真 : 配视频教程
+*cdma2000 1x 无线网络规划与优化
+*CDMA 无线通信原理
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

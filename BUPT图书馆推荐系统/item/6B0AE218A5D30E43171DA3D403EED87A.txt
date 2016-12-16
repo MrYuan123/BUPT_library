@@ -1,0 +1,11 @@
+#自然用户界面设计 : NUI的经验教训与设计原则 = Brave NUI world : designing natural user interfaces for touch and gesture
+*Design for the Future : Metro风格解读及设计指导
+*与世界UI设计师同行 = Gui design interface interaction application icon button typeface motif
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

@@ -1,0 +1,13 @@
+#通信抗干扰技术
+#智能天线技术与应用
+#802.11 无线网络权威指南
+*通信原理教程
+*光网络规划与优化
+*基于以太网的无源光网络 = Ethernet passive optical networks
+*计算机网络
+*宽带无线通信技术
+*光纤接入网规划设计手册
+*光网络 = Optical networks : a practical perspective
+*Cisco网络技术教程
+*计算机网络
+*线性代数

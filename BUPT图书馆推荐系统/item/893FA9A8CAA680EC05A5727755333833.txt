@@ -1,0 +1,12 @@
+#近代光学信息处理
+#OpenGL 超级宝典 = OpenGL superbible
+*大气中的光传输理论
+*电信行业精确营销方法与案例
+*光学原理与应用 = Optics : principles and applications
+*光信息大气传输理论与检测技术
+*现代光学基础与前沿
+*傅里叶光学导论 = An introduction to fourier optics
+*计算机图形学 : OpenGL版
+*OS X系统管理和部署
+*另一个地球 : 互联网+社会 = Society and the internet : how networks of information and communication are changing our lives
+*iOS游戏框架Sprite Kit技术详解

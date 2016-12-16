@@ -1,0 +1,14 @@
+#现代小卫星及其应用
+#航空与航天 : 双语版 = Air and space
+#卫星通信系统工程 = Satellite communications systems engineering atmospheric effects, satellite link design and system performance
+#卫星轨道 : 模型、方法和应用 = Satellite orbits : models, methods and applications
+*卫星通信系统
+*现代无线通信原理
+*数字卫星通信
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

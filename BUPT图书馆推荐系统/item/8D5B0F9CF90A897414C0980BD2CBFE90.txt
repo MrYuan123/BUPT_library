@@ -1,0 +1,11 @@
+#Head First Python中文版
+*大话数据结构 = Play with data structure
+*剑指Offer : 名企面试官精讲典型编程题
+*编程之美 : 微软技术面试心得
+*MATLAB神经网络应用设计
+*精通 MATLAB 神经网络
+*神经网络
+*神经网络设计方法与实例分析
+*神经网络理论与 MATLAB 7 实现
+*神经网络专家系统
+*MATLAB神经网络43个案例分析

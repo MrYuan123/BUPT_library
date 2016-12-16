@@ -1,0 +1,11 @@
+#LabVIEW入门与实战开发100例
+*老人与海 = The old man and the sea
+*基督山恩仇记 = The Count of monte cristo
+*LabVIEW虚拟仪器设计及分析
+*鲁滨逊漂流记 = Robinson crusoe : 插图·中文导读英文版
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

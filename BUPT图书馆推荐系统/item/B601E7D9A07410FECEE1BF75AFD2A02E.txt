@@ -1,0 +1,18 @@
+#互联网金融与法治建设论坛
+#欧盟金融制度
+#大国外交 : 从第一次世界大战至今 = Great power diplomacy : since 1914
+#5G : 开启移动网络新时代
+#老北京那些玩意儿
+#互联网+风口 : 实体经济和虚拟经济深度交锋
+#大数据的互联网思维
+#民国的那些先生
+*Python项目开发实战
+*从零进阶！数据分析的统计基础
+*大数据技术前沿
+*谁说菜鸟不会数据分析 , 工具篇
+*数据挖掘 : 你必须知道的32个经典案例
+*无线电安全攻防大揭秘
+*Python绝技 : 运用Python成为顶级黑客 = Violent Python : a cookbook for hackers, forensic analysts, penetration testers and security engineers
+*TD-LTE 技术原理与系统设计 = TD-LTE principles and system design
+*全面详解LTE : MATLAB建模、仿真与实现
+*华尔街之狼 = The wolf of Wall Street : 我走过的金钱、权力与欲望的迷途

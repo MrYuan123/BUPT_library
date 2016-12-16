@@ -1,0 +1,17 @@
+#博赞记忆术
+#思维版图 = The Geography of thought
+#高等数学全程学习指导与习题精解 : 同济六版
+#思考的艺术 = The Art of thinking : a guide to critical and creative thought
+#思维导图 = The mind map book
+#掌控记忆 = Master your memory
+#思维导图宝典
+*C++ 编程思想 = Thinking in C++ . Volume one , Introduction to standard C++
+*拖延心理学 = Procrastination : why you do it, what to do about it now
+*用户体验与产品创新设计 = User experience and product innovation design
+*浪潮之巅 = On top of tides . 上册
+*月亮和六便士 = The moon and sixpence
+*被讨厌的勇气 : “自我启发之父”阿德勒的哲学课
+*悠游度过一天的 24 小时 = How to live on twenty-four hours a day
+*大学英语写作句句通 = Practical manual of writing for college students
+*张道真英语语法新编 = A new edition of Zhang Daozhen's English grammar
+*英语写作 = Winning writing : 一写就上手的完全征服手册

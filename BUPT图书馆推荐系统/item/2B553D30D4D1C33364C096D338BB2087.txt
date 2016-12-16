@@ -1,0 +1,19 @@
+#Verilog数字系统设计教程
+#门老师教你快速看懂电子电路图
+#零起步轻松学电子技术
+#模拟电子技术基础
+#FPGA设计实战演练 , 逻辑篇 = Practice-based learning fo FPGA logic level design
+#FPGA 应用开发入门与典型实例
+#FPGA项目开发实战讲解
+#PID 控制器参数整定与实现
+#数字系统设计与Verilog HDL
+*最优状态估计 : 卡尔曼, H及非线性滤波
+*Arduino开发实战指南 : STM32篇
+*传感器信息融合 : MATLAB程序实现
+*无线通信的 MATLAB 和 FPGA 实现
+*Xilinx FPGA开发实用教程 = Xilinx FPGA : development and application
+*基于 Verilogrr 的 FPGA 设计基础
+*Verilog 数字系统设计教程
+*Xilinx ISE 9.x FPGA/CPLD 设计指南
+*无线通信 = Wireless communications
+*扩频通信系统的FPGA设计

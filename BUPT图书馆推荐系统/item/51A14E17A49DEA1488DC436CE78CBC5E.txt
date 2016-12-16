@@ -1,0 +1,19 @@
+#IPv6网络 : 基础、安全、过渡与部署
+#IPv6 技术
+#部署IPv6网络 = Deploying IPv6 networks
+#IPSec VPN设计 = IPSec VPN design
+#卫星通信系统工程设计与应用
+#云计算大数据处理 = Cloud computing and big data processing
+#卫星通信系统
+#Cisco IPv6网络实现技术 = Cisco self-study : implementing Cisco IPv6 networks
+#卫星通信网络技术 = Satellite communication network technology
+*通信卫星工程
+*卫星通信导论
+*卫星网络中的资源管理 : 优化与跨层设计 = Resource management in satellite networks optimization and cross-layer design
+*卫星通信 = Satellite communications
+*卫星通信网路由技术及其模拟 = Satellite communication network routing technology and simulation
+*卫星网络鲁棒 QoS 路由技术研究
+*Matlab语言及实践教程
+*信息论与编码
+*Java从入门到精通 : 实例版
+*信息论与编码理论

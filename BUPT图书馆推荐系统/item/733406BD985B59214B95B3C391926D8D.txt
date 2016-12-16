@@ -1,0 +1,20 @@
+#一口气读懂四大宗师
+#无用之学 = Useless science
+#直觉力 : 打开灵感和创造力的心理学 = The Intnitive way : the definitive guide to lncreasing your awareness
+#独自在 13 亿人中 : 一次横跨中国的旅行
+#重新认识你自己 = Freedom from the known
+#马语者 = The horse whisperer
+#理性情绪 = How to stubbornly refuse to make yourself miserable about anything : yes, anything
+#柏拉图的播客 : 来自古代的现代生活指南 = Plato's podcasts : the ancients' guide to modern living
+#叛逆国度 : 为何反主流文化变成消费文化 = The rebel sell : why the culture can't be jammed
+#大学 . 中庸
+*西方哲学史精华本 = A history of western philosophy
+*VMware Virtual SAN权威指南 = Essential Virtual San : administrator's guide to VMware VSAN
+*微型计算机原理与接口技术实验指导
+*Visual C++从入门到精通
+*Xen虚拟化技术完全导读 = The definitive guide to the Xen hypervisor
+*操作系统
+*云计算通俗讲义
+*C++入门经典
+*计算机网络
+*线性代数

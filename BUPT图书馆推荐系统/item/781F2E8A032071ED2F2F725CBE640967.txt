@@ -1,0 +1,13 @@
+#数据挖掘方法与模型 = Data mining methods and models
+#Mathematica基础及其在数学建模中的应用
+#Python编程入门 = Python : Visual quickstart guide
+*会声会影X8视频剪辑完全自学一本通
+*Photoshop+Lightroom数码摄影后期实战宝典
+*C++ Primer : 中文版
+*跟老齐学Python : 从入门到精通
+*Python 灰帽子 : 黑客与逆向工程师的Python编程之道 = Gray hat python : python programming for hackers and reverse engineers
+*数据统计分析与 SPSS 应用
+*Python编程实战 : 运用设计模式、并发和程序库创建高质量程序 = Python in practice : create better programs using concurrency, libraries, and patterns
+*优化建模与 LINDO/LINGO 软件
+*SPSS 19.0统计分析综合案例详解
+*MATLAB数学实验与建模

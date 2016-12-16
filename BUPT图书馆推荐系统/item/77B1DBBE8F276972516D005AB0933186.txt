@@ -1,0 +1,18 @@
+#明明白白看年报
+#金融数量分析 : 基于MATLAB编程
+#金融学 = Financial economics
+#创业之初你不可不知的融资知识 : 寻找风险投资全揭秘
+#营销管理 = Marketing management
+#创业学 = Entrepreneurship : 理论、流程与实践theory, process, and practice
+#集成电路产业50年回眸
+#美联储 = Secrets of the temple : how the federal reserve runs the country
+*私募股权投资理论与应用
+*精通Excel金融建模 : 公司金融应用指南 = Mastering financial modelling in Microsoft Excel : a practitioner's guide to applied corporate finance
+*金融学 = Economics of money and finance : 货币银行学 (第四版)
+*金融数据分析导论 : 基于R语言 = An introduction to analysis of financial data with R
+*宋慈洗冤录 : 满怀冰雪
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

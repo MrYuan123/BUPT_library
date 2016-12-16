@@ -1,0 +1,13 @@
+#ANSYS 14完全自学一本通
+#读《时代》周刊学英文 = Time : 85 years of great writing
+#PHP、MySQL和Apache入门经典
+*HTML5 + CSS3 + jQuery应用之美
+*云计算宝典 = Cloud computing bible
+*网站规划与网页设计
+*HTML+CSS网站开发兵书
+*Ubuntu Linux 从入门到精通 : 版本9
+*CSS Web开发学习实录
+*Python自动化运维 : 技术与最佳实践 = Automation operations with Python : technique and best practices
+*统计自然语言处理
+*Hadoop大数据处理 = Big data processing
+*Linux Bash编程与脚本应用实战

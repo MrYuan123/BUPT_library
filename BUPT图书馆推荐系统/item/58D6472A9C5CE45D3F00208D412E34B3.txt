@@ -1,0 +1,13 @@
+#最优化导论 = An introduction to optimization
+#计算机图形学 = Computer graphics with openGL
+#计算机图形学原理及算法教程 : Visual C++版
+*最优化计算方法及其MATLAB程序实现
+*OpenGL 编程技术详解
+*计算机图形学 = Fundamentals of computer graphics
+*计算机图形学
+*计算机网络技术与应用
+*数据结构 : C++语言版 = Data structure : C++ language version
+*玻璃
+*计算机图形学 = Computer graphics with OpenGL
+*麻辣日本史 = Japanese history : 明治物语
+*计算机图形学基础 : OpenGL版

@@ -1,0 +1,12 @@
+#产品经理面试宝典 = Cracking the interview : how to land product manager job in technology
+#人月神话 : 32 周年中文纪念版
+*Head first Python =深入浅出Python /深入浅出Python
+*设计模式解析 = Design patterns explained : a new perspective on object-oriented design
+*利用Python进行数据分析
+*用 Python 学编程 = Learn to program using python
+*统计学习方法
+*第一本Docker书 = The docker book
+*机器学习及其应用2011
+*计算机网络
+*线性代数
+*高等数学 . 上册

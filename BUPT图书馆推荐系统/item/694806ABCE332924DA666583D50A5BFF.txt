@@ -1,0 +1,13 @@
+#Hadoop应用开发技术详解 = Programming hadoop
+#数据挖掘 : 实用机器学习工具与技术 = Data mining : practical machine learning tools and techniques
+#贝叶斯网络学习、推理与应用
+*社交网站的数据挖掘与分析
+*Hadoop 2.X HDFS源码剖析
+*数据挖掘十大算法
+*C/C++求职宝典
+*像天使一般地唱 : 纪伯伦经典诗选
+*愿你要的明天, 如约而至 : 吉檀迦利
+*卡尔曼滤波及其实时应用 = Kalman filtering with real-time applications
+*断舍离
+*马尔可夫链 : 模型、算法与应用 = Markov Chains : models, algorithms and applications
+*流萤集 = Fireflies

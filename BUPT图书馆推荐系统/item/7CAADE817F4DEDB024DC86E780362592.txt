@@ -1,0 +1,22 @@
+#Artificial intelligence :a modern approach = 人工智能 : 一种现代方法 /人工智能 :
+#深入浅出Node.js
+#JavaScript DOM 高级程序设计 = AdvancED DOM scripting dynamic web design techniques
+#深入PHP : 面向对象、模式与实践 = PHP objects, patterns, and practice
+#JavaScript 高级程序设计 = Professional JavaScript for web developers
+#面向计算机科学的数理逻辑 = Logic in computer science : 系统建模与推理modelling and reasoning about systems
+#神经网络与机器学习 = Neural networks and learning machines
+#HTTP权威指南 = HTTP : the definitive guide
+#Java核心技术 . 卷1 , 基础知识 = Core Java . Volume I , Fundamentals
+#凸优化 = Convex optimization
+#鸟哥的 Linux 私房菜 , 基础学习篇
+#TCP/IP 详解 . 卷 1 , 协议
+*数据挖掘导论 = Introduction to data mining
+*Python高手之路 = The Hacker's guide to Python
+*Python 学习手册
+*PHP & MySQL实战手册
+*编写高质量代码 : 改善JavaScript程序的188个建议 = Writing soliv JavaScript cove 188 suggestion to improve your JavaScript program
+*高性能网站建设进阶指南 : Web开发者性能优化最佳实践 = Even faster Web sites : performance best practices for Web developers
+*PHP 深度分析 : 101个核心技巧、窍门和问题解决方法
+*解忧杂货店
+*Node.js实战 = Learning Node.js : a hands-on guide to building web applications in JavaScript
+*算法导论 = Introduction to algorithms

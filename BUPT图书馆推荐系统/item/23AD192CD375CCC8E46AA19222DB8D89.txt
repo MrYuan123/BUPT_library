@@ -1,0 +1,11 @@
+#MATLAB 统计分析与应用 : 40个案例分析
+*查令十字街84号
+*数据挖掘与R语言 = Data mining with R : learning with case studies
+*R语言数据挖掘方法及应用
+*褚时健传
+*Copula 理论及其在金融分析上的应用
+*一生家国 : 李光耀传奇
+*金融时间序列分析 = Analysis of financial time series
+*金融计量学 : 时间序列分析视角
+*计算机网络
+*线性代数

@@ -1,0 +1,12 @@
+#算法竞赛入门经典
+#算法基础
+*分布式计算 : 原理、算法与系统 = Distributed computing  : principles, algorithms,and systems
+*算法竞赛入门经典训练指南
+*信息安全攻防实用教程 = A practical guide to information security : attack and defense
+*Web 技术应用基础
+*Shellcoder 编程揭秘 = Shellcoder's programming uncovered
+*数据结构实用教程 : C语言版
+*数据结构 (C语言版)
+*2014版计算机网络高分笔记
+*嵌入式系统开发之道 : 菜鸟成长日志与项目经理的私房菜
+*大数据革命 : 理论、模式与技术创新

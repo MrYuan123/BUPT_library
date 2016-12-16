@@ -1,0 +1,13 @@
+#STC15增强型8051单片机C语言编程与应用
+#DC/DC 变换器集成电路及应用 , 升压式DC/DC变换器
+#Altium Designer 14电路设计基础与实例教程
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

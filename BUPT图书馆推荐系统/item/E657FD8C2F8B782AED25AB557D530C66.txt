@@ -1,0 +1,12 @@
+#说春秋 . 一 , 齐楚崛起
+#大国的崛起 = A short history of the world : 从成功走向辉煌的世界强国启示录
+*Python Cookbook (第3版) 中文版
+*Java程序员面试宝典
+*帝国衰亡史 : 十六个古代帝国的崛起、霸业和衰亡 = The fall of empires : from glory to buin, an epic account of history's ancient civilisations
+*微信公众平台应用开发 : 方法、技巧与案例 = Wechat public platform application developing : method, technique and example
+*那些古怪又让人忧心的问题 = What if serious scientific answers to absurd hypothetical questions
+*深入理解Spark : 核心思想与源码分析 = Spark internals : core design and source code analysis
+*图解TCP/IP
+*Head First Python中文版
+*Spark核心技术与高级应用 = Spark core technology and advanced applications
+*JAVA 实例技术手册 = Java examples in a nutsbell

@@ -1,0 +1,11 @@
+#SQL Server 2012宝典
+*数据库处理 : 基础、设计与实现 = Database processing : Fundamentals, Design, and implementation
+*SQL Server 2012王者归来 : 基础、安全、开发及性能优化
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

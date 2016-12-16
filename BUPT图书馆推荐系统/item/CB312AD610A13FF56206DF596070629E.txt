@@ -1,0 +1,23 @@
+#高等电磁理论 = Advanced electromagnetic theory
+#Word排版之道 = The tao of typesetting
+#电磁场与电磁波
+#LATEX　入门与提高
+#微波技术基础
+#HFSS天线设计
+#Origin 8.0 实用教程 : 科技作图与数据分析
+#天线理论基础
+#微带电路
+#微带无线理论与工程
+#天线理论与设计 = Antenna theory and design
+#微波五讲 = Five dicussions of microwave
+#微带天线
+*CST天线仿真与工程设计
+*天线 = Antennas :  for all applications . 上册
+*电磁场与波 : 电磁材料及MATLAB计算 = Electromagnetic waves, materials, and computation with MATLAB
+*微波工程 = Microwave engineering
+*天线与电波传播
+*刘邦的天下谋略
+*Python 编程金典
+*Python 核心编程
+*我们在此相遇 = Here is where we meet
+*小团圆

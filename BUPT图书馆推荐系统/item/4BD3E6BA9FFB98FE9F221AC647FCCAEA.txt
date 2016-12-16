@@ -1,0 +1,13 @@
+#EDA技术基础
+#Java 程序设计
+#自动控制原理
+*模拟电子技术学习及考研辅导
+*电子技术学习指导与习题解答
+*数学建模
+*控制系统计算机辅助设计 : MATLAB语言与应用 = Computer aided control systems design : using MATLAB language
+*Java 程序设计实用案例教程
+*轻松学韩语 = Korean for Chinese . 1 , 初级
+*Android手机程序设计入门、应用到精通
+*模式识别与智能计算 : Matlab技术实现
+*网络安全技术
+*6 级词汇分频精讲速记

@@ -1,0 +1,13 @@
+#LTE 基础原理与关键技术
+#拖延心理学 = Procrastination : why you do it, what to do about it now
+#MIMO 无线通信原理及应用
+*MIMO 多天线无线通信系统
+*移动通信原理
+*世界是对的, 你也是 = You are right as the world is
+*专注的快乐 : 我们如何投入地活 = Finding flow : the psychology of engagement with everyday life
+*浪潮之巅 = On top of tides . 上册
+*被讨厌的勇气 : “自我启发之父”阿德勒的哲学课
+*思维导图宝典
+*Python 学习手册
+*全面详解LTE : MATLAB建模、仿真与实现
+*NS-2 网络模拟基础与应用

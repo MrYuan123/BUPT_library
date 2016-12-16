@@ -1,0 +1,11 @@
+#涂抹MySQL : 跟着三思一步一步学MySQL
+*数据挖掘 : R语言实战
+*学习R = Learning R
+*MySQL核心技术与最佳实践 = MySQL core technology & best practice
+*每天读点英文感动你一生的英文全集
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

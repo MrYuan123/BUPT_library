@@ -1,0 +1,13 @@
+#新托福考试专项进阶 = How to master skills for the TOEFL iBT , 中级写作Writing intermediate
+#TOEFL iBT 高分作文 : TOEFL 官方题库范文大全
+#新托福考试专项进阶 = How to master skills for the TOEFL iBT
+*数学建模 = A first course in mathematical modeling
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学

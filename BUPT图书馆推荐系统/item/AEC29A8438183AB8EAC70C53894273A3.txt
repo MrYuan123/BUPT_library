@@ -1,0 +1,12 @@
+#Spring实战 = Spring in action
+#JUnit实战 = JUnit in action
+*Java EE开发的颠覆者 : Spring Boot实战
+*大话设计模式
+*MySQL 5 权威指南 = The definitive guide to MySQL 5
+*图像识别与项目实践 : VC++、MATLAB技术实现
+*PHP+MySQL 开发实战
+*通信原理
+*Scala并发编程 = Learning concurrent programming in Scala
+*操作系统答疑解惑与典型题解
+*珍珠鸟
+*数据结构与算法分析 : Java语言描述 = Data structures and algorithm analysis in Java

@@ -1,0 +1,16 @@
+#分数阶微分方程的有限差分方法
+#分数阶偏微分方程数值方法及其应用
+#分数阶差分方程理论
+#切换中立型控制系统概论 : 原理、设计与仿真
+#分数阶偏微分方程及其数值解 = Fractional partial differential equations and their numerical solutions
+#边界元法
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

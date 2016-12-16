@@ -1,0 +1,21 @@
+#离散数学及其应用 = Discrete mathematics and its applications
+#云计算导论
+#数据结构答疑解惑与典型题解 : C语言版
+#编码的奥秘
+#STL源码剖析 = The Annotated STL sources
+#数据结构学习指导与习题解答 : C++语言版 = Schaum's outline of data structures with C++
+#NumPy攻略 = NumPy cookbook : Python科学计算与数据分析
+#深入理解计算机系统 = Computer systems : a programmer's perspective
+#Python高手之路 = The Hacker's guide to Python
+#Vim实用技巧 = Practical Vim : edit text at the speed of thought
+#数据结构与算法分析 = Data structures and algorithm analysis in C++ : C++ 描述
+*妙趣横生的算法 : C++语言实现
+*Web 搜索 = Web search
+*HTTP权威指南 = HTTP : the definitive guide
+*CCNA 实验指南
+*OpenStack开源云王者归来 : 云计算、虚拟化、Nova、Swift、Quantum与Hadoop
+*杜马岛 = Duma key
+*生命不息 = Life after life
+*美英报刊阅读教程 = Reading course in American & British news publications
+*怨女
+*逻辑设计基础

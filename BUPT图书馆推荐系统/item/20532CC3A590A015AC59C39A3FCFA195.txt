@@ -1,0 +1,15 @@
+#可视化程序设计
+#Visual C++应用开发
+#MFC Windows应用程序设计
+#CAN 总线轻松入门与实践
+#基于Visual C++的MFC编程
+*C++ 程序设计
+*数据库基础教程 (Access 2010版) 上机实验指导
+*C++ 程序设计实训
+*数据库基础教程 : Access 2010版
+*Verilog HDL 应用程序设计实例精讲
+*C++程序设计题解与上机指导
+*计算机网络
+*Verilog 数字系统设计教程
+*C++ 语言 99 个常见编程错误 = C++ Gotchas : avoiding common problems in coding and design
+*面向对象程序设计 : C++描述

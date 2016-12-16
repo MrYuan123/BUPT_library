@@ -1,0 +1,13 @@
+#JavaScript从零开始学 : 视频教学版
+#HTML5秘籍 = HTML5 the missing manual : the book that should have been in the box
+#MATLAB神经网络应用设计
+*PowerPC860 嵌入式系统及应用
+*图解CSS3 : 核心技术与案例实战 = Illustrated CSS3 : details and cases
+*Bootstrap实战 = Bootstrap site blueprints
+*jQuery Mobile入门经典
+*神经网络设计方法与实例分析
+*常用算法深入学习实录
+*精通 MATLAB 神经网络
+*神经网络
+*实时分析 : 流数据的分析与可视化技术 = Real-time analytics : techniques to analyze and visualize streaming data
+*MATLAB 8.0从入门到精通

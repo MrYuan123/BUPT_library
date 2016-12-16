@@ -1,0 +1,11 @@
+#Python基础教程 = Beginning python : from novice to professional
+*版本控制之道 : 使用Git = Pragmatic version control using Git
+*The art of public speaking =演讲的艺术 /演讲的艺术
+*Java 7程序设计入门与提高
+*Python程序设计
+*Python 学习手册
+*数学之美 = Beauty of mathematics
+*Java 编程思想 = Thinking in Java
+*图解HTTP
+*神经网络与机器学习 = Neural networks and learning machines
+*数据可视化之美

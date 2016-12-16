@@ -1,0 +1,12 @@
+#算法导论 = Introduction to algorithms
+#2016版计算机网络高分笔记
+*2016版数据结构高分笔记
+*算法设计与分析
+*2016年操作系统联考复习指导 = Review guide of operating systems entrance exam
+*2015版计算机组成原理高分笔记
+*机器学习实战 = Machine learning in action
+*密码编码学与网络安全 = Cryptography and network security : 原理与实践principles and practices
+*剑指Offer : 名企面试官精讲典型编程题
+*机械原理复习题详解
+*网络编程与动态网站制作
+*信号与系统 : MATLAB综合实验

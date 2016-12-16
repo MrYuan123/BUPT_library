@@ -1,0 +1,14 @@
+#Visual C++网络编程
+#C++ 多核高级编程
+#C++ Primer Plus (第五版) 中文版
+#Visual C++ 开发实战
+*Sobolev 空间与偏微分方程引论
+*图解网络硬件
+*C++ 网络编程 = C++ network programming . 卷1Volume 1 , 运用ACE和模式消除复杂性
+*Java EE设计模式解析与应用
+*分布式服务框架原理与实践
+*Boost程序库探秘 : 深度解析C++准标准库
+*Scala函数式编程 = Functional programming in Scala
+*Java程序员成功面试秘籍
+*计算电磁学的数值方法
+*非线性光纤光学原理及应用 = Nonlinear fiber optics, fourth edition & applications of nonlinear fiber optics, second edition

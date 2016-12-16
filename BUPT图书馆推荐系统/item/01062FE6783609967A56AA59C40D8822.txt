@@ -1,0 +1,14 @@
+#软件定义网络 : 基于OpenFlow的SDN技术揭秘 = Software defined networking with OpenFlow
+#ASON 网络互联
+#HTML5移动应用开发入门经典
+#新手学HTML5移动开发 : 面向iOS和Android平台
+*N2文字词汇HOLD住
+*日语能力考试文法总汇 , 2级
+*HTML5移动Web开发实战详解
+*SDN核心技术剖析和实战指南 = Deciphering SDN : core techniques and practical guide
+*CCNA学习指南 (640-802) = CCNA Cisco certified network associate study guide
+*FPGA 数字电子系统设计与开发实例导航
+*软件定义网络技术及应用
+*复杂网络理论及其应用
+*有向图的理论、算法及其应用
+*超网络理论及其应用

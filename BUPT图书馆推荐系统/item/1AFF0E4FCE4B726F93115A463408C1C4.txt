@@ -1,0 +1,14 @@
+#μC/OS-Ⅱ 标准教程
+#PowerPC860 嵌入式系统及应用
+#ARM 嵌入式 C 编程标准教程
+#嵌入式实时操作系统μC/OS-III = μC/OS-III, the real-time kernel
+*HTML5秘籍 = HTML5 the missing manual : the book that should have been in the box
+*Zigbee开发技术及实践
+*TCP/IP网络编程
+*嵌入式网络那些事 : LwIP协议深度剖析与实战演练
+*宽带电力线通信网络设计 = Broadband powerline communications network design
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

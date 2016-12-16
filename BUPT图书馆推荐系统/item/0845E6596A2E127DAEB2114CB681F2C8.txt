@@ -1,0 +1,26 @@
+#梦里花落知多少
+#计算电磁学的数值方法
+#小王子
+#电视人
+#再袭面包店
+#姑妈的宝刀
+#神的孩子全跳舞
+#不能承受的生命之轻 = L'insoutenable legerete de l'etre
+#天黑以后
+#且听风吟
+#旋转木马鏖战记
+#国境以南 太阳以西
+#矩阵论导教·导学·导考
+#舞! 舞! 舞!
+#列克星敦的幽灵
+#萤
+*竹取物语图典
+*SDN核心技术剖析和实战指南 = Deciphering SDN : core techniques and practical guide
+*芥川龙之介读本
+*东京奇谭集
+*王尔德诗选
+*思考的乐趣 : Matrix67数学笔记
+*昨日之旅 = Die reise in die vergangenheit
+*软件定义网络 : 基于OpenFlow的SDN技术揭秘 = Software defined networking with OpenFlow
+*软件定义网络核心原理与应用实践 = SDN core principles and application practice
+*斯普特尼克恋人

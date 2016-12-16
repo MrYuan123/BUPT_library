@@ -1,0 +1,13 @@
+#欧·亨利短篇小说选
+#矩阵分析与应用习题解答 = Problem solutings for matrix analysis and applications
+#鲁迅文集
+*曾国藩 , 血祭
+*移动通信原理
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

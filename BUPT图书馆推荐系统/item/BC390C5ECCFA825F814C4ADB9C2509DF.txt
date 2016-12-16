@@ -1,0 +1,15 @@
+#运营大变局 : 赢战4G
+#移动通信运营商平台运营能力研究 = Research on the platform operation capability of mobile operators
+#开启转型 = Confronting reality : doing what matters to get things right
+#后电信时代 = Post telecommunications age : 产业生态变革与商业模式转型
+#移动互联网时代的电信市场营销与经营创新
+*互联网革命 : 推动经济增长的强劲引擎 = The Economic payoff from the internet revolution
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学

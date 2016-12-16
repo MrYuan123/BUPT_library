@@ -1,0 +1,11 @@
+#了不起的Node.js : 将JavaScript进行到底 = Smashing Node. js : JavaScript everywhere
+*扩展jQuery = Extending jQuery
+*Python自然语言处理
+*数据结构与算法JavaScript描述 = Data structures and algorithms with JavaScript
+*21天学通JavaScript
+*JavaScript 权威指南
+*C++ Primer 中文版
+*JavaScript专家编程
+*算法 = Algorithms
+*全分布式光纤传感技术
+*软件测试 = Software testing

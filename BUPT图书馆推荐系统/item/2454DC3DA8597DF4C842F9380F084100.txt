@@ -1,0 +1,14 @@
+#机器学习及其应用2011
+#通信网络基础
+#软件建模与设计 : UML、用例、模式和软件体系结构 = Software modeling & design : UML, use cases, patterns, & software architectures
+#机器学习理论与算法
+*2016考研数学 (一) 典型题660
+*基于学习的图像增强技术 = Learning based image enhancement
+*视觉机器学习20讲
+*系统工程引论 = Introduction of systems engineering
+*奇点临近 = The singularity is near when humans transcend biology
+*Python标准库 = The Python standard library by example
+*无线通信与移动通信技术
+*MATLAB 电子仿真与应用教程
+*矩阵分析学习指导
+*Eclipse 从入门到精通

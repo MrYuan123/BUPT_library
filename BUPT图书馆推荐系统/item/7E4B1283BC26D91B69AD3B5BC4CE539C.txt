@@ -1,0 +1,13 @@
+#大连接 : 社会网络是如何形成的以及对人类现实行为的影响 = Connected : the surprising power of our social networks and how they shape our lives
+#社会网络分析法
+#和不安的自己谈谈 : 微信时代的心理万象
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

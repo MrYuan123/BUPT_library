@@ -1,0 +1,13 @@
+#Node.js入门经典
+#JavaScript DOM 编程艺术 = DOM Scripting : web design with JavaScript and the document object model
+#图解HTTP
+*D3.js数据可视化实战手册
+*神经网络与机器学习 = Neural networks and learning machines
+*数据可视化之美
+*Python基础教程 = Beginning python : from novice to professional
+*信息论基础 = Elements of information theory
+*统计学习方法
+*启示录 : 打造用户喜爱的产品
+*简约至上 : 交互式设计四策略
+*JavaScript & jQuery交互式Web前端开发
+*jQuery开发从入门到精通

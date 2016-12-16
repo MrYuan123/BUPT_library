@@ -1,0 +1,12 @@
+#穿墙雷达成像 = Through-the-wall radar imaging
+#逆合成孔径雷达理论与对抗
+*雷达系统导论 = Introduction to radar systems
+*极化合成孔径雷达基础理论及其应用 = Polarimetric synthetic apperture radar basic principles and its applications
+*Python 参考手册 = Python essential reference
+*精通MATLAB R2011a
+*合成孔径雷达图像处理 = Processing of synthetic aperture radar images
+*雷达系统设计 MATLAB 仿真 = MATLAB simulations for radar systems design
+*合成孔径雷达 : 系统与信号处理 = Synthetic aperture radar : systems and signal processing
+*计算机网络
+*线性代数
+*高等数学 . 上册

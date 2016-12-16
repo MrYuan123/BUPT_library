@@ -1,0 +1,12 @@
+#科技英语综合教程 = Est integrated course
+#考研词汇分频精讲速记
+*GRE词汇精选 : 乱序版
+*MATLAB 从入门到精通
+*产业组织理论 = Theory of industrial organization
+*金融学教程
+*宏观经济学 = Macroeconomics
+*经济法
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

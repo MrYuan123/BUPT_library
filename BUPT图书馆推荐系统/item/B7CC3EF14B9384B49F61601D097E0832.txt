@@ -1,0 +1,15 @@
+#码垛机器人机械结构与控制系统设计 = The design of palletizing robot'structure and control system
+#羊脂球 = Contes et nouvelles de maupassant : 莫泊桑中短篇小说选
+#体内机器人 : 从毫米级至纳米级
+#仿生自组织机器人系统 = Bio-inspired self-organizing robotic systems
+#微分几何与拓扑学简明教程
+*倾城之恋
+*放学后
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

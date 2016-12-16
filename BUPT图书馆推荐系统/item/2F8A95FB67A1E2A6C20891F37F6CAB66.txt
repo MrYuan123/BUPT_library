@@ -1,0 +1,14 @@
+#边干边学 : LINUX内核指导 : Learning Linux kernel by practice
+#TCP/IP 协议族
+#Linux指令从入门到精通
+#鸟哥的 LINUX 私房菜 , 基础学习篇
+*现代控制系统 = Modern control systems
+*通信原理 : 基于Matlab的计算机仿真
+*IDA Pro权威指南 = The IDA Pro book : the unofficial guide to the world's most popular disassembler
+*天才在左 疯子在右
+*Android软件安全与逆向分析
+*数字与模拟通信系统 = Digital and analog communication systems
+*数字通信 = Digital communications
+*数字通信 = Digital Communications
+*运筹学
+*数字通信 : 中文精简版 = Digital communications

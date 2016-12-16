@@ -1,0 +1,12 @@
+#控制工程基础
+#ANSYS 12 有限元分析自学手册
+*控制系统 MATLAB 计算及仿真实训
+*Altium Designer简明教程
+*汇编语言程序设计
+*ANSYS 12.0 有限元分析完全手册
+*Pro/ENGINEER Wildfire 4.0 中文版标准教程
+*MATLAB遗传算法工具箱及应用
+*奇点临近 = The singularity is near when humans transcend biology
+*有限元方法基础教程 : 国际单位制版 = A first course in the finite element method
+*自动控制原理习题解析
+*微机原理与接口技术 : 基于32位机

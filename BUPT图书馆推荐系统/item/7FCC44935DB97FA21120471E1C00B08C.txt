@@ -1,0 +1,11 @@
+#Hive编程指南
+*数据之魅 : 基于开源工具的数据分析
+*Hadoop 2.0-YARN核心技术实践
+*Hadoop硬实战 = Hadoop in practice
+*Hadoop技术内幕 : 深入解析Hadoop Common和HDFS架构设计与实现原理 = Hadoop internals : in-depth study of common and HDFS
+*社交网站的数据挖掘与分析
+*数据仓库 = Building the data warehouse
+*SQL查询的艺术
+*Hadoop MapReduce实战手册
+*Effective C++ : 改善程序与设计的55个具体做法 : 中文版 = Effective C++ : 55 specific ways to improve your programs and designs
+*计算机图形学

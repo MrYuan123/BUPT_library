@@ -1,0 +1,17 @@
+#TD-LTE 技术原理与系统设计 = TD-LTE principles and system design
+#实战大数据
+#数据挖掘 = Data mining : 实用机器学习技术practical machine learning tools and techniques
+#Hadoop海量数据处理 : 技术详解与项目实战
+#TD-LTE 网络规划设计与优化 = TD-LTE network planning, design and optimization
+#Web数据挖掘
+#数据挖掘技术 : 市场营销、销售与客户关系管理领域应用 = Data mining techniques : for marketing, sales and customer relationship management
+*数据挖掘原理与 SPSS Clementine 应用宝典
+*数据挖掘导论 = Introduction to data mining
+*Redis入门指南
+*4G小基站系统原理、组网及应用 = Principle, networking and application of 4G small cell system
+*数据挖掘基础教程 = Insight into data mining : theory and practice
+*数据挖掘 : 实用案例分析 = Data mining : practical case analysis
+*NumPy攻略 = NumPy cookbook : Python科学计算与数据分析
+*社交网站的数据挖掘与分析
+*数字通信 : 基础与应用 = Digital communications : fundamentals and applications
+*MYSQL从入门到精通 : 视频教学版

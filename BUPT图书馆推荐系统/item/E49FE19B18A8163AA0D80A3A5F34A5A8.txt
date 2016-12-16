@@ -1,0 +1,12 @@
+#UNIX/Linux应用、编程与系统管理
+#NS2 网络模拟器的原理和应用
+*NS2 与网络模拟
+*21天学通Java
+*Linux 编程从入门到精通
+*深入浅出 Linux TCP/IP 协议栈
+*RF MEMS 理论·设计·技术 = RF MEMS theory, design, and technology
+*射频微机电系统的理论、设计、制备及应用
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

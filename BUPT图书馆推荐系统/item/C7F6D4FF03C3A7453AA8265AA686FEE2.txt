@@ -1,0 +1,25 @@
+#Oracle SQL入门与实战经典
+#Oracle Database 11g & MySQL 5.6开发手册
+#Linux 从初学到精通
+#Linux 服务器搭建完全技术宝典
+#Java Web开发技术
+#从零开始学Oracle
+#Oracle 11g设计与开发教程
+#Java 通用范例开发金典
+#Chrome扩展及应用开发
+#Java Web开发技术教程
+#Java Web 开发实战经典基础篇 : JSP、Servlet、Struts、Ajax
+#Oracle 11g 从入门到精通
+#Java 7入门经典
+#Oracle 11g数据库实用教程
+#Linux 服务器配置与管理
+*完美应用 Ubuntu
+*语义网基础教程 = A semantic Web primer
+*TCP/IP 指南 = The TCP/IP guide . 卷1 , 底层核心协议a comprehensive, illustrated internet protocols reference
+*Linux系统命令及Shell脚本实践指南 = Linux commands and shell scripting
+*中国大学生数学建模竞赛
+*Java程序设计基础
+*Java 7面向对象程序设计教程
+*零点起飞学Java Web开发
+*搜索方法论 : 优化与决策支持技术入门教程
+*人工智能 : 一种现代的方法

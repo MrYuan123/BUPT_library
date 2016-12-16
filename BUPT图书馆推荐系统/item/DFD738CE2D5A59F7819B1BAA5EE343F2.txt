@@ -1,0 +1,14 @@
+#开放式创新 : 研发投资－外部商业化
+#创新驱动发展论 = On innovation-driven development
+#创新型企业的形成路径 : 基于资源能力禀赋与创新战略的研究
+#开放式创新 : 企业如何在挑战中创造价值 = The Open innovation marketplace : creating value in the challenge driven enterprise
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

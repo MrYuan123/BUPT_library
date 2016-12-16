@@ -1,0 +1,15 @@
+#信息科学原理
+#唐朝那些事儿
+#量子保密通信协议的设计与分析
+#量子密码协议理论研究
+#形式语言与自动机
+*量子计算和量子信息 = Quantum computation and quantum information . 一 , 量子计算部分
+*信息科学教程
+*形式语言与自动机理论教学参考书
+*做一个数学天才 : 900个开发思维的趣味数学游戏
+*组合数学
+*形式语言与自动机理论
+*数据挖掘 = Data mining : 概念与技术concepts and techniques
+*资治通鉴直解 : 两朝帝师张居正白话讲本
+*数据挖掘 = Data mining : 实用机器学习技术practical machine learning tools and techniques
+*这样读资治通鉴 : 全本 . 第一部

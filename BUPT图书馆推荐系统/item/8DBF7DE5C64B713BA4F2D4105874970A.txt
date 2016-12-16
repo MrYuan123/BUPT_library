@@ -1,0 +1,12 @@
+#协作通信及网络 = Cooperative communications and networking
+#协作通信及其在 LTE-Advanced 中的应用 = Cooperative communication and its application in LTE-Advanced systems
+*认知与协作无线通信网络 = Communication network technology
+*认知无线网络无线传输技术 = Wireless transmission technologies for cognitive radio networks
+*认知无线网络中的人工智能
+*认知协作通信能效优化
+*认知无线网络组网协议与应用 = Cognitive radio netwoking [i.e. networking] protocol and applications
+*科学与工程计算方法 = Computational methods in science & engineering
+*MIMO系统与空时编码 : 分集的理论与实践 = MIMO system and STC : the theory and practice of diversity
+*矩阵论导教·导学·导考
+*运动改造大脑 = Spark : the revolutionary new science of exercise and the brain
+*唐宁街岁月 = The Downing Street years : 撒切尔夫人自传 . 下

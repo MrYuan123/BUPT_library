@@ -1,0 +1,14 @@
+#心理与行为研究入门指南
+#心理与行为科学研究方法 = Methods in behavioral research
+#心智、大脑与计算机 : 认知科学创立史导论 = Minds, brains, computers : an historical introduction to the foundations of cognitive science
+#唐宋词鉴赏辞典
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

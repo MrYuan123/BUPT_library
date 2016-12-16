@@ -1,0 +1,13 @@
+#Linux从入门到精通
+#Linux shell脚本攻略
+#移动互联网之智能终端安全揭秘
+*Shell从入门到精通
+*CentOS 7系统管理与运维实战
+*Java 基础与实例精解
+*软件测试 = Software testing : a craftsman's approach
+*Java并发编程实战 = Java concurrency in practice
+*Java 从初学到精通
+*解密搜索引擎技术实战 : Lucene & Java精华版
+*MySQL技术内幕 : SQL编程 = Inside MySQL : SQL programming
+*Nginx模块开发指南 : 使用C++11和Boost程序库
+*MySQL 性能调优与架构设计

@@ -1,0 +1,13 @@
+#Head first HTML5 programming : 中文版 : 用Javascript构建Web应用
+#信号的统计检测与估计理论 = The Statistical theory of signal detection and estimation
+#图解CSS3 : 核心技术与案例实战 = Illustrated CSS3 : details and cases
+*围城
+*血玲珑 = Blood crystal
+*jQuery Mobile入门经典
+*JavaScript从零开始学 : 视频教学版
+*Bootstrap实战 = Bootstrap site blueprints
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

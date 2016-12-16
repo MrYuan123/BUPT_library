@@ -1,0 +1,17 @@
+#丑陋的中国人
+#季羡林文化沉思录
+#普京的男人法则
+#直到世界尽头 = Until the end of world
+#人与国家
+#胡雪岩
+#李彦宏管理日志
+*朱元璋 . 下
+*芙蓉镇
+*高级C/C++编译技术 = Advanced C and C++ compiling
+*从零开始学Storm
+*大规模C++程序设计 = Large-scale C++ software design
+*C++编程调试秘笈
+*深入理解C++11 : C++11新特性解析与应用 = Understanding C++11 : analysis and application of new features
+*计算机网络
+*线性代数
+*高等数学 . 上册

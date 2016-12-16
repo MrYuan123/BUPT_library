@@ -1,0 +1,16 @@
+#数据库系统设计、实现与管理 = Database systems : design, implementation, & management
+#现代控制系统 = Modern control systems
+#射频识别技术原理与应用 = RFID—handbuch: grundlagen und praktische anwendungen von transpondern, kontaktlosen chipkarten und NFC
+#孤独六讲
+#无线通信原理与应用 = Wireless communications principles and practice
+#通信原理
+*数据库系统基础
+*TCP/IP 协议族
+*无线通信 = Wireless communications
+*计算机网络
+*移动Ad Hoc网络 : 自组织分组无线网络技术
+*数据通信与网络 = Data communications and networking
+*通信原理 : 基于Matlab的计算机仿真
+*移动 Ad Hoc 网络 : 自组织分组无线网络技术
+*TCP/IP入门经典
+*通信原理习题集

@@ -1,0 +1,17 @@
+#Web应用漏洞侦测与防御 : 揭秘鲜为人知的攻击手段和防御技术 = Hacking Web apps : detecting and preventing web application security problems
+#遇到百分之百的女孩
+#白帽子讲Web安全
+#金字塔原理 : 思考、写作和解决问题的逻辑 = The minto pyramid principle : logic in writing thinking & problem solving
+#程序员思维修炼 = Pragmatic thinking and learning: refactor your wetware
+#Metasploit渗透测试魔鬼训练营 = Penetration testing devil training camp based on metasploit
+#黑客攻防技术宝典 : Web实战篇 = The Web application hacker's handbook : finding and exploiting security flaws
+*Web前端黑客技术揭秘
+*黑客入侵网页攻防修炼
+*Java Web企业项目实战
+*代码大全 = Code complete
+*白帽子讲浏览器安全
+*网络窃密、监听及防泄密技术
+*网络安全 : 现状与展望 = Network security current status and future directions
+*揭秘家用路由器0day漏洞挖掘技术
+*Linux C编程从基础到实践
+*加密与解密

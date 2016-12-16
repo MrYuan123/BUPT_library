@@ -1,0 +1,12 @@
+#Kali渗透测试技术实战 = Hacking with Kail : practical penetration testing techniques
+#深入理解计算机网络 = Understanding computer networks
+*自控力 : 斯坦福大学最受欢迎心理学课程 = The Willpower instinct
+*女人的能量魔法书
+*Kali Linux渗透测试的艺术 = Kali Linux: assuring security by penetration testing
+*Kali Linux渗透测试技术详解
+*计算机网络
+*结构方程模型 : AMOS的操作与应用
+*MapReduce 2.0源码分析与编程实战
+*Redis入门指南
+*Servlet/JSP 深入详解 : 基于Tomcat的Web开发
+*深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM advanced features and best practices

@@ -1,0 +1,12 @@
+#运筹学教程例题分析与题解
+#运筹学解题指导
+*运筹学教材编写组《运筹学》 (第3版) 笔记和课后习题 (含考研真题) 详解
+*数字逻辑学习辅导
+*数字逻辑知识要点与习题解析
+*大学英语新六级阅读周计划
+*JavaScript编程精解 = Eloquent JavaScript : a modern introduction to programming
+*Java从入门到精通
+*运筹学学习指导及习题集
+*数字通信 = Digital Communications
+*数字通信理论与系统
+*《统计学》 (第二版) 学习指导与练习

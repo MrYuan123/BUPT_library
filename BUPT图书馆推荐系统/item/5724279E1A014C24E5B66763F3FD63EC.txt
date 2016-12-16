@@ -1,0 +1,11 @@
+#PHP与MySQL动态网站开发 = PHP and MySQL for dynamic web sites : visual quickPro guide
+*PHP + MySQL 八大动态 Web 应用实战 = Practical PHP and MySQL : building eight dynamic Web applications
+*实战突击 , PHP项目开发案例整合
+*贯通 Java Web 开发三剑客 : Eclipse+Tomcat+Ant 整合开发
+*精通 clipse Web 开发 : Java体系结构、工具、框架及整合应用
+*Struts 2 + Spring+Hibernate框架技术与项目实战
+*PHP+MySQL+Dreamweaver动态网站建设从入门到精通
+*深入PHP与jQuery开发 = Pro PHP and jQuery
+*计算机网络
+*线性代数
+*高等数学 . 上册

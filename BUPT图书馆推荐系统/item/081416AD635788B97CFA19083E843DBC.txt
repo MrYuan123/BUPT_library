@@ -1,0 +1,11 @@
+#JavaScript入门经典
+*JavaScript基础教程 = JavaScript visual quickstart guide
+*Java SE程序设计
+*Android程序设计
+*JavaScript学习指南
+*JavaScript 语言精粹 = JavaScript : the good parts
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

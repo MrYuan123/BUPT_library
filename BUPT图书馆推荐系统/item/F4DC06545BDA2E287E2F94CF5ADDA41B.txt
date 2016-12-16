@@ -1,0 +1,12 @@
+#通信网络基础
+#系统工程引论 = Introduction of systems engineering
+*无线通信与移动通信技术
+*MATLAB 电子仿真与应用教程
+*机器学习及其应用2011
+*软件建模与设计 : UML、用例、模式和软件体系结构 = Software modeling & design : UML, use cases, patterns, & software architectures
+*矩阵分析学习指导
+*概率论与随机过程
+*数字通信原理 = Principles of digital communication
+*机器学习理论与算法
+*计算机通信与网络教程
+*系统工程基本教程

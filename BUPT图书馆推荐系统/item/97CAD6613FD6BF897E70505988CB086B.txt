@@ -1,0 +1,15 @@
+#修炼领导力 : 成就一生的领导者 = Leadership from the inside out : becoming a leader for life
+#雅思9分真题长难句过关教练 = Difficult sentences training for IELTS
+#控场 = Ultimate control : 主宰和说服的关键能量
+#经理人员的职能 : 珍藏版 = The Functions of the executive
+#心理学与读心术 : 成为人际关系大赢家必懂的读心术
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

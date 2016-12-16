@@ -1,0 +1,13 @@
+#大学英语六级阅读20天冲关快训
+#大学英语六级阅读全攻略 , 短篇阅读
+#Java面向对象程序设计
+*新托业完全热身与实战演练 = Getting it right on the new TOEIC
+*英语四六级词汇词根+联想巧记忆 : 便携版
+*计算机图形学 = Computer graphics with OpenGL
+*JAVA核心技术 . 卷I , 基础知识 = Core Java . volume I , Fundamentals
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

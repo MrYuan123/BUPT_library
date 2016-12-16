@@ -1,0 +1,16 @@
+#About Face 3交互设计精髓 = About Face 3 : the essentials of interaction design
+#欧洲建筑漫步 = Strolling around European architecture
+#推理的迷宫 = Labyrinths of reason : 悖论、谜题，及知识的脆弱性paradox, puzzles and the frailty of knowledge
+#黑客与画家 : 硅谷创业之父Paul Graham文集 = Hackers and painters : big ldeas from the computer age
+#数字化生存
+#北京攻略 = Beijing how : 北京最值得推荐的66个地方
+*商业模式新生代 = Business model generation
+*信息规则 : 网络经济的策略指导 = Information rules : a strategic guide to the network economy
+*未来时速
+*数据结构 : C++版
+*数据结构精讲与习题详解 : 考研辅导与答疑解惑
+*大型分布式网站架构设计与实践
+*数据挖掘原理 = Principles of data mining
+*恰如其分的软件架构 : 风险驱动的设计方法 = Just enough software architecture : a risk-driven approach
+*Redis入门指南
+*RESTful Web APIs中文版 = RESTful Web APIs

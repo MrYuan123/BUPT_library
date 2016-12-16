@@ -1,0 +1,16 @@
+#信号与系统全程学习指导与习题精解 : 合订本
+#用英语聊低碳生活
+#14 天突破大学英语四级满分写作
+#四级大纲核心词汇周计划 = CET-4 weekly vocabulary plan
+#Java 8编程参考官方教程
+#信息安全实验与实践教程
+*数据结构与算法
+*Web应用安全权威指南 = Developing secure Web applications
+*Spring 3.x企业应用开发实战
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

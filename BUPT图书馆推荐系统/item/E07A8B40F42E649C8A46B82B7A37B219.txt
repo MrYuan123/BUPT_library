@@ -1,0 +1,11 @@
+#数学物理方法 = Mathematical methods for physics
+*光学原理 = Principles of optics : electromagnetic theory of propagation, interference and diffraction of light
+*光学变换·从量子到经典
+*信息论与编码
+*信息论与编码 = Information theory & coding
+*信息论理论基础
+*精通MATLAB信号处理 = Proficient in MATLAB signal processing
+*离散数学习题与解析 = Solution and analysis of problems in discrete mathematics
+*数学物理方程
+*模拟电子技术基础
+*离散数学 = Discrete mathematics

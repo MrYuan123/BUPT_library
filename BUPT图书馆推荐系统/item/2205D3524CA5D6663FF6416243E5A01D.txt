@@ -1,0 +1,11 @@
+#数据挖掘十大算法
+*疯狂Android讲义
+*机器学习实战 = Machine learning in action
+*Python数据分析基础教程 : NumPy学习指南 = NumPy beginner's guide
+*QTP 自动化测试实践
+*说孝庄
+*实战Hadoop : 开启通向云计算的捷径
+*数据挖掘 : 概念、模型、方法和算法
+*2016版数据结构高分笔记
+*数据挖掘 : 概念与技术 = Data mining : concepts and techniques
+*数据挖掘 : 实用机器学习工具与技术 = Data mining : practical machine learning tools and techniques

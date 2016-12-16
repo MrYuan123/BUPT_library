@@ -1,0 +1,17 @@
+#挑战编程 = Programming challenges : 程序设计竞赛训练手册the programming contest training manual
+#MySQL 核心技术手册
+#编程珠玑 = More programming pearls : confessions of a coder : 续
+#数据结构 : Java版
+#大话数据结构 = Play with data structure
+#Java语言程序设计 = Introduction to Java programming , 进阶篇
+#Android平台开发之旅
+*编程之美 : 微软技术面试心得
+*程序员面试宝典
+*Java程序员面试宝典
+*大话数据挖掘
+*Head First Python中文版
+*数据结构实用教程 : Java语言描述
+*JavaScript设计模式与开发实践
+*HTML5与CSS3实例教程 = HTML5 and CSS3 : level up with today's web technologies
+*概率论与随机过程
+*HTML5程序设计 = Pro HTML5 programming

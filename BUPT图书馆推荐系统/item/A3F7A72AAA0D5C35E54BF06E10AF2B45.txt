@@ -1,0 +1,16 @@
+#R语言轻松入门与提高
+#R语言数据挖掘方法及应用
+#CFA考试辅导指南
+#R语言初学者指南 = A Beginner's guide to R
+#CFA考试辅导指南 : 配套习题集
+#CFA 模拟题详解
+*运筹学实用教程习题与解答
+*无线传感器网络
+*R语言核心技术手册 = R in a nutshell
+*Python程序设计 = An introduction to programming using python
+*机器学习实战 = Machine learning in action
+*数学分析 . 上
+*数学分析 . 下
+*西方语言学流派 = Schools of linguistics
+*Python程序设计基础
+*Excel 2010数据处理与分析实战技巧精粹

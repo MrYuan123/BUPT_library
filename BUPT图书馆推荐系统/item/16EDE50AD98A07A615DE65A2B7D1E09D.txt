@@ -1,0 +1,15 @@
+#Java入门经典
+#大话数据库
+#算法与数据结构 : Java语言描述
+#疯狂Java讲义
+#结网 : 改变世界的互联网产品经理
+*Java程序设计及实验
+*1973 年的弹子球
+*Java JDK 7学习笔记
+*程序员的自我修养 : 链接、装载与库
+*OpenGL编程指南 = OpenGL programming guide : the official guide to learning OpenGL, version 4.3
+*剑指Offer : 名企面试官精讲典型编程题
+*程序员面试攻略 = Programming interviews exposed : secrets to landing your next job
+*C++面向对象程序设计题解与上机指导
+*SQL基础教程
+*数据之美 : 一本书学会可视化设计 = Pata points : visualization that means something

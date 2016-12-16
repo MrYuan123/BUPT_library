@@ -1,0 +1,13 @@
+#微观经济学 = Microeconomics
+#微信公众平台开发实战与应用案例
+#微信公众平台企业应用开发实战
+*微信公众平台开发基础与实战
+*微信公众平台应用开发 : 方法、技巧与案例 = Wechat public platform application developing : method, technique and example
+*下一代宽带无线通信 OFDM 与 MIMO 技术
+*国际金融学
+*震撼世界的声音 : 英语演讲名篇集萃 = Voice from the heart : collection of famous English speeches
+*经济学原理 . 上
+*经济学原理 . 下
+*高级微观经济理论 = Advanced microeconomic theory
+*统计学
+*统计学 = Stat

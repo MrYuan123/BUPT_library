@@ -1,0 +1,13 @@
+#无线通信原理与应用 = Wireless communications principles and practice
+#无线通信 = Wireless communications
+#移动通信原理
+*现代无线通信原理
+*LED可见光通信技术 = LED visible light communication technologies
+*移动传播环境 : 理论基础·分析方法和建模技术
+*LTE无线网络规划与设计 = LTE wireless network planning & design
+*经济学原理 , 微观经济学分册
+*经济学原理 , 宏观经济学分册
+*自适应滤波器原理 = Adaptive filter theory
+*LTE 基础原理与关键技术
+*大话无线通信
+*无线通信的 MATLAB 和 FPGA 实现

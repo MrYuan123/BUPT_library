@@ -1,0 +1,17 @@
+#TD-LTE 技术原理与系统设计 = TD-LTE principles and system design
+#全面详解LTE : MATLAB建模、仿真与实现
+#华尔街之狼 = The wolf of Wall Street : 我走过的金钱、权力与欲望的迷途
+#5G : 开启移动网络新时代
+#LTE教程 : 机制与流程
+#UMTS中的LTE : 向LTW-Advanced演进
+#效用函数及优化
+*IMS 网络部署、运营与未来演进
+*LTE语音业务及VoLTE技术详解
+*微波光子学原理与应用
+*Python 学习手册
+*NS-2 网络模拟基础与应用
+*LTE 基础原理与关键技术
+*Effective C++ : 改善程序与设计的55个具体做法 : 中文版 = Effective C++ : 55 specific ways to improve your programs and designs
+*MIMO 技术原理及应用
+*C++ 编程规范 : 101条规则、准则与最佳实践 = C++ coding standards : 101 rules, guidelines, and best practices
+*3GPP 长期演进 (LTE) 技术原理与系统设计 = 3GPP long term evolution : principle and system design

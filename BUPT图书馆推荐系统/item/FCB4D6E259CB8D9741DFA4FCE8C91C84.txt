@@ -1,0 +1,12 @@
+#信息科学原理
+#量子保密通信协议的设计与分析
+*量子计算和量子信息 = Quantum computation and quantum information . 一 , 量子计算部分
+*形式语言与自动机
+*唐朝那些事儿
+*量子密码协议理论研究
+*信息科学教程
+*博弈论教程
+*博弈论 = Game theory
+*这个世界会好吗? : 梁漱溟晚年口述 = Has man a future? : dialogues with the last Confucian
+*宪政的哲学基础
+*量子计算和量子信息 = Quantum computation and quantum information . 二 , 量子信息部分

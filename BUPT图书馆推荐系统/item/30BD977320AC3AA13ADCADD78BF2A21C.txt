@@ -1,0 +1,18 @@
+#Android移动编程实用教程
+#Android移动应用开发从入门到精通
+#Android应用开发实战 = Android in action
+#机器学习导论 = Introduction to machine learning
+#深入理解Java 7 : 核心技术与最佳实践 = Understanding the Java 7 : the core techniques and best practice
+#机器学习 : 实用案例解析
+#机器学习系统设计 = Building machine learning systems with python
+#Java基础入门
+*Qt 5开发及实例
+*Java 宝典
+*Mahout实战 = Mahout in action
+*机器学习理论、方法及应用
+*数学历年真题权威解析 , 数学三
+*2015年考研数学最新精选600题 , 理工类
+*计算机网络 : 原理、技术与应用
+*Linux内核设计与实现 = Linux kernel development
+*深度探索C++对象模型 = Inside the C++ object model
+*ML 程序设计教程 = ML for the working programmer

@@ -1,0 +1,12 @@
+#六级词汇词根 + 联想记忆法 : 乱序版
+#运筹学习题详解与考研辅导
+*运筹学辅导及习题精解 : 清华修订版
+*运筹学
+*梁山政治
+*数学建模竞赛优秀案例评析
+*Altium Designer 14中文版标准实例教程
+*Kubernetes实战
+*OpenStack云计算实战手册
+*Docker : 容器与容器云
+*Docker开发实践
+*Kubernetes权威指南 : 从Docker到Kubernetes实践全接触

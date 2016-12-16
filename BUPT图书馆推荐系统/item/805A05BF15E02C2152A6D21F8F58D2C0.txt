@@ -1,0 +1,11 @@
+#MongoDB实战 = MongoDB in action
+*弯曲时空中的黑洞 = Black hole in curved spacetime
+*深入学习MongoDB = Scaling mongoDB. 50 tips and tricks for mongoDB developers
+*宇宙与天体
+*神经网络 = Neural networks
+*统计自然语言处理
+*人工神经网络原理
+*计算机算法设计与分析
+*分布式算法导论 = Introduction to distributed algorithms
+*计算机网络
+*线性代数

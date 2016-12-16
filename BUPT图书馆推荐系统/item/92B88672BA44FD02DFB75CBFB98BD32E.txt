@@ -1,0 +1,12 @@
+#MATLAB通信系统建模与仿真 = Modeling and simulation of MATLAB communication system
+#Simulink与信号处理
+*MATLAB/Simulink 通信系统建模与仿真实例精讲
+*详解MATLAB/Simulink通信系统建模与仿真 : 配视频教程
+*现代通信系统 = Contemporary communication systems using MATLAB and simulink : MATLAB版
+*精通MATLAB信号处理 = Proficient in MATLAB signal processing
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

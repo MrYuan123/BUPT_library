@@ -1,0 +1,14 @@
+#Spring实战 = Spring in action
+#Spring 揭秘
+#Java EE开发的颠覆者 : Spring Boot实战
+#Scala并发编程 = Learning concurrent programming in Scala
+*Scala与Clojure函数式编程模式 : Java虚拟机高效编程 = Functional programming patterns in scala and clojure : write lean programs for the JVM
+*Scala 程序设计 : Java虚拟机多核编程实战 = Programming Scala : tackle multi-core complexity on the Java virtual machine
+*大话数据库
+*深入浅出MySQL : 数据库开发、优化与管理维护
+*Spring MVC 学习指南
+*Hadoop技术内幕 : 深入解析YARN架构设计与实现原理 = Hadoop internals : in-depth study of YARN
+*Java虚拟机规范 : Java SE 8版 = The Java virtual machine specification : Java SE 8 Edition
+*商业模式新生代 = Business model generation
+*重构与模式 = Refactoring to patterns
+*七周七并发模型 = Seven concurrency models in seven weeks : when threads unravel

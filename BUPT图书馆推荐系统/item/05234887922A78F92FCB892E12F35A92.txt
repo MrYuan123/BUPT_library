@@ -1,0 +1,13 @@
+#模拟电路分析与设计基础
+#信号与系统考研指导
+#信号与系统重点与难点解析及模拟题
+*信号与系统 (第三版) 习题解析
+*撒冷镇 = 'Salem's lot
+*无价 : 洞悉大众心理玩转价格游戏 = Priceless : the myth of fair value (and how to take advantage of it)
+*MATLAB R2014a从入门到精通
+*数学建模 = A first course in mathematical modeling
+*数学模型
+*鲍尔学习法 = Power learning
+*算法分析与设计 : C++描述
+*概率论与数理统计 : 浙大·第四版 : 重点 难点 考点辅导与精析
+*模拟电子技术基础重点 难点 考点 辅导与精析

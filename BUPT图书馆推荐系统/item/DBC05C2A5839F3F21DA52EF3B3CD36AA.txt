@@ -1,0 +1,17 @@
+#Adobe InDesign CS5 中文版经典教程
+#完全掌握InDesign CC超级手册
+#Android可穿戴设备高级编程
+#设计师生存手册 : InDesign CS4中文版
+#BLOG 启示录 : WordPress博客建设与经营
+#Android大学教程 = Android how to program
+#移动设计 = Mobile design
+*国际经典设计教程 : 交互设计 = The principles & processes of interactive design
+*实用平面构成训练技法
+*移动应用UI设计模式 = Mobile design pattern gallery UI patterns for mobile Apps
+*没有极限的未来 : 手机人全面解构产业
+*触动人心 : 设计优秀的iPhone应用 = Tapworthy : designing great iPhone apps
+*平面构成
+*超级APP视觉设计大揭秘
+*立体构成
+*计算机网络
+*线性代数

@@ -1,0 +1,15 @@
+#金字塔原理 : 思考、表达和解决问题的逻辑 = The minto pyramid principle : logic in writing, thinking and problem solving
+#人事工作的第一本心理书
+#Java性能优化权威指南 = Java performance
+#高性能网站建设进阶指南 : Web开发者性能优化最佳实践 = Even faster web sites : performance best practices for web developers
+#薪酬管理 : 理论·实务·案例 = Compensation management : theory, practice, case
+*拆掉思维里的墙 : 原来我还可以这样活
+*基础会计学 = Fundamentals of accounting
+*概率论、随机过程与数理统计
+*计算机网络 : 网络设计的原理、技术和协议 = Computer networks : principles, technologies and protocols for network design
+*Python项目开发实战
+*Spring 3.0就这么简单
+*编程珠玑 = Programming pearls
+*实战Java虚拟机 : JVM故障诊断与性能优化
+*HTML5与CSS3网页设计基础
+*Go语言编程 = The Go programming language

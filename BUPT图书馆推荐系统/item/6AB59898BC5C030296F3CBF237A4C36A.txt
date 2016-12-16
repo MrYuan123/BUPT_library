@@ -1,0 +1,12 @@
+#差错控制编码 = Error control coding
+#现代纠错编码与调制理论及应用 = Modern channel coding and modulation : theory and application
+*排队论 : 基础与分析技术
+*信道编码与MATLAB仿真
+*LDPC 码基础与应用 = Principle and application of LDPC
+*信息理论与编码
+*西方科学的起源 = The beginnings of western science : 公元前六百年至公元一千四百五十年宗教、哲学和社会建制大背景下的欧洲科学传统
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

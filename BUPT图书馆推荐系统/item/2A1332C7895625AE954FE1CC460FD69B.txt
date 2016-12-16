@@ -1,0 +1,12 @@
+#跟老齐学Python : 从入门到精通
+#MySQL技术内幕 : SQL编程 = Inside MySQL : SQL programming
+*SQL Server入门很简单
+*Python编程入门 = Python : Visual quickstart guide
+*数据统计分析与 SPSS 应用
+*数据库原理与应用
+*MySQL内核 : InnoDB存储引擎 . 卷1
+*数学物理方法专题 : 复变函数与积分变换
+*Linux Shell编程与编辑器使用详解
+*MySQL入门经典
+*零基础学算法 : 19.5小时多媒体教学视频
+*Redis设计与实现 = The design and implementation of Redis

@@ -1,0 +1,12 @@
+#MIMO-OFDM无线通信技术及MATLAB实现 = MIMO-OFDM wireless communications with MATLAB
+#MATLAB 应用与实验教程
+*3GPP 长期演进 (LTE) 系统架构与技术规范 = 3GPP long term evolution : architecture and specification
+*禁忌搜索算法及应用
+*无线传感器网络安全技术概论
+*统计信号处理基础 : 估计与检测理论 . 卷I = Fundamentals of statistical signal processing . volume I , estimation theory统计信号处理基础 : 估计与检测理论 . 卷II = Fundamentals of statistical signal processing . volume II , detection theory
+*通信之道 : 从微积分到5G
+*无线通信系统仿真 : IT++分析与实例
+*LDPC 码理论与应用
+*3GPP LTE物理层和空中接口技术
+*Turbo 与 LDPC 编解码及其应用
+*博弈论

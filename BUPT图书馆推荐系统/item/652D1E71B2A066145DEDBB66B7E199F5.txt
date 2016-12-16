@@ -1,0 +1,16 @@
+#影响你一生的北大演讲
+#Linux从入门到精通
+#影响你一生的耶鲁演讲 = Listen to the speeches in the first-class universities the most influential Yale speeches . 2
+#简·爱 = Jane Eyre
+#影响你一生的哈佛演讲 = Listen to the speeches in the first-class universities the most influential Harvard speeches . II
+#杀手 = Hit man
+*Shell从入门到精通
+*CentOS 7系统管理与运维实战
+*移动互联网之智能终端安全揭秘
+*Linux shell脚本攻略
+*王子与贫儿 = The prince and the pauper
+*劝导 : 名著双语读物·中文导读+英文原版 = Persuasian
+*Java 基础与实例精解
+*软件测试 = Software testing : a craftsman's approach
+*Java并发编程实战 = Java concurrency in practice
+*Java 从初学到精通

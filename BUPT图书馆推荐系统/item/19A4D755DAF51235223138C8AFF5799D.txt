@@ -1,0 +1,12 @@
+#LTE自组织网络 (SON) : 网络管理自动化提升运维效率
+#4G移动通信技术权威指南 : LTE与LTE-Advanced = 4G LTE/LTE-Advanced for mobile broadband
+*LTE权威指南 = Fundamentals of LTE
+*大话移动通信
+*大话数据库
+*5G: 关键技术与系统演进
+*3G 核心网技术
+*TD-LTE-Advanced移动通信系统设计 = TD-LTE-Advanced mobile communications system design
+*LTE系统原理及应用
+*LTE及LTE-Advanced无线协议
+*LTE/LTE-Advanced-UMTS长期演进理论与实践 = LTE-LTE UMTS long term evolution : from theory to practice
+*LTE协议栈与信令分析 = LTE protocol stack and signaling analysis

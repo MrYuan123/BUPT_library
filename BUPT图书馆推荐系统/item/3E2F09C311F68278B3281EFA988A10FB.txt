@@ -1,0 +1,13 @@
+#通信原理习题集
+#C++ Primer Plus(第五版) 中文版
+#CST天线仿真与工程设计
+*天线 = Antennas :  for all applications . 上册
+*通信原理
+*HFSS天线设计
+*天线 = Antennas :  for all applications . 下册
+*电磁场与波 : 电磁材料及MATLAB计算 = Electromagnetic waves, materials, and computation with MATLAB
+*微波工程 = Microwave engineering
+*天线理论与设计 = Antenna theory and design
+*C 程序设计教程 : 理论与实践
+*通信原理 : 基于Matlab的计算机仿真
+*大话企业级Android应用开发实战

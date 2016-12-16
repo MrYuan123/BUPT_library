@@ -1,0 +1,11 @@
+#JavaScript 学习指南
+*JavaScript 实例精通 = Mastering JavaScript step by step
+*Nginx高性能Web服务器详解
+*学习Nginx HTTP Server : 中文版
+*HTML + CSS网页开发技术精解
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

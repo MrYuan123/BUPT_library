@@ -1,0 +1,16 @@
+#信息图表设计
+#用户体验与产品创新设计 = User experience and product innovation design
+#创造突破性产品 : 从产品策略到项目定案的创新
+#信息设计 = Information design
+#产品设计程序
+#信息可视化设计
+*影视技术导论
+*悠游度过一天的 24 小时 = How to live on twenty-four hours a day
+*月亮和六便士 = The moon and sixpence
+*思维版图 = The Geography of thought
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

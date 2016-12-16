@@ -1,0 +1,15 @@
+#数字信号处理教程习题分析与解答
+#数字信号处理原理及实现学习指导 = Study guide for digital signal processing principles and practice
+#通信原理学习辅导
+#微波技术学习与解题指南
+#微波技术基础一本通 : 概要、答疑、题解、实验、自测
+*激光原理与激光技术
+*通信原理教程 = Lectures on communication principles
+*数据库原理
+*Visual C#程序设计基础
+*数字信号处理教程
+*羊脂球 = Boule de suif : 插图·中文导读英文版
+*数字信号处理导论 : MATLAB实现 = Introduction to digital signal processing using Matlab
+*MATLAB信号处理超级学习手册
+*通信原理习题集
+*电磁场理论基础

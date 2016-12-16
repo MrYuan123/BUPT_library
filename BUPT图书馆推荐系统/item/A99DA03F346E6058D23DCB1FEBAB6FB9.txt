@@ -1,0 +1,14 @@
+#全柔顺并联机构理论 : 空间微纳尺度超精密定位系统研究
+#高等空间机构学 = Advanced spatial mechanism
+#并联机构构型综合
+#Pro/ENGINEER野火版5.0运动仿真快速入门、进阶与精通
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

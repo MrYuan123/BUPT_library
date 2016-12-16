@@ -1,0 +1,12 @@
+#卫星通信导论
+#数字调制解调技术的MATLAB和FPGA实现
+*卫星通信系统
+*MATLAB仿真在现代通信中的应用
+*MATLAB 函数速查手册
+*MATLAB 通信仿真与应用
+*卫星通信网路由技术及其模拟 = Satellite communication network routing technology and simulation
+*龙族 = Dragon raja . 2 , 悼亡者之瞳
+*卫星通信 = Satellite communications
+*网络安全 : 加密原理、算法与协议
+*网络安全 = Network security
+*Matlab语言及实践教程

@@ -1,0 +1,22 @@
+#Java 语言程序设计 = Introduction to Java programming , 基础篇comprehensive version
+#Satellite communications systems :systems, techniques and technology 
+#随机过程
+#概率论与数理统计
+#嫌疑人X的献身
+#SQL Server从入门到精通
+#趋势交易法
+#马尔可夫链 : 模型、算法与应用 = Markov Chains : models, algorithms and applications
+#概率论与随机过程
+#蜡烛图精解 : 股票和期货交易的永恒技术 = Candlestick charting explained : timeless techniques for trading stocks and futures
+#疏散的马尔可夫链 = Scattered Markov chain
+#家庭理财枕边书
+*恶意
+*Java 语言程序设计 = Introduction to Java programming , 进阶篇
+*矩阵论
+*Visual C++典型模块与项目实战大全
+*线性代数
+*数据挖掘 : 实用机器学习工具与技术 = Data mining : practical machine learning tools and techniques
+*Python Cookbook (第3版) 中文版
+*Oracle DBA入门与实战经典
+*计量经济学 = Econometrics
+*精通 JavaScript+jQuery

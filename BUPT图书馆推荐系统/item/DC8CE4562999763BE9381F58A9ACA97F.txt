@@ -1,0 +1,11 @@
+#算法导论 = Introduction to algorithms
+*算法设计与分析
+*机器学习实战 = Machine learning in action
+*密码编码学与网络安全 = Cryptography and network security : 原理与实践principles and practices
+*2016版计算机网络高分笔记
+*剑指Offer : 名企面试官精讲典型编程题
+*编程之美 : 微软技术面试心得
+*Python袖珍指南
+*通信系统中 MATLAB 基础与仿真应用
+*Python 3 程序开发指南 = Programming in Python 3
+*深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM advanced features and best practices

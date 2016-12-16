@@ -1,0 +1,14 @@
+#Cisco路由器配置手册 = Cisco router configuration handbook
+#TCP/IP 协议原理与应用
+#路由设计的优化 = Optimal routing design
+#大学物理习题全解 : 华中科大版·《大学物理》(第4版)
+*模式识别 = Pattern Recognition
+*MATLAB 2012 简明教程
+*MATLAB 2012数学计算与工程分析从入门到精通
+*人脸工程学
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

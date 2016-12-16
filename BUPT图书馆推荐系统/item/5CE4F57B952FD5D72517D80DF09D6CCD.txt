@@ -1,0 +1,21 @@
+#Python程序设计 = An introduction to programming using python
+#通信原理学习辅导
+#深入理解计算机网络 = Understanding computer networks
+#微机原理与接口技术 (含汇编) 习题解析及实验案例分析
+#Python基础教程 = Beginning python : from novice to professional
+#Б.П. 吉米多维奇数学分析习题集题解 . 3
+#白银时代 : 彩绘插图本
+#Python袖珍指南
+#算法导论 = Introduction to algorithms
+#电磁场与电磁波基础学习与考研指导
+#万寿寺 : 彩绘插图本
+*通信原理习题与解析
+*机器学习实战 = Machine learning in action
+*The art of public speaking =演讲的艺术 /演讲的艺术
+*Kali渗透测试技术实战 = Hacking with Kail : practical penetration testing techniques
+*2016考研数学基础必做880题
+*算法设计与分析
+*Ubuntu Server 最佳方案
+*Windows 7 注册表秘技大搜捕
+*深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM advanced features and best practices
+*Java 编程思想 = Thinking in Java

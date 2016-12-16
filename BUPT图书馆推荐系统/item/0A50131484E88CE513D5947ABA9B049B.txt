@@ -1,0 +1,14 @@
+#PHP+MySQL网站开发全程实例
+#MySQL & PHP 快速入门
+#机器学习理论及应用 = Machine learning theory and its applications
+#PHP 从入门到精通
+*MATLAB神经网络原理与实例精解
+*21天学通Java Web开发
+*神经网络控制与MATLAB仿真 = Neural networks control and matlab simulation
+*Java Web从入门到精通
+*从零开始学Android编程
+*CSS+HTML 语法与范例详解词典
+*JavaScript 动态网页技术详解
+*Web 开发的平民英雄 : PHP+MySQL
+*PHP程序设计经典300例
+*PHP动态网站开发案例课堂

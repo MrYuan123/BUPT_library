@@ -1,0 +1,11 @@
+#汇编语言
+*VHDL 入门·解惑·经典实例·经验总结
+*2015版数据结构高分笔记
+*微机原理与接口技术习题与解析
+*Python 学习手册
+*鸟哥的 Linux 私房菜 , 基础学习篇
+*月亮和六便士 = The moon and sixpence
+*通信原理 (第7版) 学习辅导与考研指导
+*MATLAB图像处理375例
+*精通MATLAB智能算法 = Proficient in MATLAB intelligent algorithm
+*精通MATLAB科学计算 = Proficient in MATLAB scientific computing

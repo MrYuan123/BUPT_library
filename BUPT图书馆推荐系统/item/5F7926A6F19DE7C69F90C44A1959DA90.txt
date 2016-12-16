@@ -1,0 +1,12 @@
+#这样读资治通鉴 : 全本 . 第二部
+#重构 : 改善既有代码的设计 = Refactoring : improving the design of existing code
+*微型计算机基本原理与接口技术学习指导
+*2016版操作系统高分笔记
+*耶鲁大学最受推崇的领袖能力课
+*操作系统同步辅导教程
+*大学生领导力 = Exploring leadership : for college students who want to make a difference
+*人工鱼 : 计算机动画的人工生命方法
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

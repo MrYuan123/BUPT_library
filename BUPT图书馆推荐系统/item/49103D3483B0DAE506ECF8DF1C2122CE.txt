@@ -1,0 +1,16 @@
+#Core Java.Vol. I,Fundamentals =Java核心技术.卷I,基础知识.上 /Java 核心技术
+#算法基础 : 打开算法之门 = Algorithms unlocked
+#实变函数与泛函分析基础教程
+#普通生物学 : 生命科学通论
+#纳什均衡与博弈论 = A Beautiful math John Nash, game theory, and the modern quest for a code of nature
+#生物信息学 : 基础及应用 = Bioinformatics : fundementals and applications
+*Core Java.Vol. I,Fundamentals =Java核心技术.卷I,基础知识.下 /Java 核心技术
+*成长是一件孤独的事
+*MySQL 5.5从零开始学
+*新媒体概论
+*大学英语六级考试报刊题源阅读100篇 = 100 reading passages from American and british newspapers for CET-6 . 上
+*30 天通过全国计算机等级考试 = National computer rank examination
+*大学英语六级考试写作710分胜经 = Test bible of writing for CET-6
+*算法竞赛入门经典训练指南
+*Arduino程序设计基础
+*微型计算机技术与接口应用基础

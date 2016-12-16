@@ -1,0 +1,12 @@
+#光纤通信系统 = Fiber-optic communication systems
+#光纤光学 : 原理与应用 = Fiber optics : principles and applications
+*实用射频测试和测量 = Practical RF test & measurement
+*微弱信号检测与应用
+*量子力学 . I = Quantum mechanics . I
+*光学
+*数学物理方法 . I
+*非线性数学物理方法
+*高等数学物理方法 = Advanced methods of mathematics for physics
+*计算机网络
+*线性代数
+*高等数学 . 上册

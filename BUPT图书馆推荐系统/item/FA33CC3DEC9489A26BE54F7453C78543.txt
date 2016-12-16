@@ -1,0 +1,15 @@
+#Hadoop大数据处理 = Big data processing
+#JavaScript 基础教程 = JavaScript & ajax
+#Python编程入门经典
+#Java程序设计教程 = Building Java programs : a back to basics approach
+#数据结构 : Java版
+*Java程序设计与实例
+*Node即学即用 = Node : up and running, scalable server-side code with JavaScript
+*Java程序设计案例教程
+*Node应用程序构建 : 使用MongoDB和Backbone
+*Computer vision =计算机视觉 /
+*PHP从入门到精通
+*网络科学 : 原理与应用 = Network science : theory and applications
+*EDA技术及应用 , Verilog HDL版
+*数据结构实用教程 : Java语言描述
+*Ubuntu Linux从入门到精通

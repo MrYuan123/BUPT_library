@@ -1,0 +1,12 @@
+#量子密码学
+#量子签名及应用
+*量子密码协议的设计和分析
+*矩阵计算 = Matrix computations
+*矩阵不等式
+*数值分析 = Numerical analysis
+*应用量子密码学 = Applied quantum cryptography
+*矩阵计算六讲
+*量子计算与量子优化算法
+*微分方程数值分析基础教程 = A first course in the numerical analysis of differential equations
+*Toeplitz系统预处理方法
+*矩阵理论与应用

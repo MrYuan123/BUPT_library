@@ -1,0 +1,14 @@
+#算法导论 = Introduction to algorithms
+#机器学习实战 = Machine learning in action
+#Python 核心编程
+#深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM advanced features and best practices
+*算法设计与分析
+*Java 编程思想 = Thinking in Java
+*深入理解计算机网络 = Understanding computer networks
+*Hadoop权威指南
+*摄影构图与用光从入门到精通 : 实战版
+*Spring 技术内幕 : 深入解析Spring架构与设计原理
+*Java深入解析 : 透析Java本质的36个话题
+*漫谈设计模式 : 从面向对象开始
+*Java程序员修炼之道 = The well-grounded Java developer : vital techniques of Java 7 and polyglot programming
+*Java语言导学 = Java tutorial a short course on the basics

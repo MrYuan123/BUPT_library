@@ -1,0 +1,11 @@
+#OCP/OCA 认证考试指南全册 : Oracle Database 11g (1Z0-051, 1Z0-052, 1Z0-053)
+*数字媒体资产管理理论与应用 = Theory and applications of digital media asset management
+*成功之路 : ORACLE 11g学习笔记
+*精通VMware vSphere 5
+*VMware vSphere 5.0虚拟化架构实战指南
+*成就存储专家之路 : 存储从入门到精通
+*VMware vSphere企业运维实战
+*流媒体原理与应用
+*计算机网络
+*线性代数
+*高等数学 . 上册

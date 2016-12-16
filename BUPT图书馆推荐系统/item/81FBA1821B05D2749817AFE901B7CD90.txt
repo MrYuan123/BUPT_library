@@ -1,0 +1,14 @@
+#Turbo 与 LDPC 编解码及其应用
+#LDPC 码理论与应用
+#Turbo 码设计与应用
+#差错控制编码 = Error control coding from theory to practice
+*高效信道编译码技术及其应用
+*电力线通信技术与实践
+*数字通信 = Digital communications
+*统计信号处理基础 : 估计与检测理论 . 卷I = Fundamentals of statistical signal processing . volume I , estimation theory统计信号处理基础 : 估计与检测理论 . 卷II = Fundamentals of statistical signal processing . volume II , detection theory
+*“胡”说IC : 菜鸟工程师完美进阶
+*宽带无线通信 OFDM 技术
+*数据链技术与系统
+*多元LDPC码及其在无线通信中的应用 = Nonbinary low-density parity-check codes and their applications in wireless communications
+*数据链理论与系统 = Theory and system of data link
+*通信之道 : 从微积分到5G

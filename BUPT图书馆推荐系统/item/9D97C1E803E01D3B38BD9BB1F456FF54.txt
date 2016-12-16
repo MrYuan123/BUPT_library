@@ -1,0 +1,12 @@
+#Android 4编程入门经典 : 开发智能手机与平板电脑应用
+#Android 4高级编程
+*Android 5.0开发范例代码大全
+*Android C++高级编程 : 使用NDK
+*算法竞赛入门经典训练指南
+*数字信号处理原理及实现学习指导
+*通信原理学习与实验指导 = Instruction to exercise and experiment for communication principle
+*通信原理 = Communication principles
+*深入分析Java Web技术内幕
+*pcDuino开发实战 : 入门篇
+*BeagleBone机器人开发指南 = BeagleBone robotic project
+*算法导论 = Introduction to algorithms

@@ -1,0 +1,13 @@
+#动画分镜头设计
+#滚滚红尘
+#动画分镜头技法 = Storyboard classical design for animated films
+*艺术原来如此神奇 : 详解80幅杰作
+*素描初步 = Drawing foundation , 几何体基础教程
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

@@ -1,0 +1,13 @@
+#商业广告设计
+#Photoshop POP 商业宣传海报表现技法
+#平面广告视觉设计 = Print advertisement visual design
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

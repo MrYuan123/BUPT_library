@@ -1,0 +1,13 @@
+#数学分析 = Mathematical analysis
+#大学物理 . 上
+#大学物理 . 下
+*新编复变函数题解
+*数学建模 = A first course in mathematical modeling
+*大学物理学 . 第四册
+*大学基础物理学 = University fundamental physics . 下册
+*大学基础物理 . 第三册
+*金银岛 = Treasure island
+*大学物理解题方法与技巧
+*数学建模算法与应用
+*复变函数典型题
+*计算机网络

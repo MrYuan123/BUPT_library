@@ -1,0 +1,14 @@
+#近世代数
+#数据结构 : Java语言描述
+#算法 : C 语言实现 . 第1-4部分 , 基础知识、数据结构、排序及搜索 = Algorithms in C . Parts 1-4 : fundamentals, data structures, sorting, searching
+#可视化Java GUI程序设计教程 : 基于Swing组件库及NetBeans IDE
+*格理论与密码学
+*Java 学习手册
+*算法设计与分析
+*愿你要的明天, 如约而至 : 吉檀迦利
+*数据结构和 Java 集合框架
+*Java程序设计完全学习手册
+*C++语言基础教程
+*算法与数据结构 (第 2 版) 学习指导与习题解析
+*离散数学习题解答与学习指导
+*离散数学学习指导与习题解答 = Schaum's outline of discrete mathematics

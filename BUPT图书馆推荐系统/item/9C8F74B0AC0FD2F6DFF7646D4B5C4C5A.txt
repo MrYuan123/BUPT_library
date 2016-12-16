@@ -1,0 +1,13 @@
+#竹林蹊径 : 深入浅出Windows驱动开发
+#Linux网络编程
+#Windows 高级调试 = Advanced Windows debugging
+*Windows 内核情景分析 : 采用开源代码ReactOS . 上册
+*蝴蝶效应之谜 : 走近分形与混沌 = Mystery of the butterfly effect : fractals and chaos
+*Windows 内核情景分析 : 采用开源代码ReactOS . 下册
+*Linux C程序设计王者归来
+*网络安全协议
+*典型密码算法C语言实现
+*工控组态技术及应用 : MCGS
+*信息安全概论
+*Python 灰帽子 : 黑客与逆向工程师的Python编程之道 = Gray hat python : python programming for hackers and reverse engineers
+*Shell从入门到精通

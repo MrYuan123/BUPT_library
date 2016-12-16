@@ -1,0 +1,21 @@
+#Python黑帽子 : 黑客与渗透测试编程之道 = Black hat python : python programming for hackers and pentesters
+#信息论基础及应用
+#一个都不能有 : 软件的 19 个致命安全漏洞
+#计算机密码学及其应用 = Computer cryptography applications
+#Wireshark数据包分析实战 = Practical packet analysis
+#近世代数
+#新编汇编语言程序设计
+#菜鸟也能防黑客 = No tech hacking : 非技术攻击a guide to social engineering, dumpster diving, and shoulder surfing
+#水下声信道
+#软件加密技术内幕
+#水声信道常数模盲均衡 : 理论、算法与仿真 = Underwater acoustic channel constant modulus algorithm blind equalization : theory, algorithm and simulation
+*XSS跨站脚本攻击剖析与防御
+*图论导引 = Introduction to graph theory
+*信息论基础
+*格理论与密码学
+*Java 学习手册
+*Web安全深度剖析
+*破坏之王 : DDoS攻击与防范深度剖析
+*网络安全开发包详解
+*0day安全 : 软件漏洞分析技术
+*Kali Linux无线网络渗透测试详解

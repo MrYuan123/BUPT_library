@@ -1,0 +1,13 @@
+#操作系统概念 : Java实现 = Operating system concepts with JAVA
+#网络协议分析 = Network protocol analysis
+#操作系统
+*计算机网络
+*数据库系统实现 = Database System Implementation
+*数据结构 (Java版)
+*拈花惹草
+*编译器构造 : Java语言版
+*神鞭
+*通信原理 (第7版) 学习辅导与考研指导
+*锋利的 jQuery
+*微处理器系统设计
+*软件工程 = Software engineering : theory and practice

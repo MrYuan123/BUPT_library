@@ -1,0 +1,11 @@
+#Unity3D游戏开发基础
+*jQuery高级编程
+*游戏设计全方位学习
+*HTML5游戏开发进阶指南 = Pro HTML5 games
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

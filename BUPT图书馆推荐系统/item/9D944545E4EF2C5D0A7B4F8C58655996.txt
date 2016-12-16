@@ -1,0 +1,15 @@
+#Web 搜索 = Web search
+#JavaScript 高级程序设计 = Professional JavaScript for web developers
+#Python 学习手册
+#Java核心技术 . 卷II , 高级特性 = Core Java . Volume II : advanced features
+#Node.js实战
+*第一行代码 : Android
+*Java 编程思想 = Thinking in Java
+*数据结构、算法与应用 : C++语言描述 = Data structures, algorithms, and applications in C++
+*经济学 = Econmics
+*送你一颗子弹 = Send you a bullet
+*Python高手之路 = The Hacker's guide to Python
+*算法导论 = Introduction to algorithms
+*鸟哥的 Linux 私房菜 , 基础学习篇
+*Node.js实战 : 第2季
+*电力通信

@@ -1,0 +1,15 @@
+#经济学原理 , 微观经济学分册
+#无线通信原理与应用 = Wireless communications principles and practice
+#无线通信 = Wireless communications
+#经济学原理 , 宏观经济学分册
+#自适应滤波器原理 = Adaptive filter theory
+*现代无线通信原理
+*移动通信原理
+*移动传播环境 : 理论基础·分析方法和建模技术
+*LED可见光通信技术 = LED visible light communication technologies
+*曼昆《经济学原理: 宏观经济学分册》 (第5版) 学习精要·习题解析·补充训练
+*牛奶可乐经济学 = The economic naturalist : in search of explanations for everyday enigmas
+*神经网络原理 = Neural networks : a comprehensive foundation
+*严歌苓作品精选
+*编写高质量代码 : 改善Python程序的91个建议 = Writing solid python code : 91 suggestions to improve your Python program
+*Spring 专业开发指南 = Pro spring

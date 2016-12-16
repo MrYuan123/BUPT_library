@@ -1,0 +1,12 @@
+#零基础学算法
+#Python入门经典
+*数据挖掘 : 实用案例分析 = Data mining : practical case analysis
+*从零开始学MATLAB
+*社会工程 : 安全体系中的人性漏洞 = Social engineering : the art of human hacking
+*Python 参考手册 = Python essential reference
+*正则表达式必知必会 = Sams teach yourself regular expressions in 10 minutes
+*R语言 : 迈向大数据之路
+*零基础学数据结构 : 24小时多媒体教学视频
+*机器学习实战 = Machine learning in action
+*趣学Python编程 = Python for kids
+*Python编程入门 = Python : Visual quickstart guide

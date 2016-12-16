@@ -1,0 +1,11 @@
+#经济法
+*科技英语综合教程 = Est integrated course
+*宏观经济学 = Macroeconomics
+*金融学教程
+*产业组织理论 = Theory of industrial organization
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

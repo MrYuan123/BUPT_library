@@ -1,0 +1,14 @@
+#Java语言面向对象程序设计
+#管理学 = Management
+#现代企业管理
+#Java开发宝典 = The bible for Java developer
+*克鲁格曼经济学原理 = Essentials of economics
+*微观经济学 : 现代观点
+*矩阵分析学习指导
+*新制度经济学 : 一个交易费用分析范式
+*数据库系统原理及MySQL应用教程
+*商务经济统计学
+*Java 编程思想 = Thinking in Java
+*Java核心技术 . 卷II , 高级特性 = Core Java . Volume II : advanced features
+*算法导论 = Introduction to algorithms
+*机器学习实战 = Machine learning in action

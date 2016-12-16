@@ -1,0 +1,15 @@
+#Turbo 与 LDPC 编解码及其应用
+#数据链技术与系统
+#LDPC 码理论与应用
+#数据链理论与系统 = Theory and system of data link
+#多元LDPC码及其在无线通信中的应用 = Nonbinary low-density parity-check codes and their applications in wireless communications
+*Turbo 码设计与应用
+*无线Ad Hoc网络移动模型大全 = The encyclopedia of wireless Ad Hoc network mobility model
+*数据链 : 信息系统连接武器系统的捷径
+*移动 Ad Hoc 网络 : 自组织分组无线网络技术
+*无线自组网移动性建模技术 = Mobility modeling technology for ad hoc Networks
+*移动自组网路由协议研究 = Mobile ad hoc network protocols
+*高效信道编译码技术及其应用
+*差错控制编码 = Error control coding from theory to practice
+*MIMO-OFDM无线通信技术及MATLAB实现 = MIMO-OFDM wireless communications with MATLAB
+*无线通信系统仿真 : IT++分析与实例

@@ -1,0 +1,22 @@
+#会计学 , 财务会计分册 = Principles of accounting
+#财务会计与报告 = Financial accounting and reporting
+#印度, 去十次都不够
+#妄谈与疯话 = Scrambled eggs
+#尼泊尔 : 与天堂的约会
+#尼泊尔经典之旅 = Nepal
+#财务报表分析与运用 = The analysis and use of financial statements
+#财务管理基础 = Fundamentals of financial management . 上册
+#财务管理基础 = Fundamentals of financial management . 下册
+#背包十年 : 我的职业是旅行
+#我们为什么旅行
+#财务管理精要 = Essentials of managerial finance
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

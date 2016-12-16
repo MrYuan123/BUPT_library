@@ -1,0 +1,13 @@
+#ISE 应用与开发技巧
+#Android程序设计与应用
+#全国大学生数学夏令营数学竞赛试题及解答 = Problems & solutions from the mathematical competitions in the 1st to the 8th national students summer camp
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

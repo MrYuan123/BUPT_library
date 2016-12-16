@@ -1,0 +1,11 @@
+#模式分类 = Pattern classification
+*数值分析与科学计算
+*信号稀疏表示理论及其应用
+*Spark MLlib机器学习 : 算法、源码及实战详解
+*深入理解Spark : 核心思想与源码分析 = Spark internals : core design and source code analysis
+*Hadoop核心技术 = Core hadoop
+*Flask Web开发 : 基于Python的Web应用开发实战 = Flask Web development : developing web applications with python
+*深入浅出大数据
+*数据科学 : 理论、方法与R语言实践 = Practical data science with R
+*重构大数据统计
+*应用预测建模 = Applied predictive modeling

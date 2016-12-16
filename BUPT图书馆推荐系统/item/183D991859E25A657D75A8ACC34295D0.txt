@@ -1,0 +1,17 @@
+#信息融合技术及其应用 = Information fusion technology and application
+#深入理解Android内核设计思想
+#深入剖析Android系统
+#DSmT理论及其在信息融合中的应用 : 文集 = Advances and applications of DSmT for information fusion : collected works
+#多源信息融合 = Multi-source information fusion
+#Android优化技术详解
+#信息融合概念、方法与应用 = Conceptions, methods and applications on information fusion
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

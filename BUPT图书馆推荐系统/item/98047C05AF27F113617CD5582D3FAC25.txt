@@ -1,0 +1,12 @@
+#最优化理论与算法习题解答
+#数理统计与数据分析 = Mathematical statistics and data analysis
+*非线性优化计算方法
+*最优化理论与方法
+*Visual C++ .NET 编程经典 : 从 C++到Visual C++.NET快速进阶
+*应用量子密码学 = Applied quantum cryptography
+*最优化方法
+*潮流 : UI设计必修课
+*无约束最优化计算方法
+*非均匀有理 B 样条 = The NURBS book
+*随时随地记单词 : “疯狂单词”超智能联想记忆CET-6词汇
+*影响你一生的哈佛演讲 = Listen to the speeches in the first-class universities the most influential Harvard speeches

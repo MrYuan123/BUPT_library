@@ -1,0 +1,15 @@
+#Visual C++ 程序设计基础与项目实训
+#操作系统原理与实践教程
+#计算机网络
+#数据结构
+#2016版计算机组成原理高分笔记
+*操作系统
+*信号与系统要点与解题
+*2014版数据结构高分笔记
+*中国哲学史大纲
+*射频识别技术原理与应用 = RFID—handbuch: grundlagen und praktische anwendungen von transpondern, kontaktlosen chipkarten und NFC
+*数据库系统基础
+*控制理论基础与应用 = Control theory and applications
+*大嘴巴漫谈数据挖掘
+*C#面向对象程序设计
+*21 天学通 Visual C++

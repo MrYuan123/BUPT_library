@@ -1,0 +1,15 @@
+#J2EE企业级开发 : Struts2 + Spring + Hibernate整合技术
+#第一行代码 : Android
+#Java EE技术与应用
+#富兰克林自传 = The autobiography of Benjamin Franklin
+#纪委在行动 : 没有硝烟的战争
+*红与黑
+*市场营销学
+*Head First Java (中文版)
+*Java核心技术 . 卷II , 高级特性 = Core Java . Volume II : advanced features
+*Android群英传
+*微机原理与接口技术
+*Linux C从入门到精通
+*Java从入门到精通
+*计算机网络
+*线性代数

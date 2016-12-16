@@ -1,0 +1,13 @@
+#全局优化引论 = Introduction to global optimization
+#阵列信号处理及MATLAB实现
+#全局优化方法
+*信息检测与估计 : 原理及应用 = Detection and estimation : principles and applications
+*现代信号谱分析 = Spectral analysis of signals
+*多维信号处理与多维系统
+*阵列信号处理的理论与应用
+*统计信号处理基础 : 估计与检测理论 . 卷I = Fundamentals of statistical signal processing . volume I , estimation theory统计信号处理基础 : 估计与检测理论 . 卷II = Fundamentals of statistical signal processing . volume II , detection theory
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

@@ -1,0 +1,18 @@
+#Spring 技术内幕 : 深入解析Spring架构与设计原理
+#漫谈设计模式 : 从面向对象开始
+#Java程序员面试秘笈
+#深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM advanced features and best practices
+#Java深入解析 : 透析Java本质的36个话题
+#Java语言导学 = Java tutorial a short course on the basics
+#Java程序员修炼之道 = The well-grounded Java developer : vital techniques of Java 7 and polyglot programming
+#TCP/IP 网络编程 = TCP/IP programming
+*你必须知道的 261 个 Java 语言问题
+*深入分析Java Web技术内幕
+*Java 7并发编程实战手册 = Java 7 concurrency cookbook
+*疯狂 Java : 突破程序员基本功的16课
+*机器学习实战 = Machine learning in action
+*Python 核心编程
+*算法导论 = Introduction to algorithms
+*Arduino编程从零开始
+*发现数据之美 = = Discover the beauty of data : 数据分析原理与实践
+*More Effective C++ 中文版 = More Effective C++ : 35个改善编程与设计的有效方法35 new ways to improve your programs and designs

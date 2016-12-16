@@ -1,0 +1,18 @@
+#R语言轻松入门与提高
+#Excel 2010数据处理与分析实战技巧精粹
+#Python 学习手册
+#统计学 = Statistics
+#R语言与网站分析 = Web analysis and mining with R
+#数据库技术与应用系统开发 : SQL Server 2005+C#
+#广告统计基础 = Basis of advertising statistics
+#R语言与数据挖掘 : 最佳实践和经典案例 = R and data mining : examples and case studies
+*数据挖掘技术应用实例
+*AMOS 与研究方法
+*R语言实战 : 编程基础、统计分析与数据挖掘宝典
+*自然语言处理综论 = Speech and language processing : an introduction to natural language processing, computational linguistics, and speech recognition
+*人的自我寻求 = Man's search for himself
+*心理学与人类困境 = Psychology and the human dilemma
+*R语言数据挖掘 = Data mining with R
+*CFA 模拟题详解
+*CFA考试辅导指南 : 配套习题集
+*R语言数据挖掘方法及应用

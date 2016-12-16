@@ -1,0 +1,19 @@
+#MATLAB图像处理编程与应用
+#Photoshop 7.0 入门与提高
+#科学研究的途径 = Approach to scientific research : academic notes of an advisor
+#情商决定命运
+#事情是说成的 : 职场社交必读书
+#大学英语1-6级词汇手册 : 全新升级版
+#信号与系统实验教程 : MATLAB版
+#科学思维
+#大学英语六级考试词汇串记
+*日本汉字的确立及其历史演变 = The Establishment and historical evolution of kanji
+*地狱 = Inferno
+*欧洲文学史
+*周国平散文精选
+*知识人的黄昏
+*大学英语六级语法过关必读1000题
+*经济法教程
+*Excel 在管理技术中的应用与拓宽
+*四级阅读命题思路透析及高分攻略
+*大学英语六级语法考点精讲精练

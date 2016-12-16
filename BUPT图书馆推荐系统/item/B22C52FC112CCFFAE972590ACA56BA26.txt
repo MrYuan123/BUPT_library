@@ -1,0 +1,13 @@
+#Java 编程思想 = Thinking in Java
+#HTML5权威指南 = The Definitive guide to HTML5
+#jQuery Mobile快速入门
+*JavaScript高级程序设计 = Professional JavaScript for web developers
+*深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM : advanced features and best practices
+*疯狂Java讲义
+*精通JavaScript开发 = Pro JavaScript development : coding, capabilities, and tooling
+*JavaScript完全参考手册
+*排队论
+*3GPP 长期演进 (LTE) 技术原理与系统设计 = 3GPP long term evolution : principle and system design
+*雍正皇帝 : 评注本
+*机器学习实战 = Machine learning in action
+*Python黑帽子 : 黑客与渗透测试编程之道 = Black hat python : python programming for hackers and pentesters

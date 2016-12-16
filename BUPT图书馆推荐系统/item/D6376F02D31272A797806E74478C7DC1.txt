@@ -1,0 +1,20 @@
+#林晃 X 角丸圆讲美少女画法
+#动画影片分析 : 美国 = Animation TV/films review in USA
+#美国迪士尼动画研究 = Explore the art of the disney's animation in the US
+#动画特效的艺术 : 水火元素的魔力 . 1 = Elemental magic : the art of special effects animation . Volume I
+#动画概论
+#日本动画全史 : 日本动画领先世界的奇迹
+#动画视听语言 = Audile & visual art expression in animation
+#影视动画分镜头绘制技法
+#四级英语考来考去就这2400个单词
+#大学英语四级综合技能 20 天冲关快训
+*会计学基础 = Accounting
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学

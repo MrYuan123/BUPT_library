@@ -1,0 +1,11 @@
+#VC++项目开发实战密码
+*Visual C++网络编程开发与实战
+*Android应用开发入门 = Android apps for absolute beginners
+*Unity 4.3游戏开发项目实战 : C#、JavaScript版本
+*Linux Shell编程与编辑器使用详解
+*嵌入式软件开发及 C 语言实现 : MiniGUI 剖析
+*C 语言开发手册 : 典藏版
+*Linux Shell编程从入门到精通
+*品悟C : 抛弃C程序设计中的谬误与恶习
+*Visual C++开发实例大全 , 提高卷
+*C 语言详解 = Problem solving and program design in C

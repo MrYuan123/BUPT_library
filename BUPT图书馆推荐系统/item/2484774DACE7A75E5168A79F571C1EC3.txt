@@ -1,0 +1,11 @@
+#快学Scala = Scala for the impatient
+*MATLAB 8.0从入门到精通
+*Spark大数据处理技术
+*算法与数据结构
+*设计模式之禅 = The Zen of design patterns
+*Python 学习手册
+*Spark核心技术与高级应用 = Spark core technology and advanced applications
+*Python Cookbook (第3版) 中文版
+*那些古怪又让人忧心的问题 = What if serious scientific answers to absurd hypothetical questions
+*深入理解Spark : 核心思想与源码分析 = Spark internals : core design and source code analysis
+*写给大忙人看的Java核心技术 = Core Java for the impatient

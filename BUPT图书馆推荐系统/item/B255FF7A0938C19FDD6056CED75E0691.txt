@@ -1,0 +1,16 @@
+#高等代数学习指导书 . 下册
+#数学分析 . 上册
+#数学之恋 = A passion for mathematics
+#数学分析 . 第二册
+#数学分析 . 下册
+#数据结构教程
+*国富论 = The wealth of nations : 国民财富的性质和起因的研究 . 上
+*算法艺术与信息学竞赛
+*数学建模 = A first course in mathematical modeling
+*罗辑思维 : 在知识中寻找见识
+*信号与系统
+*数学分析讲义 . 第一册
+*数学分析讲义 . 第三册
+*C Primer Plus (第五版) 中文版
+*数学分析讲义 . 第二册
+*高等代数学习指导书 . 上册

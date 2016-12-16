@@ -1,0 +1,12 @@
+#FPGA 数字逻辑设计教程 : Verilog = Digital design using digilent FPGA boards Verilog/active-HDL edition
+#Verilog HDL高级数字设计 = Advanced digital design with the verilog HDL
+*高等数学 . 上册
+*复变函数
+*高等数学 . 下册
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

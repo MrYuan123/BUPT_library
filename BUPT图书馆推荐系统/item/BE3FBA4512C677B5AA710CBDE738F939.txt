@@ -1,0 +1,25 @@
+#LTE 基础原理与关键技术
+#卫星干扰源双星定位技术及工程应用
+#下一代宽带无线通信系统 : OFDM与WiMAX
+#移动通信原理
+#数学物理方程及其MATLAB解算
+#信息论基础 = Elements of information theory
+#多天线系统中的迭代信号处理技术
+#宽带无线移动通信网络技术
+#幅度均衡器
+#移动通信天线技术与工程应用 = Antenna technologies and applications in mobile communication system
+#无线电通信系统仿真及军事应用
+#第 3 代移动通信系统设计原理与规划
+#无线通信的 MATLAB 和 FPGA 实现
+#LTE-B3G/4G 移动通信系统无线技术
+#量子通信技术与应用远景展望
+*无线通信系统的 DSP 实现
+*MATLAB GUI设计学习手记
+*3GPP 长期演进 (LTE) 系统架构与技术规范 = 3GPP long term evolution : architecture and specification
+*3GPP LTE物理层和空中接口技术
+*移动通信原理、技术与系统
+*移动通信 = Mobile wireless communications
+*Hadoop实战 = Hadoop in action
+*LTE无线网络规划与设计 = LTE wireless network planning & design
+*Hadoop大数据处理 = Big data processing
+*量子通信

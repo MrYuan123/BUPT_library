@@ -1,0 +1,14 @@
+#轻量级Java EE企业应用实战 : Struts 2＋Spring 3＋Hibernate整合开发
+#Java Web 开发实战经典基础篇 : JSP、Servlet、Struts、Ajax
+#Eclipse 完全手册 : 基础·进阶·高级
+#现代密码学教程
+*jQuery权威指南 = jQuery : the definitive guide
+*近世代数及其应用
+*Python编程实践 = Practical programming : an introduction to computer science using python
+*Spring实战 = Spring in action
+*Python 开发技术详解
+*21天学通Python
+*计算机网络技术基础 = Foundations of computer network technology
+*古希腊 : 爱琴海的文明
+*算法竞赛入门经典训练指南
+*现代密码分析学 : 破译高级密码的技术 = Modern cryptanalysis : techniques for advanced code breaking

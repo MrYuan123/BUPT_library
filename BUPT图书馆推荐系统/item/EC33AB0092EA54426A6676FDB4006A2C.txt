@@ -1,0 +1,12 @@
+#jQuery基础教程 = Learning jQuery
+#Struts 2 + Spring+Hibernate框架技术与项目实战
+*jQuery实战 = jQuery in action
+*编写高质量代码 : 改善JavaScript程序的188个建议 = Writing soliv JavaScript cove 188 suggestion to improve your JavaScript program
+*正则表达式经典实例
+*电视人
+*操作系统设计与实现 = Operating systems design and implementation . 上册
+*Android从入门到精通
+*Java Web 开发速学宝典
+*MySQL数据库应用从入门到精通
+*PHP + MySQL 八大动态 Web 应用实战 = Practical PHP and MySQL : building eight dynamic Web applications
+*深入PHP与jQuery开发 = Pro PHP and jQuery

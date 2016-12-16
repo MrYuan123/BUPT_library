@@ -1,0 +1,14 @@
+#线性代数
+#FPGA项目开发实战讲解
+#FPGA设计技巧与案例开发详解
+#深入浅出玩转 FPGA
+*无线通信 = Wireless communications
+*Xilinx FPGA设计权威指南 = Xilinx FPGA : design and application
+*扩频通信系统的FPGA设计
+*高等数学 . 上册
+*高等数学复习指导 : 思路、方法与技巧
+*高等数学 . 下册
+*模拟电子技术基础
+*FPGA 应用开发入门与典型实例
+*数字系统设计与Verilog HDL
+*Verilog数字系统设计教程

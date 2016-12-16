@@ -1,0 +1,15 @@
+#欧美文学名篇选读 = Selected readings in Euro-American literature
+#外国文学名著快读 = Foreign famous literary works
+#理智与情感 = Sense and sensibility
+#英汉妙语佳句赏析 = The appreciation of English-Chinese witty words and fine lines
+#世界上最优美的散文 = The most beautiful proses in the world
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

@@ -1,0 +1,14 @@
+#信息论基础 = Elements of information theory
+#量子力学新进展 . 第五辑 = Recent progress in quantum mechanice . fifth volume
+#量子密码通信 = Quantum cryptography communication
+#信息保护 : 从经典纠错到量子密码 = Protecting information : from classical error correction to quantum cryptography
+*应用量子密码学 = Applied quantum cryptography
+*量子计算和量子信息 = Quantum computation and quantum information . 二 , 量子信息部分
+*量子力学习题精选与剖析
+*量子密码协议的设计和分析
+*亲爱的安德烈
+*微信公众平台应用开发 : 方法、技巧与案例 = Wechat public platform application developing : method, technique and example
+*Python 基础教程 = Beginning Python from novice to professional
+*图解HTTP
+*神经网络与机器学习 = Neural networks and learning machines
+*数据可视化之美

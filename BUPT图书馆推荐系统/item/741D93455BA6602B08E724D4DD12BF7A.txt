@@ -1,0 +1,28 @@
+#矩阵计算 = Matrix computations
+#矩阵不等式
+#数值分析 = Numerical analysis
+#应用量子密码学 = Applied quantum cryptography
+#矩阵计算六讲
+#微分方程数值分析基础教程 = A first course in the numerical analysis of differential equations
+#Toeplitz系统预处理方法
+#矩阵理论与应用
+#量子密码协议的设计和分析
+#量子物理学中的常用算法与程序
+#量子密码学
+#量子计算与量子优化算法
+#控制论中的矩阵计算
+#量子签名及应用
+#信息安全中的数学方法与技术
+#线性代数与矩阵论
+#矩阵论
+#量子计算与量子信息原理 . 第一卷 : 基本概念
+*量子计算和量子信息 = Quantum computation and quantum information . 二 , 量子信息部分
+*运筹学 = Operations research
+*信息保护 : 从经典纠错到量子密码 = Protecting information : from classical error correction to quantum cryptography
+*量子力学习题精选与剖析
+*密码学与网络安全
+*量子计算和量子信息 = Quantum computation and quantum information . 一 , 量子计算部分
+*自动机理论、语言和计算导论 = Introduction to automata theory, languages, and computation
+*Java语言与面向对象程序设计
+*随机过程习题解答
+*随机过程

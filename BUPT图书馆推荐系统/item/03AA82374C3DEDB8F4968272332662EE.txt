@@ -1,0 +1,11 @@
+#Ad Hoc 网络技术
+*React : 引领未来的用户界面开发框架 = Developing a React edge : the javascript library for user interfaces
+*移动Ad Hoc网络 = Mobile Ad Hoc networking
+*无线移动自组织网
+*无线传感器网络 = Wireless sensor networks a networking perspective
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

@@ -1,0 +1,13 @@
+#Python语言程序设计 = Introduction to programming using Python
+#ADS2008射频电路设计与仿真实例
+#ADS 射频电路设计基础与典型应用
+*数学物理方程及其MATLAB解算
+*数学物理方程与特殊函数
+*电磁场理论
+*爱因斯坦全传 : 全面解读爱因斯坦个人和职业生活的最新读本 = Einstein : a life
+*NumPy攻略 = NumPy cookbook : Python科学计算与数据分析
+*C#图解教程 = Illustrated C# 2012
+*正则表达式经典实例
+*Python数据分析基础教程 : NumPy学习指南 = NumPy beginner's guide
+*大学英语六级阅读30天速成胜经 : 新题型
+*六级段落翻译100篇 = CET-6 translation topic 100 : 新题型

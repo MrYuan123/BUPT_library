@@ -1,0 +1,12 @@
+#数据挖掘导论 = Introduction to data mining
+#数据之美
+*数据挖掘 = Data mining : 实用机器学习技术practical machine learning tools and techniques
+*Java核心技术 . 卷1 , 基础知识 = Core Java . Volume I , Fundamentals
+*啤酒与尿布 : 神奇的购物篮分析
+*深入浅出数据分析 = Head first data analysis
+*中国周边安全形势评估 . 2016 = China's regional security environment review . 2016 , “一带一路”：战略对接与安全风险
+*算法设计、分析与应用教程
+*大数据分析 : 用互联网思维创造惊人价值 = Win with advanced business analytics : creating business value from your data
+*网站数据挖掘与分析 : 系统方法与商业实践 = Web data mining and analysis : systematic approach and business practice
+*数据挖掘 : 概念与技术
+*数据驱动安全 : 数据安全分析、可视化和仪表盘 = Data-driven security : analysis, visualization and dashboards

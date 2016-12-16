@@ -1,0 +1,13 @@
+#信息论基础 = Elements of information theory
+#Python 基础教程 = Beginning Python from novice to professional
+#微信公众平台应用开发 : 方法、技巧与案例 = Wechat public platform application developing : method, technique and example
+*Python 学习手册
+*亲爱的安德烈
+*信息处理与编码 = Information processing and coding
+*模式识别
+*Linux C从入门到精通
+*经济学原理 = Principles of economics
+*Python宝典
+*兄弟
+*不能承受的生命之轻 = L'insoutenable legerete de l'etre
+*Hadoop实战 = Hadoop in action

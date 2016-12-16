@@ -1,0 +1,16 @@
+#Java Web 开发权威经典
+#Java 程序设计 = The object of Java : 对象和软件工程方法introduction to programming using software engineering principles
+#跟我说韩语
+#边听边说韩语流行口语极短句 500 个
+#JavaScript 从入门到精通
+#Java程序设计与项目实战 : 全程实录
+*Java 语言程序设计 = Introduction to Java programming , 进阶篇comprehensive version
+*面向对象葵花宝典 : 思想、技巧与实践
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

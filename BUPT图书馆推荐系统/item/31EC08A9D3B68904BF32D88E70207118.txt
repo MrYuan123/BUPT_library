@@ -1,0 +1,17 @@
+#MATLAB小波分析
+#信号检测与估计理论
+#基于MATLAB的小波分析应用
+#小波分析及其在信号处理中的应用
+#基于 GPU 的多尺度离散模拟并行计算
+#小波与傅里叶分析基础 = A First course in wavelets with fourier analysis
+#检测、估计和调制理论 = Detection, estimation, and modulation theory . 卷ⅠPart I , 检测、估计和线性调制理论detection, estimation, and linear modulation theory
+*小波分析及其应用
+*大数据 = Mining of massive datasets : 互联网大规模数据挖掘与分布式处理
+*品读剑桥雅思官方范文
+*数据挖掘与数据化运营实战 = Data mining, leading with data driven practice : 思路、方法、技巧与应用
+*小波分析
+*矩阵计算 = Matrix computations
+*信号处理与模式识别
+*最优阵列处理技术 = Optimum array processing part IV of detection, estimation, and modulation theory
+*空间谱估计理论与算法
+*信号处理与数据分析 = Signal processing and data analysis

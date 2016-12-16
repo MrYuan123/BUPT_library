@@ -1,0 +1,11 @@
+#JavaScript DOM 编程艺术 = DOM Scripting : web design with JavaScript and the document object model
+*图解HTTP
+*Node.js入门经典
+*启示录 : 打造用户喜爱的产品
+*简约至上 : 交互式设计四策略
+*jQuery开发从入门到精通
+*JavaScript & jQuery交互式Web前端开发
+*Head First jQuery : 中文版
+*现代通信原理习题解析
+*网络存储技术
+*编译原理学习指导与习题解析

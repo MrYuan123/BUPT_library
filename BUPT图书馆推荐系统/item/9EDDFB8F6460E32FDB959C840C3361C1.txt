@@ -1,0 +1,14 @@
+#MATLAB 数字信号处理与应用
+#MATLAB 辅助现代工程数字信号处理
+#HTML 与 CSS 入门经典
+#Java程序设计与问题解决
+*数学建模 = Mathematical modeling
+*Python入门经典 = The Practice of computing using Python : 以解决计算问题为导向的Python编程实践
+*数据结构与算法
+*Oracle DBA入门与实战经典
+*数据结构 : C语言描述
+*矩阵理论及其应用
+*矩阵的半张量积 : 理论与应用
+*高等数学习题详解
+*混沌保密通信原理与技术 = Principle and technology of chaotic secure communication
+*全国硕士研究生入学统一考试线性代数辅导讲义 : 2014

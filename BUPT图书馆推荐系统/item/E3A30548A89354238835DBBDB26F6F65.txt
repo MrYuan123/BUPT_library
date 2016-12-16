@@ -1,0 +1,14 @@
+#时空混沌和耦合映象格子
+#物理学史 = A History of physics
+#C 语言编程 = Programming in C : 一本全面的C语言入门教程a complete introduction to the C programming language
+#20世纪物理学 = Twentieth century physics . 第1卷
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

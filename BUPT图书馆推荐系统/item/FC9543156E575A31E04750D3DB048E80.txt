@@ -1,0 +1,15 @@
+#快速数论变换
+#数据结构 : 用面向对象方法与 C++ 语言描述
+#矩阵论札记
+#Java程序设计教程 = Building Java programs : a back to basics approach
+#图论算法理论、实现及应用
+*线性代数及其应用导论 = Linear algebra : a first course with applications to differential equations
+*矩阵分析
+*概率图模型学习理论及其应用
+*Java程序设计与实例
+*Node应用程序构建 : 使用MongoDB和Backbone
+*Node即学即用 = Node : up and running, scalable server-side code with JavaScript
+*Java程序设计案例教程
+*数据结构 : Java版
+*JavaScript 基础教程 = JavaScript & ajax
+*Hadoop大数据处理 = Big data processing

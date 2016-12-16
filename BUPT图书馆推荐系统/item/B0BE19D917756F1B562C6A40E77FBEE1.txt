@@ -1,0 +1,13 @@
+#嵌入式软件开发精解 = Embedded software : the works
+#Java Web技术及应用
+#嵌入式软件开发导论
+*轻量级Java EE程序设计及实践
+*MongoDB入门经典
+*推荐系统 = Recommender systems handbook : 技术、评估及高效算法
+*MySQL数据库管理与开发实践教程
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

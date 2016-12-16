@@ -1,0 +1,12 @@
+#游戏设计全方位学习
+#成功始于方法 = Success begins with method : 爆发由弱而强的10种本领 : = Thn sorts of ability to go from weakness to stren
+*jQuery高级编程
+*Unity3D游戏开发基础
+*HTML5游戏开发进阶指南 = Pro HTML5 games
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

@@ -1,0 +1,12 @@
+#PHP+MySQL开发技术详解
+#Learning PHP, MySQL, JavaScript和CSS
+*Rootkit : 系统灰色地带的潜伏者 = The rootkit arsenal : escape and evasion in the dark corners of the system
+*PHP编程 = Programming PHP
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

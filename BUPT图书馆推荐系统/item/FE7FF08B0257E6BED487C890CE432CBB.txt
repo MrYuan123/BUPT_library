@@ -1,0 +1,18 @@
+#基于细胞神经网络的非线性时滞系统自适应控制
+#LATEX　入门与提高
+#MATLAB 实用教程 : 控制系统仿真与应用
+#模糊控制及其 MATLAB 仿真
+#智能控制理论及应用
+#神经网络控制
+#神经模糊控制理论及应用
+#智能控制实验与综合设计指导
+*神经网络与机器学习 = Neural networks and learning machines
+*Matlab/Simulink实例详解
+*过程控制工程及仿真 : 基于MATLAB/Simulink
+*MATLAB/Simulink系统仿真超级学习手册
+*先进 PID 控制 MATLAB 仿真
+*微波技术与天线
+*HTML+CSS网页设计详解
+*HFSS 原理与工程应用
+*大话数据结构 = Play with data structure
+*零点起飞学PHP

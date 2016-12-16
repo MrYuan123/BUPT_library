@@ -1,0 +1,13 @@
+#Java Web开发技术教程
+#Linux系统命令及Shell脚本实践指南 = Linux commands and shell scripting
+#语义网基础教程 = A semantic Web primer
+*下一代网络核心控制协议 : SIP及其应用
+*Linux实用教程
+*Wireshark数据包分析实战详解
+*深入理解程序设计 : 使用Linux汇编语言 = Programming from the ground up
+*OS X系统管理和部署
+*Linux性能优化大师
+*OS X与iOS内核编程 = OS X and iOS kernel programming
+*精通Linux内核网络 = Linux kernel networking : implementation and theory
+*Linux 从初学到精通
+*Java Web开发技术

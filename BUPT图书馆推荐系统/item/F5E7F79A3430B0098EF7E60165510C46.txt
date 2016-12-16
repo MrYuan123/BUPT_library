@@ -1,0 +1,12 @@
+#C++泛型 : STL原理和应用
+#深度探索C++对象模型 = Inside the C++ object model
+*七周七语言 : 理解多种编程范型 = Seven languages in seven weeks : a pragmatic guide to learning programming languages
+*应用密码学手册 = Handbook of applied cryptography
+*计算机图形学 = Fundamentals of computer graphics
+*编译原理 = Compilers : principles, techniques and tools
+*应用密码学 : 协议、算法与C源程序 = Applied cryptography : protocols, algorithms, and source code in C
+*C++ 沉思录 = Ruminations on C++
+*UNIX 网络编程 . 卷2 , 进程间通信 = UNIX network programming . volume 2 , interprocess communications
+*Accelerated C++中文版 : 通过示例进行编程实践 = Accelerated C++ : practical programming by example
+*UNIX 网络编程 . 卷1 , 套接字联网API = UNIX network programming . volume 1 , The Sockets networking API
+*思考的技术 = 考ぇる技術 : 思考力决定竞争力

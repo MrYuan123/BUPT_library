@@ -1,0 +1,11 @@
+#Java语言程序设计 = Introduction to Java programming , 进阶篇
+*挑战编程 = Programming challenges : 程序设计竞赛训练手册the programming contest training manual
+*MySQL 核心技术手册
+*编程珠玑 = More programming pearls : confessions of a coder : 续
+*数据结构 : Java版
+*大话数据结构 = Play with data structure
+*Android平台开发之旅
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

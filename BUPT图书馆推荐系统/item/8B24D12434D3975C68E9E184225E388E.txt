@@ -1,0 +1,13 @@
+#机器学习实战 = Machine learning in action
+#全球通史 : 从史前史到21世纪 = A Global history : from prehistory to the 21st century . 上
+#全球通史 : 从史前史到21世纪 = A Global history : from prehistory to the 21st century . 下
+*高等近世代数 = Advanced modern algebra
+*巨人传 . 下
+*巨人传 . 上
+*算法导论 = Introduction to algorithms
+*Java 编程思想 = Thinking in Java
+*疯狂Android讲义
+*数据挖掘十大算法
+*统计自然语言处理
+*自然语言处理综论 = Speech and language processing : an introduction to natural language processing, computational linguistics, and speech recognition
+*数据结构与算法

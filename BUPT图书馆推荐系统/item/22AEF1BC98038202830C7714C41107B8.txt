@@ -1,0 +1,13 @@
+#HTML+CSS+JavaScript网页设计简明教程
+#MATLAB原理及应用案例教程
+#Java 编程入门经典
+*WOW! Photoshop设计方法大全
+*C++ PRIMER 中文版 = C++ Primer
+*零基础学C++
+*MATLAB神经网络编程
+*神经网络盲均衡理论、算法与应用
+*神经网络 = Neural networks
+*MATLAB GUI设计入门与实战
+*神经网络设计方法与实例分析
+*计算机网络
+*线性代数

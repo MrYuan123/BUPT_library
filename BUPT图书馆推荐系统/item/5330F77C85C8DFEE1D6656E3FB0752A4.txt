@@ -1,0 +1,14 @@
+#Effective objective-C 2.0 : 编写高质量iOS与OS X代码的52个有效方法 = Effective objective-C 2.0 : 52 specific ways to improve your iOS and OS X programs
+#Objective-C基础教程 = Learn Objective-C on the mac for OS X and iOS
+#妙趣横生的算法 : C++语言实现
+#深入理解计算机系统 = Computer systems : a programmer's perspective
+*数据挖掘 : R语言实战
+*iOS开发指南 : 从零基础到App Store上架
+*iOS应用逆向工程 = iOS app reverse engineering
+*Head First Servlets & JSP : 中文版
+*弗洛伊德文集 = The selected works of Sigmund Freud . 1
+*弗洛伊德文集 = The selected works of Sigmund Freud . 2
+*习近平谈治国理政
+*NumPy攻略 = NumPy cookbook : Python科学计算与数据分析
+*Vim实用技巧 = Practical Vim : edit text at the speed of thought
+*深入云计算 : Hadoop应用开发实战详解

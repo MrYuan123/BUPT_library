@@ -1,0 +1,13 @@
+#矩阵计算 = Matrix computations
+#概率论习题集
+#随机过程论
+*信号检测与估计理论
+*最优阵列处理技术 = Optimum array processing part IV of detection, estimation, and modulation theory
+*空间谱估计理论与算法
+*Linux C程序设计王者归来
+*离散时间信号处理 = Discrete-time signal processing
+*宽带阵列信号波达方向估计理论与方法 = Wideband array signal direction of arrive estimation theory and methods
+*钟形罩
+*一九八四 = Nineteen Eighty-four
+*现代控制理论与工程 = Modern control theory and engineering
+*最美丽的英文 = The most beautiful English , 你也可以不平凡you can be uncommon

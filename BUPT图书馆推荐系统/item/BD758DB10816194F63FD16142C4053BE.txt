@@ -1,0 +1,15 @@
+#循序渐进法语词汇 = Exercices de vocabulaire en contexte , 初级Niveau debutant
+#半导体物理学
+#TCF TEF词汇词根 + 词缀 + 联想记忆法 = Bible des vocabulaires de Tcf et Tef radicaux + affixes + memoire associative
+#雅思分级词汇21天进阶
+#半导体物理学简明教程
+*半导体光子学
+*微波射频测量技术基础
+*电子科学与技术导论
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

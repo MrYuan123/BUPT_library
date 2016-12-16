@@ -1,0 +1,14 @@
+#了不起的Node.js : 将JavaScript进行到底 = Smashing Node. js : JavaScript everywhere
+#JavaScript 权威指南
+#C++ Primer 中文版
+#21天学通JavaScript
+*算法 = Algorithms
+*咔咔! 我是日语语法书
+*CSS 权威指南
+*Python自然语言处理
+*C++ Primer (第4版) 习题解答
+*数据结构与算法JavaScript描述 = Data structures and algorithms with JavaScript
+*扩展jQuery = Extending jQuery
+*新版中日交流标准日本语初级句型手册 : N5-N3考点归纳
+*零基础学HTML + CSS : 11.5小时多媒体教学视频
+*常用算法深入学习实录

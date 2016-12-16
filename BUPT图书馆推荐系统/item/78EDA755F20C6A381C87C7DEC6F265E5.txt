@@ -1,0 +1,17 @@
+#入侵检测系统及实例剖析
+#Java程序员成功面试秘籍
+#入侵检测
+#拒绝服务攻击 = Denial of service(DoS) attack
+#疯狂Java讲义
+#Hibernate程序开发
+#入侵检测理论与技术 = Theory and technologies of intrusion detection
+*Spring实战 = Spring in action
+*操作系统答疑解惑与典型题解
+*即用即查 Linux 命令行实例参考手册
+*网络攻击与防御技术 = Information security
+*网络安全基础 = Network security essentials : 应用与标准applications and standards
+*网络攻击与防御技术
+*网络安全 : 现状与展望 = Network security current status and future directions
+*破坏之王 : DDoS攻击与防范深度剖析
+*Java EE设计模式解析与应用
+*C++ 网络编程 = C++ network programming . 卷1Volume 1 , 运用ACE和模式消除复杂性

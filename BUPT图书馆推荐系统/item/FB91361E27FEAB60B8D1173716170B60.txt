@@ -1,0 +1,14 @@
+#数据库原理、应用与实践 : SQL Server
+#数据挖掘 : 概念与技术 = Data mining : concepts and techniques
+#数据库原理及应用实验与实践教程
+#Ubuntu Linux 从入门到精通
+*数据挖掘教程
+*深入体验Java项目开发
+*D3.js数据可视化实战手册
+*数据仓库与数据挖掘教程
+*数据挖掘技术及应用
+*数据挖掘 : 实用案例分析 = Data mining : practical case analysis
+*数据挖掘 : 概念、模型、方法和算法
+*数据挖掘十大算法
+*数据挖掘与机器学习 : WEKA应用技术与实践
+*2016版数据结构高分笔记

@@ -1,0 +1,13 @@
+#Go语言编程 = The Go programming language
+#Go语言程序设计 = Programming in Go : creating applications for the 21st century
+#设计模式之禅 = The Zen of design patterns
+*Go语言程序设计
+*PHP编程 = Programming PHP
+*分布式系统原理与范型
+*深入理解计算机系统 = Computer systems : a programmer's perspective
+*精彩绝伦的jQuery = Smashing jQuery
+*大数据时代的IT架构设计
+*PHP 函数库查询辞典
+*Spark大数据实例开发教程
+*Spark MLlib机器学习实践
+*Spring 3.0就这么简单

@@ -1,0 +1,13 @@
+#互联网求职全攻略
+#SPSS Modeler数据挖掘方法及应用
+#MySQL 必知必会 = MySQL crash course
+*轻松应对面试难题 = Answering tough interview questions for dummies
+*优雅 = Elegance
+*亲爱的提奥 = Dear Theo : 凡高自传
+*Excel 数据分析之道 : 让你的数据更有说服力
+*来吧!带你玩转Excel VBA
+*SQL基础教程
+*Linux操作系统与实训教程
+*Oracle数据库基础及应用
+*循序渐进 Linux : 基础知识、服务器搭建、系统管理、性能调优、集群应用
+*大数据 : 从海量到精准

@@ -1,0 +1,14 @@
+#2001 : 太空漫游 = 2001 : a space odyssey
+#ACM国际大学生程序设计竞赛亚洲区预选赛真题题解
+#从前我死去的家
+#数学模型
+*数学建模 = A first course in mathematical modeling
+*MATLAB在数学建模中的应用
+*数学建模方法与分析 = Mathematical modeling
+*数学建模算法与应用
+*计算机组成原理教程
+*信号分析与处理
+*现代数学建模方法
+*复变函数典型题
+*无价 : 洞悉大众心理玩转价格游戏 = Priceless : the myth of fair value (and how to take advantage of it)
+*信号与系统考研指导

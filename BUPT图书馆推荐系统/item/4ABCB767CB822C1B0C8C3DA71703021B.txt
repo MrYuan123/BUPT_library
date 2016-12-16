@@ -1,0 +1,19 @@
+#Linux 指令范例速查手册
+#大话处理器 : 处理器基础知识读本
+#图解机器学习
+#量化投资 : 策略与技术
+#C++ Primer (第4版) 习题解答
+#征服C指针
+#Linux网络操作系统项目化教程
+#量化投资 : 数据挖掘技术与实践 : MATLAB版
+#算法竞赛宝典 . 第一部 , 语言及算法入门
+*C++ Primer 中文版
+*GPU 精粹 3
+*大型RISC处理器设计 : 用描述语言Verilog设计VLSI芯片 = Visi chip design with the hardware description language verilog
+*现代VLSI设计 : 基于IP核的设计 = Modern VLSI design : IP-based design
+*哥德尔、艾舍尔、巴赫 : 集异璧之大成
+*STL源码剖析 = The Annotated STL sources
+*自适应Fourier变换 : 一个贯穿复几何, 调和分析及信号分析的数学方法
+*无限的清单
+*差半车麦秸
+*ADS2011射频电路设计与仿真实例

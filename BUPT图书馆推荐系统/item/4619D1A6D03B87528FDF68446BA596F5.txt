@@ -1,0 +1,17 @@
+#互联网金融 : 框架与实践
+#计算机网络联考辅导教程 : 2013版
+#CCNA 自学指南 : Cisco网络设备互连
+#全国计算机等级考试一本通 , 三级数据库技术
+#微波技术基础
+#互联网金融 = Internet finance : 重塑金融生态
+#微波工程导论
+*数字信号处理教程习题分析与解答
+*固体物理学
+*数字信号处理教程
+*通信原理学习与考研指导
+*我的团长我的团 = Soldiers and their commander . 上部
+*高等电磁理论 = Advanced electromagnetic theory
+*Word排版之道 = The tao of typesetting
+*电磁场与电磁波
+*LATEX　入门与提高
+*HFSS天线设计

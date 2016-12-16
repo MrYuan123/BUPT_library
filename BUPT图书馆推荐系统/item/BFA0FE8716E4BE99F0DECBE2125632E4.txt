@@ -1,0 +1,14 @@
+#社交网站的数据挖掘与分析
+#SQL查询的艺术
+#Hive编程指南
+#数据仓库 = Building the data warehouse
+*神经网络与机器学习 = Neural networks and learning machines
+*Effective C++ : 改善程序与设计的55个具体做法 : 中文版 = Effective C++ : 55 specific ways to improve your programs and designs
+*Hadoop硬实战 = Hadoop in practice
+*数据之魅 : 基于开源工具的数据分析
+*Hadoop 2.0-YARN核心技术实践
+*Hadoop技术内幕 : 深入解析Hadoop Common和HDFS架构设计与实现原理 = Hadoop internals : in-depth study of common and HDFS
+*通信收发信机的 Verilog 实现与仿真
+*Head First Java (中文版)
+*大话数据挖掘
+*操作系统

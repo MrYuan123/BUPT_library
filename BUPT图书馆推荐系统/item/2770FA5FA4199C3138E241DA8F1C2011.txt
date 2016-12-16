@@ -1,0 +1,14 @@
+#微波固态电路设计 = Microwave solid state circuit design
+#射频电路工程设计 = RF circuit design
+#微波工程 = Microwave engineering
+#ADS2008 射频电路设计与仿真实例
+*MATLAB 在射频电路设计中的应用
+*射频电路设计 : 理论与应用 = RF circuit design : theory and applications
+*ADS射频电路设计与仿真学习笔记 : 配视频教程
+*晶体管电路实用设计
+*ADS高速电路信号完整性应用实例
+*数据库系统原理及应用
+*微波与射频技术实验教程
+*微波技术与天线
+*现代电子通信
+*CST天线仿真与工程设计

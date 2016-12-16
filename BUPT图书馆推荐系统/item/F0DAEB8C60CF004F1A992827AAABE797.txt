@@ -1,0 +1,18 @@
+#MATLAB优化算法案例分析与应用 , 进阶篇
+#MATLAB神经网络30例
+#MATLAB神经网络原理与实例精解
+#MATLAB智能算法超级学习手册
+#人工智能实用教程
+#MATLAB优化算法案例分析与应用
+#MATLAB 神经网络应用设计
+#人工智能
+*城市道路智能交通控制技术
+*MATLAB 神经网络 30 个案例分析
+*交通信息智能预测理论与方法
+*机器学习基础教程 = A First course in machine learning
+*MATLAB神经网络编程
+*现代博弈论基础
+*神经网络在应用科学和工程中的应用 : 从基本原理到复杂的模式识别
+*MATLAB神经网络43个案例分析
+*MATLAB可视化科学计算
+*神经计算原理 = Principles of neurocomputing for science & engineering

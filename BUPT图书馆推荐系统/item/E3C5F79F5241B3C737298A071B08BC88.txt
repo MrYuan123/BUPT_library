@@ -1,0 +1,12 @@
+#高等光学仿真 : (MATLAB版) : 光波导, 激光
+#非线性光学
+*Java JDK8学习笔记
+*傅里叶光学导论 = An introduction to fourier optics
+*光纤通信 = Optical fiber communications
+*电磁场与电磁波
+*光纤通信
+*Photoshop CS4 数码照片处理与精修完全学习手册
+*非线性光纤光学 = Nonlinear fiber optics
+*安妮日记
+*TCP/IP 入门经典
+*半导体光放大器及其应用

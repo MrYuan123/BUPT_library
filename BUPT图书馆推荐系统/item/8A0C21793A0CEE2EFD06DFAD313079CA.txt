@@ -1,0 +1,15 @@
+#TD-LTE 技术原理与系统设计 = TD-LTE principles and system design
+#LTE权威指南 = Fundamentals of LTE
+#通信原理
+#通信原理 (第六版) 同步辅导及习题全解
+#LTE FDD网络规划与设计 = LTE FDD network planning and design
+*4G移动通信技术权威指南 : LTE与LTE-Advanced = 4G LTE/LTE-Advanced for mobile broadband
+*通信原理习题集
+*5G: 关键技术与系统演进
+*微型计算机技术学习指导与习题解答
+*通信原理学习辅导 = Tutorial of problems and test papers for communication principles
+*通信原理学习及考研辅导
+*樊昌信《通信原理》 (第6版) 笔记和课后习题 (含考研真题) 详解
+*3G 核心网技术
+*TD-LTE-Advanced移动通信系统设计 = TD-LTE-Advanced mobile communications system design
+*射频识别技术原理与应用 = RFID—handbuch: grundlagen und praktische anwendungen von transpondern, kontaktlosen chipkarten und NFC

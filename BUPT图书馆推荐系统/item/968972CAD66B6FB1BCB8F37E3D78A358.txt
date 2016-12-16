@@ -1,0 +1,13 @@
+#数据结构及应用算法教程
+#Python 参考手册 = Python essential reference
+#算法之美 : 隐匿在数据结构背后的原理 : C++版
+*Google软件测试之道 : 像Google一样进行软件测试
+*Python入门经典
+*MIMO 无线通信 : 从真实世界的传播到空-时编码的设计 = MIMO wireless communications : from real-world propagation to space-time code design
+*MIMO系统与空时编码 : 分集的理论与实践 = MIMO system and STC : the theory and practice of diversity
+*算法帝国 = Automate this : how algorithms came to rule our world
+*剑指Offer : 名企面试官精讲典型编程题
+*C++ Primer : 中文版
+*程序员历年试题分析与解答
+*零基础学数据结构 : 24小时多媒体教学视频
+*数据结构与面向对象程序设计 : C++版

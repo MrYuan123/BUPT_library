@@ -1,0 +1,12 @@
+#Java 编程思想 = Thinking in Java
+#3GPP 长期演进 (LTE) 技术原理与系统设计 = 3GPP long term evolution : principle and system design
+*3GPP 长期演进 (LTE) 系统架构与技术规范 = 3GPP long term evolution : architecture and specification
+*Java 语言程序设计 = Introduction to Java programming , 进阶篇
+*深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM : advanced features and best practices
+*MATLAB宝典
+*雍正皇帝 : 评注本
+*机器学习实战 = Machine learning in action
+*Effective C++ : 改善程序与设计的55个具体做法 : 中文版 = Effective C++ : 55 specific ways to improve your programs and designs
+*全面详解LTE : MATLAB建模、仿真与实现
+*C++ 编程规范 : 101条规则、准则与最佳实践 = C++ coding standards : 101 rules, guidelines, and best practices
+*MIMO 技术原理及应用

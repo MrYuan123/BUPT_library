@@ -1,0 +1,13 @@
+#矩阵论千题习题详解 = Matrix
+#矩阵论教程学习辅导与习题解答
+#算法心得 : 高效算法的奥秘 = Hacker's delight
+*数学建模的认识与实践
+*大洪水 : 帝舜时代
+*数学建模入门与提高
+*80C51 单片机原理与应用
+*IPv6 详解 . 卷1 = IPv6 core protocols implementation
+*程序设计中实用的数据结构
+*新托福高分词汇 = TOEFL guide excellence vocabulary
+*JLPT新题型读解教程 , N3
+*歪歪的漫画书 , 疯狂的6级词汇 = Waiwai's cartoon , Crazy CET-6 vocabulary
+*零基础学算法

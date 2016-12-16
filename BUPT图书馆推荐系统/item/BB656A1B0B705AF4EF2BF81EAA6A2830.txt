@@ -1,0 +1,16 @@
+#MATLAB实用教程 = The practical textbook of MATLAB
+#数据可视化
+#MATLAB基础教程
+#鲜活的数据 : 数据可视化指南
+#Python入门经典
+#机器学习系统设计 = Building machine learning systems with python
+*商务与经济统计 = Statistics for business and economics
+*数据挖掘与数据化运营实战 = Data mining, leading with data driven practice : 思路、方法、技巧与应用
+*深入云计算 : Hadoop应用开发实战详解
+*MATLAB从入门到精通
+*Java 程序设计之网络编程
+*数学建模方法及其应用
+*计算机网络 : 原理、技术与应用
+*数据可视化之美
+*数据之美 : 一本书学会可视化设计 = Pata points : visualization that means something
+*精通D3.js : 交互式数据可视化高级编程

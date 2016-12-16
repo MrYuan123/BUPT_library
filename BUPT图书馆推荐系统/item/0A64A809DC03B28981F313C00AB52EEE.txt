@@ -1,0 +1,12 @@
+#Eclipse 全程指南 : 基础知识、Web 开发、SWT/JFace 开发、Eclipse 插件
+#神兵利器 : Eclipse开发技术详解
+*近世代数学习辅导与习题选解
+*Eclipse 开发学习笔记
+*软件加密与解密 = Surreptitious software : obfuscation, watermarking, and tamperproofing for software protection
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

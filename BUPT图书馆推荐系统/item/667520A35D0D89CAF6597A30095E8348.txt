@@ -1,0 +1,15 @@
+#Kali Linux渗透测试技术详解
+#Kali渗透测试技术实战 = Hacking with Kail : practical penetration testing techniques
+#自控力 : 斯坦福大学最受欢迎心理学课程 = The Willpower instinct
+#Kali Linux渗透测试的艺术 = Kali Linux: assuring security by penetration testing
+#女人的能量魔法书
+*深入理解计算机网络 = Understanding computer networks
+*Java Web开发入门很简单
+*算法与数据结构习题精解与实验指导
+*解忧杂货店
+*Linux常用命令手册
+*黑客防线 : 2012合订本
+*程序设计方法及在线实践指导 : 学习指导与习题解析
+*离散数学及应用
+*程序员的思维修炼开发认知潜能的九堂课 = Pragmatic thinking and learning refactor your wetware
+*黑客札记 , 网络安全手册

@@ -1,0 +1,14 @@
+#LTE 基础原理与关键技术
+#移动通信原理、技术与系统
+#移动通信 = Mobile wireless communications
+#移动通信原理
+*移动通信基础
+*C++ 程序设计
+*C++ 程序设计习题集和实验指导
+*LTE无线网络规划与设计 = LTE wireless network planning & design
+*拖延心理学 = Procrastination : why you do it, what to do about it now
+*MIMO 无线通信原理及应用
+*大话无线通信
+*Python 学习手册
+*NS-2 网络模拟基础与应用
+*YES!产品经理 = Product manager . 1

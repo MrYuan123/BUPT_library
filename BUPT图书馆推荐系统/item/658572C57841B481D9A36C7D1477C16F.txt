@@ -1,0 +1,11 @@
+#MATLAB 编程与最优化设计应用
+*ZigBee技术开发 : Z-Stack协议栈原理及应用
+*ZigBee原理、实践及综合应用
+*Unity 3D游戏开发技术详解与典型案例
+*Lua游戏开发实践指南 = Game development with lua
+*ZigBee技术原理与实战
+*ZigBee 技术及应用
+*网络流优化高效智能算法及其应用
+*彼得·潘 = Peter Pan
+*图论导引 = Introduction to graph theory
+*MATLAB概率与数理统计分析

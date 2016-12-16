@@ -1,0 +1,27 @@
+#谁主沉浮 : 移动互联网+新浪潮
+#倒立者思维 : 马云的互联网创新
+#移动时代 : 我们如何生存
+#Arduino开发实战指南 , 智能家居卷
+#你早该这么玩微信 : 深度分析微信营销的100个案例
+#联网力 = Link is power : 传统行业互联网化转型的原动力
+#支付宝运营 : 从微商到支商
+#从零开始做运营
+#微博控 控微博
+#将来的你，一定会感谢现在拼命的自己
+#读懂移动互联网时代
+#智能爆炸 : 开启智人新时代 = Omniscient intelligence : new era of smart being
+#Arduino奇妙之旅 : 智能车趣味制作天龙八步 = Arduino adventures escape from gemini station
+#风云再起 : 中国互联网20年
+#一本书读懂24种互联网思维
+#开源硬件DIY : 创客实践指南 = Building open source hardware : DIY manufacturing for hackers and makers
+#完美图解Arduino互动设计入门
+*企业电子商务管理
+*蝶变 : 解密社会化时代的产业变革与重构逻辑
+*Arduino开发实战指南 : 机器人卷
+*Arduino技术内幕 = Arduino internals
+*纠错编码原理及MATLAB实现
+*Turbo 码原理与应用技术
+*信息简史 = The Information : a history, a theory, a flood
+*工业4.0实践手册
+*电子设计自动化 (EDA) 课程设计与项目实例
+*游戏 : 未来的艺术 艺术的未来

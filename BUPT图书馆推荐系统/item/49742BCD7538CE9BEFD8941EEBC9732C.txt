@@ -1,0 +1,16 @@
+#小波变换与图像处理
+#小波变换与图像、图形处理技术
+#特征提取与图像处理 = Feature extraction and image processing
+#中国哲学简史
+#计算机视觉教程 = A Course of computer vision
+#深入浅出数字信号处理
+*Python计算机视觉编程 = Programming computer vision with Python
+*模式识别 = Pattern recognition
+*Python编程实践 = Practical programming : an introduction to computer science using python
+*数字信号处理 : 基于计算机的方法 = Digital signal processing : A Computer-based approach
+*疯狂Java讲义精粹
+*Java 项目开发实例自学手册
+*Java 课程设计案例精编
+*通信原理
+*光子学 = Photonics : 现代通信光电子学optical electronics in modern communications
+*数字信号处理 = Digital signal processing : 原理、算法与应用principles, algorithms, and applications

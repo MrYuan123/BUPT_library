@@ -1,0 +1,12 @@
+#高等数学 . 上册
+#数学分析 . 上
+*高等数学 . 下册
+*Python程序设计 = An introduction to programming using python
+*机器学习实战 = Machine learning in action
+*西方语言学流派 = Schools of linguistics
+*R语言数据挖掘方法及应用
+*数学分析 . 下
+*Python程序设计基础
+*线性代数
+*概率论与数理统计
+*复变函数

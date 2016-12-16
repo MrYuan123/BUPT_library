@@ -1,0 +1,20 @@
+#社交网站的数据挖掘与分析
+#数据挖掘 : 实用案例分析 = Data mining : practical case analysis
+#社群众筹 = Crowdfunding : 传统众筹模式的升级与重构
+#市场营销学精要 = Essentials of marketing
+#R语言与网站分析 = Web analysis and mining with R
+#敏捷数据科学 = Agile data science
+#服务营销学 = Services marketing
+#R的极客理想 , 工具篇
+#Spark大数据处理技术
+#Python程序设计
+*R语言编程艺术 = The art of R programming : a tour of statistical software design
+*R语言实战 = R in action : data analysis and graphics with R
+*数据挖掘技术应用实例
+*零基础学算法
+*Redis入门指南
+*Python基础教程 = Beginning python : from novice to professional
+*Java 7程序设计入门与提高
+*Hadoop权威指南
+*设计模式之禅 = The Zen of design patterns
+*深入理解计算机系统 = Computer systems : a programmer's perspctive

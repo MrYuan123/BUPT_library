@@ -1,0 +1,11 @@
+#PHP项目开发实战密码
+*2015中国最佳中篇小说
+*PHP开发实例大全 , 基础卷
+*Spring 3.0就这么简单
+*Storm实时数据处理 = Storm real-time processing cookbook
+*Hadoop MapReduce实战手册
+*数据挖掘与R语言 = Data mining with R : learning with case studies
+*Head First 设计模式
+*Hadoop实战手册
+*Spark MLlib机器学习实践
+*NumPy攻略 = NumPy cookbook : Python科学计算与数据分析

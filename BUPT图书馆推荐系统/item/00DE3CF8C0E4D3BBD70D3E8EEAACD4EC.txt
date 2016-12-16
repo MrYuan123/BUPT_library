@@ -1,0 +1,13 @@
+#大秦帝国 . 第一部 . 上卷
+#复变函数
+#离散数学
+*高等数学 . 上册
+*离散数学教程
+*高等数学 . 下册
+*Verilog HDL高级数字设计 = Advanced digital design with the verilog HDL
+*离散数学学习指导
+*数据结构与算法 : C语言版 = Data structures and algorithms in C
+*离散数学基础
+*数字逻辑基础
+*高等数学学习指导
+*概率论与数理统计习题集

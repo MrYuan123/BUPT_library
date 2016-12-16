@@ -1,0 +1,21 @@
+#新概念英语语法详解大全
+#大话软件测试
+#软件测试教程 = Software testing
+#Java简明教程
+#当代自然辩证法教程
+#Java 编程那些事儿
+#软件测试
+#九州志 . 第二季 , 葵花Ⅱ紫之苦寂
+#软件缺陷模式与测试
+#2008 度中国最佳奇幻小说集
+#九州志 . Ⅲ
+*数据结构、算法与应用 : C++语言描述 = Data structures, algorithms, and applications in C++
+*疯狂 XML 讲义
+*认识电影 = Understanding movies
+*Mahout实战 = Mahout in action
+*Mahout算法解析与案例实战 = Mahout in action : algorithm and cases
+*视读人工智能 = Artificial intelligence
+*Mahout实践指南 = Apache mahout cookbook
+*信息推荐系统
+*无源光网络技术
+*接入网技术 = Access network technology

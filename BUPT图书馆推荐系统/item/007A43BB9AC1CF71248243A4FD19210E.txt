@@ -1,0 +1,11 @@
+#线性代数 = Linear algebra with applications
+*电磁场与电磁波 = Field and wave electromagnetics
+*审美的历程
+*C++程序设计
+*光波导理论与技术
+*量子力学基础教程
+*基督山伯爵 = Le comte de Monte-Cristo . 上
+*Python编程入门经典
+*黑客攻击与防范实战从入门到精通
+*算法设计与分析
+*数值分析及其 MATLAB 实验

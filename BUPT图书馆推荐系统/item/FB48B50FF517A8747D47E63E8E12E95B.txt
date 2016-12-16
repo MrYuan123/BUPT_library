@@ -1,0 +1,16 @@
+#可信链度量与测评
+#中国散文排行榜 : 2011
+#可信计算技术原理与应用
+#可信计算平台 = Trusted computing platform : 设计与应用design and applications
+#可信计算理论与实践─TCTP’2009 : 第一届中国可信计算理论与实践学术会议论文集
+#余光中散文精选
+*微分流形与李群基础
+*Visual Studio 2010并行编程从入门到精通
+*演讲师的PPT
+*CUDA并行程序设计 : GPU编程指南 = CUDA programming : a developer's guide to parallel computing with GPUs
+*蚁群算法原理及其应用 = Ant coloby algorithms : theory and applications
+*随机过程 . Ⅰ = Random process . Ⅰ
+*蚁群优化 = Ant conlony optimization
+*中国书院史
+*GPU 精粹 : 实时图形编程的技术、技巧和技艺
+*微分拓扑 = Differential topology

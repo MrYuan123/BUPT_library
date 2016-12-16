@@ -1,0 +1,20 @@
+#你必须知道的 261 个 Java 语言问题
+#Java EE 7权威指南 . 卷2 = The Java EE 7 Tutorial . Volume 2
+#基于 Java EE 的电子商务网站建设
+#Core JavaTM.v.1,Fundamentals = Java 2核心技术.卷I,基础知识 /Java 2核心技术
+#Java核心技术 . 卷II , 高级特性 = Core Java . Volume II : advanced features
+#Java 程序员面试宝典
+#Spring实战 = Spring in action
+#疯狂Java讲义
+#Spring 3.0就这么简单
+#疯狂Java : 突破程序员基本功的16课
+*轻松学Java
+*深入分析Java Web技术内幕
+*Java 7并发编程实战手册 = Java 7 concurrency cookbook
+*Head First Java (中文版)
+*算法导论 = Introduction to algorithms
+*Java 轻松入门
+*C# 与 .NET 程序员面试宝典
+*C#初学者指南 = C# : a beginner's tutorial
+*Java深入解析 : 透析Java本质的36个话题
+*疯狂 Java : 突破程序员基本功的16课

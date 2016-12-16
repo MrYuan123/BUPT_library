@@ -1,0 +1,21 @@
+#C++面向对象程序设计
+#应用随机过程 : 概率模型导论 = Introduction to probability models
+#TOEFL词汇词根+联想记忆法
+#信息论基础
+#LTE及LTE-Advanced无线协议
+#3GPP LTE物理层和空中接口技术
+#你好，抑郁
+#宏观经济学 : 中国版 = Macroeconomics : China version
+#LTE系统原理及应用
+#Python Web开发学习实录
+#VOA慢速英语随身听 , 听力词汇双突破
+*大话核心网
+*LTE协议栈与信令分析 = LTE protocol stack and signaling analysis
+*4G移动通信技术权威指南 : LTE与LTE-Advanced = 4G LTE/LTE-Advanced for mobile broadband
+*Web前端开发技术 : HTML、CSS、JavaScript
+*疯狂Java讲义
+*MATLAB基础教程
+*移动通信原理 = Principles of mobile communication
+*LTE/LTE-Advanced-UMTS长期演进理论与实践 = LTE-LTE UMTS long term evolution : from theory to practice
+*现代极限理论及其在随机结构中的应用
+*C++ 程序设计

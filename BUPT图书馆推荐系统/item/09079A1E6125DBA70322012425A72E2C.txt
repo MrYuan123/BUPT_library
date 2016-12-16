@@ -1,0 +1,12 @@
+#R语言与网站分析 = Web analysis and mining with R
+#数据挖掘技术应用实例
+*数据挖掘原理与算法
+*数据挖掘原理、算法与应用
+*动态数据挖掘
+*数据挖掘原理与实践
+*Excel 2010数据处理与分析实战技巧精粹
+*Python 学习手册
+*数据库技术与应用系统开发 : SQL Server 2005+C#
+*统计学 = Statistics
+*R语言轻松入门与提高
+*广告统计基础 = Basis of advertising statistics

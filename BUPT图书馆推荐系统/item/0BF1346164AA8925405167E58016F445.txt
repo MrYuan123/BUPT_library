@@ -1,0 +1,14 @@
+#数字图像处理高级应用 : 基于MATLAB与CUDA的实现 = Advanced digital image processing application based on MATLAB and CUDA
+#MATLAB 函数速查手册
+#图像超分辨率技术原理及应用
+#基于学习的图像增强技术 = Learning based image enhancement
+*2016考研数学 (一) 典型题660
+*机器学习理论与算法
+*视觉机器学习20讲
+*MATLAB 仿真及电子信息应用 = Electronical information application using MATLAB
+*C语言程序设计与项目实践
+*鸟哥的 Linux 私房菜 , 基础学习篇
+*MATLAB仿真在现代通信中的应用
+*数字调制解调技术的MATLAB和FPGA实现
+*MATLAB 通信仿真与应用
+*MATLAB基础与应用

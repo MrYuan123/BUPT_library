@@ -1,0 +1,11 @@
+#应用密码学
+*数字签名理论
+*考研数学概论论与数理统计基础教材
+*高等数学习题详解
+*混沌保密通信原理与技术 = Principle and technology of chaotic secure communication
+*合成孔径雷达图像理解 = Understanding synthetic aperture radar images
+*小波与傅里叶分析基础 = A First course in wavelets with fourier analysis
+*压缩感知雷达成像
+*MATLAB 数字信号处理与应用
+*全国硕士研究生入学统一考试线性代数辅导讲义 : 2014
+*信号与系统

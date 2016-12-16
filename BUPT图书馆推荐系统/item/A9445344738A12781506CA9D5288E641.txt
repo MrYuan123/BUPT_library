@@ -1,0 +1,13 @@
+#深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM : advanced features and best practices
+#Java 编程思想 = Thinking in Java
+#Effective Java 中文版 = Effective Java
+*Java并发编程实战 = Java concurrency in practice
+*Java多线程编程核心技术 = Java multi-thread programming
+*计算机网络
+*Head First 设计模式
+*Spring源码深度解析
+*信息论与编码学习辅导及习题详解
+*艾伦·图灵传 : 如谜的解谜者 = Alan Turing the enigma
+*Java程序员面试宝典
+*赤裸裸的统计学 : 除去大数据的枯燥外衣, 呈现真实的数字之美 = Naked statistics : stripping the dread from the data
+*看懂中国经济的第一本书 = Inderstand the economy of China the first book

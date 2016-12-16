@@ -1,0 +1,14 @@
+#大话移动通信网络规划
+#Java程序设计教程
+#李十三推磨
+#JAVA 2 核心技术 = Core Java 2 . 卷Ⅰvolume Ⅰ , 基础知识fundamentals
+*操作系统 = Operating systems
+*现代电子通信
+*Fundamentals of queueing theory /
+*PTN : IP化分组传送
+*宽带网络技术 = Broadband network technology
+*MPLS 和 VPN 体系结构 . 第2卷 = MPLS and VPN architectures . Volume 2
+*移动宽带技术 : LTE = Mobile broadband technology
+*大话移动通信
+*图解TCP/IP
+*编程之美 : 微软技术面试心得

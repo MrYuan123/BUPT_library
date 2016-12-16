@@ -1,0 +1,12 @@
+#UNIX 环境高级编程 = Advanced programming in the UNIX environment
+#UNIX 网络编程 . 卷1 , 套接字联网API = UNIX network programming . volume 1 , The Sockets networking API
+*嵌入式操作系统原理与应用
+*MySQL数据库应用从入门到精通
+*疯狂HTML 5/CSS 3/JavaScript讲义
+*Python 灰帽子 : 黑客与逆向工程师的Python编程之道 = Gray hat python : python programming for hackers and reverse engineers
+*Python游戏编程入门
+*大话设计模式
+*Python入门经典 = The Practice of computing using Python : 以解决计算问题为导向的Python编程实践
+*深入理解 Linux 网络技术内幕
+*LINUX 网络管理员指南
+*C++ 沉思录 = Ruminations on C++

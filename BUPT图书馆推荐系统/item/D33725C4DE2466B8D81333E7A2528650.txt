@@ -1,0 +1,13 @@
+#微机原理与接口技术
+#通信系统 = Communication systems
+#ADS2011射频电路设计与仿真实例
+*电子信息类专业MATLAB实验教程
+*STL源码剖析 = The Annotated STL sources
+*无限的清单
+*C++ Primer (第4版) 习题解答
+*法语语法系统解读 = Grammaire systématique du Francais
+*C++ PRIMER 中文版 = C++ Primer
+*微计算机解题指南与应用软件开发
+*信号与系统
+*Selenium自动化测试指南 = Automated Web testing with selenium
+*ARM9 嵌入式开发实验与实践

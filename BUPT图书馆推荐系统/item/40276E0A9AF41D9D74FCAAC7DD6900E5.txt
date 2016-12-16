@@ -1,0 +1,17 @@
+#Photoshop CS4 中文版完全剖析
+#统计学基础 = Fundamental statistics
+#Linux系统管理与网络管理
+#哲学家在想什么 = What philosophers think?
+#C 语言标准教程
+#C++入门经典
+#最新Office 2016高效办公三合一
+*C++ 程序设计题解与上机指导
+*民国大师的青涩年代
+*Python自然语言处理
+*新常态下的心常态 : 让我们习惯增长的“极限”
+*金粉世家
+*深入浅出Linux工具与编程
+*TCP/IP入门经典
+*会计学 = Horngren's accounting
+*无用之学 = Useless science
+*微型计算机原理与接口技术实验指导

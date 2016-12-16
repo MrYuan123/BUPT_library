@@ -1,0 +1,17 @@
+#了不起的盖茨比 = The great Gatsby : 插图·中文导读英文版
+#Xilinx FPGA 设计基础 : VHDL版
+#爱的艺术 = The art of loving
+#电路原理学习指导与习题集 = Learning guide and exercises for principles of electric circuits
+#控制系统仿真与计算机辅助设计
+#社会契约论 = The social contract
+#Android 应用开发范例大全
+*电路原理试题选编
+*电路原理 = Principles of electric circuits
+*研究生入学考试考点解析与真题详解 , 电路
+*管理心理学
+*经济学原理 , 宏观经济学分册 = Principles of economics
+*Android开发应用从入门到精通
+*Android经典应用程序开发
+*Android 开发应用实战详解
+*Android开发入门与实战
+*微信公众平台开发与案例分析

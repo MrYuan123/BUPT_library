@@ -1,0 +1,14 @@
+#JavaScript DOM 编程艺术 = DOM Scripting : web design with JavaScript and the document object model
+#JavaScript & jQuery交互式Web前端开发
+#Head First jQuery : 中文版
+#jQuery开发从入门到精通
+*设计心理学 = The design of everyday things
+*Scala 编程 = Programming in Scala
+*Java 经典实例
+*Python入门经典 = The Practice of computing using Python : 以解决计算问题为导向的Python编程实践
+*AngularJS权威教程 = The complete book on AngularJS
+*Node.js开发实战详解
+*jQuery网页开发实例精解
+*JavaScript学习指南
+*JavaScript面向对象精要 = The principles of Object-Oriented JavaScript
+*单页Web应用 : JavaScript从前端到后端 = Single page Web applications

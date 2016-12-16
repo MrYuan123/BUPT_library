@@ -1,0 +1,26 @@
+#轻松掌握 Hibernate : J2EE 开发者指南
+#HTML5 & CSS3编程入门经典
+#Java全能速查宝典
+#AngularJS 高级编程
+#Java 数值计算算法编程
+#Java Web 技术整合应用与项目实战 : JSP+Servlet+Struts2+Hibernate+Spring3
+#Eclipse 开发技术详解
+#疯狂 Java : 突破程序员基本功的16课
+#JavaScript权威指南
+#Java 程序员生存手册 = Handbook for Java software engineering interview : 为自己赢得一份IT名企职位
+#Java 语言习题与解析
+#精通HTML+CSS网页布局与样式 : 视频教学版
+#设计模式从入门到精通
+#Java 开发实战 1200 例 . 第1卷
+#深入体验Java Web项目开发
+#像程序员一样思考 = Think like a programmer
+*MATLAB应用大全
+*遗传算法 : 理论、应用与软件实现
+*AngularJS开发秘籍
+*过程挖掘 : 业务过程的发现、合规和改进
+*实用 Java 语言程序设计 : 基于Eclipse
+*面向大数据的高效能垃圾文本分类
+*暮色 = Twilight
+*荷塘月色
+*你必须知道的 261 个 Java 语言问题
+*Android程序设计入门、应用到精通

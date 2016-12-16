@@ -1,0 +1,15 @@
+#MIMO 技术原理及应用
+#光波分复用系统与维护
+#无线光MIMO系统中空时编码理论
+#MIMO系统与空时编码 : 分集的理论与实践 = MIMO system and STC : the theory and practice of diversity
+#下一代宽带无线通信 OFDM 与 MIMO 技术
+*移动通信中的空时信号处理 = Space-time signal processing for mobile communications
+*失控 = Out of control : 全人类的最终命运和结局
+*简约至上 : 交互式设计四策略
+*计算机网络
+*应届生银行求职全攻略
+*数据结构 : C语言版
+*MIMO 无线通信 : 从真实世界的传播到空-时编码的设计 = MIMO wireless communications : from real-world propagation to space-time code design
+*微信公众平台开发基础与实战
+*算法帝国 = Automate this : how algorithms came to rule our world
+*算法之美 : 隐匿在数据结构背后的原理 : C++版

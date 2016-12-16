@@ -1,0 +1,11 @@
+#万历十五年
+*卧底经济学 = The undercover economist
+*学会提问 = Asking the right questions : a guide to critical thinking
+*罗生门 = Rashomon
+*VHDL程序设计教程
+*FLUENT CFD工程仿真实战指南
+*ANSYS ICEM CFD工程实例详解
+*ANSYS ICEM CFD从入门到精通
+*FLUENT 14.5流场分析从入门到精通
+*Fluent 14流场分析自学手册
+*ANSYS 15.0有限元分析从入门到精通

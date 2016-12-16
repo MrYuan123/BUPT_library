@@ -1,0 +1,14 @@
+#LTE 基础原理与关键技术
+#全面详解LTE : MATLAB建模、仿真与实现
+#NS-2 网络模拟基础与应用
+#Python 学习手册
+*胡同里的老北京
+*微波光子学原理与应用
+*移动通信原理
+*MIMO 无线通信原理及应用
+*拖延心理学 = Procrastination : why you do it, what to do about it now
+*Effective C++ : 改善程序与设计的55个具体做法 : 中文版 = Effective C++ : 55 specific ways to improve your programs and designs
+*C++ 编程规范 : 101条规则、准则与最佳实践 = C++ coding standards : 101 rules, guidelines, and best practices
+*3GPP 长期演进 (LTE) 技术原理与系统设计 = 3GPP long term evolution : principle and system design
+*MIMO 技术原理及应用
+*YES!产品经理 = Product manager . 1

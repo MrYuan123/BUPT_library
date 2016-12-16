@@ -1,0 +1,13 @@
+#操作系统概念 : Java实现 = Operating system concepts with JAVA
+#通信原理 (第7版) 学习辅导与考研指导
+#神鞭
+*数据库系统实现 = Database System Implementation
+*编译器构造 : Java语言版
+*网络协议分析 = Network protocol analysis
+*拈花惹草
+*操作系统
+*微机原理与接口技术
+*通信原理 : 精简本
+*Java语言程序设计
+*月亮和六便士 = The moon and sixpence
+*爱与生的苦恼

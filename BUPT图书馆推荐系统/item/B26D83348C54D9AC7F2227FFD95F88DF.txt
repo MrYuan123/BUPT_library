@@ -1,0 +1,14 @@
+#深入浅出Linux工具与编程
+#会计学 = Horngren's accounting
+#C++入门经典
+#TCP/IP入门经典
+*ns-3网络模拟器基础及应用
+*推荐系统实践
+*数据通信与网络 = Data communications and networking
+*现代控制系统 = Modern control systems
+*C++ 程序设计题解与上机指导
+*民国大师的青涩年代
+*Python自然语言处理
+*新常态下的心常态 : 让我们习惯增长的“极限”
+*金粉世家
+*统计学基础 = Fundamental statistics

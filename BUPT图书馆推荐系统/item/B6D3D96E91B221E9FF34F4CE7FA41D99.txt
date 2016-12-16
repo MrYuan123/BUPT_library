@@ -1,0 +1,13 @@
+#浪潮之巅 = On top of tides . 上册
+#从零开始学 C++
+#浪潮之巅 = On top of tides . 下册
+*李敖有话说 . 4
+*大话无线通信
+*未来时速
+*信息规则 : 网络经济的策略指导 = Information rules : a strategic guide to the network economy
+*数字化生存
+*新月集 = The crescent moon : 英汉对照
+*飞鸟集 = Stray birds : 英汉对照
+*商业模式新生代 = Business model generation
+*谷歌和亚马逊如何做产品 = Shipping greatenss : practical lessons on building and launching outstanding software, learned on the job Google and Amazon
+*结网@改变世界的互联网产品经理

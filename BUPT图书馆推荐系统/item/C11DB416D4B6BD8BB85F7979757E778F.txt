@@ -1,0 +1,23 @@
+#数据分析 : 企业的贤内助 = Data analysis : the smart assistant for enterprise
+#MATLAB优化算法案例分析与应用 , 进阶篇
+#剑指Offer : 名企面试官精讲典型编程题
+#电商逆袭 , 旺铺产品推广设计
+#数码摄影后期密码Photoshop CS6旅游风光
+#演讲口才艺术八讲
+#MATLAB R2013a工具箱手册大全
+#数码摄影后期密码Photoshop CS6人像精修
+#数码摄影后期密码Photoshop CS6调色秘籍
+#领导者的质量思维
+#色铅笔的手绘创意宝典
+#C 语言入门经典
+#世界速记冠军的快速记忆技巧 = Developed a prodigious mind
+*Matlab函数和实例速查手册
+*MATLAB基础与实践教程
+*激光原理及应用
+*迷人的科学风采 : 费恩曼传
+*鸟哥的 Linux 私房菜 , 基础学习篇
+*光纤光栅原理及应用
+*杨振宁文录 = Chen Ning Yang's collection : 一位科学大师看人与这个世界
+*Turbo 与 LDPC 编解码及其应用
+*线性代数实验 : MATLAB 版
+*工程数学 : 线性代数与概率统计

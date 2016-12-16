@@ -1,0 +1,11 @@
+#数学物理方法
+*数学物理方法简明教程
+*光学
+*近代物理实验
+*电子战接收机与接收系统 = Electronic warfare receivers and receiving systems
+*数字信号处理 : 系统分析与设计 = Digital signal processing : system analysis and design
+*MATLAB 小波分析
+*复分析导引
+*矩阵论辅导讲案
+*MATLAB 程序设计与应用
+*泛函分析基础

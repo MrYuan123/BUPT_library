@@ -1,0 +1,16 @@
+#合同法学
+#尤利西斯的自缚
+#索罗斯传 = Soros : the world's most influential investor
+#腓力二世的大战略
+#罪与罚 = Преступление и наказание
+#经济法 = Economic law
+*线性代数复习指导 : 思路、方法与技巧
+*MySQL入门经典
+*Scala 编程 = Programming in Scala
+*Java 基础与案例开发详解
+*Spark原理、机制及应用
+*2012考研英语真题同源阅读80篇
+*宏观经济学 = Macroeconomics
+*思考, 快与慢 = Thinking, fast and slow
+*动荡的世界 : 风险、人性与未来的前景 = The map and the territory : risk, human nature, and the future of forecasting
+*中国高端访问 . 柒 , 关注和谐中国的15双眼

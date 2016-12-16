@@ -1,0 +1,14 @@
+#通信网络基础
+#无线通信与移动通信技术
+#数字通信原理 = Principles of digital communication
+#计算机通信与网络教程
+*系统工程引论 = Introduction of systems engineering
+*光纤通信 = Fiber optic communications
+*奇点临近 = The singularity is near when humans transcend biology
+*MATLAB R2012a超级学习手册
+*MATLAB 2008 全程指南
+*通信原理及MATLAB/Simulink仿真 = Principles and MATLAB/Simulink simulations of communications
+*机器学习及其应用2011
+*MATLAB 电子仿真与应用教程
+*矩阵分析学习指导
+*概率论与随机过程

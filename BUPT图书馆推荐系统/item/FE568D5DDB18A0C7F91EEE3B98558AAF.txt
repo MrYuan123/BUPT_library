@@ -1,0 +1,17 @@
+#生气不如争气全集
+#LATEX　入门与提高
+#ubuntu 官方指南 = The official ubuntu book
+#道教十讲
+#沟通的艺术 : 看入人里看出人外 = Looking out /looking in
+#网络安全编程技术与实例
+#网络安全管理实践
+*非暴力沟通 = Nonviolent communication
+*疯狂Android讲义
+*Ubuntu Linux 从初学到精通
+*鸟哥的Linux私房菜 , 服务器架设篇
+*批判性思维 : 带你走出思维的误区 = Critical thinking
+*谈话的力量=Conversationally speaking
+*统计学 : 在经济和管理中的应用 = Managerial statistics
+*金字塔原理 : 思考、表达和解决问题的逻辑 = The minto pyramid principle : logic in writing, thinking and problem solving
+*HFSS 原理与工程应用
+*大话数据结构 = Play with data structure

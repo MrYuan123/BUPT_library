@@ -1,0 +1,13 @@
+#软件测试基础教程 = Foundations of software testing
+#软件测试 = Software testing
+#程序员面试逻辑题解析 = Puzzles for programmers and pros
+*剑指Offer : 名企面试官精讲典型编程题
+*MySQL教程
+*JavaScript专家编程
+*Node与Express开发 = Web development with node and express leveraging the JavaScript stack
+*了不起的Node.js : 将JavaScript进行到底 = Smashing Node. js : JavaScript everywhere
+*算法 = Algorithms
+*全分布式光纤传感技术
+*多水平模型及其在经济领域中的应用
+*统计模拟 = Simulation
+*统计诊断 = Statistical diagnostics

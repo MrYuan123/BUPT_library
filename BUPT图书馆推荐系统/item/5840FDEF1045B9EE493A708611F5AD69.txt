@@ -1,0 +1,13 @@
+#数据结构与算法
+#机器学习导论 = Introduction to machine learning
+#机器学习实战 = Machine learning in action
+*计算机视觉 : 算法与应用
+*Android开发入门与实战
+*算法导论 = Introduction to algorithms
+*信息安全实验与实践教程
+*跟我学数据结构
+*Java 语言实用教程
+*Java 编程思想 = Thinking in Java
+*Python Cookbook (第3版) 中文版
+*疯狂Android讲义
+*数据挖掘十大算法

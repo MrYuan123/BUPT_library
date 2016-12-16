@@ -1,0 +1,13 @@
+#ATmega 128/2560 系列单片机原理与高级应用
+#JavaScript从入门到精通
+#ATmega128 单片机原理与开发指导
+*HTML 5和CSS 3从基础到应用
+*微波射频测量技术基础
+*超越金融 : 索罗斯的哲学 = The soros lectures
+*HTML 5 Canvas游戏开发实战 = HTML 5 Canvas development by example
+*文本挖掘原理
+*即用即查 HTML+CSS 标签参考手册
+*jQuery高级编程
+*jQuery 攻略 = jQuery recipes a problem-solution approach
+*JavaScript Web开发技术
+*数据挖掘教程

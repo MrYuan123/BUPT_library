@@ -1,0 +1,15 @@
+#最优化方法及其 Matlab 程序设计
+#3GPP 长期演进 (LTE) 系统架构与技术规范 = 3GPP long term evolution : architecture and specification
+#Effective C++ : 改善程序与设计的55个具体做法 : 中文版 = Effective C++ : 55 specific ways to improve your programs and designs
+#无线通信基础 = Fundamentals of wireless communication
+#空时无线通信导论
+*3GPP 长期演进 (LTE) 技术原理与系统设计 = 3GPP long term evolution : principle and system design
+*最新托福词汇科学快捷记忆手册
+*矩阵分析
+*读故事记单词托福必备短语
+*矩阵分析学习指导
+*MIMO-OFDM无线通信技术及MATLAB实现 = MIMO-OFDM wireless communications with MATLAB
+*大话移动通信
+*神经网络与机器学习 = Neural networks and learning machines
+*无线通信 = Wireless communications
+*OpenGL超级宝典 = OpenGL superBible

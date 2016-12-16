@@ -1,0 +1,15 @@
+#高等机构学
+#Python入门经典 = The Practice of computing using Python : 以解决计算问题为导向的Python编程实践
+#机器学习 : 实用案例解析
+#现代机构学进展 . 第1卷
+#Python程序设计基础
+*Python 3面向对象编程 = Python 3 object oriented programming
+*神经网络与机器学习 = Neural networks and learning machines
+*机器人机构学的数学基础
+*机构动态仿真 : 使用MATLAB和SIMULINK = Simulations of machines : Using MATLAB and SIMULINK
+*Mathematica 7 实用教程 = Step up to mathematica 7
+*Mathematica基础与应用
+*机器学习理论、方法及应用
+*团队之美
+*深度解析SDN : 利益、战略、技术、实践
+*Java 面向对象程序设计

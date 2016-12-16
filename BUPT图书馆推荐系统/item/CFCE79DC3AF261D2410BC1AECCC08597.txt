@@ -1,0 +1,15 @@
+#过程神经元网络
+#MATLAB神经网络超级学习手册
+#MATLAB神经网络43个案例分析
+#人工神经网络基础
+#混合神经网络技术
+*精通 MATLAB 神经网络
+*遗传算法 : 理论、应用与软件实现
+*模糊数学方法及其应用
+*精通MATLAB智能算法 = Proficient in MATLAB intelligent algorithm
+*模糊数学及其应用
+*模糊数学基础及应用
+*MATLAB 神经网络应用设计
+*财务报表分析 = Financial statement Analysis
+*财务管理 : 基于实践的方法 = Financial management : a practical approach
+*大空头 = The big short

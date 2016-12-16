@@ -1,0 +1,18 @@
+#Altera系列FPGA芯片IP核详解
+#Verilog编程艺术
+#易学Python
+#Eclipse 从入门到精通
+#FPGA数字信号处理与工程应用实践 = The engineering application and digital signal processing of FPGA
+#基于Nios II的嵌入式SoPC系统设计与Verilog开发实例 = Embedded SoPC design with Nios II processor and Verilog examples
+#数字通信基础 = Fundamentals of digital communication
+#深入理解Altera FPGA应用设计
+*Python编程实践 = Practical programming : an introduction to computer science using python
+*详解MATLAB/Simulink通信系统建模与仿真 : 配视频教程
+*现代信息融合技术在组合导航中的应用
+*Android从入门到精通
+*物联网感知技术与应用 : 智能全景视频感知 . 上
+*从零开始学 CPLD 和 Verilog HDL 编程技术
+*惯性导航基础
+*从零开始学 Java Web 开发
+*研磨设计模式
+*LabVIEW实用工具详解

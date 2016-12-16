@@ -1,0 +1,12 @@
+#数据挖掘导论 = Introduction to data mining
+#数据挖掘 = Data mining : 实用机器学习技术practical machine learning tools and techniques
+*数据挖掘技术 : 市场营销、销售与客户关系管理领域应用 = Data mining techniques : for marketing, sales and customer relationship management
+*数据之美
+*Java核心技术 . 卷1 , 基础知识 = Core Java . Volume I , Fundamentals
+*网站数据挖掘与分析 : 系统方法与商业实践 = Web data mining and analysis : systematic approach and business practice
+*数据挖掘 : 概念与技术
+*浪潮之巅 = On top of tides . 下册
+*代码整洁之道
+*New Internet : 大数据挖掘
+*编程珠玑 . 续 = More programming pearls
+*数据挖掘 = Data mining : 概念与技术concepts and techniques

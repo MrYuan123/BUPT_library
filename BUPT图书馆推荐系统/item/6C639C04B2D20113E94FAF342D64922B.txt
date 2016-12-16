@@ -1,0 +1,13 @@
+#雷达数据处理及应用 = Radar data processing with applications
+#数据结构与经典算法
+#多传感器多源信息融合理论及应用
+*Visual C++ 项目开发案例精粹
+*C++程序设计经典300例
+*C++编程实战宝典
+*C++基础与案例开发详解
+*了不起的盖茨比 = The great Gasby
+*数据结构教程 : C++语言描述
+*算法之美 : 隐匿在数据结构背后的原理 : C++版
+*C++开发实战
+*老人与海 = The old man and the sea
+*干校六记

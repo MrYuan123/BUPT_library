@@ -1,0 +1,13 @@
+#大话移动通信
+#无线通信与网络 = Wireless communications and networks
+#LTE : UMTS长期演进理论与实践 = LTE-the UMTS long term evolution from theory to practice
+*LTE教程 : 原理与实现
+*PPT, 要你好看
+*LTE系统原理及应用
+*移动通信原理与系统
+*C语言程序设计
+*LTE FDD技术原理与网络规划 = LTE FOD technology principle and Network planning
+*Java典型模块与项目实战大全
+*Qt 5开发及实例
+*计算机网络
+*M2M通信

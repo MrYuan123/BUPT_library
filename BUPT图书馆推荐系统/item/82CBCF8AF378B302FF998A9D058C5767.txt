@@ -1,0 +1,12 @@
+#大数据挖掘 = Using big data to build your business : 系统方法与实例分析
+#R语言核心技术手册 = R in a nutshell
+*大嘴巴漫谈数据挖掘
+*分布式计算
+*Python程序设计教程
+*无线传感器网络
+*R语言初学者指南 = A Beginner's guide to R
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

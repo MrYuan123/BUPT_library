@@ -1,0 +1,16 @@
+#2017张剑考研英语阅读理解精练100篇
+#2016肖秀荣考研政治命题人讲真题 . 下册 , 命题人详解近10年真题
+#数学考研历年真题分类解析 , 数学一 : 考点分析·应试技巧·解题训练 : 2015版
+#2016年计算机网络联考复习指导 = Review guide of computer networks entrance exam
+#2013年计算机专业基础综合考试名校真题精析
+#历年考研英语真题名家详解
+*2017年考研英语阅读200篇
+*jQuery权威指南 = jQuery : the definitive guide
+*jQuery实战 = jQuery in action
+*JavaScript权威指南 : ECMAScript5+HTML5DOM+HTML5BOM
+*国家公务员录用考试快速突破教材 : 2016版
+*2014版数据结构高分笔记之习题精析扩展
+*数据库原理与实践
+*J2EE企业项目实战 : Struts 2+Hibernate+Spring
+*日志管理与分析权威指南 = Logging and log management : the authoritative guide to understanding the concepts surrounding logging and log management
+*精通 SNMP

@@ -1,0 +1,11 @@
+#R语言 : 实用数据分析和可视化技术 = R for everyone : advanced analytics and graphics
+*基于角色的访问控制技术
+*访问控制原理与实践
+*UNIX网络编程 . 卷2 , 进程间通信
+*访问控制概论
+*访问控制与加密
+*UNIX 网络编程 . 卷1 , 套接字联网API = UNIX network programming . volume 1 , The Sockets networking API
+*程序设计语言 = Programming language pragmatics : 实践之路
+*编译器设计 = Engineering a compiler
+*深入理解计算机系统 = Computer systems : a programmer's perspctive
+*高级编译器设计与实现 = Advanced compiler design and implementation

@@ -1,0 +1,18 @@
+#MapReduce设计模式
+#机器学习基础教程 = A First course in machine learning
+#数据挖掘 = Data mining : 实用机器学习技术practical machine learning tools and techniques
+#Spark快速数据处理 = Fast data processing with Spark
+#正则表达式必知必会 = Sams teach yourself regular expressions in 10 minutes
+#NumPy攻略 = NumPy cookbook : Python科学计算与数据分析
+#数据挖掘基础教程 = Insight into data mining : theory and practice
+#Python数据分析基础教程 : NumPy学习指南 = NumPy beginner's guide
+*机器学习实战 = Machine learning in action
+*Python语言程序设计 = Introduction to programming using Python
+*Python语言程序设计
+*社会计算 : 社区发现和社会媒体挖掘 = Community detection and mining in social media
+*统计学完全教程
+*模式识别导论
+*Web数据挖掘
+*R语言 : 迈向大数据之路
+*零基础学算法
+*数据挖掘 : 实用案例分析 = Data mining : practical case analysis

@@ -1,0 +1,13 @@
+#版本控制之道 : 使用Git = Pragmatic version control using Git
+#实用西班牙语 = Espanol practico : 2008奥运版juegos Olimpicos 2008
+#Android物联网开发从入门到实战
+*Android外设开发实战
+*Python基础教程 = Beginning python : from novice to professional
+*The art of public speaking =演讲的艺术 /演讲的艺术
+*Android系统安全和反编译实战
+*沉默的大多数 : 彩绘插图本
+*深入理解 Android . 卷III = Undwestanding android internals . Voiume III
+*React : 引领未来的用户界面开发框架 = Developing a React edge : the javascript library for user interfaces
+*Harry Potter and the sorcerer's stone 
+*排队论 : 基础与分析技术
+*深入理解Android , Wi-Fi、NFC和GPS卷 = Understanding android internals , Wi-Fi, NFC and GPS

@@ -1,0 +1,17 @@
+#中国移动通信营销案例精选
+#战略单品 : 打造单品, 抢占心智, 持续赢利
+#吕廷杰视线 : 高谈阔论 电信产业
+#世界 500 强面试成功指南
+#MATLAB 从入门到精通
+#精通MATLAB最优化计算
+#无领导小组讨论 = Leaderless group discussion
+*配送车辆优化调度模型与算法
+*遗传算法 : 理论、应用与软件实现
+*Photoshop CS4 从入门到精通
+*大数据 = The big data revolution : 正在到来的数据革命, 以及它如何改变政府、商业与我们的生活
+*博弈论的诡计全集 : 日常生活中的博弈策略
+*The vehicle routing problem =车辆路径问题 /车辆路径问题
+*组合最优化 : 理论与算法
+*图论 = Graph theory
+*图论与网络流理论 = Graph theory and network flow theory
+*城市物流 : 网络建模与智能交通系统 = City logistics : network modelling and intelligent transport systems

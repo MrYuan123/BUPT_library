@@ -1,0 +1,12 @@
+#Spring实战 = Spring in action
+#大话设计模式
+*飞秒激光技术
+*Java EE开发的颠覆者 : Spring Boot实战
+*Java并发编程的艺术 = The art of Java concurrency programming
+*ns-3网络模拟器基础及应用
+*图像识别与项目实践 : VC++、MATLAB技术实现
+*JUnit实战 = JUnit in action
+*MySQL 5 权威指南 = The definitive guide to MySQL 5
+*摸金校尉之九幽将军
+*TED演讲的8个秘诀 : 学习18分钟高效表达
+*人性的弱点 : 名著双语读物·中文导读+英文原版 = How to win friends and influence people

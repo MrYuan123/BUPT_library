@@ -1,0 +1,15 @@
+#电磁场与波 : 电磁材料及MATLAB计算 = Electromagnetic waves, materials, and computation with MATLAB
+#微波工程 = Microwave engineering
+#天线理论与设计 = Antenna theory and design
+#CST天线仿真与工程设计
+#天线 = Antennas :  for all applications . 上册
+*天线 = Antennas :  for all applications . 下册
+*HFSS天线设计
+*瓦尔登湖 = Walden
+*社会心理学 = Social psychology
+*通信原理习题集
+*C++ Primer Plus(第五版) 中文版
+*数据库系统原理及应用
+*射频电路工程设计 = RF circuit design
+*ADS2008 射频电路设计与仿真实例
+*微波与射频技术实验教程

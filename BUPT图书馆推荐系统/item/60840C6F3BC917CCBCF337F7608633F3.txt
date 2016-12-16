@@ -1,0 +1,13 @@
+#软件工程
+#反直觉思考 : 斯坦福大学思维自修课 = Think twice : harnessing the power of counterintuition
+#Java典型模块与项目实战大全
+*LTE : UMTS长期演进理论与实践 = LTE-the UMTS long term evolution from theory to practice
+*Qt 5开发及实例
+*软件测试技术、方法和环境
+*需求分析与系统设计 = Requirements analysis and system design
+*MySQL技术精粹 : 架构、高级特性、性能优化与集群实战
+*数据结构 : 基于C++模板类的实现
+*大数据 : 技术与应用实践指南 = Big data : technology and application practice
+*认知无线网络
+*MySQL 完全手册 = MySQL: the complete reference
+*认知无线电原理及应用

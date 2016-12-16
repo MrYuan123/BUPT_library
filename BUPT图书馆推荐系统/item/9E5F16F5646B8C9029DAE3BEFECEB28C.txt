@@ -1,0 +1,13 @@
+#你以为你以为的就是你以为的吗? . 2 , 大论战中常见的思维陷阱 = The duck that won the lottery and 99 other bad arguments . II
+#你以为你以为的就是你以为的吗? : 12道检测思考清晰度的逻辑谜题 = Do you think what you think you think?
+#人生不过如此
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

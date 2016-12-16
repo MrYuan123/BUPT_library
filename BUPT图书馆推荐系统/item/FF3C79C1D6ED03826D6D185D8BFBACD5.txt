@@ -1,0 +1,12 @@
+#Java编程实战宝典
+#英语口语语料库 , 点滴生活
+*弱信号全球导航卫星系统接收机 = GNSS receivers for weak signals
+*无线电导航原理与信号接收技术
+*卫星导航软件接收机原理与设计
+*算法导论 = Introduction to algorithms
+*卫星导航常用知识问答
+*疯狂Java讲义
+*疯外套的科学日记
+*卫星导航定位工程 = The Engineering of satellite navigation and positioning
+*计算机网络
+*线性代数

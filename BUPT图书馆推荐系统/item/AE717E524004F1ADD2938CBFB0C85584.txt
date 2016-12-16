@@ -1,0 +1,12 @@
+#C++ 程序设计
+#Photoshop CS6白金手册
+*基于Visual C++的MFC编程
+*数据库基础教程 (Access 2010版) 上机实验指导
+*C++ 程序设计实训
+*数据库基础教程 : Access 2010版
+*丰子恺插图艺术选
+*C++入门经典
+*Photoshop CS6中文版从入门到精通 , 核心技法卷 : 抠图、修图、Camera Raw、调色、锐化、合成
+*完全掌握Flash CS6白金手册
+*21天学通C++
+*中文版Photoshop CS6白金手册

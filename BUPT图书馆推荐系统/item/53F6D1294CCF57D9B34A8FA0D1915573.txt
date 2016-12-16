@@ -1,0 +1,12 @@
+#即用即查 HTML+CSS 标签参考手册
+#即用即查 JavaScript 核心对象参考手册
+*精通JavaScript开发 = Pro JavaScript development : coding, capabilities, and tooling
+*HTML 5与JavaScript程序设计
+*jQuery从菜鸟到忍者
+*超越金融 : 索罗斯的哲学 = The soros lectures
+*HTML 5 Canvas游戏开发实战 = HTML 5 Canvas development by example
+*文本挖掘原理
+*JavaScript Web开发技术
+*jQuery高级编程
+*jQuery 攻略 = jQuery recipes a problem-solution approach
+*JavaScript从入门到精通

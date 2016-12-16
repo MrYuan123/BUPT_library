@@ -1,0 +1,11 @@
+#Simulink与信号处理
+*MATLAB通信系统建模与仿真 = Modeling and simulation of MATLAB communication system
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学

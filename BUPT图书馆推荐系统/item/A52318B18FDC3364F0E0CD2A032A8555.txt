@@ -1,0 +1,14 @@
+#创业无畏 : 指数级成长路线图 = How to go big, create wealth and impact the world
+#我的情绪为何总被他人左右 = How to keep people from pushing your buttons
+#再见, 平庸时代 = Average is over : 在未来经济中赢得好位子
+#光影成歌 : 英伦365摄影日记
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

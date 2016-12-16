@@ -1,0 +1,19 @@
+#jQuery Mobile移动网站开发
+#MySQL数据库应用从入门到精通
+#HTML5 & CSS3 & Javascript App程序开发实战
+#HTML5+CSS3精致范例辞典 = Deluxe web designers handbook
+#PHP Web开发学习实录
+#jQuery 即学即用
+#21 天学通 Linux C 编程
+#21天学通JavaScript
+#HTML 5从入门到精通
+*Linux从新手到高手
+*零基础学HTML + CSS : 11.5小时多媒体教学视频
+*Qt4 图形设计与嵌入式开发
+*零基础学PHP
+*精通HTML 5+CSS 3 : 100%网页设计与布局密码
+*jQuery从零开始学
+*JavaScript+jQuery网页特效设计实例教程 = Web design special effects by JavaScript+jQuery
+*微信公众平台开发与案例分析
+*贯通 Tomcat 开发 : Java Web 开发配置、整合、应用开发详解
+*微信公众平台应用开发实战

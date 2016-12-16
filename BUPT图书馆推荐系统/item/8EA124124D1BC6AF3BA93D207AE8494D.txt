@@ -1,0 +1,12 @@
+#朗读者 = Der vorleser
+#色 = Pornografia
+*南京安魂曲
+*贝叶斯网络在智能信息处理中的应用 = Applications of Bayesian network in intelligent information processing
+*数据挖掘与R语言 = Data mining with R : learning with case studies
+*产业经济学教程与案例 = Industrial economics text and cases
+*万物既伟大又渺小 = All creatures great and small
+*源氏物语图典
+*动物农庄 = Animal farm
+*计算机网络
+*线性代数
+*高等数学 . 上册

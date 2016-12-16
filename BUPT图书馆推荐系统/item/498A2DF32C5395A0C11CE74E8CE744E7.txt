@@ -1,0 +1,18 @@
+#雷达系统导论 = Introduction to radar systems
+#极化合成孔径雷达基础理论及其应用 = Polarimetric synthetic apperture radar basic principles and its applications
+#Python 参考手册 = Python essential reference
+#逆合成孔径雷达理论与对抗
+#精通MATLAB R2011a
+#合成孔径雷达图像处理 = Processing of synthetic aperture radar images
+#雷达系统设计 MATLAB 仿真 = MATLAB simulations for radar systems design
+#合成孔径雷达 : 系统与信号处理 = Synthetic aperture radar : systems and signal processing
+*穿墙雷达成像 = Through-the-wall radar imaging
+*Google软件测试之道 : 像Google一样进行软件测试
+*Python入门经典
+*算法之美 : 隐匿在数据结构背后的原理 : C++版
+*数据结构及应用算法教程
+*矩阵理论及其应用
+*矩阵的半张量积 : 理论与应用
+*高等数学习题详解
+*混沌保密通信原理与技术 = Principle and technology of chaotic secure communication
+*全国硕士研究生入学统一考试线性代数辅导讲义 : 2014

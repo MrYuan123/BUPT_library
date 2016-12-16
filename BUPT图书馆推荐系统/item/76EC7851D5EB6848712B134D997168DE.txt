@@ -1,0 +1,20 @@
+#大数据云图 : 如何在大数据时代寻找下一个大机遇 = Big data demystified
+#实战大数据
+#新版韩国语 . 1
+#OpenCV3编程入门
+#浪潮之巅 = On top of tides . 上册
+#数据库原理及应用 (SQL Server) : 内容解析与习题解答
+#大数据 = Big data
+#大数据分析与数据挖掘
+#OpenCV2计算机视觉编程手册
+#爆发 : 大数据时代预见未来的新思维 = Bursts : the hidden pattern behind everything we do
+*浪潮之巅 = On top of tides . 下册
+*Java Web开发入门很简单
+*Python入门经典
+*Python数据分析基础教程 : NumPy学习指南 = NumPy beginner's guide
+*Python语言程序设计
+*数据挖掘原理与 SPSS Clementine 应用宝典
+*数据挖掘 : 实用案例分析 = Data mining : practical case analysis
+*Redis入门指南
+*Visual C++数字图像模式识别典型案例详解 = Detailed explanation of Visual C++ digital image pattern recognition with typical cases
+*Visual C++数字图像模式识别技术详解 = Visual C++ digital image pattern recognition technology explanation

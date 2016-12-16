@@ -1,0 +1,18 @@
+#Java多线程编程核心技术 = Java multi-thread programming
+#互联网金融知识读本 = Internet finance guide
+#共享经济 : 重构未来商业新模式 = Peers inc : how people and platforms are inventing the collaborative economy and reinventing capitalism
+#程序员面试金典 = Cracking the coding interview : 150 programming questions and solutions
+#OpenStack设计与实现
+#数据之巅 : 大数据革命，历史、现实与未来 = Big data history, reality and future
+#大规模分布式系统架构与设计实战 = Architecture and design of large scale distributed system
+#公务员考霸学习笔记 . 1 , 实战绝技申论答题基本功
+*文明的度量 : 社会发展如何决定国家命运 = The measure of civilization : how social development decides the fate of nations
+*智能制造 : 未来工业模式和业态的颠覆与重构 = Smart production
+*挑战程序设计竞赛
+*保险学
+*云落谁家？ : OpenStack基于场景的架构设计实践
+*大话5G = The myth of 5G
+*统计学习方法
+*轻量级Java EE企业应用实战 : Struts 2+Spring 4+Hibernate整合开发
+*自己动手写网络爬虫
+*Oracle SQL疑难解析 = Oracle SQL recipes : a problem-solution approach

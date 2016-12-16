@@ -1,0 +1,15 @@
+#Visual C++数字图像模式识别技术详解 = Visual C++ digital image pattern recognition technology explanation
+#Visual C++数字图像模式识别典型案例详解 = Detailed explanation of Visual C++ digital image pattern recognition with typical cases
+#前端面试江湖
+#OpenCV2计算机视觉编程手册
+#深入理解OpenCV : 实用计算机视觉项目解析 = Mastering openCV with practical computer vision projects
+*JavaScript模式
+*美语发音秘诀 : 语法 = American accent training : grammar
+*软件项目管理 = Software project management
+*MySQL 必知必会 = MySQL crash course
+*美语发音 13 个秘诀 = American accent training
+*算法导论 = Introduction to algorithms
+*在漫长的旅途中
+*计算机原理
+*Linux入门与实战经典
+*嗨翻C语言

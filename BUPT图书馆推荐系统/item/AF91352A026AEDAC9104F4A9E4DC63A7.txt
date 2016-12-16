@@ -1,0 +1,16 @@
+#C++高级编程
+#Python科学计算
+#Spark核心技术与高级应用 = Spark core technology and advanced applications
+#教育统计学
+#写给大忙人看的C++ = C++ for the impatient
+#MySQL高效编程
+*Java EE设计模式解析与应用
+*Hadoop核心技术 = Core hadoop
+*Spark大数据处理 : 技术、应用与性能优化 = Data processing with spark : technology, application and performance optimization
+*Python 学习手册
+*深入理解Spark : 核心思想与源码分析 = Spark internals : core design and source code analysis
+*数字图像处理 = Digital image processing
+*R语言实战 = R in action : data analysis and graphics with R
+*零基础学素描技法 , 线稿草图篇
+*大数据 : 从海量到精准
+*学习R = Learning R

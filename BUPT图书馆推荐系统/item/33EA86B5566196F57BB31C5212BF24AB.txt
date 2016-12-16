@@ -1,0 +1,12 @@
+#计算机网络教程 = A Textbook on computer networks
+#代码 2.0 : 网络空间中的法律
+*信号与系统 : MATLAB版 = Signals and systems MATLAB
+*30 天通过全国计算机等级考试 = National computer rank examination
+*非线性光纤光学原理及应用 = Nonlinear fiber optics, fourth edition & applications of nonlinear fiber optics, second edition
+*通信系统中 MATLAB 基础与仿真应用
+*通信系统原理 = Fundamentals of communication systems
+*电磁场与电磁波 = Electromagnetic fields and waves
+*光通信中的 OFDM = OFDM for optical communications
+*高等光学仿真 : MATLAB版 : 光波导, 激光
+*计算机网络简明教程
+*现代交换技术

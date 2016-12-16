@@ -1,0 +1,23 @@
+#产业组织理论 = The theory of industrial organization
+#反垄断与管制经济学 = Economics of regulation and antitrust
+#理解熊彼特 : 创新与经济发展的再思考 = Understanding Schumpeter : a reflection on the innovation and economic development
+#IBM SPSS数据分析与挖掘实战案例精粹
+#创新、产业动态与结构变迁
+#计量经济学导论 = Intrductory econometrics : a modern approach
+#科技创新与中国特色社会主义制度研究
+#福利、政府激励与税收 = Welfare, incentives, and taxation
+#电信竞争 = Competition in telecommunications
+#中国技术创新的作用及其影响因素研究 = A study on the effects of China's technological innovation and its influencing factors
+#高级计量经济学及Stata应用
+#经济发展理论
+#自主创新、产业发展与公共政策 : 基于政府作用的一种视角
+*计量经济分析方法与建模 : EViews应用及实例
+*SPSS与统计分析
+*R语言实战 = R in action : data analysis and graphics with R
+*统计学基础
+*第三波 : 20世纪后期的民主化浪潮 = The Third wave : democratization in the late twentieth century
+*暴力与民主 = Violence and democracy
+*庄子译注 . 上
+*简爱 = Jane Eyre : 插图·中文导读英文版
+*投资学 = Investments
+*计量经济学

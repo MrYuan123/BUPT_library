@@ -1,0 +1,11 @@
+#MATLAB 小波分析
+*现代信号处理教程
+*MATLAB 程序设计与应用
+*数学物理方法
+*复变函数论
+*从零开始学 JavaScript
+*信号处理与数据分析 = Signal processing and data analysis
+*非平稳信号特征提取方法及其应用
+*信息论基础 = Elements of information theory
+*现代模式识别 = Modern pattern recognition
+*信号分析与处理 = Signal analysis and processing

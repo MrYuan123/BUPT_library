@@ -1,0 +1,11 @@
+#Java 基础与案例开发详解
+*Scala 编程 = Programming in Scala
+*MySQL入门经典
+*Spark原理、机制及应用
+*2012考研英语真题同源阅读80篇
+*罪与罚 = Преступление и наказание
+*宏观经济学 = Macroeconomics
+*思考, 快与慢 = Thinking, fast and slow
+*动荡的世界 : 风险、人性与未来的前景 = The map and the territory : risk, human nature, and the future of forecasting
+*计算机网络
+*线性代数

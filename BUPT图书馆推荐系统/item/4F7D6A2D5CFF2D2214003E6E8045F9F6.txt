@@ -1,0 +1,18 @@
+#Flash 8 中文版从入门到精通
+#Android从入门到精通
+#Flash CS3 中文版入门实战与提高
+#MySQL技术内幕 : SQL编程 = Inside MySQL : SQL programming
+#云计算概论 = Introduction of cloud computing
+#云计算宝典 = Cloud computing bible
+#中间件技术原理与应用
+#JavaScript 动态网页经典实例教程
+*HTML5 + CSS3 + jQuery应用之美
+*CSS Web开发学习实录
+*网站规划与网页设计
+*PHP、MySQL和Apache入门经典
+*HTML+CSS网站开发兵书
+*Ubuntu Linux 从入门到精通 : 版本9
+*跟老齐学Python : 从入门到精通
+*Android游戏开发技术实战详解
+*Android编程经典200例
+*APP这样设计才好卖

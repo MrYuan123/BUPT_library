@@ -1,0 +1,11 @@
+#Linux网络编程
+*Linux C程序设计王者归来
+*Windows 高级调试 = Advanced Windows debugging
+*竹林蹊径 : 深入浅出Windows驱动开发
+*网络安全协议
+*S7-200/300/400 PLC 应用技术 , 通用篇
+*典型密码算法C语言实现
+*信息安全概论
+*工控组态技术及应用 : MCGS
+*Python 灰帽子 : 黑客与逆向工程师的Python编程之道 = Gray hat python : python programming for hackers and reverse engineers
+*Shell从入门到精通

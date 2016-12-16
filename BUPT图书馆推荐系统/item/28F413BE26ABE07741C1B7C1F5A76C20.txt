@@ -1,0 +1,14 @@
+#数字信号处理原理及实现学习指导 = Study guide for digital signal processing principles and practice
+#MATLAB信号处理超级学习手册
+#数字信号处理导论 : MATLAB实现 = Introduction to digital signal processing using Matlab
+#激光原理与激光技术
+*信号与系统
+*通信原理辅导与习题解答
+*数字信号处理学习指导与习题解答
+*台湾二〇〇九
+*通信原理学习辅导与习题解答
+*动手玩转Arduino = Arduion workshop
+*固体物理概念题和习题指导
+*解析台湾的大陆政策
+*大陆台湾六十年
+*通信原理

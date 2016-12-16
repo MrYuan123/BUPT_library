@@ -1,0 +1,19 @@
+#人工智能 = Artificial intelligence : 回顾与展望review & prospect
+#MATLAB R2013a求解数学问题
+#Android 移动应用开发从入门到精通
+#电子工艺实习
+#电子工艺学教程
+#人工智能基础教程
+#Android开发实战经典
+#计算机组装与维护基础教程与实验指导
+#电子爱好者必备手册
+*GRE词汇精选 : 乱序版
+*TOEFL托福高分范文大全
+*数学文化与不等式 : 探究式学习导引
+*TOEFL官方题库范文精讲 = Writing for the TOEFL
+*TOEFL词汇词根+联想记忆法
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

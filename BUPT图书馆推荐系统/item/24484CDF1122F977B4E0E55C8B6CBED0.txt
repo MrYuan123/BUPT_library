@@ -1,0 +1,13 @@
+#新日本语能力考试 N3 文字词汇全解
+#日文读物
+#OpenGL超级宝典 = OpenGL superBible
+*Effective C++ : 改善程序与设计的55个具体做法 : 中文版 = Effective C++ : 55 specific ways to improve your programs and designs
+*计算机原理简明教程
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

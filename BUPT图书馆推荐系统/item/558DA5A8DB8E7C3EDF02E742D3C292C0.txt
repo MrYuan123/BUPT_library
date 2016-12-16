@@ -1,0 +1,12 @@
+#计算机网络
+#现代TCP/IP网络详解 = The illustrated network how TCP/IP works in a modern network
+*Java Web程序开发入门
+*OpenStack设计与实现
+*MySQL数据库入门
+*Java Web程序开发进阶
+*操作系统
+*射频识别技术原理与应用 = RFID—handbuch: grundlagen und praktische anwendungen von transpondern, kontaktlosen chipkarten und NFC
+*数据库系统基础
+*控制理论基础与应用 = Control theory and applications
+*计算机网络专业英语 = English for computer networks
+*现代通信技术

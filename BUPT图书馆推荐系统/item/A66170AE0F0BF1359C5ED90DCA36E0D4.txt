@@ -1,0 +1,11 @@
+#数据库原理及应用
+*射频识别技术 = RFID-handbuch : grundlagen und praktische anwendungen induktiver funkanlagen, transponder und kontaktloser chipkarten
+*数据库应用技术
+*计算机网络
+*控制理论基础与应用 = Control theory and applications
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

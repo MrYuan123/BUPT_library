@@ -1,0 +1,12 @@
+#第一行代码 : Android
+#Head First Java (中文版)
+*Java核心技术 . 卷II , 高级特性 = Core Java . Volume II : advanced features
+*Android群英传
+*数字图像处理 = Digital image processing
+*疯狂Java : 突破程序员基本功的16课
+*Linux C从入门到精通
+*微机原理与接口技术
+*Java从入门到精通
+*J2EE企业级开发 : Struts2 + Spring + Hibernate整合技术
+*富兰克林自传 = The autobiography of Benjamin Franklin
+*Java EE技术与应用

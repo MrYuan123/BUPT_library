@@ -1,0 +1,15 @@
+#跟老外学最地道的英语 = Native English speaker teaching authentic
+#计量经济学导论 = Intrductory econometrics : a modern approach
+#简爱 = Jane Eyre : 插图·中文导读英文版
+#庄子译注 . 上
+#计量经济分析方法与建模 : EViews应用及实例
+*别说你懂博弈论
+*初等数论及其在密码学中的应用与 Maple 实现
+*高级计量经济学及Stata应用
+*R语言实战 = R in action : data analysis and graphics with R
+*统计学基础
+*投资学 = Investments
+*计量经济学
+*经济数学
+*金融学原理 = Principles of finance
+*Stata统计分析与行业应用案例详解

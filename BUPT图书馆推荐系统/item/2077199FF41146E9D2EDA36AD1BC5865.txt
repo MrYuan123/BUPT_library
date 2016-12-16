@@ -1,0 +1,15 @@
+#现代模式识别 = Modern pattern recognition
+#应用概率统计
+#博弈论 = The game theory
+#从算法到程序
+#密码编码学与网络安全 : 原理与实践 = Cryptography and network security : principles and practice
+*密码学原理与实践 = Cryptography theory and practice
+*专利信息分析及典型应用
+*密码编码学与网络安全 = Cryptography and network security : 原理与实践principles and practices
+*专利检索策略及应用
+*博弈论
+*大型分布式网站架构设计与实践
+*美国总统就职演说赏析 = Appreciating the inaugural addresses of the U.S. presidents : 1789-20051789-2005
+*STL源码剖析 = The Annotated STL sources
+*无线网络中的博弈论研究 = = Game theory for wireless engineers
+*MIMO-OFDM系统原理、应用及仿真

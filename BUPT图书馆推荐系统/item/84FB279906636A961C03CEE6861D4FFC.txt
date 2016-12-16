@@ -1,0 +1,12 @@
+#了不起的Node.js : 将JavaScript进行到底 = Smashing Node. js : JavaScript everywhere
+#数据结构与算法JavaScript描述 = Data structures and algorithms with JavaScript
+*海子经典诗歌
+*JavaScript框架设计
+*VC++就业培训宝典之MFC视频教程
+*Linux 核心应用命令速查
+*诺贝尔文学奖获奖作家微型小说精品
+*扩展jQuery = Extending jQuery
+*Python自然语言处理
+*C++ Primer 中文版
+*JavaScript 权威指南
+*21天学通JavaScript

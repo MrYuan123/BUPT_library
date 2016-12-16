@@ -1,0 +1,13 @@
+#TCP/IP 指南 = The TCP/IP guide . 卷1 , 底层核心协议a comprehensive, illustrated internet protocols reference
+#Oracle Database 11g & MySQL 5.6开发手册
+#中国大学生数学建模竞赛
+*C 语言程序设计
+*高等数学
+*全国大学生数学建模竞赛赛题与优秀论文评析 , 2005-2011年A题
+*大学数学实验
+*概率论与数理统计同步学习辅导
+*信号与系统 (第2版·上册) 同步辅导及习题全解
+*数学建模方法与分析 = Mathematical modeling
+*Linux 从初学到精通
+*Java Web开发技术
+*Oracle 11g数据库实用教程

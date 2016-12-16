@@ -1,0 +1,14 @@
+#Python自然语言处理
+#Python Cookbook (第2版) 中文版
+#情商 . 3 : 影响你一生的工作情商
+#十八岁给我一个姑娘
+*长恨歌
+*Python数据可视化编程实战
+*趣学Python编程 = Python for kids
+*了不起的Node.js : 将JavaScript进行到底 = Smashing Node. js : JavaScript everywhere
+*C++入门经典
+*新常态下的心常态 : 让我们习惯增长的“极限”
+*高性能 JavaScript = High performance JavaScript
+*HTML 5+CSS+JavaScript深入学习实录
+*MySQL高效编程
+*Hadoop 技术内幕 : 深入解析MapReduce架构设计与实现原理 = Hadoop internals : in-depth study of MapReduce

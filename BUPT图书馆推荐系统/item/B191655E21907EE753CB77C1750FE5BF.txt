@@ -1,0 +1,14 @@
+#Python基础教程 = Beginning python : from novice to professional
+#Java 编程思想 = Thinking in Java
+#数学之美 = Beauty of mathematics
+#Python 学习手册
+*推荐系统 = Recommender systems : an introduction
+*深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM : advanced features and best practices
+*信息论基础 = Elements of information theory
+*统计学习方法
+*鸟哥的 Linux 私房菜 , 基础学习篇
+*Linux Shell脚本攻略 = Linux Shell Scripting Cookbook
+*版本控制之道 : 使用Git = Pragmatic version control using Git
+*The art of public speaking =演讲的艺术 /演讲的艺术
+*Python程序设计
+*Java 7程序设计入门与提高

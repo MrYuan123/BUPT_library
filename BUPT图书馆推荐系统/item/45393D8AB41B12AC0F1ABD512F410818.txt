@@ -1,0 +1,16 @@
+#Python Cookbook (第2版) 中文版
+#Dreamweaver CC中文版网页设计与制作从新手到高手
+#高性能 JavaScript = High performance JavaScript
+#HTML 5+CSS+JavaScript深入学习实录
+#MATLAB/Simulink系统仿真超级学习手册
+#算法导论 = Introduction to algorithms
+*绝代双骄 . 二
+*绝代双骄 . 四
+*绝代双骄 . 三
+*趣学Python编程 = Python for kids
+*Python编程实战 : 运用设计模式、并发和程序库创建高质量程序 = Python in practice : create better programs using concurrency, libraries, and patterns
+*算法设计与分析
+*Python 3 程序开发指南 = Programming in Python 3
+*Python自然语言处理
+*情商 . 3 : 影响你一生的工作情商
+*十八岁给我一个姑娘

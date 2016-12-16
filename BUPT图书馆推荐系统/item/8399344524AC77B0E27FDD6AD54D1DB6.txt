@@ -1,0 +1,13 @@
+#Python编程实践 = Practical programming : an introduction to computer science using python
+#Python 3面向对象编程 = Python 3 object oriented programming
+#Docker全攻略
+*Python程序设计基础
+*零基础学Python = Adventures in Python : 图文版
+*MATLAB 8.X实战指南 : R2014a中文版 = MATLAB 8.X application guide : R2014A Chinese version
+*易学Python
+*SPSS统计分析与行业应用案例详解
+*数据库技术与应用 : SQL Server 2008
+*大数据分析 : 方法与应用 = Big data analysis : methods and applications
+*精通 MATLAB : 升级版
+*MATLAB数值分析与仿真案例
+*SAI+Photoshop漫画绘制技法从入门到精通

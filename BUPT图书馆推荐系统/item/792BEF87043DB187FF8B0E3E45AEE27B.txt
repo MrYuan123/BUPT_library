@@ -1,0 +1,14 @@
+#生存的图像
+#数据结构精讲与习题详解 : 考研辅导与答疑解惑
+#SQL必知必会 = Same teach yourself SQL in 10 minutes
+#操作系统 : 原理、设计与应用
+*运筹学
+*形式语言与自动机导论 = An introduction to formal languages and automata
+*操作系统教程
+*计算机组成原理与系统结构
+*计算机组成原理教程
+*计算机网络
+*TOEFL词汇词根+联想记忆法 : 乱序版
+*Java JDK8学习笔记
+*数据结构 : C++版
+*MySQL开发与实践

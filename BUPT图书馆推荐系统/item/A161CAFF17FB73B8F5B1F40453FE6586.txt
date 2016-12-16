@@ -1,0 +1,14 @@
+#从菜鸟到测试架构师 : 一个测试工程师的成长日记
+#软件测试 = Software testing : a craftsman's approach
+#持续集成 : 软件质量改进和风险降低之道 = Continuous integration : improving software quality and reducing risk
+#性能测试从零开始 : LoadRunner 入门
+*Linux从入门到精通
+*Java 从初学到精通
+*Java 基础与实例精解
+*Java并发编程实战 = Java concurrency in practice
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

@@ -1,0 +1,13 @@
+#MATLAB R2013a工具箱手册大全
+#MATLAB基础与实践教程
+#Matlab函数和实例速查手册
+*留学时代
+*MATLAB 仿真在通信与电子工程中的应用
+*TOEFL词汇词根+联想记忆法 : 45天突破版
+*黎东方讲史 , 细说清朝
+*了不起的盖茨比 = The Great Gatsby
+*通信原理
+*数据分析 : 企业的贤内助 = Data analysis : the smart assistant for enterprise
+*MATLAB优化算法案例分析与应用 , 进阶篇
+*剑指Offer : 名企面试官精讲典型编程题
+*电商逆袭 , 旺铺产品推广设计

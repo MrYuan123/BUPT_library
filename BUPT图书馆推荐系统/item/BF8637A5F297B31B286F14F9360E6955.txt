@@ -1,0 +1,18 @@
+#PHP+MySQL+Dreamweaver动态网站建设从入门到精通
+#PHP + MySQL 八大动态 Web 应用实战 = Practical PHP and MySQL : building eight dynamic Web applications
+#实战突击 , PHP项目开发案例整合
+#贯通 Java Web 开发三剑客 : Eclipse+Tomcat+Ant 整合开发
+#精通 clipse Web 开发 : Java体系结构、工具、框架及整合应用
+#Struts 2 + Spring+Hibernate框架技术与项目实战
+#PHP与MySQL动态网站开发 = PHP and MySQL for dynamic web sites : visual quickPro guide
+#深入PHP与jQuery开发 = Pro PHP and jQuery
+*jQuery基础教程 = Learning jQuery
+*MySQL数据库应用从入门到精通
+*操作系统设计与实现 = Operating systems design and implementation . 上册
+*Android从入门到精通
+*Java Web 开发速学宝典
+*时频分析与小波变换
+*精通MATLAB智能算法 = Proficient in MATLAB intelligent algorithm
+*浪潮之巅 = On top of tides . 上册
+*机器学习实践指南 = The practice of machine learning : 案例应用解析
+*PHP、MySQL和Apache入门经典

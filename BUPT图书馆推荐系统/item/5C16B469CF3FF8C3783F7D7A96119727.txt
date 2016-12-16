@@ -1,0 +1,15 @@
+#网络广告学 = Study of internet advertisement
+#网络社会的崛起 = The rise of the network society
+#新媒体产业导论 : 基于数字时代的媒体产业
+#美国文化产业
+#广告伦理学
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

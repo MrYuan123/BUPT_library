@@ -1,0 +1,13 @@
+#童年的消逝 = The Disappearance of childhood
+#浪潮之巅 = On top of tides
+#浪潮之巅 = On top of tides . 下册
+*浪潮之巅 = On top of tides . 上册
+*世界是平的 : 21世纪简史 = The world is flat : a brief history of the twenty-first century
+*C++ 从入门到精通
+*启示录 : 打造用户喜爱的产品
+*从零开始学 C++
+*李敖有话说 . 4
+*大话无线通信
+*代码整洁之道
+*数据挖掘导论 = Introduction to data mining
+*New Internet : 大数据挖掘

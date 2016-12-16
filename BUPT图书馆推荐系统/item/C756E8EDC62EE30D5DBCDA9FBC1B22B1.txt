@@ -1,0 +1,21 @@
+#增强学习与近似动态规划
+#MATLAB小波分析
+#神经网络实用教程
+#游戏编程中的人工智能技术 = AI techniques for game programming
+#传感器信息处理及应用
+#MATLAB神经网络原理与实例精解
+#Kalman 滤波理论及其在导航系统中的应用
+#ANSYS 13.0电磁学有限元分析从入门到精通
+#考研英语长难句分类突破与语法速成
+#Linux命令、编辑器与Shell编程
+#有限元法 : 原理、建模及应用
+*基于MATLAB的小波分析应用
+*小波分析及其应用
+*小波与傅里叶分析基础 = A First course in wavelets with fourier analysis
+*MATLAB可视化科学计算
+*MATLAB神经网络30例
+*MATLAB 神经网络应用设计
+*神经网络控制与MATLAB仿真 = Neural networks control and matlab simulation
+*机器学习理论及应用 = Machine learning theory and its applications
+*Spark大数据实例开发教程
+*Spark原理、机制及应用

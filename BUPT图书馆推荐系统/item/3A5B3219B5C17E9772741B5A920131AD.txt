@@ -1,0 +1,28 @@
+#大话5G = The myth of 5G
+#大话移动通信
+#基于网络大数据的社会经济监测预警研究
+#人工神经网络原理
+#没有标准答案的哲学问题 = Philosophical dilemmas
+#算法基础 : 打开算法之门 = Algorithms unlocked
+#富人为什么富 穷人为什么穷
+#从知到行 : 将学习成果转化为行动能力 = From know-how to do-how, the short and simple guide to making change happen
+#爱因斯坦与万物之理 : 统一路上人和事 = Einstein's dream : searching for the theory of everything
+#数据挖掘原理 = Principles of data mining
+#经济学 : 每天30秒探索揭示世界经济运行的50个理论 = Economics
+#日本为什么会这样
+#大师的境界谈“生”论“死”
+#数据之巅 : 大数据革命，历史、现实与未来 = Big data history, reality and future
+#工业4.0 : 中国式工业4.0的转型之路
+#贝叶斯网络在智能信息处理中的应用 = Applications of Bayesian network in intelligent information processing
+#算法导论 = Introduction to algorithms
+#神经网络原理 = Neural networks : a comprehensive foundation
+*共享经济 : 重构未来商业新模式 = Peers inc : how people and platforms are inventing the collaborative economy and reinventing capitalism
+*南京安魂曲
+*数据挖掘与R语言 = Data mining with R : learning with case studies
+*朗读者 = Der vorleser
+*保险学
+*OpenStack设计与实现
+*瑞士
+*128种你不能不知的逻辑错误
+*梁晓声说我们的时代与人生
+*没有任何借口 = No excuse!

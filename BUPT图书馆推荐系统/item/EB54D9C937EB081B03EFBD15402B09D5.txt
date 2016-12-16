@@ -1,0 +1,14 @@
+#金融学 = Financial economics
+#金融学 = Economics of money and finance : 货币银行学 (第四版)
+#金融数据分析导论 : 基于R语言 = An introduction to analysis of financial data with R
+#宋慈洗冤录 : 满怀冰雪
+*风险管理与金融机构 = Risk management and financial institutions
+*明明白白看年报
+*金融数量分析 : 基于MATLAB编程
+*美联储 = Secrets of the temple : how the federal reserve runs the country
+*营销管理 = Marketing management
+*创业学 = Entrepreneurship : 理论、流程与实践theory, process, and practice
+*集成电路产业50年回眸
+*创业之初你不可不知的融资知识 : 寻找风险投资全揭秘
+*计算机网络
+*线性代数

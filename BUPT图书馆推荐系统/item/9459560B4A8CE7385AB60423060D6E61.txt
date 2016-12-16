@@ -1,0 +1,16 @@
+#揭秘家用路由器0day漏洞挖掘技术
+#Android应用开发实践教程
+#Linux C编程从基础到实践
+#高质量嵌入式Linux C编程
+#白帽子讲Web安全
+#加密与解密
+*Web应用漏洞侦测与防御 : 揭秘鲜为人知的攻击手段和防御技术 = Hacking Web apps : detecting and preventing web application security problems
+*编译原理 = Compilers : principles, techniques and tools
+*Android应用开发入门 = Android apps for absolute beginners
+*Google Android SDK开发范例大全
+*Android网络开发从入门到精通
+*App开发案例教程 = Software design of mobile applications : a case tutorial
+*Android手机应用开发简明教程
+*模糊测试强制发掘安全漏洞的利器 = Fuzzing brute force vulnerability discovery
+*渗透测试实践指南 : 必知必会的工具与方法 = The basics of Hacking and penetration testing : ethical Hacking and penetration testing made easy
+*软件调试 = Software debugging

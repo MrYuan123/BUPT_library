@@ -1,0 +1,14 @@
+#矩阵理论与方法
+#线性代数
+#Node即学即用 = Node : up and running, scalable server-side code with JavaScript
+#Spring 高级程序设计 = Pro Spring 2.5
+*现代控制理论基础
+*矩阵理论与方法学习指导
+*Java程序设计教程 = Building Java programs : a back to basics approach
+*HTML5经典实例
+*Node应用程序构建 : 使用MongoDB和Backbone
+*深入HTML5应用开发 = HTML5 geolocation making lsometric social real-time games with HTML5, CSS3, and JavaScript
+*Redis设计与实现 = The design and implementation of Redis
+*数据挖掘技术应用实例
+*实用数据分析 = Practical data analysis
+*数据挖掘原理与算法

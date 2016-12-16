@@ -1,0 +1,12 @@
+#Python Cookbook (第2版) 中文版
+#趣学Python编程 = Python for kids
+*情商 . 3 : 影响你一生的工作情商
+*Python自然语言处理
+*十八岁给我一个姑娘
+*Python编程入门 = Python : Visual quickstart guide
+*零基础学Python
+*Python 核心编程
+*Python入门经典
+*高性能 JavaScript = High performance JavaScript
+*HTML 5+CSS+JavaScript深入学习实录
+*MySQL高效编程

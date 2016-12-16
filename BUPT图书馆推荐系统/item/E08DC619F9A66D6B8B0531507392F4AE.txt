@@ -1,0 +1,14 @@
+#高等数学 . 上册
+#线性代数 : 学习指导
+#线性代数教程
+#概率论与数理统计 = Probability and mathematical statistics
+*线性代数辅导讲义
+*C++ 程序设计案例教程
+*高等数学 . 下册
+*线性代数
+*概率论与数理统计
+*复变函数
+*高等数学 . 上
+*数学分析 . 上
+*英语应用语法 = Modern English grammar in use
+*工程电路分析

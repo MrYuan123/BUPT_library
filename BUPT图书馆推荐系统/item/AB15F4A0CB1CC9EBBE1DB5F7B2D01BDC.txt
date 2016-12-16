@@ -1,0 +1,20 @@
+#动态多目标优化进化算法及其应用
+#MATLAB数值分析
+#数据结构
+#人间喜剧
+#数学模型
+#数学建模 = A first course in mathematical modeling
+#大学物理学习指导与解题指南
+#博弈论与非线性分析
+#大学物理解题指导
+#离散数学与算法化思维
+*数学建模方法与分析 = Mathematical modeling
+*大忙人的趣味博弈论
+*策略博弈 = Games of strategy
+*博弈论 = Game theory : 矛盾冲突分析analysis of conflict
+*数据结构教程
+*数学建模算法与应用
+*MATLAB 在数学建模中的应用
+*复变函数典型题
+*无价 : 洞悉大众心理玩转价格游戏 = Priceless : the myth of fair value (and how to take advantage of it)
+*信号与系统考研指导

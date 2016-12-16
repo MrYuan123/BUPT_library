@@ -1,0 +1,16 @@
+#MATLAB神经网络编程
+#神经网络盲均衡理论、算法与应用
+#Java 编程入门经典
+#神经网络 = Neural networks
+#MATLAB GUI设计入门与实战
+#神经网络设计方法与实例分析
+*神经网络在应用科学和工程中的应用 : 从基本原理到复杂的模式识别
+*贝叶斯概率风险评估 = Bayesian inference for probabilistic risk assessment
+*MATLAB神经网络43个案例分析
+*汤姆·索亚历险记 = The adventures of tom sawwyer
+*Node.js开发实战详解
+*MATLAB原理及应用案例教程
+*日语汉字音研究
+*HTML+CSS+JavaScript网页设计简明教程
+*零基础学C++
+*C++ PRIMER 中文版 = C++ Primer

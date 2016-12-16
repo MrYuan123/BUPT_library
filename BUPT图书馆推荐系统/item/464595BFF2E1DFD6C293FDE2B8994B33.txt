@@ -1,0 +1,14 @@
+#jQuery应用开发实践指南 = Learning jQuery : a hands-on guide to building rich interactive web front ends
+#锋利的 jQuery
+#Hibernate 实战 = Java persistence with hibernate
+#深入浅出 Hibernate
+*计算机网络
+*操作系统
+*智慧教育 : 互联网+时代的教育大转型
+*终身学习视野下的微型移动学习资源建设
+*当哲学家遇上心理医生
+*培训行业这一年
+*Bootstrap实战 = Bootstrap site blueprints
+*创新者的课堂 : 颠覆式创新如何改变教育 = Disrupting class : how disruptive innovation will change the way the world learns
+*麦田里的守望者
+*Word排版之道 = The tao of typesetting

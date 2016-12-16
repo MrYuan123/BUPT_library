@@ -1,0 +1,15 @@
+#人活着究竟为什么 : 聆听尼采的生存智慧
+#心灵的焦灼 = Ungeduld des herzens
+#艺术中的人文精神 = The humanities through the arts
+#幸福是人生最美的信仰
+#小小的图景 : 陀思妥耶夫斯基精品集
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

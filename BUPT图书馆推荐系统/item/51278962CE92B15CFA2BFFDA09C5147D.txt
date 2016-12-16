@@ -1,0 +1,13 @@
+#技术创新管理 = Management of technological innovation
+#技术管理与技术创新学科前沿研究报告 = The frontier research report on technology management and technological innovation
+#JSP 开发技术详解
+*Spring 3.0就这么简单
+*TCP/IP , Java篇
+*程序员突击 , Tomcat原理与Java Web系统开发
+*JSP Web技术及应用教程
+*MySQL数据库基础与实例教程 = MySQL fundamentals & practices
+*Java Web 应用开发 : J2EE和Tomcat
+*零点起飞学Java Web开发
+*图表之美 : 打造优秀的Excel图表 = Beautiful chart : creating excellent Excel chart
+*Spring源码深度解析
+*精通 JavaScript+jQuery

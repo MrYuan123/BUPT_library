@@ -1,0 +1,20 @@
+#Hadoop权威指南
+#信息安全的数学基础
+#Ubuntu Linux 指南 = A practical guide to Ubuntu Linux
+#推荐系统实践
+#研究生英语听说教程 , 基础级
+#Java 编程思想 = Thinking in Java
+#近世代数及其应用
+#机器学习实战 = Machine learning in action
+#推荐系统 = Recommender systems : an introduction
+#形式语言与自动机
+*Python 学习手册
+*统计学习方法
+*现代密码学教程
+*现代信号处理 = Modern signal processing
+*Hadoop 技术内幕 : 深入解析MapReduce架构设计与实现原理 = Hadoop internals : in-depth study of MapReduce
+*算法导论 = Introduction to algorithms
+*JAVA 核心技术 . 卷II , 高级特性 = Core Jave . Volume II , Advanced features
+*Python 核心编程
+*TCP/IP入门经典
+*深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM : advanced features and best practices

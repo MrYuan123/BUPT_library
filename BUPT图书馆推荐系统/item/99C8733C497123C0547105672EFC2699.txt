@@ -1,0 +1,13 @@
+#锋利的 jQuery
+#计算机网络
+#操作系统
+*jQuery应用开发实践指南 = Learning jQuery : a hands-on guide to building rich interactive web front ends
+*Hibernate 实战 = Java persistence with hibernate
+*深入浅出 Hibernate
+*数据结构 (Java版)
+*微处理器系统设计
+*软件工程 = Software engineering : theory and practice
+*软件工程基础 = Fundamentals of software engineering
+*软件工程 = Software engineering
+*操作系统概念 : Java实现 = Operating system concepts with JAVA
+*网络协议分析 = Network protocol analysis

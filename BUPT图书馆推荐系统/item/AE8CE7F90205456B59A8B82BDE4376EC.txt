@@ -1,0 +1,12 @@
+#Effective STL中文版 : 50条有效使用STL的经验 = Effective STL : 50 specific ways to improve the use of the standard template library
+#LaTeX 2e 完全学习手册
+*SQL Server 2012数据库技术实用教程
+*数据结构与算法 : C++版
+*信任管理与计算
+*XML 程序设计
+*XML 案例解析教程 : 提出问题-分析问题-解决方案
+*赖世雄经典语法
+*科学也爱恶作剧 : 来自哈佛的搞笑诺贝尔奖
+*大数据 : 战略·技术·实践
+*深入 Java 虚拟机
+*Java Web高级编程 : 涵盖WebSockets、Spring Framework、JPA Hibernate和spring security

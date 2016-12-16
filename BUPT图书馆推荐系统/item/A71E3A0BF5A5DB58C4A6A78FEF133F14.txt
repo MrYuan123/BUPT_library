@@ -1,0 +1,14 @@
+#Essential discrete mathematics for computer science =离散数学 /Todd Feil, Joan  Krone著 ; 张明军, 许华译.离散数学
+#2000 离散数学习题精解
+#离散数学 : 习题与解析
+#Discrete mathematics =离散数学 /离散数学
+*数学物理方法 = Mathematical methods for physics
+*离散数学习题与解析 = Solution and analysis of problems in discrete mathematics
+*数学物理方程
+*模拟电子技术基础
+*离散数学 = Discrete mathematics
+*量子理论 : 爱因斯坦与玻尔关于世界本质的伟大论战
+*数理逻辑
+*离散数学
+*计算机网络
+*线性代数

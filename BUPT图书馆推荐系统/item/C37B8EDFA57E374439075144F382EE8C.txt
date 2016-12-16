@@ -1,0 +1,11 @@
+#算法与数据结构 (第 2 版) 学习指导与习题解析
+*离散数学习题解答与学习指导
+*离散数学学习指导与习题解答 = Schaum's outline of discrete mathematics
+*算法 : C 语言实现 . 第1-4部分 , 基础知识、数据结构、排序及搜索 = Algorithms in C . Parts 1-4 : fundamentals, data structures, sorting, searching
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

@@ -1,0 +1,12 @@
+#新大学日语标准教程 , 基础篇 . 1
+#新大学日语标准教程 (基础篇) 练习册
+*操作系统概念 = Operating system concepts
+*Java 语言程序设计
+*经济学原理 = Principles of economics
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

@@ -1,0 +1,11 @@
+#博弈论 = Game theory
+*网络融合环境下宽带接入技术与应用
+*网络融合 : 业务、应用、传输和运营支撑
+*卑鄙的圣人 : 曹操 . 第3部
+*博弈论及其应用 = Game theory and its application
+*博弈论教程
+*量子计算和量子信息 = Quantum computation and quantum information . 一 , 量子计算部分
+*这个世界会好吗? : 梁漱溟晚年口述 = Has man a future? : dialogues with the last Confucian
+*中国最后一个大儒 : 记父亲梁漱溟
+*量子保密通信协议的设计与分析
+*宪政的哲学基础

@@ -1,0 +1,20 @@
+#C/C++求职宝典
+#流萤集 = Fireflies
+#像天使一般地唱 : 纪伯伦经典诗选
+#断舍离
+#程序员面试宝典 = Best practice for programmer interview
+#马尔可夫链 : 模型、算法与应用 = Markov Chains : models, algorithms and applications
+#卡尔曼滤波及其实时应用 = Kalman filtering with real-time applications
+#纪伯伦诗选 = Selected poems of Kahlil Gibran
+#贝叶斯网络学习、推理与应用
+#愿你要的明天, 如约而至 : 吉檀迦利
+*STL源码剖析 = The Annotated STL sources
+*数据挖掘 : 实用机器学习工具与技术 = Data mining : practical machine learning tools and techniques
+*Hadoop应用开发技术详解 = Programming hadoop
+*算法设计与分析
+*算法 : C 语言实现 . 第1-4部分 , 基础知识、数据结构、排序及搜索 = Algorithms in C . Parts 1-4 : fundamentals, data structures, sorting, searching
+*疏散的马尔可夫链 = Scattered Markov chain
+*Satellite communications systems :systems, techniques and technology 
+*随机过程
+*概率论与数理统计
+*家庭理财枕边书

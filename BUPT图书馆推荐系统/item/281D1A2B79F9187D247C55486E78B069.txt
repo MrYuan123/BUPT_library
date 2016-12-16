@@ -1,0 +1,16 @@
+#R语言实战 = R in action : data analysis and graphics with R
+#产品经理 : 从菜鸟到大师
+#神一样的产品经理 : 基于移动与互联网产品实践
+#Axure RP 6原型设计精髓
+#产品经理 : 从优秀到卓越
+#产品经理的20堂必修课 = How to be a good product manager
+*产品经理的第二本书 = The Product manager's field guide : practical tools, exercises, and resources for improved product management
+*产品经理那些事儿
+*摄影中的美 : 摄影与眼睛、思想和心灵的表达 = Effortless beauty : photography as an expression of eye, mind and heart
+*我生命的最后一天 = The last day of my life
+*不可不知的心理效应全集
+*英国往事 = Once upon a time in England
+*城市表情 = Expressions of the city : 19世纪至21世纪的都市摄影
+*互联网冲击 : 互联网思维与我们的未来 = Who owns the future?
+*死亡森林 = The Dead path
+*时间的旅人

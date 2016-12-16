@@ -1,0 +1,12 @@
+#离散时间信号处理 = Discrete-time signal processing
+#信号与系统 (第三版) 习题解析
+*数字信号处理教程
+*教与写的记忆 : 信号与系统评注
+*信号与系统考研指导
+*撒冷镇 = 'Salem's lot
+*浪潮之巅 = On top of tides . 上册
+*你是人间四月天
+*概率论与数理统计 (第四版) 简明本
+*矩阵计算 = Matrix computations
+*信号检测与估计理论
+*最优阵列处理技术 = Optimum array processing part IV of detection, estimation, and modulation theory

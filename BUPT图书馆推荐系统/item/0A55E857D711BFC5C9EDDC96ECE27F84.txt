@@ -1,0 +1,13 @@
+#jQuery基础教程 = Learning jQuery
+#编写高质量代码 : 改善JavaScript程序的188个建议 = Writing soliv JavaScript cove 188 suggestion to improve your JavaScript program
+#正则表达式经典实例
+*Struts 2 + Spring+Hibernate框架技术与项目实战
+*深入PHP : 面向对象、模式与实践 = PHP objects, patterns, and practice
+*高性能网站建设进阶指南 : Web开发者性能优化最佳实践 = Even faster Web sites : performance best practices for Web developers
+*PHP & MySQL实战手册
+*PHP 深度分析 : 101个核心技巧、窍门和问题解决方法
+*Android内核剖析
+*电视人
+*jQuery实战 = jQuery in action
+*Python语言程序设计 = Introduction to programming using Python
+*Python数据分析基础教程 : NumPy学习指南 = NumPy beginner's guide

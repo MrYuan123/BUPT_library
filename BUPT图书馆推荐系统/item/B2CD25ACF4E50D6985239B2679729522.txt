@@ -1,0 +1,14 @@
+#异类 : 不一样的成功启示录 = Outliers : the stroy of success
+#光通信器件与系统 = Optical communications components and systems
+#现代量子力学教程
+#量子信息处理技术
+*统计物理学 . 1
+*量子力学
+*信息论基础习题解答 = Elements of information theory : solutions to exercises
+*量子计算和量子信息 = Quantum computation and quantum information . 一 , 量子计算部分
+*量子信息处理技术及算法设计
+*量子密码协议的设计和分析
+*英语学术论文写作 = English acadeng writing
+*量子计算和量子信息 = Quantum computation and quantum information . 二 , 量子信息部分
+*计算机网络
+*线性代数

@@ -1,0 +1,23 @@
+#智能光网络技术及应用
+#近世代数基础
+#图论 = Graph theory
+#超网络理论及其应用
+#图的可嵌入性理论
+#超图 : 有限集的组合学
+#有向图的理论、算法及其应用
+#路由交换技术 . 第4卷
+#智能光网络 : 体系结构、协议和标准
+#组合数学 = Introductory combinatorics
+#ASON 网络互联
+#自动交换光网络原理与应用
+#组合几何
+*C语言程序开发范例宝典
+*新手学HTML5移动开发 : 面向iOS和Android平台
+*软件定义网络 : 基于OpenFlow的SDN技术揭秘 = Software defined networking with OpenFlow
+*HTML5移动应用开发入门经典
+*光网络 : 系统、器件与联网技术
+*通信网理论概要
+*现代信号处理 = Modern signal processing
+*近世代数
+*彼得·林奇的成功投资 : 珍藏版 = One up on wall street : how to use what you already know to make money in the market
+*富爸爸投资指南 = Rich Dad's guide to investing

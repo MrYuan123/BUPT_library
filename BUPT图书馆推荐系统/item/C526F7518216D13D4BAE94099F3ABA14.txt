@@ -1,0 +1,11 @@
+#计算机与通信网络 = Computer and communication networks
+*接入网技术 = Access network technology
+*FTTx PON 技术与应用
+*宽带通信网原理
+*光纤接入网规划设计手册
+*频谱灵活光网络 = Flexible spectrum optical networks
+*宽带光接入技术
+*光纤通信技术 = Optical fiber communication technology
+*接入网技术
+*宽带无线接入网的动态QoS技术
+*计算机网络

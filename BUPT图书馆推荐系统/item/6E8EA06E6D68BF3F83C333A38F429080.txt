@@ -1,0 +1,14 @@
+#计算机网络 : 原理、技术与应用
+#计算机操作系统
+#数据挖掘教程
+#离散数学
+*机器学习系统设计 = Building machine learning systems with python
+*离散数学教程
+*数据挖掘 : 概念与技术 = Data mining : concepts and techniques
+*精通 Verilog HDL 语言编程
+*下一代无源光网络
+*玩转UML与Rose
+*韩国语语法入门
+*Java语言程序设计 : Java 7 : 入门与提高篇
+*零基础学Python
+*深入解析SAS : 数据处理、分析优化与商业应用

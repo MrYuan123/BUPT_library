@@ -1,0 +1,18 @@
+#数据挖掘原理与算法
+#Spring 高级程序设计 = Pro Spring 2.5
+#Linux 命令、编辑器与 Shell 编程
+#OpenCV2计算机视觉编程手册
+#Redis设计与实现 = The design and implementation of Redis
+#实用数据分析 = Practical data analysis
+#Web 开发新体验 : ASP.NET 3.5 MVC架构与实战
+#数据挖掘技术应用实例
+*Node即学即用 = Node : up and running, scalable server-side code with JavaScript
+*矩阵理论与方法
+*线性代数
+*Hadoop硬实战 = Hadoop in practice
+*R语言与网站分析 = Web analysis and mining with R
+*数据挖掘教程
+*数据挖掘理论、方法与应用
+*学习 OpenCV : 中文版
+*数据挖掘 : 方法与应用
+*Hadoop技术内幕 : 深入解析Hadoop Common和HDFS架构设计与实现原理 = Hadoop internals : in-depth study of common and HDFS

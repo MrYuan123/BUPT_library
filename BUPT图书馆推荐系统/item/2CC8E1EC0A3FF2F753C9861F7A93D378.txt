@@ -1,0 +1,11 @@
+#天线理论与技术 = Antenna theory and techniques
+*无线通信 = Wireless communications
+*现代无线通信原理
+*陈列天线理论与工程应用
+*宽频带微带天线技术及其应用
+*阵列天线分析与综合
+*天线与电波传播
+*天线测量实用手册 = Antenna measurement engineering handbook
+*计算机网络
+*线性代数
+*高等数学 . 上册

@@ -1,0 +1,11 @@
+#Vim实用技巧 = Practical Vim : edit text at the speed of thought
+*NumPy攻略 = NumPy cookbook : Python科学计算与数据分析
+*初等数论及其应用 = Elementary number theory and its applications
+*被窝是青春的坟墓
+*算法艺术与信息学竞赛
+*组合数学教程 = A course in combinatorics
+*傲慢与偏见 = Pride and prejudice
+*具体数学 : 计算机科学基础 = Concrete mathematics : a foundation for computer science
+*离散数学结构 = Discrete mathematical structures : 翻译版
+*STL源码剖析 = The Annotated STL sources
+*数据结构答疑解惑与典型题解 : C语言版

@@ -1,0 +1,15 @@
+#C语言接口与实现 : 创建可重用软件的技术 = C interfaces and implementations : techniques for creating reusable software
+#MySQL 5 权威指南 = The definitive guide to MySQL 5
+#C++代码设计与重用 = Designing and coding reusable C++
+#SQL 查询初学者指南 = SQL queries for mere mortals : a hands-on guide to data manipulation in SQL
+#学习 PHP 和 MySQL
+*Spring实战 = Spring in action
+*C语言程序设计
+*随机过程基础 = Essentials of stochastic processes
+*Hadoop硬实战 = Hadoop in practice
+*随机过程导论 = Introduction to stochastic processes
+*概率与计算 = Probability and computing : randomized algorithms and probabilistic analysis
+*大数据 = Mining of massive datasets : 互联网大规模数据挖掘与分布式处理
+*电接触理论、应用与技术
+*写给大家看的设计书 = The non-designer's Photoshop book : Photoshop图像处理
+*CSS 权威指南

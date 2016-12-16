@@ -1,0 +1,12 @@
+#大数据 = Mining of massive datasets : 互联网大规模数据挖掘与分布式处理
+#深入理解大数据 : 大数据处理与编程实践 = Understanding big data : big data processing and programming
+*笑傲股市 = How to make money in stocks : a winning system in good times or bad
+*Hadoop 权威指南 : 中文版
+*Python 3 程序开发指南 = Programming in Python 3
+*通向财务自由之路 = Trade your way to financial freedom
+*Hadoop基础教程 = Hadoop beginner's guide
+*股票作手沉思录 : 利弗莫尔价格狙击方程式 = How to trade in stocks : the Livermore formula for combining time element and price
+*随机过程基础 = Essentials of stochastic processes
+*Hadoop硬实战 = Hadoop in practice
+*随机过程导论 = Introduction to stochastic processes
+*概率与计算 = Probability and computing : randomized algorithms and probabilistic analysis

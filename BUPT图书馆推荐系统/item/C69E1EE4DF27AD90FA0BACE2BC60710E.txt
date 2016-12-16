@@ -1,0 +1,24 @@
+#哈佛凌晨四点半 : 哈佛大学送给青少年的最好礼物
+#数字通信 = Digital communications
+#OFDM 关键技术与应用
+#浪潮之巅 = On top of tides
+#世界是平的 : 21世纪简史 = The world is flat : a brief history of the twenty-first century
+#Visual C++典型模块与项目实战大全
+#数据结构教程 : C++语言描述
+#概率论与随机过程
+#福尔摩斯探案集
+#Visual C++程序设计与项目实践
+#习得性无助 = Learned helplessness : a theory for the age of personal control
+#不抱怨的世界 = A complaint free world
+#OFDM原理与标准 : 通信技术的演进
+#不抱怨的世界 . 2 , 关系决定命运 = Complaint free relationships
+*浪潮之巅 = On top of tides . 下册
+*SQL Server从入门到精通
+*数学物理方法学习指导
+*相控阵雷达数据处理 = Phased array radar data processing
+*相控阵雷达接收技术 = Receive techniques for phased array radar
+*Windows Server 2008 服务器架设与配置实战指南
+*Java Web从入门到精通
+*数据挖掘 : 概念与技术
+*数字与模拟通信系统 = Digital and analog communication systems
+*线性代数

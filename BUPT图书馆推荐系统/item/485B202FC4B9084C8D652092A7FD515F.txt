@@ -1,0 +1,13 @@
+#点云库PCL学习教程
+#三维计算机视觉技术和算法导论 = An introduction to 3D computer vision techniques and algorithms
+#信息论基础习题解答 = Elements of information theory : solutions to exercises
+*ASP.NET 4高级程序设计 = Pro ASP.NET 4 in C# 2010
+*Java 编程宝典 : 十年典藏版
+*Windows程序设计与架构
+*统计物理学 . 1
+*信息论基础
+*量子力学
+*学通Java Web的24堂课 : 110集大型多媒体教学视频
+*网页程序设计HTML 5·JavaScript CSS·XHTML·Ajax
+*量子信息处理技术
+*异构无线网络融合理论与技术实现

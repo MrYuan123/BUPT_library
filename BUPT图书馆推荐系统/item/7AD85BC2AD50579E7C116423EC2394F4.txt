@@ -1,0 +1,18 @@
+#通信原理典型题解析及自测试题
+#操作系统习题解答与考试复习指导 = Detailed analysis and solutions of operating system for examination
+#Java程序设计
+#Java程序设计案例教程与实训
+#HTML与CSS网页设计教学做一体化教程
+#通信原理全程学习指导与习题精解 : 国防工业第六版
+#HTML + CSS网页设计实践教程
+#微机原理及应用教学辅导与习题解析
+*编译原理与技术练习解答与实验指导
+*JavaScript 开发技术详解
+*JavaScript编程全解
+*Linux 操作系统原理与应用
+*微机原理与接口技术经典实验案例集
+*微机原理与接口技术学习指导
+*微机原理与接口技术项目教程
+*微机原理与接口技术
+*Java程序设计案例教程
+*ETS 新托福考试官方指南 = The official guide to the TOEFL test

@@ -1,0 +1,12 @@
+#JAVA核心技术 . 卷I , 基础知识 = Core Java . volume I , Fundamentals
+#Java面向对象程序设计
+*计算机图形学 = Computer graphics with OpenGL
+*大学英语六级阅读20天冲关快训
+*大学英语六级阅读全攻略 , 短篇阅读
+*疯狂Java讲义精粹
+*鸟哥的Linux私房菜 , 服务器架设篇
+*编程之美 : 微软技术面试心得
+*Verilog数字系统设计教程
+*6 级词汇 : 词以类记 = Classified vocabulary
+*四元数矩阵
+*惯性导航与组合导航基础 = Fundamentals of inertial navigation and integrated navigation

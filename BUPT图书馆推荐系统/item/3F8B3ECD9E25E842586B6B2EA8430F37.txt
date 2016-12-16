@@ -1,0 +1,15 @@
+#射频识别技术 = RFID-handbuch : grundlagen und praktische anwendungen induktiver funkanlagen, transponder und kontaktloser chipkarten
+#数据库应用技术
+#计算机网络
+#控制理论基础与应用 = Control theory and applications
+#数据库原理及应用
+*射频识别技术原理与应用 = RFID—handbuch: grundlagen und praktische anwendungen von transpondern, kontaktlosen chipkarten und NFC
+*数据库系统基础
+*计算机网络与 Internet 协议和技术 = Computer networking with Internet protocols and technology
+*移动 Ad Hoc 网络 : 自组织分组无线网络技术
+*操作系统
+*计算机网络专业英语 = English for computer networks
+*现代通信技术
+*现代TCP/IP网络详解 = The illustrated network how TCP/IP works in a modern network
+*RFID原理与应用
+*精通 Linux C 编程

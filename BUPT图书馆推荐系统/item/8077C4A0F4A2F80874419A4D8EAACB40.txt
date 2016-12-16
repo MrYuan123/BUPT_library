@@ -1,0 +1,12 @@
+#Visual C++项目开发全程实录
+#Visual C++开发实例大全 , 提高卷
+*C 语言开发手册 : 典藏版
+*VC++项目开发实战密码
+*C 语言详解 = Problem solving and program design in C
+*品悟C : 抛弃C程序设计中的谬误与恶习
+*Unity 4.3游戏开发项目实战 : C#、JavaScript版本
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

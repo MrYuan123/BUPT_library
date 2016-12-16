@@ -1,0 +1,15 @@
+#自然大探索 : 百种10分钟小实践 = Nature in a nutshell for kids : over 100 activities you can do in ten minutes or less
+#Head First 设计模式
+#自然的故事 = Stories about nature
+#科学玩得转 : 百种10分钟小实验 = Science in seconds for kids : over 100 experiments you can do in ten minutes or less
+#Java 并发编程实践 = Java concurrency in practice
+*JAVA 核心技术 . 卷II , 高级特性 = Core Jave . Volume II , Advanced features
+*Java 编程思想 = Thinking in Java
+*Nginx高性能Web服务器详解
+*Redis入门指南
+*编写高质量代码 = Writing solid web front-end code : Web前端开发修炼之道
+*Effective Java 中文版 = Effective Java
+*Java并发编程实战 = Java concurrency in practice
+*Git权威指南 = Got Git : the definitive guide of Git
+*Head First Servlets & JSP : 中文版
+*计算机网络释疑与习题解答

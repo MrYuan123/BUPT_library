@@ -1,0 +1,12 @@
+#移动通信原理 = Principles of mobile communication
+#LTE及LTE-Advanced无线协议
+*LTE系统原理及应用
+*LTE/LTE-Advanced-UMTS长期演进理论与实践 = LTE-LTE UMTS long term evolution : from theory to practice
+*LTE协议栈与信令分析 = LTE protocol stack and signaling analysis
+*4G移动通信技术权威指南 : LTE与LTE-Advanced = 4G LTE/LTE-Advanced for mobile broadband
+*大话核心网
+*金刚经·心经
+*傅佩荣译解大学中庸
+*2017年考研英语阅读完形翻译全突破
+*别怕, 求职面试就这么简单
+*PTN 规划建设与运维实战

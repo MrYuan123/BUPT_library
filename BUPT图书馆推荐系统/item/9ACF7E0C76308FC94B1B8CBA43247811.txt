@@ -1,0 +1,15 @@
+#Selenium 2自动化测试实战 : 基于Python语言
+#Java多线程编程核心技术 = Java multi-thread programming
+#Effective Java 中文版 = Effective Java
+#编写高质量代码 : 改善Python程序的91个建议 = Writing solid python code : 91 suggestions to improve your Python program
+#离开前请叫醒我
+*Java 编程思想 = Thinking in Java
+*深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM : advanced features and best practices
+*Python编程实战 : 运用设计模式、并发和程序库创建高质量程序 = Python in practice : create better programs using concurrency, libraries, and patterns
+*计算机网络
+*21天学通C++
+*Java虚拟机精讲
+*失物之书 = The book of lost things
+*程序员面试金典 = Cracking the coding interview : 150 programming questions and solutions
+*Linux shell脚本攻略
+*统计学习方法

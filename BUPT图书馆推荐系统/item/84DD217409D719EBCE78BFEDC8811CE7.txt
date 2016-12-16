@@ -1,0 +1,18 @@
+#流星雨
+#长安乱 = Lost world
+#中国最美的100座名山
+#精通正则表达式 = Mastering regular expressions
+#HTML 5+JavaScript动画基础
+#HTML 5 揭秘 = HTML 5 : up and running
+#追风筝的人 = The kite runner
+#HTML5 Canvas基础教程 = Foundation HTML5 Canvas : for games and entertainment
+*HTML5 Canvas开发详解
+*HTML5 Canvas核心技术 : 图形、动画与游戏开发 = Core HTML5 Canvas : graphics, animation, and development
+*信号与系统常见题型解析
+*哈佛非虚构写作课 : 怎样讲好一个故事 = Telling true stories : a nonfiction writers' guide from the nieman foundation at Harvard university
+*每天一堂北大哲学课
+*电接触理论、应用与技术
+*写给大家看的设计书 = The non-designer's Photoshop book : Photoshop图像处理
+*CSS 权威指南
+*Cadence印刷电路板设计 : Allegro PCB Editor设计指南
+*学习 PHP 和 MySQL

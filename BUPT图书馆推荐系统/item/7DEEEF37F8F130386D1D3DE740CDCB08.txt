@@ -1,0 +1,13 @@
+#Unity 2D游戏开发实例教程
+#离散数学及其应用 = Discrete mathematics and its applications
+#Unity 2D游戏开发秘籍
+*Linux 嵌入式系统高级程序设计 = Pro Linux embedded systems
+*ARM嵌入式Linux系统开发详解
+*Windows 核心编程 = Windows via C/C++
+*矩阵与编码
+*编码理论
+*恐怖谷 = The valley of fear
+*数据结构 : C语言版
+*MATLAB基础与应用
+*博弈论平话
+*物联网导论

@@ -1,0 +1,17 @@
+#信息科学原理
+#基于 OpenCV 的计算机视觉技术实现
+#西方文化风情路 , 美国篇
+#黑客攻防入门与进阶
+#信息理论基础习题集
+#自己动手写网络爬虫
+#大洋彼岸的移民国家 : 美国 = The immigrant nation on the other side of the Ocean : the United Statesof America
+*量子保密通信协议的设计与分析
+*Web 服务 : 原理与技术 = Web Services : principles and technology
+*信息科学教程
+*统计学习方法
+*轻量级Java EE企业应用实战 : Struts 2+Spring 4+Hibernate整合开发
+*Java多线程编程核心技术 = Java multi-thread programming
+*量子密码协议理论研究
+*形式语言与自动机
+*唐朝那些事儿
+*迪斯尼战争 = Disney war

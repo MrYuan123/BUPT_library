@@ -1,0 +1,12 @@
+#矩阵分析
+#现代控制理论
+*矩阵论札记
+*线性代数及其应用导论 = Linear algebra : a first course with applications to differential equations
+*计算机网络
+*VxWorks嵌入式实时操作系统设备驱动与BSP开发设计
+*VxWorks 内核、设备驱动与 BSP 开发详解
+*步进电动机伺服控制技术
+*计算机操作系统
+*计算机组成与体系结构 : 性能设计 = Computer organization and architecture : designing for performance
+*数据结构教程 : C++版
+*最新托福词汇科学快捷记忆手册

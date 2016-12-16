@@ -1,0 +1,12 @@
+#第一行代码 : Android
+#Java核心技术 . 卷II , 高级特性 = Core Java . Volume II : advanced features
+*Head First Java (中文版)
+*Android群英传
+*Linux C从入门到精通
+*微机原理与接口技术
+*Java从入门到精通
+*J2EE企业级开发 : Struts2 + Spring + Hibernate整合技术
+*富兰克林自传 = The autobiography of Benjamin Franklin
+*纪委在行动 : 没有硝烟的战争
+*Java EE技术与应用
+*JavaScript 高级程序设计 = Professional JavaScript for web developers

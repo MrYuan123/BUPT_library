@@ -1,0 +1,21 @@
+#Hadoop应用开发技术详解 = Programming hadoop
+#大数据日知录 : 架构与算法
+#代码整洁之道
+#Hadoop YARN权威指南
+#数据挖掘十大算法
+#Spark大数据处理 : 技术、应用与性能优化 = Data processing with spark : technology, application and performance optimization
+#Spark核心技术与高级应用 = Spark core technology and advanced applications
+#深入理解计算机网络 = Understanding computer networks
+#Hadoop实战 = Hadoop in action
+#大数据Spark企业级实战
+#黑客与画家 : 来自计算机时代的高见
+*数据挖掘 : 实用机器学习工具与技术 = Data mining : practical machine learning tools and techniques
+*MapReduce 2.0源码分析与编程实战
+*大数据时代的IT架构设计
+*MySQL高效编程
+*Hadoop技术内幕 : 深入解析YARN架构设计与实现原理 = Hadoop internals : in-depth study of YARN
+*Python数据分析基础教程 : NumPy学习指南 = NumPy beginner's guide
+*Kali渗透测试技术实战 = Hacking with Kail : practical penetration testing techniques
+*数据结构与程序设计 : C语言
+*代码阅读 = Code reading : the open source perspective
+*实战Hadoop : 开启通向云计算的捷径

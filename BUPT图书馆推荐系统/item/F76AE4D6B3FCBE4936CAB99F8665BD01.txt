@@ -1,0 +1,12 @@
+#数据结构 = Data structures in C++ : 使用C++语言描述
+#LTE系统原理及应用
+*信号与线性系统学习指导与习题解答
+*信号与线性系统学习指南
+*信号与系统
+*LTE协议栈与信令分析 = LTE protocol stack and signaling analysis
+*大话核心网
+*LTE及LTE-Advanced无线协议
+*LTE : UMTS长期演进理论与实践 = LTE-the UMTS long term evolution from theory to practice
+*英文字根字典 = A dictionary of English word roots : 新升级超强版
+*移动宽带技术 : LTE = Mobile broadband technology
+*无线Ad Hoc网络移动模型大全 = The encyclopedia of wireless Ad Hoc network mobility model

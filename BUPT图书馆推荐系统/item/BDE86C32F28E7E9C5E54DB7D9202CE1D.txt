@@ -1,0 +1,14 @@
+#数据仓库应用指南 : 数据仓库与商务智能最佳实践 = The Data warehouse mentor : practical data warehouse and business intelligence insights
+#Oracle数据库管理从入门到精通
+#数据仓库设计 : 现代原理与方法
+#Oracle Database 9i/10g/11g 编程艺术 : 深入数据库体系结构
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

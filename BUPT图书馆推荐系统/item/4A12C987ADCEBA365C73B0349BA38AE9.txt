@@ -1,0 +1,12 @@
+#21天学通Python
+#21天学通Visual C++
+*数字信号处理 : 理论、算法与实现
+*蚀心者
+*数字信号与图像处理 = Digital signal and image processing : 翻译版
+*Java Web 开发实战经典基础篇 : JSP、Servlet、Struts、Ajax
+*Python编程实践 = Practical programming : an introduction to computer science using python
+*Spring实战 = Spring in action
+*Python 开发技术详解
+*计算机网络
+*线性代数
+*高等数学 . 上册

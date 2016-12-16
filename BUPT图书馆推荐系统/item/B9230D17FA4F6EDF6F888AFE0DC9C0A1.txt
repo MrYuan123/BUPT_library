@@ -1,0 +1,13 @@
+#数据库原理与应用
+#MySQL 5.5从零开始学
+#从零开始学 Java Web 开发
+*Eclipse 从入门到精通
+*研磨设计模式
+*成长是一件孤独的事
+*新媒体概论
+*大学英语六级考试写作710分胜经 = Test bible of writing for CET-6
+*大学英语六级考试报刊题源阅读100篇 = 100 reading passages from American and british newspapers for CET-6 . 上
+*30 天通过全国计算机等级考试 = National computer rank examination
+*算法基础 : 打开算法之门 = Algorithms unlocked
+*信号与系统同步辅导
+*数据库原理与技术

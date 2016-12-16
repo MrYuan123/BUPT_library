@@ -1,0 +1,22 @@
+#程序设计语言 = Programming language pragmatics : 实践之路
+#访问控制原理与实践
+#UNIX网络编程 . 卷2 , 进程间通信
+#访问控制概论
+#访问控制与加密
+#UNIX 网络编程 . 卷1 , 套接字联网API = UNIX network programming . volume 1 , The Sockets networking API
+#基于角色的访问控制技术
+#编译器设计 = Engineering a compiler
+#深入理解计算机系统 = Computer systems : a programmer's perspctive
+#高级编译器设计与实现 = Advanced compiler design and implementation
+#R语言 : 实用数据分析和可视化技术 = R for everyone : advanced analytics and graphics
+#R语言数据挖掘 = Data mining with R
+*R语言与数据挖掘 : 最佳实践和经典案例 = R and data mining : examples and case studies
+*自然语言处理综论 = Speech and language processing : an introduction to natural language processing, computational linguistics, and speech recognition
+*人的自我寻求 = Man's search for himself
+*R语言实战 : 编程基础、统计分析与数据挖掘宝典
+*心理学与人类困境 = Psychology and the human dilemma
+*UNIX 环境高级编程 = Advanced programming in the UNIX environment
+*UNIX环境高级编程
+*疯狂Java讲义精粹
+*深入理解 Linux 网络技术内幕
+*LINUX 网络管理员指南

@@ -1,0 +1,18 @@
+#轻量级Java EE企业应用实战 : Struts 2+Spring 4+Hibernate整合开发
+#云计算时代 : 本质、技术、创新、战略
+#深入理解 MySQL 核心技术
+#信息安全保卫战 : 企业信息安全建设策略与实践
+#Java设计模式 = Design patterns in Java
+#软件测试基础 = Introduction to software testing
+#Java并发编程的艺术 = The art of Java concurrency programming
+#MySQL 开发者 SQL 权威指南 = SQL for MySQL developers : a comprehensive tutorial and reference
+*大话设计模式
+*ns-3网络模拟器基础及应用
+*疯狂Java程序员的基本修养
+*Java 开发实战经典
+*数据结构 : Java语言描述
+*Java程序设计基础与应用
+*剑指Offer : 名企面试官精讲典型编程题
+*Java多线程编程核心技术 = Java multi-thread programming
+*自己动手写网络爬虫
+*统计学习方法

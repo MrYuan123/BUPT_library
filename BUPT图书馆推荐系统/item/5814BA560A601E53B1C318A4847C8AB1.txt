@@ -1,0 +1,11 @@
+#数据挖掘的应用与实践 = Data mining where theory meets practice : 大数据时代的案例分析
+*大话5G = The myth of 5G
+*跟老齐学Python : 从入门到精通
+*雅思写作机经词汇 : 最新版
+*剑桥雅思全真试题4·5·6最新解析
+*Python Cookbook (第3版) 中文版
+*博弈论 : 矛盾冲突分析 = Game theory : analysis of conflict
+*高等应用数学问题的MATLAB求解 = Advanced applied mathematical problem solutions with MATLAB
+*剑桥雅思听力考点词真经
+*赢在雅思听力词汇
+*OpenStack设计与实现

@@ -1,0 +1,17 @@
+#Python语言程序设计 = Introduction to programming using Python
+#大学英语六级阅读30天速成胜经 : 新题型
+#六级段落翻译100篇 = CET-6 translation topic 100 : 新题型
+#运筹学实践教程 = Operations research practice guide
+#初等数论及其在信息科学中的应用
+#大学英语4、6级词汇词根、词缀记忆法 = College English vocabulary : 测试版
+#运筹学教程
+*大学英语六级考试词汇必备
+*大学英语六级考试710分全真题精解 : 最新改革题型
+*福尔摩斯冒险史 = The Adventures of Sherlock Holmes
+*福尔摩斯经典探案集
+*C#图解教程 = Illustrated C# 2012
+*ADS2008射频电路设计与仿真实例
+*NumPy攻略 = NumPy cookbook : Python科学计算与数据分析
+*Python数据分析基础教程 : NumPy学习指南 = NumPy beginner's guide
+*ADS 射频电路设计基础与典型应用
+*正则表达式经典实例

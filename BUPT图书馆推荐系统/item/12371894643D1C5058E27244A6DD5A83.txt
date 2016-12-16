@@ -1,0 +1,12 @@
+#无源定位与跟踪 = Passive location and tracking
+#光通信原理与技术
+*卫星网络鲁棒 QoS 路由技术研究
+*卫星网络鲁棒路由算法及TCP协议
+*卫星通信网路由技术及其模拟 = Satellite communication network routing technology and simulation
+*卫星通信 = Satellite communications
+*TD-SCDMA 网络部署、运营与优化实践
+*TD-SCDMA 网络规划与工程
+*蜂窝网络高级规划与优化2G/2.5G/3G/...向4G的演进
+*卫星通信系统
+*计算机网络
+*线性代数

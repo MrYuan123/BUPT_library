@@ -1,0 +1,13 @@
+#学会提问 = Asking the right questions : a guide to critical thinking
+#卧底经济学 = The undercover economist
+#万历十五年
+*罗生门 = Rashomon
+*VHDL程序设计教程
+*谷歌和亚马逊如何做产品 = Shipping greatenss : practical lessons on building and launching outstanding software, learned on the job Google and Amazon
+*影响力 : 如何展示非权力的领导魅力 = Influence : without authority : 珍藏版
+*FLUENT 14.5流场分析从入门到精通
+*ANSYS ICEM CFD工程实例详解
+*FLUENT CFD工程仿真实战指南
+*ANSYS ICEM CFD从入门到精通
+*Fluent 14流场分析自学手册
+*ANSYS 15.0有限元分析从入门到精通

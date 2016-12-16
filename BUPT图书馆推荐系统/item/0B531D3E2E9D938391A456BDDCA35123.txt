@@ -1,0 +1,12 @@
+#现代极限理论及其在随机结构中的应用
+#应用随机过程 : 概率模型导论 = Introduction to probability models
+*TD-LTE 技术原理与系统设计 = TD-LTE principles and system design
+*随机过程 = Stochastic processes
+*4G移动通信技术权威指南 : LTE与LTE-Advanced = 4G LTE/LTE-Advanced for mobile broadband
+*实用多元统计分析 = Applied multivariate statistical analysis
+*博弈论教程 = A Course in Game Theory
+*概率与计算 = Probability and computing : randomized algorithms and probabilistic analysis
+*TOEFL词汇词根+联想记忆法
+*信息论基础
+*VOA慢速英语随身听 , 听力词汇双突破
+*LTE及LTE-Advanced无线协议

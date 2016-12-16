@@ -1,0 +1,20 @@
+#无线Mesh网络基础 = Essentials of wireless mesh networking
+#计算机网络管理与安全技术
+#Java程序员面试宝典
+#计算机网络管理 = Network management
+#网络管理
+#无线Mesh网络应用技术
+#无线 Mesh 网络架构与协议
+#Java程序员面试笔试宝典
+#MySQL管理之道 : 性能调优、高可用与监控 = Management of MySQL : peformance optimization、High availability and surveillance
+#SNMP 简单网络管理协议
+*Linux C编程从入门到精通
+*Linux 常用工具速查实用手册
+*程序员面试宝典
+*数据结构与问题求解 : Java语言版
+*Java虚拟机精讲
+*数据结构 : Java版
+*数据挖掘导论 : 完整版 = Introduction to data mining
+*数据挖掘十大算法
+*Hadoop基础教程 = Hadoop beginner's guide
+*自然语言处理基本理论和方法

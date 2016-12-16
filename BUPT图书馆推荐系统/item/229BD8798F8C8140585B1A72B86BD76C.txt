@@ -1,0 +1,15 @@
+#信道编码与MATLAB仿真
+#LDPC 码基础与应用 = Principle and application of LDPC
+#差错控制编码 = Error control coding
+#信息理论与编码
+#西方科学的起源 = The beginnings of western science : 公元前六百年至公元一千四百五十年宗教、哲学和社会建制大背景下的欧洲科学传统
+*光纤通信
+*现代纠错编码与调制理论及应用 = Modern channel coding and modulation : theory and application
+*排队论 : 基础与分析技术
+*纠错编码原理及MATLAB实现
+*教你看懂天工开物
+*Turbo 与 LDPC 编解码及其应用
+*城域网组网技术与业务运营
+*倾城之恋
+*爱伦·坡黑暗故事
+*零时 = Towards zero

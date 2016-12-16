@@ -1,0 +1,15 @@
+#电信运营企业财务转型 = The Financial transformation of telecom operators
+#宽带业务营销
+#电信增值业务营销
+#企业战略管理案例集
+#电子商务及其在电信行业中的应用
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

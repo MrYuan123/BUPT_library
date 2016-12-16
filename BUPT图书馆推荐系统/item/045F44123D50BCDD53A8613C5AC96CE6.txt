@@ -1,0 +1,13 @@
+#数值分析基础 = Fundamentals of numerical analysis
+#信息论与编码
+#数值计算方法 . 下册
+*信息论基础
+*C++ 面向对象程序设计
+*信息论与编码学习辅导及习题详解
+*信息处理与编码 = Information processing and coding
+*信息论 : 基础理论与应用
+*光学变换·从量子到经典
+*光学原理 = Principles of optics : electromagnetic theory of propagation, interference and diffraction of light
+*数学物理方法 = Mathematical methods for physics
+*信息论理论基础
+*信息论与编码 = Information theory & coding

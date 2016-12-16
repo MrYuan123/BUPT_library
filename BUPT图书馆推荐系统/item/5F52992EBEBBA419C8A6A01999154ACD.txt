@@ -1,0 +1,11 @@
+#MIMO 多天线无线通信系统
+*MIMO 无线通信原理及应用
+*MIMO 技术原理及应用
+*无线通信 = Wireless communications
+*基于 Quartus Ⅱ 的数字系统 Verilog HDL 设计实例详解
+*LTE轻松进阶
+*移动通信中的空时信号处理 = Space-time signal processing for mobile communications
+*无线通信的 MATLAB 和 FPGA 实现
+*计算机网络
+*线性代数
+*高等数学 . 上册

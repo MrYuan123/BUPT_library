@@ -1,0 +1,17 @@
+#RESTful Web Services 中文版 = RESTful web services
+#OMNeT++与网络仿真
+#OMNeT++网络仿真
+#数据挖掘 = Data mining : 实用机器学习技术practical machine learning tools and techniques
+#分布式算法 = Distributed algorithms
+#Linux命令行大全 = The Linux command line
+#WebGL 高级编程 : 开发Web 3D图形
+*Python标准库 = The Python standard library by example
+*NS 网络模拟和协议仿真
+*计算机网络仿真OPNET实用指南
+*Web 搜索 = Web search
+*Linux Shell脚本攻略 = Linux Shell Scripting Cookbook
+*P2P 网络技术原理与系统开发案例 = Technology principle and system development
+*数据挖掘导论 = Introduction to data mining
+*数据挖掘 = Data mining : 概念与技术concepts and techniques
+*形式语言与自动机
+*资治通鉴直解 : 两朝帝师张居正白话讲本

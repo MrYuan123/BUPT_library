@@ -1,0 +1,14 @@
+#应用密码学 : 协议、算法与 C 源程序
+#Python入门经典 = The Practice of computing using Python : 以解决计算问题为导向的Python编程实践
+#Kali Linux渗透测试的艺术 = Kali Linux: assuring security by penetration testing
+#网络攻防技术与实践
+*网络安全基础 : 网络攻防、协议与安全 = Introduction to network security
+*Wireshark数据包分析实战 = Practical packet analysis
+*Kali Linux渗透测试技术详解
+*Oday 安全 : 软件漏洞分析技术
+*Winodows网络编程 = Windows network programming
+*Linux C从入门到精通
+*自控力 : 斯坦福大学最受欢迎心理学课程 = The Willpower instinct
+*Kali渗透测试技术实战 = Hacking with Kail : practical penetration testing techniques
+*女人的能量魔法书
+*深度解析SDN : 利益、战略、技术、实践

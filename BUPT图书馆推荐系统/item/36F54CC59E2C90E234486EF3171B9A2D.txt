@@ -1,0 +1,14 @@
+#社会创新的力量 : 美国社会管理创新启示录
+#公益之痒 : 商业社会中如何做公益
+#如何改变世界 : 用商业手段更好地解决社会问题 = How to change the world : social entrepreneurs and the power of new ideas
+#社会创业 = Social entrepreneurship
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

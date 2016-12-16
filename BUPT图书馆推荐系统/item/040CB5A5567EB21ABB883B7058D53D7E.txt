@@ -1,0 +1,13 @@
+#算法 = Algorithms
+#算法的乐趣
+#零基础学数据结构 : 24小时多媒体教学视频
+*数据挖掘 : 实用案例分析 = Data mining : practical case analysis
+*正则表达式必知必会 = Sams teach yourself regular expressions in 10 minutes
+*机器学习实战 = Machine learning in action
+*程序员历年试题分析与解答
+*R语言 : 迈向大数据之路
+*数据结构与面向对象程序设计 : C++版
+*C++ Primer : 中文版
+*零基础学算法
+*数据结构及应用算法教程
+*剑指Offer : 名企面试官精讲典型编程题

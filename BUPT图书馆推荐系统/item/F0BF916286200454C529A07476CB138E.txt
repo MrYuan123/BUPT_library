@@ -1,0 +1,17 @@
+#不可不知的朝韩史
+#计算机网络 : 网络设计的原理、技术和协议 = Computer networks : principles, technologies and protocols for network design
+#分布式计算系统导论 : 原理与组成
+#计算机网络
+#菊花与刀 = The chrysanthemum and the sword
+#分布式计算
+#面向计算机科学的数理逻辑
+*机器学习 = Machine learning
+*大嘴巴漫谈数据挖掘
+*大数据挖掘 = Using big data to build your business : 系统方法与实例分析
+*Python项目开发实战
+*数据挖掘 : 概念、模型、方法和算法
+*概率论、随机过程与数理统计
+*金字塔原理 : 思考、表达和解决问题的逻辑 = The minto pyramid principle : logic in writing, thinking and problem solving
+*数据挖掘 : 概念与技术
+*惠普之道 : IT服务管理篇
+*新参者

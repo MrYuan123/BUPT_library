@@ -1,0 +1,11 @@
+#现代操作系统
+*UNIX环境高级编程
+*Linux高性能服务器编程 = High perbormance Linux server programming
+*操作系统实践 : 基于Linux的应用与内核编程
+*概率论与数理统计
+*编译原理实验教程
+*编译原理与技术练习解答与实验指导
+*Linux多线程服务端编程 : 使用muduo C++网络库
+*Hadoop技术内幕 : 深入解析Hadoop Common和HDFS架构设计与实现原理 = Hadoop internals : in-depth study of common and HDFS
+*UNIX网络编程 . 卷1 , 套接字联网API
+*Linux内核设计的艺术 = The art of Linux kernel design : 图解Linux操作系统架构设计与实现原理

@@ -1,0 +1,13 @@
+#侦探传奇 = The Legend of detectives : 史上最经典的37个侦探故事
+#尘埃落定
+#平凡的世界 . 第一部
+*平凡的世界 . 第二部
+*平凡的世界 . 第三部
+*长恨歌
+*Java Web 程序设计
+*怀抱鲜花的女人
+*喧哗与骚动 = The sound and the fury
+*零点起飞学JavaScript+jQuery
+*Java语言程序设计
+*国际关系精要 = Essentials of international relations
+*离散时间语音信号处理 : 原理与应用 = Discrete-time speech signal processing : principles and practice

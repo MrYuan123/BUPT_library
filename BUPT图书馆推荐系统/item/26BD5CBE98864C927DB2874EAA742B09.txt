@@ -1,0 +1,16 @@
+#MATLAB工程仿真与应用30例
+#ADS射频电路设计与仿真入门及应用实例
+#无线光通信
+#半导体偏微分方程引论
+#相控阵天线理论和技术
+#天线测量实用手册 = Antenna measurement engineering handbook
+*无线通信的 MATLAB 和 FPGA 实现
+*紫外光自组织网络理论
+*光通信中的 OFDM = OFDM for optical communications
+*天线与电波传播
+*天线理论与技术 = Antenna theory and techniques
+*陈列天线理论与工程应用
+*阵列天线分析与综合
+*宽频带微带天线技术及其应用
+*Web性能测试实战详解
+*电路板设计

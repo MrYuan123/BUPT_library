@@ -1,0 +1,12 @@
+#SQL基础教程
+#大话数据库
+*Linux操作系统与实训教程
+*MySQL 必知必会 = MySQL crash course
+*循序渐进 Linux : 基础知识、服务器搭建、系统管理、性能调优、集群应用
+*Oracle数据库基础及应用
+*4G移动通信技术权威指南 : LTE与LTE-Advanced = 4G LTE/LTE-Advanced for mobile broadband
+*大话移动通信
+*Photoshop 数码照片处理 108 招
+*可爱的 Python
+*Java程序设计与问题求解
+*算法与数据结构 : Java语言描述

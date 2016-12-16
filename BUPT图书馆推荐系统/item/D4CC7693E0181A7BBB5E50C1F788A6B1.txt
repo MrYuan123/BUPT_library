@@ -1,0 +1,13 @@
+#基于 SPSS 的数据分析
+#互联网金融元年 : 跨界、变革与融合 = Internet financing year one : cross-sector, reform and convergence
+#BEC 词汇词根 + 联想记忆法
+*微观经济学十八讲
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学

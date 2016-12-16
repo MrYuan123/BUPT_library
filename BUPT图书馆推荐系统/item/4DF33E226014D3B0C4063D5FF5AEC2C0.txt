@@ -1,0 +1,13 @@
+#爱上单片机
+#管理学 = Handbook of management
+#机械原理习题集及学习指导
+*数字信号处理 : MATLAB版 = Digital signal processing using MATLAB
+*C51 单片机 C 程序模板与应用工程实践
+*高等数学学习与提高 . 下册
+*HTML 5开发实例大全
+*高等数学学习与提高 . 上册
+*21天学通51单片机开发
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

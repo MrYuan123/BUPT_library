@@ -1,0 +1,12 @@
+#光存储与显示技术 = Optical information storage and display technology
+#超高密度超快速光信息存储 = Super-density and super-speed optical data storage
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

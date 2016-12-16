@@ -1,0 +1,14 @@
+#算法与数据结构
+#设计模式之禅 = The Zen of design patterns
+#快学Scala = Scala for the impatient
+#Spark大数据处理技术
+*数据结构 : C++语言版
+*MATLAB 8.0从入门到精通
+*PHP 函数库查询辞典
+*大数据时代的IT架构设计
+*Web Services 原理与研发实践
+*Storm : 大数据流式计算及应用实践
+*Go语言编程 = The Go programming language
+*Spark大数据实例开发教程
+*Go语言程序设计 = Programming in Go : creating applications for the 21st century
+*Spark MLlib机器学习实践

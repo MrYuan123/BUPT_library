@@ -1,0 +1,13 @@
+#美国人最喜欢和你聊的 50 个话题 = The 50 hottest topics in America
+#Verilog 数字系统设计教程
+#交际英语应急口语 900 句
+*Java 7从入门到精通
+*Verilog 嵌入式数字系统设计教程 = Digital design : ean embedded systems approach using Verilog
+*Verilog HDL数字设计与综合 : 本科教学版 = Verilog HDL : a guide to digital design and synthesis
+*Xilinx FPGA开发实用教程 = Xilinx FPGA : development and application
+*FPGA 应用开发入门与典型实例
+*Xilinx ISE 9.x FPGA/CPLD 设计指南
+*无线通信的 MATLAB 和 FPGA 实现
+*基于 Verilogrr 的 FPGA 设计基础
+*Verilog HDL 应用程序设计实例精讲
+*C++ 语言 99 个常见编程错误 = C++ Gotchas : avoiding common problems in coding and design

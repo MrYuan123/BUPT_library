@@ -1,0 +1,12 @@
+#Java 程序设计与数据结构导论 = Java foundations : introduction to program design and data structures
+#Java软件结构与数据结构
+*Java 7从入门到精通
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学

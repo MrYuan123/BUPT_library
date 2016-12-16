@@ -1,0 +1,12 @@
+#TD-LTE 网络规划设计与优化 = TD-LTE network planning, design and optimization
+#4G小基站系统原理、组网及应用 = Principle, networking and application of 4G small cell system
+*TD-LTE 技术原理与系统设计 = TD-LTE principles and system design
+*实战大数据
+*数据挖掘 = Data mining : 实用机器学习技术practical machine learning tools and techniques
+*Hadoop海量数据处理 : 技术详解与项目实战
+*Web数据挖掘
+*数据挖掘技术 : 市场营销、销售与客户关系管理领域应用 = Data mining techniques : for marketing, sales and customer relationship management
+*TMS320 C6000 DSP 结构原理与硬件设计
+*腾云 : 云计算和大数据时代网络技术揭秘
+*TMS320C6000 系列 DSP 开发应用技巧 : 重点与难点部析
+*MySQL技术内幕 : SQL编程 = Inside MySQL : SQL programming

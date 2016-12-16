@@ -1,0 +1,16 @@
+#黑客攻防从入门到精通 , 实战版
+#JavaScript学习指南
+#高性能 JavaScript = High performance JavaScript
+#别具光芒 : CSS网页布局案例剖析
+#PHP 深度分析 : 101个核心技巧、窍门和问题解决方法
+#Ajax 实战实例详解 = Ajax in practice
+*深入PHP : 面向对象、模式与实践 = PHP objects, patterns, and practice
+*高性能网站建设进阶指南 : Web开发者性能优化最佳实践 = Even faster Web sites : performance best practices for Web developers
+*编写高质量代码 : 改善JavaScript程序的188个建议 = Writing soliv JavaScript cove 188 suggestion to improve your JavaScript program
+*PHP & MySQL实战手册
+*jQuery网页开发实例精解
+*Head First jQuery : 中文版
+*Android程序设计
+*JavaScript 语言精粹 = JavaScript : the good parts
+*JavaScript入门经典
+*HTML 5+CSS+JavaScript深入学习实录

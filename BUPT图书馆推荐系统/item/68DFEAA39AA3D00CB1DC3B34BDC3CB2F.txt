@@ -1,0 +1,15 @@
+#离散数学及其应用 = Discrete mathematics and its applications
+#物联网导论
+#数据结构 : C语言版
+#MATLAB基础与应用
+#博弈论平话
+*Windows 核心编程 = Windows via C/C++
+*Python宝典
+*精通MATLAB信号处理 = Proficient in MATLAB signal processing
+*数字逻辑学习辅导
+*焦糖 = Caramel
+*Unity 2D游戏开发实例教程
+*Unity 2D游戏开发秘籍
+*算法与数据结构习题精解与实验指导
+*计算机算法设计与分析
+*矩阵与编码

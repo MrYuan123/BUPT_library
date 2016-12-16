@@ -1,0 +1,12 @@
+#SPSS统计分析与应用
+#Excel与数据分析
+*SQL Server 2012数据库技术与应用
+*傲慢与偏见 = Pride and prejudice : 插图·中文导读英文版
+*宏观经济学 = Macroeconomics
+*季羡林随想录 . 二
+*iOS开发指南 : 从零基础到App Store上架
+*黑天鹅 : 如何应对不可预知的未来 = The Black swan : the impact of the highly improbable
+*SPSS基础分析教程 = Introduction to basic analysis using SPSS 22
+*不确定状况下的判断启发式和偏差 = Judgment under uncertainty : heuristics and biases
+*陋巷 : 丰子恺散文
+*2013 考研英语主观题40分攻略翻译与写作

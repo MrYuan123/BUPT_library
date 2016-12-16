@@ -1,0 +1,13 @@
+#随机过程 = Stochastic processes
+#马氏过程
+#随机过程与应用
+*TD-LTE 技术原理与系统设计 = TD-LTE principles and system design
+*应用随机过程 : 概率模型导论 = Introduction to probability models
+*博弈论教程 = A Course in Game Theory
+*概率与计算 = Probability and computing : randomized algorithms and probabilistic analysis
+*实用多元统计分析 = Applied multivariate statistical analysis
+*4G移动通信技术权威指南 : LTE与LTE-Advanced = 4G LTE/LTE-Advanced for mobile broadband
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

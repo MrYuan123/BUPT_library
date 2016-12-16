@@ -1,0 +1,22 @@
+#考研英语经典必背500句
+#SPSS统计分析与数据挖掘
+#雅思词汇词根+联想记忆法 : 乱序版
+#统计学 = Statistics
+#IBM SPSS数据分析与挖掘实战案例精粹
+#程序员面试宝典
+#MySQL 必知必会 = MySQL crash course
+#与孩子一起学编程 = Computer programming for kids and other beginners
+#趣学Python : 教孩子学编程
+#白话统计学 = Statistics in plain English
+#眼前生活必备英文
+#数理统计与数据分析 = Mathematical statistics and data analysis
+*最优化理论与算法习题解答
+*歪歪的漫画书 , 疯狂的6级词汇 = Waiwai's cartoon , Crazy CET-6 vocabulary
+*3分钟听懂美国新闻英语 , 社会·文化
+*AMOS 与研究方法
+*Visual C++ .NET 编程经典 : 从 C++到Visual C++.NET快速进阶
+*剑桥雅思全真试题7最新解析
+*Java程序员面试宝典
+*C++ Primer : 中文版
+*SPSS与统计分析
+*数据挖掘导论

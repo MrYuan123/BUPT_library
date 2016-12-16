@@ -1,0 +1,18 @@
+#论语别裁 . 上册
+#西方美学史 : 插图典藏本 . 上卷
+#微分流形初步 = An introduction to differentiable manifold
+#中国对法国哲学思想形成的影响 = La Chine et la formation de l'esprit philosophique en France (1640-1740)
+#电磁学
+#乐学原理释义 = Allgemeine Musiklehre
+#Lie groups, Lie algebras, and their representations /李群, 李代数及其表示
+#李群
+*自主移动机器人设计与制作
+*电工技术
+*大学书法
+*机械设计基础
+*新托业阅读本领书 = TOEIC power reading
+*钱文忠漫谈人生
+*瞄准新托业 , 全真模拟试题篇 = Target new TOEIC , test
+*数据可视化
+*Linux Shell脚本攻略 = Linux Shell Scripting Cookbook
+*林清玄散文精选

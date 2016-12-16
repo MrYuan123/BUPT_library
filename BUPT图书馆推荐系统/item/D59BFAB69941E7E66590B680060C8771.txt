@@ -1,0 +1,12 @@
+#PowerPC860 嵌入式系统及应用
+#HTML5秘籍 = HTML5 the missing manual : the book that should have been in the box
+*JavaScript从零开始学 : 视频教学版
+*MATLAB神经网络应用设计
+*μC/OS-Ⅱ 标准教程
+*ARM 嵌入式 C 编程标准教程
+*嵌入式实时操作系统μC/OS-III = μC/OS-III, the real-time kernel
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

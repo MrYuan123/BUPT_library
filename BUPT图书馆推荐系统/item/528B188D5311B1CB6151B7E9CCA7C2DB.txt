@@ -1,0 +1,21 @@
+#微机原理与接口技术
+#Intel 微处理器 = The Intel microprocessors : 8086/8088, 80186/80188, 80286, 80386, 80486, Pentium, Pentium Pro Processor, Pentium II, Pentium III, Pentium 4, and Core2 with 64-bit extensions : architecture, programming, and interfacing
+#汇编语言程序设计教程
+#光电检测技术
+#信号与系统
+#现代控制系统
+#汇编语言程序设计习题集
+#微机原理与接口技术复习指导和习题解答
+#《光电检测技术》习题与实验
+#工程测试技术 = Engineering measurement technology
+#信号与线性系统解题指导
+*自动控制原理习题解析
+*自动控制原理题海与考研指导
+*卡耐基写给青年全集
+*汇编语言、微机原理及接口技术
+*汇编语言与接口技术学习指导典型题解 : 新版
+*Java 语言程序设计
+*数据与计算机通信 = Data and computer communications
+*2016考研数学 (一) 典型题660
+*考研数学三部曲之大话高等数学
+*宽带网络技术

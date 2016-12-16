@@ -1,0 +1,13 @@
+#无线通信 = Wireless communications
+#天线理论与技术 = Antenna theory and techniques
+#现代无线通信原理
+*无线通信原理与应用 = Wireless communications principles and practice
+*卫星通信系统
+*数字卫星通信
+*卫星通信系统工程 = Satellite communications systems engineering atmospheric effects, satellite link design and system performance
+*天线与电波传播
+*天线测量实用手册 = Antenna measurement engineering handbook
+*陈列天线理论与工程应用
+*阵列天线分析与综合
+*宽频带微带天线技术及其应用
+*Order statistics and inference :

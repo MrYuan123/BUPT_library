@@ -1,0 +1,13 @@
+#ARM9嵌入式系统设计直通车
+#白先勇自选集
+#数字通信同步技术的MATLAB与FPGA实现 : Altera/Verilog版
+*Xilinx系列FPGA芯片IP核详解
+*Java并发编程实战 = Java concurrency in practice
+*深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM : advanced features and best practices
+*多抽样率信号处理
+*下一代宽带无线通信 OFDM 与 MIMO 技术
+*数字信号处理 : 基于计算机的方法 = Digital signal processing : A Computer-based approach
+*通信中的同步技术及应用
+*多抽样率数字信号处理理论及其应用
+*高级无线通信 : 4G认知与协作宽带技术 = Advanced Wireless communications : 4G cognitive and cooperative broadband technology
+*无线局域网 (WLAN) : 原理、技术与应用

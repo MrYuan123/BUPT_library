@@ -1,0 +1,11 @@
+#价值评估 = Valuation : 公司价值的衡量与管理measuring and managing the value of companies
+*巴菲特与索罗斯的投资习惯
+*彼得·林奇的成功投资 = One up on wall street : how to use what you already know to make money in the market
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

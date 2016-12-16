@@ -1,0 +1,13 @@
+#Eclipse 从入门到精通
+#研磨设计模式
+#从零开始学 Java Web 开发
+*MySQL 5.5从零开始学
+*数据库原理与应用
+*LabVIEW实用工具详解
+*零基础学PHP
+*高级人工智能
+*大学 C/C++ 程序设计案例教程
+*C++ 程序设计
+*Web数据挖掘
+*计算机网络 : 系统方法 = Computer networks : a systems approach
+*Java 语言程序设计 = Introduction to Java programming , 进阶篇

@@ -1,0 +1,14 @@
+#学通Java Web的24堂课 : 110集大型多媒体教学视频
+#信息论基础
+#信息论基础习题解答 = Elements of information theory : solutions to exercises
+#网页程序设计HTML 5·JavaScript CSS·XHTML·Ajax
+*点云库PCL学习教程
+*三维计算机视觉技术和算法导论 = An introduction to 3D computer vision techniques and algorithms
+*统计物理学 . 1
+*量子力学
+*量子信息处理技术
+*矩阵论导教·导学·导考
+*应用随机过程
+*异构无线网络融合理论与技术实现
+*异构无线网络切换技术
+*信息论与编码

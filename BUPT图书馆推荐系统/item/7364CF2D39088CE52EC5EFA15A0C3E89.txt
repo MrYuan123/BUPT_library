@@ -1,0 +1,13 @@
+#数据库系统概念 = Database system concepts
+#高分新托福阅读120
+#马克·吐温短篇小说精选 = The Selected short stories of mark twain : 中文导读英文版
+*无线网络原理与应用
+*计算机网络 = Computer networking : 自顶向下方法与Internet特色a top-down approach featuring the Internet
+*新编复变函数题解
+*C++ 面向对象程序设计习题解答与实验指导
+*21天学通C++
+*信号与系统辅导与习题详解
+*Java程序设计
+*MATLAB 7.0从入门到精通
+*C 程序设计
+*大学物理思考题和习题选解

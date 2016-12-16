@@ -1,0 +1,18 @@
+#电力线通信技术与实践
+#数字通信 = Digital communications
+#统计信号处理基础 : 估计与检测理论 . 卷I = Fundamentals of statistical signal processing . volume I , estimation theory统计信号处理基础 : 估计与检测理论 . 卷II = Fundamentals of statistical signal processing . volume II , detection theory
+#LDPC 码理论与应用
+#“胡”说IC : 菜鸟工程师完美进阶
+#Turbo 码设计与应用
+#高效信道编译码技术及其应用
+#宽带无线通信 OFDM 技术
+*Turbo 与 LDPC 编解码及其应用
+*差错控制编码 = Error control coding from theory to practice
+*MIMO-OFDM无线通信技术及MATLAB实现 = MIMO-OFDM wireless communications with MATLAB
+*无线传感器网络安全技术概论
+*数字与模拟通信系统 = Digital and analog communication systems
+*信息检测与估计 : 原理及应用 = Detection and estimation : principles and applications
+*阵列信号处理的理论与应用
+*阵列信号处理及MATLAB实现
+*现代信号谱分析 = Spectral analysis of signals
+*多维信号处理与多维系统

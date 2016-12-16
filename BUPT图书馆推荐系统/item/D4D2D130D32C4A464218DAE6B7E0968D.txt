@@ -1,0 +1,13 @@
+#JavaScript学习指南
+#jQuery网页开发实例精解
+#Head First jQuery : 中文版
+*Java程序开发范例宝典
+*由浅入深学SQL Server : 基础、进阶与必做300题
+*HTML5 Canvas开发详解
+*Shell 脚本学习指南
+*Java 8基础应用与开发
+*Linux Shell命令行及脚本编程实例详解
+*Android程序设计
+*jQuery开发从入门到精通
+*JavaScript 语言精粹 = JavaScript : the good parts
+*JavaScript入门经典

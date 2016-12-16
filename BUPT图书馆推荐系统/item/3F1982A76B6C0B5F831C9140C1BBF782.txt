@@ -1,0 +1,14 @@
+#实用 Java 语言程序设计 : 基于Eclipse
+#过程挖掘 : 业务过程的发现、合规和改进
+#面向大数据的高效能垃圾文本分类
+#Java 开发实战 1200 例 . 第1卷
+*规划算法
+*图论算法理论、实现及应用
+*数据挖掘 : 概念与技术 = Data mining : concepts and techniques
+*业务流程管理
+*人工智能 : 一种现代的方法
+*人工智能 = Artificial intelligence : 复杂问题求解的结构和策略structures and strategies for complex problem solving
+*过程感知的信息系统
+*柔性业务过程管理体系与方法
+*工作流管理 : 模型、方法和系统
+*轻松掌握 Hibernate : J2EE 开发者指南

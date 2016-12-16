@@ -1,0 +1,21 @@
+#从零开始学 JavaScript
+#MATLAB 小波分析
+#信号处理与数据分析 = Signal processing and data analysis
+#非平稳信号特征提取方法及其应用
+#信息论基础 = Elements of information theory
+#现代模式识别 = Modern pattern recognition
+#信号与系统 : 精编版
+#数字滤波器原理及应用 : 借助MATLAB = Digital filters principles and applications with MATLAB
+#小波分析与应用实例
+#C#编程实战宝典
+#信号分析与处理 = Signal analysis and processing
+*现代信号处理教程
+*密码编码学与网络安全 : 原理与实践 = Cryptography and network security : principles and practice
+*从算法到程序
+*博弈论 = The game theory
+*应用概率统计
+*木偶奇遇记 = The Adventures of pinocchio : 插图·中文导读英文版
+*Unity 4.3游戏开发项目实战 : C#、JavaScript版本
+*wow!1000个彩色简笔画
+*信号处理与模式识别
+*小波分析及其应用

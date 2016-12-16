@@ -1,0 +1,14 @@
+#哥德尔、艾舍尔、巴赫 : 集异璧之大成
+#自私的基因
+#计算机组织与体系结构 : 性能设计 = Computer organization and architecture : designing for performance
+#Qt Creator快速入门
+*Qt4 图形设计与嵌入式开发
+*Qt 5开发及实例
+*文明的度量 : 社会发展如何决定国家命运 = The measure of civilization : how social development decides the fate of nations
+*差半车麦秸
+*自适应Fourier变换 : 一个贯穿复几何, 调和分析及信号分析的数学方法
+*征服C指针
+*战争 : 从类人猿到机器人, 文明的冲突和演变 = War!what is it good for？ : conflict and the progress of civilization from primates to robots
+*计算机网络
+*线性代数
+*高等数学 . 上册

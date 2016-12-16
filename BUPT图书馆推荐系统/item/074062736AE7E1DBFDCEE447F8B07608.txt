@@ -1,0 +1,15 @@
+#设计中的设计
+#Android程序设计
+#Struts+Spring+Hibernate 开发入行真功夫
+#集装箱改变世界 = The box : how the shipping container made the world smaller and the world economy bigger
+#当我谈跑步时 我谈些什么
+*JavaScript入门经典
+*JavaScript 语言精粹 = JavaScript : the good parts
+*JavaScript学习指南
+*老人与海 = The old man and the sea
+*那些伤, 为什么我还放不下
+*影响力 = Influence : the psychology of persuasion
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

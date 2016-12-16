@@ -1,0 +1,30 @@
+#矩阵分析与应用 = Matrix analysis and applications
+#钓愚 : 操纵与欺骗的经济学 = Phishing for phools : the economics of manipulation and deception
+#自律力 : 创建持久的行为习惯，成为你想成为的人 = Triggers : creating behavior that lasts--becoming the person you want to be
+#应用MATLAB实现神经网络
+#梵高传
+#数值方法
+#MATLAB技术大全
+#SCI论文写作解析 : EndNote/RefViz/SPSS/Origin/Illustrator综合教程
+#MATLAB智能算法30个案例分析
+#MATLAB应用大全
+#奥黛丽·赫本 = The life of Audrey Hepburn
+#精通MATLAB与C/C++混合程序设计
+#沟通的艺术 : 看入人里, 看出人外 = Look out look in
+#MATLAB/Simulink系统仿真超级学习手册
+#性、生态、灵性 = Sex, ecology, spirituality
+#人工神经网络原理
+#MATLAB完全自学手册
+#凸优化 = Convex optimization
+#精通MATLAB科学计算
+#矩阵的半张量积 : 理论与应用
+*数学哲学
+*从大学数学走向现代数学
+*大嘴巴漫谈数据挖掘
+*数学桥 : 对高等数学的一次观赏之旅 = A Mathematical bridge : an intuitive journey in higher mathematics
+*MATLAB工程与科学绘图 = MATLAB drawing engineering and science
+*神经网络与机器学习 = Neural networks and learning machines
+*算法导论 = Introduction to algorithms
+*慕课 (MOOCs) 开源平台建设与应用 : Moodle 2大规模在线考试研究与实践
+*Moodle 网络课程平台
+*你所谓的稳定, 其实是在浪费生命 : 李开复给年轻人的100个忠告

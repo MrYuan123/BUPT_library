@@ -1,0 +1,16 @@
+#定位技术解问
+#XML挖掘 : 聚类、分类与信息提取
+#移动定位与跟踪 : 从传统型技术到协作型技术 = Mobile positioning and tracking : from conventional to cooperative techniques
+#目标跟踪系统中的滤波方法
+#用图表说话 : 麦肯锡商务沟通全新解读 = Say it with charts : the executive's guide to visual communication
+#定位技术理论与方法
+*详解MATLAB/Simulink通信系统建模与仿真 : 配视频教程
+*数值分析与科学计算
+*室内外无线定位与导航
+*通信系统中 MATLAB 基础与仿真应用
+*数值分析
+*MATLAB/Simulink 通信系统建模与仿真实例精讲
+*Matlab/Simulink 通信系统建模与仿真实例分析
+*位置计算 : 无线网络定位与可定位性 = Location-based computing : localization and localizability of wireless-networks
+*计算机网络
+*线性代数

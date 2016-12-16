@@ -1,0 +1,13 @@
+#数学建模入门与提高
+#MATLAB GUI设计学习手记
+#MATLAB数学实验与建模
+*数学建模方法与分析 = Mathematical modeling
+*当行善统治商业 = Screw business as usual
+*虚无的十字架
+*数学建模算法与应用习题解答
+*日本蜡烛图技术新解 = Beyond candlesticks : new Japanese charting techniques revealed
+*微机系统和接口应用技术
+*新编计算机英语 = A New course in computer English
+*微型计算机系统原理及应用 : IA-32 结构 (80x86系列)
+*操作系统设计与实现 = Operating systems design and implementation . 上册
+*数学建模

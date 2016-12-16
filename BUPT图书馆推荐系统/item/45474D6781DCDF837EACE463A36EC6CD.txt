@@ -1,0 +1,16 @@
+#企业信息化融合 : 基于SCM、ERP、CRM集成
+#云计算 : 企业信息化建设策略与实践
+#SAP ERP原理与实训教程 = SAP ERP principle and practical training textbook
+#ERP原理·设计·实施
+#CIO的智慧 : 企业信息化管理的最佳实践 = CIO wisdom II : more best practices
+#SAP入门经典
+*MATLAB 遗传算法工具箱及应用
+*MATLAB遗传算法工具箱及应用
+*云计算与 SOA = Cloud computing and SOA convergence in your enterprise : a step-by-step guide
+*云计算 : 实现、管理与安全 = Cloud computing : implementation, management, and security
+*遗传算法 : 理论、应用与软件实现
+*云计算安全技术与应用
+*云计算技术架构与实践
+*遗传算法的基本理论与应用
+*云计算安全指南 = Cloud security : a comprehensive guide to secure cloud computing
+*云计算 : 资源调度管理

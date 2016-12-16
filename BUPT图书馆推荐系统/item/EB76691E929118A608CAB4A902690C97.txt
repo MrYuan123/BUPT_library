@@ -1,0 +1,15 @@
+#电力系统电磁暂态计算与EMTP应用
+#HTML5网页设计案例课堂
+#智能电网通信及组网技术 = Smart grid communications and networking
+#精通MATLAB科学计算 = Proficient in MATLAB scientific computing
+#深入浅出Node.js
+*学习 OpenCV : 中文版
+*MATLAB图像处理375例
+*精通MATLAB智能算法 = Proficient in MATLAB intelligent algorithm
+*汇编语言
+*Node.js实战 = Learning Node.js : a hands-on guide to building web applications in JavaScript
+*天才在左 疯子在右
+*矩阵理论与方法 = Theory and methods of matrixes
+*麦肯锡效率 = Mckinsey efficiency
+*HTML5移动Web开发实战详解
+*Python 核心编程

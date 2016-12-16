@@ -1,0 +1,11 @@
+#征服C指针
+*哥德尔、艾舍尔、巴赫 : 集异璧之大成
+*文明的度量 : 社会发展如何决定国家命运 = The measure of civilization : how social development decides the fate of nations
+*自适应Fourier变换 : 一个贯穿复几何, 调和分析及信号分析的数学方法
+*差半车麦秸
+*战争 : 从类人猿到机器人, 文明的冲突和演变 = War!what is it good for？ : conflict and the progress of civilization from primates to robots
+*Linux 指令范例速查手册
+*大话处理器 : 处理器基础知识读本
+*图解机器学习
+*量化投资 : 策略与技术
+*C++ Primer (第4版) 习题解答

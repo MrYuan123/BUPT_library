@@ -1,0 +1,19 @@
+#企业信用管理 = Credit risk management
+#信用资本问题研究 = Studies on credit capital
+#企业信用与企业成长 : 理论与实证研究
+#信用营销
+#信用的博弈演化研究
+#信用风险管理
+#信用管理 = Credit management
+#合作治理与社会服务管理创新 : 朝阳模式研究
+#全程信用管理实务与案例 = exercise and cases of the whole course credit annagenent : 销售与回款业务流程整体解决方案
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

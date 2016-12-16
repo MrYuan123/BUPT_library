@@ -1,0 +1,13 @@
+#千年的遗恨 : 变动中的政治格局与列国沉浮
+#大学英语四级阅读30天速成胜经 : 新题型
+#美国的精神 = American spirit : 美国现代政界领袖演讲精选famous speeches of modern U.S. politicians
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

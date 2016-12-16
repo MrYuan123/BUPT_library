@@ -1,0 +1,16 @@
+#Hadoop MapReduce实战手册
+#凸优化理论 = Convex optimization theory
+#深入理解Spark : 核心思想与源码分析 = Spark internals : core design and source code analysis
+#李尔王 = King Lear
+#美国后现代派小说选读 = Selected readings in American postmodernist fiction
+#软件小设计
+*哈姆莱特 = Hamlet
+*Spark核心技术与高级应用 = Spark core technology and advanced applications
+*Excel/PPT 2013办公应用从入门到精通
+*MySQL核心技术与最佳实践 = MySQL core technology & best practice
+*数据结构教程
+*计算机网络
+*数据库原理与应用 (第2版) 实验指导与习题解答
+*分布式计算原理与应用
+*大数据安全技术与应用
+*计算机系统结构学习指导与题解

@@ -1,0 +1,11 @@
+#Java Web开发入门很简单
+*自控力 : 斯坦福大学最受欢迎心理学课程 = The Willpower instinct
+*大数据分析与数据挖掘
+*Python入门经典
+*Python数据分析基础教程 : NumPy学习指南 = NumPy beginner's guide
+*Python语言程序设计
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

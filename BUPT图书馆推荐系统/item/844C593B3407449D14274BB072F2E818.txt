@@ -1,0 +1,12 @@
+#Linux就是这个范儿 = I'm a newbie, could I master Linux? Sure, just do it
+#信息检索导论 = Introduction to information retrieval
+*腾云 : 云计算和大数据时代网络技术揭秘
+*Java程序员面试宝典
+*解密搜索引擎技术实战 : Lucene & Java精华版
+*线性代数
+*OSGi实战 = OSGi in action : creating modulaer applications in Java
+*零基础学Java : 13小时多媒体教学视频
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

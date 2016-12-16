@@ -1,0 +1,18 @@
+#经济数学方法与模型
+#经济博弈论习题指南
+#工程矩阵理论
+#矩阵分析
+#信息与激励经济学
+#心理学最佳入门 = Psychology
+#矩阵论引论
+#矩阵分析引论及其应用 = Introduction to matrix analysis with applications
+*商业模式新生代 = Business model generation
+*SPSS统计分析高级教程
+*商业模式新生代 , 个人篇 : 一张画布重塑你的职业生涯 = Business model you : a one-page method for reinventing your career
+*现代控制理论
+*矩阵论札记
+*线性代数及其应用导论 = Linear algebra : a first course with applications to differential equations
+*数字信号分析和处理 = Digital signal analysis and processing
+*概率论与随机过程 : 理论、历史及应用
+*数据结构与算法 . 上册
+*数据结构

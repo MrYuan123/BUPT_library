@@ -1,0 +1,14 @@
+#Spring 3.0就这么简单
+#精通 Hibernate
+#HTML5程序设计 = Pro HTML5 programming
+#HTML 5与CSS 3权威指南 = HTML 5 and CSS 3 : the definitive guide . 上册
+*JavaScript权威指南
+*Hibernate 开发与实战
+*JavaScript高级程序设计 = Professional JavaScript for web developers
+*C语言程序设计
+*HTML 5与CSS 3 权威指南 = HTML 5 and CSS 3 : the definitive guide . 下册
+*精通JavaScript开发 = Pro JavaScript development : coding, capabilities, and tooling
+*DIV+CSS网站布局案例精粹
+*jQuery应用开发实践指南 = Learning jQuery : a hands-on guide to building rich interactive web front ends
+*学习 PHP 和 MySQL
+*Learning PHP设计模式

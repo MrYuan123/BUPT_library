@@ -1,0 +1,15 @@
+#精通 SQL : 结构化查询语言详解
+#数据挖掘 : R语言实战
+#深入云计算 : Hadoop应用开发实战详解
+#由浅入深学C++ : 基础、进阶与必做300题
+#妙趣横生的算法 : C++语言实现
+*Redis入门指南
+*MATLAB实用教程 = The practical textbook of MATLAB
+*Hadoop技术内幕 : 深入解析YARN架构设计与实现原理 = Hadoop internals : in-depth study of YARN
+*Objective-C基础教程 = Learn Objective-C on the mac for OS X and iOS
+*深入理解计算机系统 = Computer systems : a programmer's perspective
+*Effective objective-C 2.0 : 编写高质量iOS与OS X代码的52个有效方法 = Effective objective-C 2.0 : 52 specific ways to improve your iOS and OS X programs
+*傲慢与偏见
+*Hadoop云计算实战 = Hadoop cloud computing practice
+*实战Hadoop : 开启通向云计算的捷径
+*雪国

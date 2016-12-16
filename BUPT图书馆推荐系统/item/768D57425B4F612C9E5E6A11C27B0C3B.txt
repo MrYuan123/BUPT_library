@@ -1,0 +1,12 @@
+#网页开发手记 : HTML+CSS+JavaScript实战详解
+#JavaScript网页特效经典300例
+*HTML 5与CSS 3网页设计入门与提高
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学

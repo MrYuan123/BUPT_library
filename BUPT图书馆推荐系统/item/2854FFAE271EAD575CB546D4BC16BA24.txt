@@ -1,0 +1,15 @@
+#专利信息分析及典型应用
+#密码编码学与网络安全 = Cryptography and network security : 原理与实践principles and practices
+#密码学原理与实践 = Cryptography theory and practice
+#专利检索策略及应用
+#密码编码学与网络安全 : 原理与实践 = Cryptography and network security : principles and practice
+*算法导论 = Introduction to algorithms
+*密码学与网络安全
+*博弈论 = The game theory
+*从算法到程序
+*应用概率统计
+*现代模式识别 = Modern pattern recognition
+*卫星网络鲁棒路由算法及TCP协议
+*移动互联网技术 = Mobile internet technology
+*LTE/LTE-Advanced-B3G/4G/B4G移动通信系统无线技术
+*无线与移动网技术

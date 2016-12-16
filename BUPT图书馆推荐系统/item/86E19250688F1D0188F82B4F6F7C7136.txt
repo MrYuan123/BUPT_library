@@ -1,0 +1,12 @@
+#ACM 国际大学生程序设计竞赛题解 . 1
+#剑指Offer : 名企面试官精讲典型编程题
+*C++ Primer : 中文版
+*算法导论 = Introduction to algorithms
+*MySQL教程
+*Linux下C语言应用编程
+*程序员面试逻辑题解析 = Puzzles for programmers and pros
+*Linux内核编程 = The Linux Kernel primer
+*编程珠玑 = Programming pearls
+*轻量级Java EE企业应用实战 : Struts 2+Spring 4+Hibernate整合开发
+*Head First Python中文版
+*大话数据结构 = Play with data structure

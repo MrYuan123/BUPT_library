@@ -1,0 +1,22 @@
+#光纤光栅理论基础与传感技术
+#非线性光纤光学原理及应用 = Nonlinear fiber optics, fourth edition & applications of nonlinear fiber optics, second edition
+#Java程序设计基础与应用
+#产品经理的第二本书 = The Product manager's field guide : practical tools, exercises, and resources for improved product management
+#产品经理 : 从菜鸟到大师
+#光波导理论
+#硅基光电子学
+#光波导理论基础教程
+#光纤光栅 : 原理、技术与传感应用
+#Scrum要素 = The Elements of scrum
+#苏菲的世界 = Sophie's world
+#以用户为中心的软件设计 : 打造用户友好型应用的有效方法和准则
+*光纤光学前沿
+*数据结构 : Java语言描述
+*轻量级Java EE企业应用实战 : Struts 2+Spring 4+Hibernate整合开发
+*光纤通信 = Optical fiber communications
+*考研英语阅读题源全集
+*产品神话 = Product juggernauts
+*品牌运营与企业利润 = Profit brand : how to increase the profitability, accountability and sustainability of brands
+*研发困局 : 研发管理变革之路
+*智慧研发管理
+*谁还在背单词 , 大学英语六级词汇

@@ -1,0 +1,17 @@
+#Python程序设计 = An introduction to programming using python
+#R语言数据挖掘方法及应用
+#数学分析 . 上
+#数学分析 . 下
+#Python程序设计基础
+#西方语言学流派 = Schools of linguistics
+#机器学习实战 = Machine learning in action
+*高等数学 . 上册
+*Python 3面向对象编程 = Python 3 object oriented programming
+*算法导论 = Introduction to algorithms
+*Ubuntu Server 最佳方案
+*Windows 7 注册表秘技大搜捕
+*团队之美
+*CFA 模拟题详解
+*R语言轻松入门与提高
+*CFA考试辅导指南 : 配套习题集
+*CFA考试辅导指南

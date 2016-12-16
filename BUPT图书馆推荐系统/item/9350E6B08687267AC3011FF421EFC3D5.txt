@@ -1,0 +1,14 @@
+#OMNeT++与网络仿真
+#Linux Shell脚本攻略 = Linux Shell Scripting Cookbook
+#Web 搜索 = Web search
+#P2P 网络技术原理与系统开发案例 = Technology principle and system development
+*RESTful Web Services 中文版 = RESTful web services
+*OMNeT++网络仿真
+*数据挖掘 = Data mining : 实用机器学习技术practical machine learning tools and techniques
+*分布式算法 = Distributed algorithms
+*Linux命令行大全 = The Linux command line
+*WebGL 高级编程 : 开发Web 3D图形
+*送你一颗子弹 = Send you a bullet
+*Python高手之路 = The Hacker's guide to Python
+*经济学 = Econmics
+*数据结构、算法与应用 : C++语言描述 = Data structures, algorithms, and applications in C++

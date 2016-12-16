@@ -1,0 +1,15 @@
+#微型计算机原理及应用习题集
+#BBC 实况英语听力练习 = BBC world news English
+#通信原理 (第六版) 同步辅导及习题全解
+#信息论与编码学习辅导及习题详解
+#剑桥商务英语考试BEC历年真题解析及模拟试题 = Analysis for original tests a bible of modle tests , 中级
+*通信原理辅导与习题解答
+*幸福了吗?
+*Photoshop CS5从新手到高手
+*通信原理学习辅导 = Tutorial of problems and test papers for communication principles
+*深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM : advanced features and best practices
+*通信原理
+*微型计算机技术学习指导与习题解答
+*通信原理学习及考研辅导
+*樊昌信《通信原理》 (第6版) 笔记和课后习题 (含考研真题) 详解
+*信息论与编码

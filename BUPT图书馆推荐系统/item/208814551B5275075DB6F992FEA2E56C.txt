@@ -1,0 +1,15 @@
+#数据仓库与数据挖掘
+#ASP 数据库管理项目方案精解
+#数据库原理与应用
+#数据库技术与应用实践教程
+#数据库系统与应用
+*信号与系统同步辅导
+*MySQL 5.5从零开始学
+*数据库原理与技术
+*从零开始学 Java Web 开发
+*操作系统 : 精髓与设计原理 = Operating systems : internals and design principles
+*MySQL技术内幕 : SQL编程 = Inside MySQL : SQL programming
+*MySQL内核 : InnoDB存储引擎 . 卷1
+*Linux Shell编程与编辑器使用详解
+*数学物理方法专题 : 复变函数与积分变换
+*遗传算法 : 理论、应用与软件实现

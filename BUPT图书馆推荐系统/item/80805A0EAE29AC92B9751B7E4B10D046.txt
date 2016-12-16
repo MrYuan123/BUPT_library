@@ -1,0 +1,14 @@
+#留学时代
+#MATLAB 仿真在通信与电子工程中的应用
+#通信原理
+#MATLAB基础与实践教程
+*网络安全技术
+*MATLAB R2013a工具箱手册大全
+*Matlab函数和实例速查手册
+*光纤通信 = Optical fiber communications
+*黎东方讲史 , 细说清朝
+*TOEFL词汇词根+联想记忆法 : 45天突破版
+*了不起的盖茨比 = The Great Gatsby
+*21天突破雅思听力
+*MATLAB 在信号与图像处理中的应用
+*通信原理习题集

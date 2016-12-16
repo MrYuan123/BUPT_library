@@ -1,0 +1,11 @@
+#Python入门经典 = The Practice of computing using Python : 以解决计算问题为导向的Python编程实践
+*深度解析SDN : 利益、战略、技术、实践
+*Java 面向对象程序设计
+*轻松学Java
+*Python程序设计教程
+*设计心理学 = The design of everyday things
+*创业管理 : 理论·实训·案例 = Entrepreneurship : theory·training·case
+*创业管理 : 理论、流程与实践
+*Kali Linux渗透测试的艺术 = Kali Linux: assuring security by penetration testing
+*网络攻防技术与实践
+*创业案例集锦 = Entrepreneurship case collection

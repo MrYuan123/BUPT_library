@@ -1,0 +1,11 @@
+#推荐系统 = Recommender systems : an introduction
+*统计学习方法
+*推荐系统实践
+*Python 学习手册
+*Hadoop权威指南
+*Mahout实战 = Mahout in action
+*Python计算机视觉编程 = Programming computer vision with Python
+*Linux入门很简单
+*Python科学计算
+*幻夜
+*人生

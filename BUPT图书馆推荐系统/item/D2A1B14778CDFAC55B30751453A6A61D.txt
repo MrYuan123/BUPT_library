@@ -1,0 +1,12 @@
+#Hadoop权威指南
+#深入云计算 : Hadoop源代码分析
+*Spark原理、机制及应用
+*Hadoop 技术内幕 : 深入解析MapReduce架构设计与实现原理 = Hadoop internals : in-depth study of MapReduce
+*计算机是怎样跑起来的 = How computers work
+*Spark大数据实例开发教程
+*Linux命令、编辑器与Shell编程
+*Hadoop云计算实战 = Hadoop cloud computing practice
+*推荐系统 = Recommender systems : an introduction
+*JAVA 核心技术 . 卷II , 高级特性 = Core Jave . Volume II , Advanced features
+*信号与系统习题解析与考研辅导
+*Hadoop大数据处理 = Big data processing

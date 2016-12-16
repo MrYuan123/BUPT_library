@@ -1,0 +1,11 @@
+#Cocos2d-x 3.x游戏开发之旅
+*诺桑觉寺 = Northanger abbey
+*Cocos2d-x实战 , 工具卷 = Cocos2d-x in action , for tools
+*Cocos2D-X游戏开发技术精解
+*Cocos2d-x学习笔记 : 完全掌握C + + API与游戏项目开发 = Cocos 2 d-x learning notes : the definitive guide to C + + API and game projects development
+*ACM程序设计竞赛基础教程
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

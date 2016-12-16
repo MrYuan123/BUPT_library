@@ -1,0 +1,17 @@
+#搞定J2EE核心技术与企业应用 : Ajax, JSP, Struts 2, Spring, Hibernate
+#认知无线电网络资源分配 : 博弈模型与性能分析 = Resource management of cognitive radio networks : game theoretic modeling and performance analysis
+#3GPP 长期演进 (LTE) 技术原理与系统设计 = 3GPP long term evolution : principle and system design
+#C# 与 .NET 程序员面试宝典
+#LTE-Advanced关键技术详解 = LTE-Advanced key technologies detailed analysis
+#Java Web 典型模块与项目实战大全 : 49.5小时多媒体教学视频
+#SQL 范例完全自学手册
+*Java 程序员面试宝典
+*C#初学者指南 = C# : a beginner's tutorial
+*3GPP 长期演进 (LTE) 系统架构与技术规范 = 3GPP long term evolution : architecture and specification
+*Java 编程思想 = Thinking in Java
+*Java 语言程序设计 = Introduction to Java programming , 进阶篇
+*MATLAB宝典
+*Effective C++ : 改善程序与设计的55个具体做法 : 中文版 = Effective C++ : 55 specific ways to improve your programs and designs
+*MIMO 技术原理及应用
+*全面详解LTE : MATLAB建模、仿真与实现
+*C++ 编程规范 : 101条规则、准则与最佳实践 = C++ coding standards : 101 rules, guidelines, and best practices

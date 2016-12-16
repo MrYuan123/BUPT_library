@@ -1,0 +1,14 @@
+#MATLAB与科学计算教程
+#美国高校创业教育
+#创新人才培养理念与模式
+#MATLAB从入门到精通
+*大学数学复习指南 : 理工类、经济类
+*MATLAB R2014a从入门到精通
+*微分方程及边值问题 = Differential equations and boundary value problems : 计算与建模computing and modeling
+*MATLAB基础教程
+*基于 MATLAB 7.x 的系统分析与设计 : 信号处理
+*MATLAB GUI 设计学习手记
+*MATLAB 与外部程序接口编程
+*PHP 5.3 入门经典
+*数据通信与网络 = Data communications and networking
+*先生

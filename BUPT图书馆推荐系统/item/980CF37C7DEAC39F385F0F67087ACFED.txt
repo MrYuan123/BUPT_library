@@ -1,0 +1,15 @@
+#数据结构与算法 : C++版
+#XML 案例解析教程 : 提出问题-分析问题-解决方案
+#XML 程序设计
+#Effective STL中文版 : 50条有效使用STL的经验 = Effective STL : 50 specific ways to improve the use of the standard template library
+#信任管理与计算
+*SQL Server 2012数据库技术实用教程
+*LaTeX 2e 完全学习手册
+*Effective C++ : 改善程序与设计的55个具体做法 : 中文版 = Effective C++ : 55 specific ways to improve your programs and designs
+*C++编程兵书
+*狂人 C : 程序员入门必备
+*C++ 程序设计 = Introduction to programming with C++
+*C++ PRIMER 中文版 = C++ Primer
+*通过游戏编程实战教新手学C++编程
+*C++ 编程思想 = Thinking in C++ . Volume one , Introduction to standard C++
+*计算机网络

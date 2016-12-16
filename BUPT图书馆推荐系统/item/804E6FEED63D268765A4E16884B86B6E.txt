@@ -1,0 +1,23 @@
+#Web Services应用开发
+#下一代SOA : 服务技术与面向服务简明指南 = Next generation SOA : a concise introduction to service technology & service-Orientation
+#面向服务的企业应用架构 : SOA架构特色与全息视角
+#面向服务的行业解决方案 : 原理、方法与实践
+#Web 服务实用技术教程 = Web services : a technical introduction
+#SOA 核心技术及应用
+#SOA达人迷 = Service oriented architecture for dummies
+#SOA Web Service 合约设计与版本化
+#SOA 实践者说 : 分布式环境下的系统集成
+#WebSphere 业务集成方法 = WebSphere business integration primer : process server BPEL SCA and SOA
+#SOA 原理·方法·实践
+#Web Services 原理与研发实践
+#SOA 实践 : 构建基于 Java Web 服务和 BPEL 的企业级应用
+*Storm : 大数据流式计算及应用实践
+*Spark大数据处理技术
+*OSGi 原理与最佳实践
+*大话数据库
+*Web 服务 : 原理与技术 = Web Services : principles and technology
+*面向服务的计算 : 原理和应用
+*学术交流 = Academic communication : 博士研究生英语视听说教程
+*服务计算应用开发技术
+*计算机网络
+*线性代数

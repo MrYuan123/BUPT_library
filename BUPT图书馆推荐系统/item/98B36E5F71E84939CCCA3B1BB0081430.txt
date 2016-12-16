@@ -1,0 +1,14 @@
+#Head First PHP & MySQL : 中文版
+#PHP MySQL Apache 超强组合
+#多样式攻克大学英语四级词汇 , 根源记忆法
+#网站 PHP 后台解决方案
+*大话处理器 : 处理器基础知识读本
+*数学史 = A history of mathematics . 上
+*Head First HTML 与 CSS、XHTML (中文版)
+*深入浅出程序设计
+*Head first mobile web中文版
+*数据结构与STL
+*微信公众平台开发基础与实战
+*微信公众平台应用开发实战 = Wechat public platform application developing
+*哈佛博弈论 : 日常生活中的智慧策略
+*微信公众平台开发实战与应用案例

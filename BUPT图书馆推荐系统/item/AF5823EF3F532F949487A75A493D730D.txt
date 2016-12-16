@@ -1,0 +1,17 @@
+#初入职场
+#上班就是这么给力! : 在办公室获得成就与幸福的10堂课
+#高管路径 : “轮岗培养”领导人才 : deepening your talent pool to solve the succession crisis
+#人力资源文案一本通
+#初入职场 : 新人立足101条
+#人力资源新手成长手记
+#人力资源专员高效工作手册
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

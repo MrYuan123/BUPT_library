@@ -1,0 +1,12 @@
+#大话数据结构 = Play with data structure
+#编程之美 : 微软技术面试心得
+*Head First Python中文版
+*剑指Offer : 名企面试官精讲典型编程题
+*算法导论 = Introduction to algorithms
+*大话数据挖掘
+*经济学原理 = Principles of economics
+*Java Web 整合开发王者归来 : JSP+Servlet+Struts+Hibernate+Spring
+*程序员面试宝典
+*JavaScript设计模式与开发实践
+*挑战编程 = Programming challenges : 程序设计竞赛训练手册the programming contest training manual
+*Android 4高级编程

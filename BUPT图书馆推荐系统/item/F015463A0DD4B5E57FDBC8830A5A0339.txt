@@ -1,0 +1,11 @@
+#Qt 5开发及实例
+*Control of solar energy systems =太阳能系统控制 /太阳能系统控制
+*Qt Creator快速入门
+*矩阵论
+*Android移动应用开发从入门到精通
+*Java 宝典
+*LTE : UMTS长期演进理论与实践 = LTE-the UMTS long term evolution from theory to practice
+*Java典型模块与项目实战大全
+*Qt 高级编程 = Advanced Qt programming creating great software with C++ and Qt 4
+*人工神经网络与微粒群优化
+*复杂性思考

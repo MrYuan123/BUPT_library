@@ -1,0 +1,11 @@
+#少有人走的路 : 心智成熟的旅程 = The road less traveled
+*图像局部不变性特征与描述 = Image local invariant features and descriptors
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学

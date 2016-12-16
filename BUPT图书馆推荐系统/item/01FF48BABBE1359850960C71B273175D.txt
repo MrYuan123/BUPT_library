@@ -1,0 +1,17 @@
+#高维数据挖掘技术研究 = Research on technologies for high dimensional data mining
+#张量分析
+#三维空间张量分析的矩阵方法
+#张量分析概要及演算
+#张量分析及其应用
+#张量投票方法及其在机器视觉中的应用
+#张量分析及在力学中的应用
+*编程珠玑 = Programming pearls
+*认知与协作无线通信网络 = Communication network technology
+*认知无线网络理论与关键技术 = Cognitive wireless network theory and key technology
+*算法设计
+*神经网络在应用科学和工程中的应用 : 从基本原理到复杂的模式识别
+*软件无线电技术与应用
+*彼得·潘 = Peter Pan
+*图论导引 = Introduction to graph theory
+*MATLAB 编程与最优化设计应用
+*网络流优化高效智能算法及其应用

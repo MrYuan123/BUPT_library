@@ -1,0 +1,13 @@
+#通向奴役的道路
+#引爆点 = Tipping point : 如何制造流行
+#乡土中国
+*你的职业性格是什么? = What's your type of career? : MBTI 16型人格与职业规划
+*TCP/IP 路由技术 . 第一卷
+*VMware Virtual SAN实战 = VMware virtual SAN in action
+*MPLS技术构架 = MPLS fundamentals
+*OSPF和IS-IS详解 = OSPF and IS-IS : choosing an IGP for large-scale networks
+*数据中心虚拟化技术权威指南 = Data center virtualization fundamentals
+*TCP/IP 路由技术 = Routing TCP/IP . 第二卷
+*奥美观点精选 = By, for and about Ogilvy & Mather , 文化卷
+*魔鬼经济学 = Freakonomics : 揭示隐藏在表象之下的真实世界
+*非理性繁荣 = Irrational exuberance

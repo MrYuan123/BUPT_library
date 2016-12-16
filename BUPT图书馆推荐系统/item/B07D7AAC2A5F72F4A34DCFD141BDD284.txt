@@ -1,0 +1,12 @@
+#MATLAB基础及在信号与系统中的应用
+#数字图像处理
+*复变函数与积分变换
+*4 级词汇 : 词以类记 = Classified vocabulary
+*别输在不懂博弈上 : 人生一定要懂的博弈法则
+*疯狂Java讲义精粹
+*图像处理与识别
+*编译原理 = Compilers : principles, techniques, and tools
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

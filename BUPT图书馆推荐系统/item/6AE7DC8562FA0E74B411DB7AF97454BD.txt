@@ -1,0 +1,17 @@
+#电路板设计
+#J2EE 企业级应用测试实践 = J2EE enterprise software test
+#Web性能测试实战详解
+#计算机网络 : 用自顶向下方法描述因特网特色
+#天线测量实用手册 = Antenna measurement engineering handbook
+#Linux命令、编辑器与Shell编程
+#Altium Designer 10入门与PCB设计实例
+*Spark大数据实例开发教程
+*Spark原理、机制及应用
+*深入云计算 : Hadoop源代码分析
+*ADS射频电路设计与仿真入门及应用实例
+*天线与电波传播
+*天线理论与技术 = Antenna theory and techniques
+*陈列天线理论与工程应用
+*阵列天线分析与综合
+*无线光通信
+*相控阵天线理论和技术

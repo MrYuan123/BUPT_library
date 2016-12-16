@@ -1,0 +1,13 @@
+#三重门
+#苏菲的世界 = Sophie's world
+#分布式系统原理与范型
+*深入理解计算机系统 = Computer systems : a programmer's perspective
+*Go语言程序设计 = Programming in Go : creating applications for the 21st century
+*Redis设计与实现 = The design and implementation of Redis
+*LTE-Advanced宽带移动通信系统 = LTE-Advanced broadband mobile communications system
+*LTE-Advanced : 面向IMT-Advanced的3GPP解决方案
+*不要让未来的你讨厌现在的自己 = Writing the future
+*Java并发编程实战 = Java concurrency in practice
+*LTE-A和下一代无线网络 : 信道建模与传播 = LTE-advanced and next generation wireless networks : channel modelling and propagation
+*大型网站系统与Java中间件实践
+*小的是美好的 = Small is beautiful

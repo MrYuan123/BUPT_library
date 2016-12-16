@@ -1,0 +1,13 @@
+#神推理心理学 : 用于职场情场与日常生活的终端科学
+#自动化测试最佳实践 : 来自全球的经典自动化测试案例解析 = Experiences of test automation : case studies of software test automation
+#华为没有秘密 : 华为如何探索和坚守常识
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

@@ -1,0 +1,13 @@
+#模式识别 = Pattern recognition
+#Java 语言程序设计 = Introduction to Java programming , 基础篇comprehensive version
+#实施工业4.0 : 智能工厂的生产·自动化·物流及其关键技术、应用迁移和实战案例
+*Java 语言程序设计 = Introduction to Java programming , 进阶篇
+*Docker技术入门与实战
+*特征提取与图像处理 = Feature extraction and image processing
+*数字图像处理 : MATLAB版 : 本科教学版 = Digital image processing using MATLAB
+*图像模式识别 : VC++技术实现
+*C# 数字图像处理算法典型实例
+*Digital image processing =数字图像处理 /数字图像处理
+*血字的研究 = A Study in scarlet
+*剧院魅影 = The phantom of the opera
+*JAVA 2 核心技术 = Core Java 2 . 卷Ⅰvolume Ⅰ , 基础知识fundamentals

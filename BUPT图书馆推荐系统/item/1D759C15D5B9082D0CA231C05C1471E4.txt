@@ -1,0 +1,17 @@
+#胡雪岩 . 第一册
+#剑指Offer : 名企面试官精讲典型编程题
+#世界尽头与冷酷仙境
+#数据结构 : C++语言版
+#流冰之旅
+#数据结构与算法 : Java语言描述
+#飞往巴黎的末班机
+*光纤光学 = Fiber optics
+*算法与数据结构
+*C++ Primer : 中文版
+*ACM 国际大学生程序设计竞赛题解 . 1
+*算法导论 = Introduction to algorithms
+*史蒂夫·乔布斯传 = Steve Jobs
+*信号与系统 . 上册
+*学习 OpenCV : 中文版
+*数据结构学习指导和习题解析 = A learning guide and key to exercises for data structures in C++ : C++语言描述
+*MySQL教程

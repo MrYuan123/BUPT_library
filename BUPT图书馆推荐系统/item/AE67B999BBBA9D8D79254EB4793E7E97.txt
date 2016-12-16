@@ -1,0 +1,19 @@
+#电子学 = The art of electronics
+#价值论 : 一种主体性的研究
+#大学物理学习指导
+#大学物理释疑解难
+#Schaum's outline of theory and problems of college physics
+#交换定律 : 人际交往的成功之道
+#MATLAB 从入门到精通
+#大学物理解题方法与技巧
+#算法 : C 语言实现 . 第1-4部分 , 基础知识、数据结构、排序及搜索 = Algorithms in C . Parts 1-4 : fundamentals, data structures, sorting, searching
+*物理学辅导及习题精解 : 马文蔚·第五版 上下册
+*电磁超介质及其应用 = Electromagnetic metamaterials and its applications
+*大学物理学辅导与题解
+*大学物理学习指导与习题详解
+*算法设计与分析
+*愿你要的明天, 如约而至 : 吉檀迦利
+*Photoshop CS4 从入门到精通
+*精通MATLAB最优化计算
+*大学物理 . 下
+*大学物理学 . 第四册

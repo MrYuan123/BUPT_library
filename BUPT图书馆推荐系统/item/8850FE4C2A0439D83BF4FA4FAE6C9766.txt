@@ -1,0 +1,12 @@
+#SQL查询的艺术
+#神经网络与机器学习 = Neural networks and learning machines
+*数据仓库 = Building the data warehouse
+*社交网站的数据挖掘与分析
+*Hive编程指南
+*神经网络控制
+*通信收发信机的 Verilog 实现与仿真
+*Effective C++ : 改善程序与设计的55个具体做法 : 中文版 = Effective C++ : 55 specific ways to improve your programs and designs
+*Head First Java (中文版)
+*大话数据挖掘
+*操作系统
+*疯狂Java讲义

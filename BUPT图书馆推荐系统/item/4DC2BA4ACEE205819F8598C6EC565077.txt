@@ -1,0 +1,12 @@
+#Excel 统计分析典型实例
+#SPSS统计分析高级教程
+*市场营销原理 : 亚洲版 = Principles of marketing : a global perspective
+*商业模式新生代 = Business model generation
+*商业模式新生代 , 个人篇 : 一张画布重塑你的职业生涯 = Business model you : a one-page method for reinventing your career
+*信息与激励经济学
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

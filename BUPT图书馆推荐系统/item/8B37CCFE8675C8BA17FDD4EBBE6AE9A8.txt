@@ -1,0 +1,15 @@
+#分布式系统设计原理与应用
+#投资估价 : 评估任何资产价值的工具和技术 . 下册 = Investment valuation : tolls and techniques for determining the value of any asset
+#分布式计算 = Distributed computing fundamentals, simulations, and advanced topics
+#基于 Markov 链的网络决策分析方法 = An Analytic network process decision making approach based on markov chain
+#概率论与随机过程 : 理论、历史及应用
+*高频电子线路
+*数据结构
+*矩阵论引论
+*统计模式识别 = Statistical pattern recognition
+*线性代数及其应用
+*数字信号分析和处理 = Digital signal analysis and processing
+*数据结构与算法 . 上册
+*计算机网络
+*线性代数
+*高等数学 . 上册

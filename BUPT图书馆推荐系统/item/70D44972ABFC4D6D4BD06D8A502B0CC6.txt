@@ -1,0 +1,11 @@
+#高频电子线路
+*射频电路设计
+*宽带功率放大器预失真原理
+*高频电子电路
+*数据结构
+*概率论与随机过程 : 理论、历史及应用
+*矩阵论引论
+*统计模式识别 = Statistical pattern recognition
+*线性代数及其应用
+*数字信号分析和处理 = Digital signal analysis and processing
+*数据结构与算法 . 上册

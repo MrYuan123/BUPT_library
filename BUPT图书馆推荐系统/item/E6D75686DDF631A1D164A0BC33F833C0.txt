@@ -1,0 +1,11 @@
+#MATLAB基础教程
+*MATLAB从入门到精通
+*Web前端开发技术 : HTML、CSS、JavaScript
+*你好，抑郁
+*疯狂Java讲义
+*数据可视化
+*MATLAB实用教程 = The practical textbook of MATLAB
+*鲜活的数据 : 数据可视化指南
+*Python入门经典
+*机器学习系统设计 = Building machine learning systems with python
+*计算机网络

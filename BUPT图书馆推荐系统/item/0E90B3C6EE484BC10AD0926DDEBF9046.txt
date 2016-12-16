@@ -1,0 +1,11 @@
+#电信行业精确营销方法与案例
+*大气中的光传输理论
+*光信息大气传输理论与检测技术
+*光学原理与应用 = Optics : principles and applications
+*近代光学信息处理
+*傅里叶光学导论 = An introduction to fourier optics
+*现代光学基础与前沿
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

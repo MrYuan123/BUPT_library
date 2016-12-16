@@ -1,0 +1,16 @@
+#云计算 = Cloud computing : 大数据时代的系统工程
+#大数据走向云计算 = Big data cloud computing
+#云计算架构技术与实践 = Cloud computing architecture technologies & practice
+#力量与体能训练 = Anatomy of strength & conditioning
+#肌肉健美训练图解
+#围棋学得快
+*GRE核心词汇分类巧记
+*大数据时代 : 生活、工作与思维的大变革 = Big data : a revolution that will transform how we live, work and think
+*牛奶可乐经济学 : 完整版 = The Economic naturalist : in search of explanations for everyday enigmas
+*云时代的大数据
+*链路预测 = Link prediction
+*UML 2.0 学习指南
+*UML 面向对象建模基础
+*电商数据分析淘宝实战
+*市场调查与预测教程
+*商务智能 = Business intelligence

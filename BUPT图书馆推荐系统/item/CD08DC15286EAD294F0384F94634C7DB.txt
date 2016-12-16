@@ -1,0 +1,14 @@
+#简历 : 让你脱颖而出
+#软件测试实用教程 = Software testing practical materials
+#C/C++ 程序员面试宝典
+#程序员面试宝典
+*Java程序员面试宝典
+*大数据技术全解 : 基础、设计、开发与实践
+*数据库系统设计与管理 : 考点解析及模拟训练
+*数据结构 : Java版
+*STL源码剖析 = The Annotated STL sources
+*数据结构基础 = Fundamentals of data structures in C : C语言版
+*C++编程思想 : 第1卷标准C++导引(原书第2版) & 第2卷实用编程技术 = Thinking in C++ : Volume one : introduction to standard C++, Second Edition & Volume Two : practical programming
+*Head First Java (中文版)
+*商务智能方法与应用
+*大话数据结构 = Play with data structure

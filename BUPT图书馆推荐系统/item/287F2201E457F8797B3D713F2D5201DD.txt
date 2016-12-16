@@ -1,0 +1,14 @@
+#MATLAB 在数学建模中的应用
+#美国大学生数学建模竞赛题解析与研究 . 第2辑
+#美国大学生数学建模竞赛题解析与研究 . 第1辑
+#数学建模竞赛优秀论文选评
+*数学建模
+*MATLAB在数学建模中的应用
+*数学建模 = A First course in mathematical modeling
+*数学建模竞赛入门与提高
+*MATLAB应用实例精讲 , 数学数值计算与统计分析篇
+*妙趣横生的博弈论
+*数学建模与数学实验
+*数学建模 = A first course in mathematical modeling
+*数学建模方法与分析 = Mathematical modeling
+*活出生命的意义 : 成为你天生应该成为的人 = What is your what : discover the one amazing thing you were born to do

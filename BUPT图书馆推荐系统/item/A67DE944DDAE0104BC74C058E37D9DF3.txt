@@ -1,0 +1,30 @@
+#Haskell趣学指南 = Learn you a haskell for great good!
+#逆向工程核心原理
+#程序员之禅 = The zen programmer
+#深度探索Linux操作系统 : 系统构建和原理解析 = Inside the Linux operating system
+#Linux内核设计与实现 = Linux kernel development
+#跟兄弟连学PHP
+#模糊测试强制发掘安全漏洞的利器 = Fuzzing brute force vulnerability discovery
+#黑客攻防技术宝典 = The Shellcoder's handbook
+#Haskell函数式编程入门
+#算法心得 : 高效算法的奥秘 = Hacker's delight
+#Linux内核探秘 : 深入解析文件系统和设备驱动的架构与设计 = Explore Linux kernel : in-depth analysis of architecture and design about file system and device driver
+#软件调试 = Software debugging
+#算法的乐趣
+#算法帝国 = Automate this : how algorithms came to rule our world
+#缓冲区溢出攻击 : 检测、剖析与预防
+#Linux/UNIX系统编程手册 = The Linux programming interface a linux and unix system programming handbook . 上册
+#恶意代码分析实战 = Practical malware analysis : the hands-on guide to dissecting malicious software
+#Unix内核源码剖析
+#安全模式最佳实践 = Security patterns in practice designing secure architectures using software patterns
+#自动机理论与应用
+*渗透测试实践指南 : 必知必会的工具与方法 = The basics of Hacking and penetration testing : ethical Hacking and penetration testing made easy
+*加密与解密
+*算法 = Algorithms
+*零基础学数据结构 : 24小时多媒体教学视频
+*MIMO 无线通信 : 从真实世界的传播到空-时编码的设计 = MIMO wireless communications : from real-world propagation to space-time code design
+*MIMO系统与空时编码 : 分集的理论与实践 = MIMO system and STC : the theory and practice of diversity
+*算法之美 : 隐匿在数据结构背后的原理 : C++版
+*矩阵论教程学习辅导与习题解答
+*矩阵论千题习题详解 = Matrix
+*面向对象技术 UML 教程

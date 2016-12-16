@@ -1,0 +1,12 @@
+#移动传播环境 : 理论基础·分析方法和建模技术
+#通信之道 : 从微积分到5G
+*大话通信 : 通信基础知识读本
+*大话移动通信
+*大话无线通信
+*移动通信无线电波传播
+*无线通信 = Wireless communications
+*移动通信系统终端射线跟踪定位理论与方法
+*无线通信原理与应用 = Wireless communications principles and practice
+*LED可见光通信技术 = LED visible light communication technologies
+*小波分析理论与 MATLAB R2007 实现
+*MIMO-OFDM无线通信技术及MATLAB实现 = MIMO-OFDM wireless communications with MATLAB

@@ -1,0 +1,12 @@
+#社会计算 : 社区发现和社会媒体挖掘 = Community detection and mining in social media
+#Spark快速数据处理 = Fast data processing with Spark
+*Spark技术内幕 : 深入解析Spark内核架构设计与实现原理 = Spark internals : design and implement principle of Spark core
+*Hadoop基础教程 = Hadoop beginner's guide
+*MapReduce设计模式
+*NumPy攻略 = NumPy cookbook : Python科学计算与数据分析
+*数据挖掘 = Data mining : 实用机器学习技术practical machine learning tools and techniques
+*正则表达式必知必会 = Sams teach yourself regular expressions in 10 minutes
+*数据挖掘基础教程 = Insight into data mining : theory and practice
+*Python数据分析基础教程 : NumPy学习指南 = NumPy beginner's guide
+*机器学习基础教程 = A First course in machine learning
+*MySQL数据库应用从入门到精通

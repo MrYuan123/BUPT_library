@@ -1,0 +1,15 @@
+#软件定义网络 : 基于OpenFlow的SDN技术揭秘 = Software defined networking with OpenFlow
+#SDN核心技术剖析和实战指南 = Deciphering SDN : core techniques and practical guide
+#复杂网络理论及其应用
+#FPGA 数字电子系统设计与开发实例导航
+#软件定义网络技术及应用
+*软件定义网络 : 原理、技术与实践 = Software defined networks : a comprehensive approach
+*软件定义网络核心原理与应用实践 = SDN core principles and application practice
+*CCNA学习指南 (640-802) = CCNA Cisco certified network associate study guide
+*社交网络分析及案例详解
+*浪潮之巅 = On top of tides
+*Bootstrap实战 = Bootstrap site blueprints
+*云时代的大数据
+*计算机网络 : 自顶向下方法 = Computer networking : a top-down approach
+*Head First Python中文版
+*大话数据结构 = Play with data structure

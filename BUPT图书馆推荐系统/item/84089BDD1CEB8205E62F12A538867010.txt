@@ -1,0 +1,11 @@
+#数学物理方程
+*通信原理 = Communication principles
+*数学物理方法 = Mathematical methods for physics
+*离散数学习题与解析 = Solution and analysis of problems in discrete mathematics
+*模拟电子技术基础
+*离散数学 = Discrete mathematics
+*量子理论 : 爱因斯坦与玻尔关于世界本质的伟大论战
+*2000 离散数学习题精解
+*数理逻辑
+*离散数学
+*计算机网络

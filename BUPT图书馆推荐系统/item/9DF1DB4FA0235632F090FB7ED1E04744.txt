@@ -1,0 +1,13 @@
+#移动通信 : 技术、应用与业务生成
+#无线Ad Hoc网络移动模型大全 = The encyclopedia of wireless Ad Hoc network mobility model
+#LTE系统原理及应用
+*LTE协议栈与信令分析 = LTE protocol stack and signaling analysis
+*大话核心网
+*JavaScript精粹 = The JavaScript anthology : 101 essential tips, tricks & hacks
+*数据链技术与系统
+*Python项目开发实战
+*计算机网络
+*Node.js实战
+*数据链 : 信息系统连接武器系统的捷径
+*Java 程序设计实践教程
+*UML 建模图解教程

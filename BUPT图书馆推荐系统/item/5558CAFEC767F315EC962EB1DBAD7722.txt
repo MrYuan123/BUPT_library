@@ -1,0 +1,26 @@
+#翻译研究 = Translation studies
+#语言人 : 论语言学对人文科学的贡献 = L'homne de paroles : contribution linguistique aux Sciences humaines
+#什么是认知语言学
+#全新法语语法 = Nouvelle grammaire du Francais
+#翻译研究入门 : 理论与应用 = Introducing translation studies : theories and applications
+#西方翻译理论导读
+#西潮 = Tides from the west : a Chinese autobiography
+#中高级口译口试词汇必备
+#普通语言学手稿
+#应用语言学入门 = An introduction to applied linguistics
+#什么是语言学
+#乔治·莱考夫认知语言学十讲 = Ten lectures on cognitive linguistics by George Lakoff
+#我等不到了
+#中西翻译简史 = A brief history of translation in China and the West
+#翻译学导论 : 理论与实践
+#语言学教程 = Linguistics a course book
+*快速突破法语词汇5500 = Vocabulaire accelere de 5500 mots francais
+*大学法语四级高频词汇分类速记及考点精练 = Vocabulaire et exercices raffines de tfu-h de francais
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

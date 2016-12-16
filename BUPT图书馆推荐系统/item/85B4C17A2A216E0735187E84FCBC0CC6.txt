@@ -1,0 +1,12 @@
+#信息平台论 : 三网整合背景下信息平台的构建、运营、竞争与规制研究 = The Information platform : a research on in formation platform's construction, operation, competition and regulation in the context of triple play
+#平台竞争战略
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

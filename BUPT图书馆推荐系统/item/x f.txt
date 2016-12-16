@@ -1,0 +1,13 @@
+#数字与模拟通信系统 = Digital and analog communication systems
+#数字通信 = Digital communications : 基础与应用Fundamentals and applications
+#高等代数与解析几何 . 下册
+*数字通信 = Digital Communications
+*Digital and analog communication systems =数字与模拟通信系统 /数字与模拟通信系统
+*数字通信 = Digital communications
+*数字电路与逻辑设计
+*数字电路与逻辑设计学习指导
+*TCP/IP 协议族
+*雅思阅读真经总纲
+*雅思写作真经总纲 = IELTS writing
+*MySQL 入门很简单
+*数字信号处理基础 = Fundamentals of digital signal processing

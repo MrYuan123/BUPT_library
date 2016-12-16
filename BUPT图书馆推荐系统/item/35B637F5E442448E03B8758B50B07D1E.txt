@@ -1,0 +1,12 @@
+#计算机组成原理习题与解析 , A级
+#人工智能及其应用 = Artificial intelligence : principles and applications
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

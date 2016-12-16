@@ -1,0 +1,14 @@
+#大话数据库
+#Java程序设计与问题求解
+#Photoshop 数码照片处理 108 招
+#可爱的 Python
+*数据结构 : Java语言描述
+*JAVA程序设计案例教程
+*浪潮之巅 = On top of tides . 上册
+*Java 面向对象编程
+*PHOTOSHOP抠图秘技大全
+*MATLAB R2013a基础与可视化编程
+*MATLAB 7.x 程序设计语言
+*中文版 Photoshop CS 经典效果实例与操作
+*SQL基础教程
+*4G移动通信技术权威指南 : LTE与LTE-Advanced = 4G LTE/LTE-Advanced for mobile broadband

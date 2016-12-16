@@ -1,0 +1,19 @@
+#Photoshop CS6中文版从入门到精通 , 核心技法卷 : 抠图、修图、Camera Raw、调色、锐化、合成
+#丰子恺插图艺术选
+#完全掌握Flash CS6白金手册
+#21天学通C++
+#金庸其人
+#中文版Photoshop CS6白金手册
+#Photoshop CS6白金手册
+#新手学电脑入门与提高 : Windows 8版
+#C++入门经典
+*C++ 程序设计
+*C++ 程序设计题解与上机指导
+*软件工程 = Software engineering
+*MySQL 入门很简单
+*民国大师的青涩年代
+*Python自然语言处理
+*新常态下的心常态 : 让我们习惯增长的“极限”
+*金粉世家
+*失物之书 = The book of lost things
+*Java虚拟机精讲

@@ -1,0 +1,12 @@
+#移动通信原理
+#大话无线通信
+*LTE无线网络规划与设计 = LTE wireless network planning & design
+*LTE 基础原理与关键技术
+*通信之道 : 从微积分到5G
+*指针的艺术
+*浪潮之巅 = On top of tides . 下册
+*大话通信 : 通信基础知识读本
+*让我留在你身边
+*计算机网络教程 : 自顶向下方法 = Computer networks : a top-down approach
+*李敖有话说 . 4
+*大话移动通信

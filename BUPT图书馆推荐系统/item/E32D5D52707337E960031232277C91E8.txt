@@ -1,0 +1,15 @@
+#大学英语四级词汇熟记这些词就够
+#数字信号处理学习指导 典型题解 : 新版
+#通信原理学习指导
+#英语语法超图解 : 30天用思维导图战胜英语语法
+#光电子学与光子学 : 原理与实践 = Optoelectronics and photonics : principles and practices
+*通信原理学习指导与习题详解
+*通信原理 (第6版) 学习辅导与考研指导
+*通信原理解题指导
+*通信原理辅导与习题解答
+*数字信号处理原理及实现学习指导 = Study guide for digital signal processing principles and practice
+*台湾二〇〇九
+*通信原理学习辅导与习题解答
+*数字信号处理学习指导与习题解答
+*动手玩转Arduino = Arduion workshop
+*固体物理概念题和习题指导

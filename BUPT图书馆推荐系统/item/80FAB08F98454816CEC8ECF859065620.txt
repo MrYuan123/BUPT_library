@@ -1,0 +1,20 @@
+#设计方法学 = The methodology of design
+#Unity游戏开发入门经典
+#SolidWorks 2012中文版工程设计速学通
+#Unity 3D游戏开发从入门到精通
+#设计心理学 = Design psychology
+#工程和设计中的人因学
+#Unity开发实战 = Unity 4.x Cookbook
+#Rhino 3D 工业级造型与设计
+#佐藤可士和的超整理术 = Kashiwa Sato's ultimate method for reaching the essentials
+#产品可用性研究方法
+*工业设计概论
+*烦恼力
+*数码单反摄影完全宝典 : 实拍精编版
+*通用设计法则
+*人机交互 = Human-computer interaction
+*精通Photoshop CS6
+*设计中的设计 = Designing design : 全本
+*世界现代设计史 = History of modern design
+*心理类型 : 个体心理学 = Psychological types : the psychology of individuation
+*美学概论 = An introduction of aesthetics

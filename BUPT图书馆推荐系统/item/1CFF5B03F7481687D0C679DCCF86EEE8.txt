@@ -1,0 +1,15 @@
+#数字与模拟通信系统 = Digital and analog communication systems
+#Java 语言程序设计 = Introduction to Java programming , 基础篇comprehensive version
+#数字信号处理基础 = Fundamentals of digital signal processing
+#信息论与编码 = Information theory & coding
+#Java 从入门到精通
+*Java 语言程序设计 = Introduction to Java programming , 进阶篇
+*数字通信 = Digital Communications
+*Digital and analog communication systems =数字与模拟通信系统 /数字与模拟通信系统
+*新托业分类词汇一本通 = Easily handle classified TOEIC words
+*光学变换·从量子到经典
+*信息论与编码
+*光学原理 = Principles of optics : electromagnetic theory of propagation, interference and diffraction of light
+*信息论理论基础
+*精通MATLAB信号处理 = Proficient in MATLAB signal processing
+*数学物理方法 = Mathematical methods for physics

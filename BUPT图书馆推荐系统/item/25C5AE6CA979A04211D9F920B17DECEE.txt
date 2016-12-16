@@ -1,0 +1,13 @@
+#无线通信的 MATLAB 和 FPGA 实现
+#MATLAB R2013a工程分析与仿真
+#光通信信号处理
+*MIMO 通信系统编码 = Coding for MIMO communication systems
+*下一代宽带无线通信系统 : OFDM与WiMAX
+*光通信中的 OFDM = OFDM for optical communications
+*紫外光自组织网络理论
+*无线光通信
+*FPGA 应用开发入门与典型实例
+*Xilinx FPGA开发实用教程 = Xilinx FPGA : development and application
+*无线通信系统的 DSP 实现
+*MATLAB GUI设计学习手记
+*Verilog 数字系统设计教程

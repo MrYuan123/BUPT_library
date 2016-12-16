@@ -1,0 +1,16 @@
+#Linux shell脚本攻略
+#解密搜索引擎技术实战 : Lucene & Java精华版
+#MySQL 性能调优与架构设计
+#大型网站系统与Java中间件实践
+#MySQL技术内幕 : SQL编程 = Inside MySQL : SQL programming
+#Nginx模块开发指南 : 使用C++11和Boost程序库
+*Java程序员面试宝典
+*Redis设计与实现 = The design and implementation of Redis
+*向前一步 : 女性、工作及领导意志 = Lean in for graduates
+*互联网+制造 : 发现工业4.0时代微蓝海 = Internet plus manufacture : strategy of micro blue ocean in the era of industrie 4.0
+*美国的痛点 : 科学否定派如何威胁我们的未来 = Reality check : how science deniers threaten our future
+*MySQL技术精粹 : 架构、高级特性、性能优化与集群实战
+*Maven 实战 = Maven 3 in action
+*大数据搜索与日志挖掘及可视化方案 = ELK stack : Elasticsearch、Logstash、Kibana
+*移动互联网之智能终端安全揭秘
+*ElasticSearch可扩展的开源弹性搜索解决方案 = ElasticSearch server create a fast, scalable, and flexible search solution with the energing open source search server, ElasticSearch

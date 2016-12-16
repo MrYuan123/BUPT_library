@@ -1,0 +1,13 @@
+#R的极客理想 , 工具篇
+#R语言编程艺术 = The art of R programming : a tour of statistical software design
+#R语言实战 = R in action : data analysis and graphics with R
+*大学英语六级考试词汇联想助记智慧树
+*生而为赢 : 心灵鸡汤精选
+*用户体验度量 : 收集、分析与呈现 = Measuring the user experience : collecing, analyzing, and presenting usability metrics
+*市场营销学精要 = Essentials of marketing
+*R语言与网站分析 = Web analysis and mining with R
+*Spark大数据处理技术
+*服务营销学 = Services marketing
+*敏捷数据科学 = Agile data science
+*社群众筹 = Crowdfunding : 传统众筹模式的升级与重构
+*社交网站的数据挖掘与分析

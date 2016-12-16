@@ -1,0 +1,28 @@
+#新托福高分词汇 = TOEFL guide excellence vocabulary
+#数学建模入门与提高
+#李嘉诚想的和你不一样
+#JLPT新题型读解教程 , N3
+#歪歪的漫画书 , 疯狂的6级词汇 = Waiwai's cartoon , Crazy CET-6 vocabulary
+#80C51 单片机原理与应用
+#数学建模的认识与实践
+#零基础学算法
+#算法心得 : 高效算法的奥秘 = Hacker's delight
+#新日本语能力考试N3读解
+#数学建模方法与分析 = Mathematical modeling
+#2012年MBA、MPA、MPAcc入学考试英语辅导教材
+#数据结构与算法设计 = Data structures and algorithm design
+#程序设计中实用的数据结构
+#大洪水 : 帝舜时代
+#IPv6 详解 . 卷1 = IPv6 core protocols implementation
+#卓越公司的10大法则
+#伊索寓言日语诵读
+*趣学Python : 教孩子学编程
+*3分钟听懂美国新闻英语 , 社会·文化
+*MATLAB数学实验与建模
+*数学建模
+*数学建模与数学实验
+*矩阵论教程学习辅导与习题解答
+*矩阵论千题习题详解 = Matrix
+*青楼纪之人面桃花
+*TOEFL托福主题词汇与阅读
+*数据挖掘 : 实用案例分析 = Data mining : practical case analysis

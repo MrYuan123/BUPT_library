@@ -1,0 +1,16 @@
+#通信原理习题集
+#半导体物理学学习辅导与典型题解
+#模拟CMOS集成电路设计 = Design of analog CMOS integrated circuits
+#大话企业级Android应用开发实战
+#ADS2012射频电路设计与仿真
+#Communication systems =通信系统 /通信系统
+*TMS320C54x DSP原理及应用
+*高速数字信号处理器结构与系统
+*半导体物理与器件 = Semiconductor physics and devices : basic principles
+*通信原理
+*计算机网络
+*数字信号处理 = Digital signal processing : 基于计算机的方法a computer-based approach . 上册
+*模拟 CMOS 集成电路设计 = Design of analog CMOS integrated circuits
+*张道真英语语法 = A Comprehensive English grammar
+*HTML/CSS网页设计与开发一站式学习 : 难点/案例/练习
+*考研数学大纲配套辅导全书 , 数学 (一) 

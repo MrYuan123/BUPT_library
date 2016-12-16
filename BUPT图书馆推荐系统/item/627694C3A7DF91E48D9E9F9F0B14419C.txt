@@ -1,0 +1,15 @@
+#掌握需求过程 = Mastering the requirements process
+#Scrum要素 = The Elements of scrum
+#敏捷开发的艺术
+#需求工程 : 实践者之路 = Systematisches requirements engineering : anforderungen ermitteln, spezifizieren, analysieren und verwalten
+#敏捷武士 : 看敏捷高手交付卓越软件 = The Agile samurai : how agile masters deliver great software
+*光纤光栅理论基础与传感技术
+*非线性光纤光学原理及应用 = Nonlinear fiber optics, fourth edition & applications of nonlinear fiber optics, second edition
+*Java程序设计基础与应用
+*硅基光电子学
+*产品经理 : 从菜鸟到大师
+*光波导理论
+*产品经理的第二本书 = The Product manager's field guide : practical tools, exercises, and resources for improved product management
+*光波导理论基础教程
+*光纤光栅 : 原理、技术与传感应用
+*苏菲的世界 = Sophie's world

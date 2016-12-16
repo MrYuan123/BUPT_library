@@ -1,0 +1,13 @@
+#概率统计与随机过程习题解集
+#混沌 : 开创新科学 = Chaos : Making a new science
+#数字媒体中的隐写术 : 原理, 算法和应用 = Steganography in digital media : principles, algorithms and applications
+*数据库处理 : 基础、设计与实现 = Database processing : fundamentals, design, and implementation
+*自然辨证法新编
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

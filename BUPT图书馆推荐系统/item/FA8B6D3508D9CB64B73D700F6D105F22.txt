@@ -1,0 +1,14 @@
+#Raspberry Pi入门指南
+#数字信号处理 = Understanding digital signal processing
+#MATLAB智能算法30个案例分析
+#Raspberry Pi树莓派实作应用 = Practical raspberry pi
+*树莓派(Raspberry Pi)实战指南 : 手把手教你掌握100个精彩案例 = The practical developing guide for Raspberry Pi : learning 100 excellent projects step by step
+*树莓派应用速成 : 网络应用秘方
+*网络服务器组建、配置和管理 , Windows篇
+*树莓派应用速成 : Raspbmc媒体中心
+*数字信号处理 = Digital signal processing
+*抬头见喜 : 老舍散文
+*目送
+*读者文摘精华 . 2 , 修心坊
+*MATLAB从基础到精通
+*数学建模思路简析 : 美国数学建模竞赛试题讨论

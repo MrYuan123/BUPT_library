@@ -1,0 +1,16 @@
+#网络安全 : 现状与展望 = Network security current status and future directions
+#网络攻击与防御技术 = Information security
+#拒绝服务攻击 = Denial of service(DoS) attack
+#破坏之王 : DDoS攻击与防范深度剖析
+#网络安全基础 = Network security essentials : 应用与标准applications and standards
+#网络攻击与防御技术
+*白帽子讲浏览器安全
+*网络窃密、监听及防泄密技术
+*白帽子讲Web安全
+*入侵检测系统及实例剖析
+*Java程序员成功面试秘籍
+*Hibernate程序开发
+*入侵检测理论与技术 = Theory and technologies of intrusion detection
+*疯狂Java讲义
+*入侵检测
+*Python黑帽子 : 黑客与渗透测试编程之道 = Black hat python : python programming for hackers and pentesters

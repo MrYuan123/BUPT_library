@@ -1,0 +1,16 @@
+#汇编语言与接口技术学习指导典型题解 : 新版
+#电子设计自动化 (EDA) 课程设计与项目实例
+#游戏 : 未来的艺术 艺术的未来
+#电子系统EDA设计实训
+#读懂移动互联网时代
+#电磁场与电磁波基础学习与考研指导
+*汇编语言、微机原理及接口技术
+*汇编语言程序设计教程
+*2016考研数学基础必做880题
+*通信原理习题与解析
+*联网力 = Link is power : 传统行业互联网化转型的原动力
+*从零开始做运营
+*微博控 控微博
+*智能爆炸 : 开启智人新时代 = Omniscient intelligence : new era of smart being
+*开源硬件DIY : 创客实践指南 = Building open source hardware : DIY manufacturing for hackers and makers
+*倒立者思维 : 马云的互联网创新

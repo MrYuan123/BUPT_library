@@ -1,0 +1,13 @@
+#Python 编程金典
+#Python 核心编程
+#HFSS天线设计
+*摄影构图与用光从入门到精通 : 实战版
+*CST天线仿真与工程设计
+*供应链协同管理 = Supply chain collaborative management : 理论与方法theory and metheod
+*供应链协同的知识创新
+*天线 = Antennas :  for all applications . 下册
+*供应链协同战略管理
+*天线 = Antennas :  for all applications . 上册
+*认知无线网络
+*认知无线电基础 = Essentials of cognitive radio
+*认知无线电网络

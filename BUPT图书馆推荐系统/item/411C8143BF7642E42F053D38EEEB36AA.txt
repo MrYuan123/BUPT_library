@@ -1,0 +1,13 @@
+#韩国语口译教程 : 从交替传译到同声传译
+#单词的奥义 : 字首、字根、字尾 = Secret English : prefixes,  roots,  and suffixes
+#韩国语语法
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

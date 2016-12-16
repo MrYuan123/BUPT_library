@@ -1,0 +1,12 @@
+#产品经理的20堂必修课 = How to be a good product manager
+#产品经理那些事儿
+*移动支付改变生活 = Mobile payment is changing our life : 电信运营商的移动支付创新与实践
+*借势·造势 : 品牌崛起之道
+*神一样的产品经理 : 基于移动与互联网产品实践
+*R语言实战 = R in action : data analysis and graphics with R
+*产品经理 : 从菜鸟到大师
+*Axure RP 6原型设计精髓
+*产品经理 : 从优秀到卓越
+*用户体验度量 : 收集、分析与呈现 = Measuring the user experience : collecing, analyzing, and presenting usability metrics
+*用户体验与可用性测试
+*乔布斯 : 产品制胜法则

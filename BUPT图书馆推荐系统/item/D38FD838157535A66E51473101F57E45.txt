@@ -1,0 +1,14 @@
+#HTML5权威指南 = The Definitive guide to HTML5
+#精通JavaScript开发 = Pro JavaScript development : coding, capabilities, and tooling
+#JavaScript完全参考手册
+#排队论
+*大学英语四级词汇记忆 : 词根+词缀+联想
+*JavaScript高级程序设计 = Professional JavaScript for web developers
+*统计学
+*排队论及其在现代通信中的应用
+*即用即查 JavaScript 核心对象参考手册
+*jQuery从菜鸟到忍者
+*HTML 5与JavaScript程序设计
+*jQuery Mobile快速入门
+*Java 编程思想 = Thinking in Java
+*JavaScript语言精粹 = JavaScript : the good parts

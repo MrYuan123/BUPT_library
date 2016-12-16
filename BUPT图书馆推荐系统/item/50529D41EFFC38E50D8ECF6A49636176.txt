@@ -1,0 +1,15 @@
+#应用密码学手册 = Handbook of applied cryptography
+#计算机图形学 = Fundamentals of computer graphics
+#编译原理 = Compilers : principles, techniques and tools
+#深度探索C++对象模型 = Inside the C++ object model
+#应用密码学 : 协议、算法与C源程序 = Applied cryptography : protocols, algorithms, and source code in C
+*UNIX 网络编程 . 卷1 , 套接字联网API = UNIX network programming . volume 1 , The Sockets networking API
+*零基础学PHP : 11.5小时多媒体教学视频
+*模式识别导论
+*计算机体系结构 : 量化研究方法 = Computer architecture : a quantitative approach
+*汇编语言 : 基于Linux环境
+*加密与解密
+*C++泛型 : STL原理和应用
+*七周七语言 : 理解多种编程范型 = Seven languages in seven weeks : a pragmatic guide to learning programming languages
+*基辛格 : 美国的全球战略 = Does America need a foreign policy
+*给秘密加把锁 : 每个人都应学点密码学

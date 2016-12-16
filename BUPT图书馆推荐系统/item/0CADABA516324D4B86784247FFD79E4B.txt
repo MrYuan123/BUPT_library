@@ -1,0 +1,14 @@
+#通信原理 : 精简本
+#微机原理与接口技术
+#通信原理 (第7版) 学习辅导与考研指导
+#Java语言程序设计
+*Java 语言程序设计
+*数字电路与逻辑设计
+*操作系统概念 : Java实现 = Operating system concepts with JAVA
+*神鞭
+*大话移动通信
+*现代交换原理与技术
+*综合宽带接入技术
+*光纤通信技术 = Optical fiber communications
+*光纤通信原理与应用
+*无线通信技术概论

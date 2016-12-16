@@ -1,0 +1,13 @@
+#机器学习与R语言 = Machine learning with R
+#机器学习系统设计 = Building machine learning systems with python
+#Mahout实战 = Mahout in action
+*机器学习与智能决策支持系统
+*Mahout算法解析与案例实战 = Mahout in action : algorithm and cases
+*计算机网络 : 原理、技术与应用
+*机器学习 : 实用案例解析
+*Java经典编程300例
+*Java必须知道的300个问题
+*Hadoop实战 = Hadoop in action
+*机器学习实战 = Machine learning in action
+*泛函分析 = Analyse fonctionnelle : 理论和应用theorie et applications
+*线性算子理论

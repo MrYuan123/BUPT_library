@@ -1,0 +1,17 @@
+#PHP和MySQL Web开发从新手到高手
+#国际大学生程序设计竞赛例题解 . 五 : 2006-2007年
+#零点起飞学HTML+CSS
+#C++沉思录 /
+#高等数学习作课精编
+#Linux 操作系统分析与实战
+#JavaScript 基础教程
+*C++ 编程思想 = Thinking in C++ . 第2卷Volume two , 实用编程技术practical programming
+*HTML与CSS入门经典
+*近世代数讲义
+*MySQL高效编程
+*Java 算法 . 第1卷
+*ACM程序设计竞赛基础教程
+*近世代数习题解答
+*数学建模 = Mathematical modeling
+*C 语言程序设计百问百例
+*大学生数学竞赛指南

@@ -1,0 +1,11 @@
+#Java 7从入门到精通
+*Java软件结构与数据结构
+*Java程序设计教程 = Textbook for programming in Java
+*Verilog 数字系统设计教程
+*Verilog 嵌入式数字系统设计教程 = Digital design : ean embedded systems approach using Verilog
+*Java课程设计案例精编
+*Java语言程序设计 (第2版) 学生用书
+*Verilog HDL数字设计与综合 : 本科教学版 = Verilog HDL : a guide to digital design and synthesis
+*计算机网络
+*线性代数
+*高等数学 . 上册

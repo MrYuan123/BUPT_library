@@ -1,0 +1,13 @@
+#Web Services 原理与研发实践
+#Storm : 大数据流式计算及应用实践
+#Spark大数据处理技术
+*面向服务的计算 : 原理和应用
+*大话数据库
+*Web 服务 : 原理与技术 = Web Services : principles and technology
+*服务计算应用开发技术
+*OSGi 原理与最佳实践
+*学术交流 = Academic communication : 博士研究生英语视听说教程
+*零基础学数据结构
+*Storm实战 : 建构大数据实时计算
+*黑客攻防入门
+*MySQL数据库应用从入门到精通

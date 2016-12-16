@@ -1,0 +1,13 @@
+#非线性时间序列分析及其应用
+#时间序列分析 . 下册 = Time series analysis
+#时间序列分析 . 上册 = Time series analysis
+*浪潮之巅 = On top of tides . 下册
+*文明之光 = Civilizations and enlightenments . 第一册
+*GRE考试官方指南 = The official guide to the revised general test
+*GRE词汇精选
+*浪潮之巅 = On top of tides . 上册
+*计量经济学方法 = Econometric methods
+*多变量非线性系统的神经网络逆控制方法
+*MATLAB 在时间序列分析中的应用
+*神经网络设计 = Neural network design
+*神经网络原理 = Neural networks : a comprehensive foundation

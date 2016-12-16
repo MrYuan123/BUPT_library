@@ -1,0 +1,11 @@
+#宽带通信网原理
+*自然辩证法 : 在工程中的理论与应用
+*新概念商务英语写作 = New concept business English writing
+*接入网技术 = Access network technology
+*FTTx PON 技术与应用
+*频谱灵活光网络 = Flexible spectrum optical networks
+*光纤接入网规划设计手册
+*接入网技术
+*宽带光接入技术
+*计算机与通信网络 = Computer and communication networks
+*光纤通信技术 = Optical fiber communication technology

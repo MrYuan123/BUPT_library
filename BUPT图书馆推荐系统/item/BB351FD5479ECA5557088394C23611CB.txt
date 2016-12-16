@@ -1,0 +1,13 @@
+#Tornado/VxWorks 入门与提高
+#Linux C程序设计王者归来
+#C++ PRIMER 中文版 = C++ Primer
+*Linux网络编程
+*数据结构与算法 : Java版
+*C/C++常用算法手册
+*爱上英文 = Read it love it
+*Java 编程入门经典
+*零基础学C++
+*矩阵计算 = Matrix computations
+*信号检测与估计理论
+*最优阵列处理技术 = Optimum array processing part IV of detection, estimation, and modulation theory
+*空间谱估计理论与算法

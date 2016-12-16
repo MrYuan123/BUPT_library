@@ -1,0 +1,24 @@
+#CSS禅意花园 = The Zen of CSS design
+#面向对象技术 UML 教程
+#算法竞赛入门经典训练指南
+#挑战编程 = Programming challenges : 程序设计竞赛训练手册the programming contest training manual
+#JavaScript高级程序设计 = Professional JavaScript for web developers
+#JavaScript经典实例
+#JavaScript权威指南
+#概率论与随机过程
+#HTML5程序设计 = Pro HTML5 programming
+#软件加密与解密 = Surreptitious software : obfuscation, watermarking, and tamperproofing for software protection
+#JavaScript设计模式
+#前端面试江湖
+#HTML5与CSS3实例教程 = HTML5 and CSS3 : level up with today's web technologies
+#编程之美 : 微软技术面试心得
+*大话数据结构 = Play with data structure
+*精通 Hibernate
+*HTML、CSS、JavaScript网页制作从入门到精通
+*精通jQuery = Pro jQrery 2.0
+*Head First jQuery : 中文版
+*JavaScript语言精粹 = JavaScript : the good parts
+*HTML 5与CSS 3权威指南 = HTML 5 and CSS 3 : the definitive guide . 上册
+*Node.js实战 = Learning Node.js : a hands-on guide to building web applications in JavaScript
+*JavaScript模式
+*自控力 : 一次戒掉拖延症

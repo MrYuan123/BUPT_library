@@ -1,0 +1,12 @@
+#严歌苓作品精选
+#秧歌
+*Spring 专业开发指南 = Pro spring
+*Python编程实战 : 运用设计模式、并发和程序库创建高质量程序 = Python in practice : create better programs using concurrency, libraries, and patterns
+*经济学原理 , 宏观经济学分册
+*Java Web 服务 : 构建与运行 = Java Web services : up and running
+*神经网络原理 = Neural networks : a comprehensive foundation
+*编写高质量代码 : 改善Python程序的91个建议 = Writing solid python code : 91 suggestions to improve your Python program
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

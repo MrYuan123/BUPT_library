@@ -1,0 +1,18 @@
+#JavaScript 语法与范例辞典
+#JavaScript面向对象精要 = The principles of Object-Oriented JavaScript
+#JavaScript基础与案例开发详解
+#社会心理学 = Social psychology
+#HTML5和CSS3快速参考 = Sergey's HTML5 & CSS3 quick reference
+#单页Web应用 : JavaScript从前端到后端 = Single page Web applications
+#Java高手真经 : Java核心编程技术Java基础+核心库+图形+网络+高级特性 , 编程基础卷
+#jQuery开发从入门到精通
+*Java 程序设计教程:习题解答
+*Java程序设计经典300例
+*Head First jQuery : 中文版
+*JavaScript & jQuery交互式Web前端开发
+*JavaScript DOM 编程艺术 = DOM Scripting : web design with JavaScript and the document object model
+*天线 = Antennas :  for all applications . 下册
+*瓦尔登湖 = Walden
+*天线 = Antennas :  for all applications . 上册
+*AngularJS 高级编程
+*冰与火之歌 . 卷一 , 权力的游戏 . 下 = A Song of ice and fire , a game of thrones

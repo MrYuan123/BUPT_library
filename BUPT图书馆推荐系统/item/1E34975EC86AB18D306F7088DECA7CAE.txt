@@ -1,0 +1,15 @@
+#JavaScript应用开发实践指南 = Learning JavaScript : a hands-on guide to the fundamentals of modern JavaScript
+#数据库技术与应用
+#HTML 5 与 CSS 3 权威指南 = HTML 5 and CSS 3 : the definitive guide
+#JavaScript 袖珍速查手册 = JavaScript phrasebook
+#数据库原理及应用教程 = Database principles and applications
+*Java 程序设计学习指导与习题解答 = Schaum's outline of programming with Java
+*Visual C++从入门到精通
+*数据库处理 = Database processing : 基础、设计与实现fundamentals, design, and implementation
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

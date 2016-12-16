@@ -1,0 +1,12 @@
+#概率图模型学习理论及其应用
+#图论算法理论、实现及应用
+*快速数论变换
+*矩阵论札记
+*数据结构 : 用面向对象方法与 C++ 语言描述
+*Java程序设计教程 = Building Java programs : a back to basics approach
+*数据挖掘 : 概念与技术 = Data mining : concepts and techniques
+*工作流管理 : 模型、方法和系统
+*规划算法
+*过程挖掘 : 业务过程的发现、合规和改进
+*柔性业务过程管理体系与方法
+*过程感知的信息系统

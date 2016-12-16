@@ -1,0 +1,13 @@
+#MATLAB 建模、仿真及应用
+#数学实验 : MATLAB版
+#MATLAB数学实验
+*通信原理学习辅导与习题解答
+*通信原理学习辅导与考研精析
+*电磁场与电磁波教学、学习与考研指导 = Guidance for field and wave electromagnetics: teaching, leaning and graduate student entrance examination
+*电磁场与电磁波学习指导与习题详解
+*算法竞赛入门经典
+*算法导论 = Introduction to algorithms
+*美国大学生数学建模竞赛题解析与研究 . 第2辑
+*托福考试听力特训 = IBT general course for the TOEFL listening
+*计算机网络
+*线性代数

@@ -1,0 +1,29 @@
+#Linux shell脚本攻略
+#AngularJS开发秘籍
+#Haskell函数式编程基础 = Haskell : the craft of functional programming
+#精通Puppet配置管理工具 = Pro Puppet
+#Haskell趣学指南 = Learn you a haskell for great good!
+#自制编程语言
+#算法精解 : C语言描述
+#编写高质量代码 : 改善Python程序的91个建议 = Writing solid python code : 91 suggestions to improve your Python program
+#Python编程实战 : 运用设计模式、并发和程序库创建高质量程序 = Python in practice : create better programs using concurrency, libraries, and patterns
+#Python计算机视觉编程 = Programming computer vision with Python
+#程序员的职业素养 = The Clean coder : a code of conduct for professional programmers
+#编写可读代码的艺术
+#MongoDB入门经典
+#精通Linux = How Linux works : what every superuser should know
+#LaTeX 2e 完全学习手册
+#Go Web编程
+#一站式学习 C 编程
+#程序员修炼之道 : 从小工到专家 = The Pragmatic programmer : from journeyman to master
+#HTTP权威指南 = HTTP : the definitive guide
+*AngularJS 高级编程
+*自己动手写网络爬虫
+*神经网络原理 = Neural networks : a comprehensive foundation
+*Spring 专业开发指南 = Pro spring
+*Java Web 服务 : 构建与运行 = Java Web services : up and running
+*经济学原理 , 宏观经济学分册
+*严歌苓作品精选
+*Python高手之路 = The Hacker's guide to Python
+*小波变换与图像处理
+*数据结构 : C++版

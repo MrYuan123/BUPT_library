@@ -1,0 +1,13 @@
+#SDN核心技术剖析和实战指南 = Deciphering SDN : core techniques and practical guide
+#软件定义网络 : SDN与OpenFlow解析 = SDN : software defined networks
+#现代通信网技术
+*深度解析SDN : 利益、战略、技术、实践
+*复杂网络理论及其应用
+*软件定义网络 : 基于OpenFlow的SDN技术揭秘 = Software defined networking with OpenFlow
+*SDN :software defined networks = 软件定义网络 /Software Defined Networks
+*软件定义网络 : 原理、技术与实践 = Software defined networks : a comprehensive approach
+*另一个地球 : 互联网+社会 = Society and the internet : how networks of information and communication are changing our lives
+*FPGA 数字电子系统设计与开发实例导航
+*软件定义网络技术及应用
+*社交网络分析及案例详解
+*浪潮之巅 = On top of tides

@@ -1,0 +1,15 @@
+#深入理解 Android . 卷III = Undwestanding android internals . Voiume III
+#深入理解Android , Wi-Fi、NFC和GPS卷 = Understanding android internals , Wi-Fi, NFC and GPS
+#Android系统安全和反编译实战
+#排队论 : 基础与分析技术
+#Android物联网开发从入门到实战
+*Android经典项目开发实战
+*Android安全攻防权威指南 = Android hacker's handbook
+*Android外设开发实战
+*差错控制编码 = Error control coding
+*版本控制之道 : 使用Git = Pragmatic version control using Git
+*实用西班牙语 = Espanol practico : 2008奥运版juegos Olimpicos 2008
+*网格高性能调度及资源管理技术
+*网格计算核心技术
+*云计算 : 技术、应用、标准和商业模式
+*编码 : 隐匿在计算机软硬件背后的语言 = Code : the hidden language of computer hardware and software

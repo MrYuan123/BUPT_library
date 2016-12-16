@@ -1,0 +1,13 @@
+#HTML、XHTML、CSS与JavaScript入门经典
+#自控力 : 一次戒掉拖延症
+#面向对象技术 UML 教程
+*UML基础与Rose建模案例
+*Unix内核源码剖析
+*HTML、CSS、JavaScript网页制作从入门到精通
+*操作系统原理与应用
+*CSS禅意花园 = The Zen of CSS design
+*HTML5与CSS3实例教程 = HTML5 and CSS3 : level up with today's web technologies
+*算法竞赛入门经典训练指南
+*挑战编程 = Programming challenges : 程序设计竞赛训练手册the programming contest training manual
+*JavaScript经典实例
+*JavaScript权威指南

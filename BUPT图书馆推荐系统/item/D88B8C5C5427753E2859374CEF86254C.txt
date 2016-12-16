@@ -1,0 +1,13 @@
+#TOEFL词汇词根+联想记忆法 : 乱序版
+#数据结构精讲与习题详解 : 考研辅导与答疑解惑
+#信号与系统
+*数据结构 : C++版
+*About Face 3交互设计精髓 = About Face 3 : the essentials of interaction design
+*SQL必知必会 = Same teach yourself SQL in 10 minutes
+*生存的图像
+*操作系统 : 原理、设计与应用
+*计算机操作系统
+*数据结构习题精析与考研辅导 = Detailed solutions of the data structure's exercises for graduate entrance examination
+*操作系统联考辅导教程 : 2011版
+*微信公众平台应用开发实战 = Wechat public platform application developing
+*Web数据挖掘

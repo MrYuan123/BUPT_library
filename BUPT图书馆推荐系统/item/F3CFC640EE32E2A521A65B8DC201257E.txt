@@ -1,0 +1,12 @@
+#经济博弈论
+#狼人的故事 = The“wolfman”and other cases : 弗洛伊德心理治疗案例三种
+*博弈论与信息经济学
+*妙趣横生博弈论 : 事业与人生的成功之道 = The art strategy : a game theorist's guide to success in business and life
+*深入浅出统计学 = Head first statistics
+*博弈论与经济模型
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

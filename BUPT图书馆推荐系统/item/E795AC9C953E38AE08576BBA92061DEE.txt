@@ -1,0 +1,13 @@
+#无线传感器网络
+#R语言初学者指南 = A Beginner's guide to R
+#R语言核心技术手册 = R in a nutshell
+*大数据挖掘 = Using big data to build your business : 系统方法与实例分析
+*Python程序设计教程
+*运筹学实用教程习题与解答
+*Verilog数字系统设计教程
+*C 语言程序设计
+*新智元 : 机器 + 人类 = 超智能时代
+*C程序设计教程学习辅导
+*搜酷 : 全球智能硬件与技术精华集
+*正则指引 = Regular expression yet another introduction
+*Python 3 程序开发指南 = Programming in Python 3

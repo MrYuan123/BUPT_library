@@ -1,0 +1,13 @@
+#UNIX环境高级编程
+#计算机网络
+#精通 Linux C 编程
+*面向对象程序设计Java
+*操作系统
+*控制理论基础与应用 = Control theory and applications
+*射频识别技术原理与应用 = RFID—handbuch: grundlagen und praktische anwendungen von transpondern, kontaktlosen chipkarten und NFC
+*数据库系统基础
+*Java多线程编程核心技术 = Java multi-thread programming
+*UNIX 网络编程 . 卷1 , 套接字联网API = UNIX network programming . volume 1 , The Sockets networking API
+*Python自然语言处理
+*Unix/Linux 编程实践教程
+*应用密码学 : 协议、算法与C源程序 = Applied cryptography : protocols, algorithms, and source code in C

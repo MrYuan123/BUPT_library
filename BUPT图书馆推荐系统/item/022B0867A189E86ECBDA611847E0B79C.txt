@@ -1,0 +1,13 @@
+#数据通信与网络 = Data communications and networking
+#TCP/IP入门经典
+#现代控制系统 = Modern control systems
+*TCP/IP 协议族
+*通信原理 : 基于Matlab的计算机仿真
+*推荐系统实践
+*JavaScript高级程序设计 = Professional JavaScript for web developers
+*PHP 和 MySQL Web 开发 = PHP and MySQL Web development
+*美国走着瞧 = Roaming around in the USA
+*会计学 = Horngren's accounting
+*深入浅出Linux工具与编程
+*C++入门经典
+*PHP 5.3 入门经典

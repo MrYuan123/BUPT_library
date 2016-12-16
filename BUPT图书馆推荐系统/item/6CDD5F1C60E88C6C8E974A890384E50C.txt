@@ -1,0 +1,12 @@
+#例说ZigBee
+#ZigBee 网络原理与应用开发
+*Linux 培训教程 : 从实践中学习Linux
+*现代控制理论基础
+*ZigBee原理、实践及综合应用
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

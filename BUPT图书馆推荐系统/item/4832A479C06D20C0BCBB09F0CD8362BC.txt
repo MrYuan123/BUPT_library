@@ -1,0 +1,11 @@
+#数据库系统概念 = Datebase system concepts
+*网络管理 = Network management : 计费与性能管理策略accounting and performance strategies
+*网络系统管理
+*分布式数据库管理系统实践
+*网络管理技术构架 = Network management fundamentals
+*网络管理原理及实用工具
+*网络管理技术教程
+*分布式数据库系统原理
+*高级网络管理 = Advanced network administration : 翻译版
+*Web数据管理 : 概念与技术 = Web data management : concepts and techniques
+*网络管理员教程

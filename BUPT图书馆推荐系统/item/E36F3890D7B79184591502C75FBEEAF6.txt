@@ -1,0 +1,22 @@
+#全国计算机技术与软件专业技术资格 (水平) 考试历年真题必练 , 网络工程师
+#WPF 核心技术
+#21天学通C#
+#WPF和Silverlight项目设计实例
+#WPF和Silverlight教程
+#计算机软件技术基础学习指导与测试
+#全国计算机技术与软件专业技术资格 (水平) 考试历年真题必练 , 程序员
+#WPF编程宝典 : 使用C# 2012和.NET 4.5
+#智取程序员面试 = Ace the programming interview 160 questions and answers for success
+#计算机网络
+#C 程序设计 (第四版) 学习辅导
+#2011全国计算机等级考试考眼分析与样卷解析 , 三级网络技术
+*C语言程序设计
+*Creo 3.0工程图教程
+*C 程序设计
+*Creo Parametric 2.0工程图与数据交换案例教程
+*C语言程序设计 (第3版) 学习辅导
+*机械工程专业英语
+*Creo 3.0完全自学教程
+*操作系统
+*射频识别技术原理与应用 = RFID—handbuch: grundlagen und praktische anwendungen von transpondern, kontaktlosen chipkarten und NFC
+*数据库系统基础

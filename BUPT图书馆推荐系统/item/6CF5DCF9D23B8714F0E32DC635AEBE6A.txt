@@ -1,0 +1,14 @@
+#Android游戏开发技术实战详解
+#APP这样设计才好卖
+#Android编程经典200例
+#Android从入门到精通
+*Struts 2 + Spring+Hibernate框架技术与项目实战
+*MySQL数据库应用从入门到精通
+*操作系统设计与实现 = Operating systems design and implementation . 上册
+*Java Web 开发速学宝典
+*现代信息融合技术在组合导航中的应用
+*基于Nios II的嵌入式SoPC系统设计与Verilog开发实例 = Embedded SoPC design with Nios II processor and Verilog examples
+*惯性导航基础
+*从零开始学 CPLD 和 Verilog HDL 编程技术
+*物联网感知技术与应用 : 智能全景视频感知 . 上
+*Flash 8 中文版从入门到精通

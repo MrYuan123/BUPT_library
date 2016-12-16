@@ -1,0 +1,14 @@
+#移动传播环境 : 理论基础·分析方法和建模技术
+#移动通信无线电波传播
+#移动通信系统终端射线跟踪定位理论与方法
+#小波分析理论与 MATLAB R2007 实现
+*通信之道 : 从微积分到5G
+*Head First Servlets & JSP : 中文版
+*微波工程 = Microwave engineering
+*现代电子通信
+*Head First Java (中文版)
+*视距微波传播:多径衰落
+*电磁场、微波技术与天线
+*现代无线通信系统电波传播 = Radio propagation for modern wireless systems
+*衰落信道数字通信基础
+*电磁波理论

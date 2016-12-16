@@ -1,0 +1,21 @@
+#Linux Shell脚本攻略 = Linux Shell Scripting Cookbook
+#大数据日知录 : 架构与算法
+#Java 8函数式编程 = Java 8 lambdas functional programming for the masses
+#重构与模式 = Refactoring to patterns
+#大规模分布式存储系统原理解析与架构实战
+#七周七并发模型 = Seven concurrency models in seven weeks : when threads unravel
+#消息设计与开发 : 分布式应用开发的核心技术
+#Spring 揭秘
+#商业模式新生代 = Business model generation
+#社会心理学 = Social psychology
+#Java 多线程设计模式
+*Scala并发编程 = Learning concurrent programming in Scala
+*Spring实战 = Spring in action
+*Java EE开发的颠覆者 : Spring Boot实战
+*C++并发编程实战 = C++ concurrency in action
+*数据库设计教程 = Database solutions : a step-by-step guide to building database
+*The algorithm design manual =算法设计手册 /算法设计手册
+*高质量程序设计指南 : C++/C语言
+*商业模式新生代 , 个人篇 : 一张画布重塑你的职业生涯 = Business model you : a one-page method for reinventing your career
+*自制编程语言
+*纠删码存储集群系统设计与优化 = Design and optimization of erasure-coded clustered storage systems

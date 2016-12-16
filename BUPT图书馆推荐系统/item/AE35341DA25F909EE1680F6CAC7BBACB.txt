@@ -1,0 +1,12 @@
+#Effective C++ : 改善程序与设计的55个具体做法 : 中文版 = Effective C++ : 55 specific ways to improve your programs and designs
+#OpenGL超级宝典 = OpenGL superBible
+*日文读物
+*新日本语能力考试 N3 文字词汇全解
+*全面详解LTE : MATLAB建模、仿真与实现
+*空时无线通信导论
+*C++ 编程规范 : 101条规则、准则与最佳实践 = C++ coding standards : 101 rules, guidelines, and best practices
+*MIMO 技术原理及应用
+*无线通信基础 = Fundamentals of wireless communication
+*最优化方法及其 Matlab 程序设计
+*3GPP 长期演进 (LTE) 技术原理与系统设计 = 3GPP long term evolution : principle and system design
+*3GPP 长期演进 (LTE) 系统架构与技术规范 = 3GPP long term evolution : architecture and specification

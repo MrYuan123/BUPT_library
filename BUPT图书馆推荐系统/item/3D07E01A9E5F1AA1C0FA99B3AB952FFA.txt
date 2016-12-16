@@ -1,0 +1,13 @@
+#应用STATA做统计分析 = Statistics with STATA : 更新至STATA10.0版
+#通信原理学习与实验指导 = Instruction to exercise and experiment for communication principle
+#中级会计实务
+*通信原理学习辅导与习题解答
+*数字信号处理原理及实现学习指导
+*Android 4编程入门经典 : 开发智能手机与平板电脑应用
+*算法竞赛入门经典训练指南
+*通信原理 = Communication principles
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

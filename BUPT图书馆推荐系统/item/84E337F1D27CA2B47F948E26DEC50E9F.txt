@@ -1,0 +1,13 @@
+#LAMP 从入门到精通 = LAMP : basic to advanced
+#LAMP 网站开发黄金组合 : Linux+Apache+MySQL+PHP
+#PHP5 应用实例详解 : 使用Zend Framework & Smarty构筑真正的MVC模式应用
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

@@ -1,0 +1,12 @@
+#凸优化 = Convex optimization
+#Python宝典
+*Python Web开发学习实录
+*具体数学 : 计算机科学基础 = Concrete mathematics : a foundation for computer science
+*线性代数
+*Python 学习手册
+*MATLAB基础与应用
+*Python 高级编程
+*精通MATLAB信号处理 = Proficient in MATLAB signal processing
+*Python 基础教程 = Beginning Python from novice to professional
+*你不知道的JavaScript = Scope & closures this & object prototypes . 上卷
+*优化技术与 MATLAB 优化工具箱

@@ -1,0 +1,12 @@
+#张道真英语语法新编 = A new edition of Zhang Daozhen's English grammar
+#每天轻松听一点VOA新闻英语精华 , 慢速 (详解版)
+*高等数学全程学习指导与习题精解 : 同济六版
+*英语写作 = Winning writing : 一写就上手的完全征服手册
+*大学英语写作句句通 = Practical manual of writing for college students
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

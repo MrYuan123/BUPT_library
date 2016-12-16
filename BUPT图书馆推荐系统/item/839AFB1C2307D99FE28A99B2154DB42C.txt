@@ -1,0 +1,17 @@
+#Arduino编程从零开始
+#发现数据之美 = = Discover the beauty of data : 数据分析原理与实践
+#你必须知道的 204 个 Visual C++ 开发问题
+#More Effective C++ 中文版 = More Effective C++ : 35个改善编程与设计的有效方法35 new ways to improve your programs and designs
+#认知心理学 = Cognitive psychology
+#Java语言导学 = Java tutorial a short course on the basics
+#Windows API 开发详解 : 函数、接口、编程实例
+*Hadoop权威指南
+*Hadoop实战 = Hadoop in action
+*Python数据分析基础教程 : NumPy学习指南 = NumPy beginner's guide
+*Spring 技术内幕 : 深入解析Spring架构与设计原理
+*TCP/IP 网络编程 = TCP/IP programming
+*漫谈设计模式 : 从面向对象开始
+*深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM advanced features and best practices
+*Java程序员修炼之道 = The well-grounded Java developer : vital techniques of Java 7 and polyglot programming
+*Java程序员面试秘笈
+*Java深入解析 : 透析Java本质的36个话题

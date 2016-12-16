@@ -1,0 +1,11 @@
+#深入浅出Node.js
+*Node.js实战 = Learning Node.js : a hands-on guide to building web applications in JavaScript
+*Node.js开发指南
+*CSS 权威指南
+*HTML5网页设计案例课堂
+*JavaScript语言精粹 = JavaScript : the good parts
+*电力系统电磁暂态计算与EMTP应用
+*智能电网通信及组网技术 = Smart grid communications and networking
+*MongoDB权威指南 = MongoDB : the deinitive guide
+*精通MATLAB科学计算 = Proficient in MATLAB scientific computing
+*游戏设计艺术 = The art of game design

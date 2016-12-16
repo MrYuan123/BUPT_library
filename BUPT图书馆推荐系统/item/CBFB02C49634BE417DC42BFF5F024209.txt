@@ -1,0 +1,17 @@
+#Linux shell脚本攻略
+#生活就是秘密
+#烟花算法引论
+#机器学习 = Machine learning
+#生活之道
+#为自己工作 : 做老板最需要的一流员工 = Working for you isn't working for me : the ultimate guide to managing your boss
+#为自己工作到最好 = For yourself be best at work : 你的空间有多大
+*移动互联网之智能终端安全揭秘
+*Linux从入门到精通
+*计算机网络 : 网络设计的原理、技术和协议 = Computer networks : principles, technologies and protocols for network design
+*大型网站系统与Java中间件实践
+*解密搜索引擎技术实战 : Lucene & Java精华版
+*MySQL 性能调优与架构设计
+*MySQL技术内幕 : SQL编程 = Inside MySQL : SQL programming
+*Nginx模块开发指南 : 使用C++11和Boost程序库
+*数据挖掘 : 概念、模型、方法和算法
+*神经网络原理 = Neural networks : a comprehensive foundation

@@ -1,0 +1,24 @@
+#工业网络安全 : 智能电网, SCADA和其他工业控制系统等关键基础设施的网络安全 = Industrial network security : securing critical infrastructure networks for smart grid, SCADA, and other industrial control systems
+#CAN总线应用层协议实例解析
+#现场总线与工业以太网及其应用系统设计
+#工业以太网的原理与应用 = Industrial networks ethernet communication for automation applications
+#从 Modbus 到透明就绪 : 施耐德电气工业网络的协议、设计、安装和应用
+#模糊聚类算法及应用
+#模糊测试强制发掘安全漏洞的利器 = Fuzzing brute force vulnerability discovery
+#现场总线与工业以太网及其应用技术
+#现场总线 CAN 原理与应用技术
+#物联网信息安全 = Informarion security nternet of things
+#数据挖掘基础教程 = Insight into data mining : theory and practice
+#工业以太网技术
+#黑客之道 : 漏洞发掘的艺术
+#网络入侵分析与入侵响应
+*软件调试 = Software debugging
+*统计学完全教程
+*Web开发敏捷之道 = Agile Web development with Rails : 应用Rails进行敏捷Web开发
+*信息物理融合系统导论
+*Flume : 构建高可用、可扩展的海量日志采集系统 = Using Flume
+*智能配电网
+*经典技术分析 . 上 = Technical analysis : the complete resource for financial market technicians
+*Ruby基础教程
+*挑战程序设计竞赛
+*渗透测试实践指南 : 必知必会的工具与方法 = The basics of Hacking and penetration testing : ethical Hacking and penetration testing made easy

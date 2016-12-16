@@ -1,0 +1,17 @@
+#电力信息通信实用技术 , 电力信息部分
+#移动通信中的先进信号处理技术
+#MIMO系统与空时编码 : 分集的理论与实践 = MIMO system and STC : the theory and practice of diversity
+#电力通信、信息原理与技术 . 上册 , 电力通信 = Electric power communication
+#现代通信网络
+#现代交换技术
+#移动通信中的空时信号处理 = Space-time signal processing for mobile communications
+*MIMO 技术原理及应用
+*计算机通信与网络
+*综合宽带接入技术
+*无线通信 = Wireless communications
+*LTE轻松进阶
+*无线通信的 MATLAB 和 FPGA 实现
+*基于 Quartus Ⅱ 的数字系统 Verilog HDL 设计实例详解
+*MIMO 多天线无线通信系统
+*MIMO 无线通信 : 从真实世界的传播到空-时编码的设计 = MIMO wireless communications : from real-world propagation to space-time code design
+*算法帝国 = Automate this : how algorithms came to rule our world

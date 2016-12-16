@@ -1,0 +1,28 @@
+#Python数据可视化编程实战
+#高等线性代数 = Advanced linear algebra
+#人工智能 : 计算Agent基础 = Artificial intelligence : foundations of computational Agents
+#大学数学 , 线性代数
+#特征提取与图像处理 = Feature extraction and image processing
+#Python自然语言处理
+#C Primer Plus (第五版) 中文版
+#Visual Studio 2012高级编程
+#密码学原理与实践 = Cryptography theory and practice
+#分组密码的设计与分析
+#高级加密标准 (AES) 算法 : Rijndael的设计
+#密码安全芯片与侧信道技术
+#天线与电波传播
+#分组密码的攻击方法与实例分析
+#典型密码算法C语言实现
+#人工智能 : 复杂问题求解的结构和策略 = Artificial intelligence : structures and strategies for complex problem solving
+#Python编程实践 = Practical programming : an introduction to computer science using python
+#密码学讲义
+*SQL 必会 = Sams teach yourself SQL in 10 minutes
+*密码学与网络安全
+*模式识别 = Pattern recognition
+*概率 . 第一卷
+*MATLAB神经网络应用设计
+*机器学习理论、方法及应用
+*无人机协同决策与控制 : 面临的挑战与实践应用 = UAV cooperative decision and control : challenges and practical approaches
+*计算智能导论
+*应用随机过程 : 概率模型导论 = Introduction to probability models
+*增强学习与近似动态规划

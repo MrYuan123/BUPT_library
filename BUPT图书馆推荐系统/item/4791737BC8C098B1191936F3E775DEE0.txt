@@ -1,0 +1,11 @@
+#JavaScript语言精粹 = JavaScript : the good parts
+*Node.js开发指南
+*CSS 权威指南
+*深入浅出Node.js
+*MongoDB权威指南 = MongoDB : the deinitive guide
+*前端面试江湖
+*高性能JavaScript
+*HTML 5应用开发实践指南
+*Wireshark数据包分析实战详解
+*为什么天堂不需要经济学家 = Zombies, bananas and why there are no economists in heaven : the economics of real life
+*MySQL数据库管理与开发实践教程

@@ -1,0 +1,18 @@
+#基于SPSS的数据分析
+#R语言实战 = R in action : data analysis and graphics with R
+#区域溢出
+#区域经济学
+#空间经济学 : 城市、区域与国际贸易 = The Spatial economy : cities, regions and international trade
+#基于R的统计分析与数据挖掘
+#基于Excel的统计应用
+#人人都是产品经理 = Everyone is a produot manager : version 1.1
+*历年真题及华图名师详解 : 2015最新版
+*言语理解与表达考前必做1000题 : 2015
+*点石成金 = Don't make me think : 访客至上的网页设计秘笈
+*神一样的产品经理 : 基于移动与互联网产品实践
+*应用回归分析 = Applied regression analysis
+*数据挖掘 = Data mining : 概念与技术concepts and techniques
+*博弈与信息 : 博弈论概论 = Games and information : an introduction to game theory
+*数据挖掘 : 实用案例分析 = Data mining : practical case analysis
+*用户体验度量 : 收集、分析与呈现 = Measuring the user experience : collecing, analyzing, and presenting usability metrics
+*牛奶可乐经济学 = The economic naturalist's field guide : common sense principles for troubled times . 3

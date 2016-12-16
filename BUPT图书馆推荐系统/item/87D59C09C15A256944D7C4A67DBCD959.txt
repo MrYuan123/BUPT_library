@@ -1,0 +1,15 @@
+#Python入门经典
+#Python 核心编程
+#零基础学Python
+#趣学Python编程 = Python for kids
+#Python编程入门 = Python : Visual quickstart guide
+*Python Web开发学习实录
+*Python Cookbook (第2版) 中文版
+*六级词汇词根 + 联想记忆法 : 便携版
+*4周攻克BEC词汇8000周计划 , 中级
+*C++ Primer : 中文版
+*零基础学算法
+*社会工程 : 安全体系中的人性漏洞 = Social engineering : the art of human hacking
+*Python 参考手册 = Python essential reference
+*摄影构图与用光从入门到精通 : 实战版
+*Mathematica基础及其在数学建模中的应用

@@ -1,0 +1,12 @@
+#网络安全技术
+#MATLAB 仿真在通信与电子工程中的应用
+*PHP 学习手册
+*模式识别与智能计算 : Matlab技术实现
+*Java 程序设计
+*计算机视觉 = Computer vision
+*21天突破雅思听力
+*MATLAB 在信号与图像处理中的应用
+*留学时代
+*通信原理
+*MATLAB基础与实践教程
+*非线性光纤光学原理及应用 = Nonlinear fiber optics, fourth edition & applications of nonlinear fiber optics, second edition

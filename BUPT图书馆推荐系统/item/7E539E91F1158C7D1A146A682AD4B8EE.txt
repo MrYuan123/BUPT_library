@@ -1,0 +1,18 @@
+#数据之美 : 一本书学会可视化设计 = Pata points : visualization that means something
+#数据驱动安全 : 数据安全分析、可视化和仪表盘 = Data-driven security : analysis, visualization and dashboards
+#数据之美
+#MATLAB数据分析与挖掘实战 = MATLAB data analysisanddata mining
+#数据科学 : 理论、方法与R语言实践 = Practical data science with R
+#日志管理与分析权威指南 = Logging and log management : the authoritative guide to understanding the concepts surrounding logging and log management
+#安全之美
+#数据约简 : 样例约简与属性约简
+*现代操作系统 = Modern operating systems
+*Web 数据挖掘 = Web data mining
+*数据挖掘导论 = Introduction to data mining
+*Java入门经典
+*Java开发实例大全 , 基础卷
+*精通D3.js : 交互式数据可视化高级编程
+*数据可视化
+*数据可视化之美
+*啤酒与尿布 : 神奇的购物篮分析
+*中国周边安全形势评估 . 2016 = China's regional security environment review . 2016 , “一带一路”：战略对接与安全风险

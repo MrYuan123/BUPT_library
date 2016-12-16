@@ -1,0 +1,24 @@
+#算法与数据结构
+#TD-LTE 技术与标准
+#FBI 教你破解身体语言 = What every body is saying
+#TD-LTE-Advanced移动通信系统设计 = TD-LTE-Advanced mobile communications system design
+#LTE关键技术与无线性能
+#六级词汇分频精讲速记
+#LTE轻松进阶
+#金字塔原理 : 思考、写作和解决问题的逻辑 = The minto pyramid principle : logic in writing thinking & problem solving
+#LTE-A和下一代无线网络 : 信道建模与传播 = LTE-advanced and next generation wireless networks : channel modelling and propagation
+#十天突破IELTS写作完整真题库与6-9分范文全解 = Pat's ten-day servies : the spectrum of IELTS writing questions and responses
+#SQL Server 2012从零开始学
+#算法竞赛入门经典
+#国际刑警教你破解身体语言
+#30天英语语法 单词 口语 俚语速成全攻略
+*C++ Primer : 中文版
+*新基础韩国语 . 上册
+*老子的智慧 : 大道无所不在
+*数据结构 : C++语言版
+*宽带移动通信系统的网络自组织 (SON) 技术
+*代码大全 = Code complete
+*LTE系统原理及应用
+*基于SPSS Modeler的数据挖掘
+*SPSS宝典
+*基于SPSS的数据分析

@@ -1,0 +1,16 @@
+#车联网系统
+#车联网技术及应用
+#车载网络技术 : 基于Simulink仿真设计
+#VANET : 车载网技术及应用 = VANET : vehicular applications and inter-networking technologies
+#TD-LTE-Advanced移动通信系统设计 = TD-LTE-Advanced mobile communications system design
+#UMTS 中的 LTE : 基于OFDMA和SC-FDMA的无线接入
+*无线网络中的博弈论研究 = = Game theory for wireless engineers
+*博弈论及其在无线通信网络中的应用
+*内容中心网络体系架构
+*最优化方法及应用案例
+*最优化方法
+*LTE系统原理及应用
+*C++ Primer : 中文版
+*4G移动通信技术权威指南 : LTE与LTE-Advanced = 4G LTE/LTE-Advanced for mobile broadband
+*3G 核心网技术
+*LTE权威指南 = Fundamentals of LTE

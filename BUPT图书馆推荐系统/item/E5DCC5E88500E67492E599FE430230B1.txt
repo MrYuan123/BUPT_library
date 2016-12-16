@@ -1,0 +1,14 @@
+#JavaScript 入门经典
+#精通 JavaScript+jQuery
+#HTML 5开发精要与实例详解 = Essential HTML 5 and cases study
+#JavaScript 高级程序设计 = Professional JavaScript for web developers
+*Spring源码深度解析
+*JSP程序设计实训与案例教程
+*耶鲁大学最受欢迎的公开课 : 博弈论
+*由浅入深学Java : 基础、进阶与必做260题
+*光网络新技术解析与应用 = Optical network-new technology and implementtation
+*全光通信网技术
+*光纤通信系统与网络
+*解忧杂货店
+*设计素描
+*数据结构与算法 = Data structures and algorithms in Java : Java语言版

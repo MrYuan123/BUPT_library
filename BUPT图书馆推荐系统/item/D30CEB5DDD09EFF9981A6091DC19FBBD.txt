@@ -1,0 +1,14 @@
+#TD-LTE-Advanced移动通信系统设计 = TD-LTE-Advanced mobile communications system design
+#LTE权威指南 = Fundamentals of LTE
+#4G移动通信技术权威指南 : LTE与LTE-Advanced = 4G LTE/LTE-Advanced for mobile broadband
+#3G 核心网技术
+*5G: 关键技术与系统演进
+*LTE系统原理及应用
+*大话移动通信
+*TD-LTE 技术原理与系统设计 = TD-LTE principles and system design
+*C++ Primer : 中文版
+*LTE自组织网络 (SON) : 网络管理自动化提升运维效率
+*车联网系统
+*VANET : 车载网技术及应用 = VANET : vehicular applications and inter-networking technologies
+*UMTS 中的 LTE : 基于OFDMA和SC-FDMA的无线接入
+*车载网络技术 : 基于Simulink仿真设计

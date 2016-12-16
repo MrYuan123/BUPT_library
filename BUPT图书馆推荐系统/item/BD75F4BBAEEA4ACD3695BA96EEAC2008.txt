@@ -1,0 +1,15 @@
+#数据结构 = Data structure
+#Java Servlet & JSP 经典实例
+#Tomcat 权威指南
+#JavaScript经典实例
+#Head First jQuery : 中文版
+*JavaScript高级程序设计 = Professional JavaScript for web developers
+*jQuery网页开发实例精解
+*数据结构学习指导与习题解析
+*Discrete mathematics for computer scientists =离散数学 /离散数学
+*GRE作文大讲堂 : 方法、素材、题库逐题精讲
+*闪灵 = The shining
+*JavaScript学习指南
+*jQuery开发从入门到精通
+*JavaScript DOM 编程艺术 = DOM Scripting : web design with JavaScript and the document object model
+*JavaScript & jQuery交互式Web前端开发

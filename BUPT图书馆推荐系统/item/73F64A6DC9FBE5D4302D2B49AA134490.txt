@@ -1,0 +1,21 @@
+#小波十讲 = Ten lectures on wavelets
+#Python Web开发学习实录
+#MySQL 入门很简单
+#Python自动化运维 : 技术与最佳实践 = Automation operations with Python : technique and best practices
+#PHP、MySQL和Apache入门经典
+#统计自然语言处理
+#Hadoop大数据处理 = Big data processing
+#移动通信天线技术与工程应用 = Antenna technologies and applications in mobile communication system
+#Hadoop实战 = Hadoop in action
+#零基础学Python
+#Linux Bash编程与脚本应用实战
+*Hadoop权威指南
+*深入解析SAS : 数据处理、分析优化与商业应用
+*智能大数据SMART准则 : 数据分析方法、案例和行动纲领 = Big data : using SMART big data, analytics and metrics to make better decisions and improve performance
+*大数据 小故事
+*计算机网络 : 原理、技术与应用
+*移动通信原理
+*走进搜索引擎 = Stepping into search engine
+*ANSYS 14完全自学一本通
+*4周攻克BEC词汇8000周计划 , 中级
+*六级词汇词根 + 联想记忆法 : 便携版

@@ -1,0 +1,14 @@
+#HTML5与CSS3基础教程 = HTML5 and CSS3 visual quickstart guide
+#HTML 5+CSS 3+JavaScript网页设计案例课堂
+#HTML+CSS+JavaScript网页制作从新手到高手
+#Python 学习手册
+*零基础学PHP : 11.5小时多媒体教学视频
+*通信原理
+*网络安全基础 : 应用与标准
+*JavaScript程序设计 : 基础·PHP·XML = Introduction to JavaScript programming with XML and PHP
+*推荐系统 = Recommender systems : an introduction
+*数据挖掘原理、算法与应用
+*汇编语言
+*Python宝典
+*Hadoop 技术内幕 : 深入解析MapReduce架构设计与实现原理 = Hadoop internals : in-depth study of MapReduce
+*Python 基础教程 = Beginning Python from novice to professional

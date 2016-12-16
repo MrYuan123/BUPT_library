@@ -1,0 +1,12 @@
+#高等数学
+#一个人的朝圣 = The Unlikely pilgrimage of harold fry
+*C 语言程序设计
+*通信高频开关电源
+*写给大家的西方美术史
+*鱼羊野史 . 第1卷
+*高等数学全程学习指导
+*TCP/IP 指南 = The TCP/IP guide . 卷1 , 底层核心协议a comprehensive, illustrated internet protocols reference
+*经济学 : 原理、问题和政策 = Economics : principles, problems, and policies
+*主动投资组合管理 : 创造高收益并控制风险的量化投资方法 = Active portfolio management : a quantitative approach for providing superior returns and controlling risk
+*线性代数辅导及习题精解 : 同济·第四版
+*互联网金融 : 大数据时代的金融革命

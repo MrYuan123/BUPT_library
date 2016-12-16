@@ -1,0 +1,19 @@
+#Nginx高性能Web服务器详解
+#PYTHON 技术手册
+#漫话大数据
+#云存储解析 = Cloud storage analytics
+#Head First 设计模式
+#面向数字系统综合的 Verilog 编码风格 = Verilog styles for synthesis of digital systems
+#计算机网络释疑与习题解答
+#神秘岛 = The Mysterious island : 插图·中文导读英文版 . 上部
+#大话通信 : 通信基础知识读本
+*Redis入门指南
+*编写高质量代码 = Writing solid web front-end code : Web前端开发修炼之道
+*YES!产品经理 = Product manager . 1
+*LTE 基础原理与关键技术
+*计算机操作系统
+*光子晶体光纤熔接与拉锥理论及技术
+*光子晶体光纤中超连续谱产生及应用
+*敏感材料与传感器 = Sensitive materials and sensors
+*全分布式光纤传感技术
+*少年维特的烦恼 = Die leiden des jungen Werthers

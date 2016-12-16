@@ -1,0 +1,14 @@
+#量子力学基础教程
+#线性代数 = Linear algebra with applications
+#光波导理论与技术
+#黑客攻击与防范实战从入门到精通
+*电磁场与电磁波 = Field and wave electromagnetics
+*审美的历程
+*电动力学 = Electrodynamics
+*高等光学
+*硅基光电子发光材料与器件
+*硅基光电子学
+*非线性光学 = Nonlinear optics
+*光子晶体原理及应用
+*非线性光纤光学原理及应用 = Nonlinear fiber optics & applications of nonlinear fiber optics
+*量子通信原理与技术

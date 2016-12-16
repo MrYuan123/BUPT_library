@@ -1,0 +1,11 @@
+#21天学通C++
+*软件工程 = Software engineering
+*MySQL 入门很简单
+*失物之书 = The book of lost things
+*Java虚拟机精讲
+*编写高质量代码 : 改善Python程序的91个建议 = Writing solid python code : 91 suggestions to improve your Python program
+*C++入门经典
+*Photoshop CS6中文版从入门到精通 , 核心技法卷 : 抠图、修图、Camera Raw、调色、锐化、合成
+*完全掌握Flash CS6白金手册
+*中文版Photoshop CS6白金手册
+*新手学电脑入门与提高 : Windows 8版

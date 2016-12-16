@@ -1,0 +1,12 @@
+#机器学习导论 = Introduction to machine learning
+#Android开发入门与实战
+*信息安全概论
+*计算机视觉 : 算法与应用
+*Android开发应用从入门到精通
+*Android经典应用程序开发
+*Android 开发应用实战详解
+*Android 应用开发范例大全
+*微信公众平台开发与案例分析
+*机器学习实战 = Machine learning in action
+*数据结构与算法
+*风吹江南之互联网金融

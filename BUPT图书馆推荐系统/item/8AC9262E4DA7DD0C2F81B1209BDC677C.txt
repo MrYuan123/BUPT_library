@@ -1,0 +1,14 @@
+#数字通信 = Digital Communications
+#Digital and analog communication systems =数字与模拟通信系统 /数字与模拟通信系统
+#数字与模拟通信系统 = Digital and analog communication systems
+#MySQL 入门很简单
+*数字通信理论与系统
+*雅思阅读真经总纲
+*雅思写作真经总纲 = IELTS writing
+*TCP/IP 协议族
+*云中命案 = Death in the clouds
+*死亡约会 = Appointment with death
+*Java 范例开发大全
+*数字通信 = Digital communications
+*Java Web 整合开发实战 : 基于Struts 2+Hibernate+Spring
+*运筹学学习指导及习题集

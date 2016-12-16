@@ -1,0 +1,13 @@
+#精通 Web Analytics : 来自专家的最佳Web分析策略
+#创新者的窘境 = The Innovator's dilemma : when new technologies cause great firms to fail
+#铅笔素描超精解析
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

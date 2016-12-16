@@ -1,0 +1,11 @@
+#算法设计与分析基础 = Introduction to the design and analysis of algorithms
+*Altera FPGA/CPLD 设计 , 基础篇
+*ACM 图灵奖 = The ACM turing award (1966-2006) : 1966-2006计算机发展史的缩影an epitomized history of computing in the twentieth-century
+*体验 : 未来业务新场景 = What's the future of business : changing the way businesses create experiences
+*Verilog编程艺术
+*打破思维里的框 : 激发创造力只需五步 = Thinking in new boxes : a new paradigm for business creativity
+*用 TCP/IP 进行网际互连 = Internetworking with TCP/IP . 第一卷Volume I , 原理、协议与结构principles, protocols, and architectures
+*TCP/IP协议原理与应用
+*互联网伦理 : 信息时代的道德重构 = Ethics for the information age
+*机器学习实践指南 = The practice of machine learning : 案例应用解析
+*Altera FPGA/CPLD 设计 , 高级篇

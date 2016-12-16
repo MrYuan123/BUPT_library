@@ -1,0 +1,11 @@
+#大话5G = The myth of 5G
+*大话移动通信
+*有限自动机理论
+*合作博弈理论模型
+*应用博弈论
+*大规模强化学习
+*摄动马尔可夫决策与哈密尔顿圈 = Perturbed Markov decision processes and Hamiltonian cycles
+*高级无线网络 : 4G技术
+*博弈论 : 矛盾冲突分析 = Game theory : analysis of conflict
+*OpenStack设计与实现
+*跟老齐学Python : 从入门到精通

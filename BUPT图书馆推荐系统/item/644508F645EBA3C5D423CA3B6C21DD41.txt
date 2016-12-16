@@ -1,0 +1,15 @@
+#矩阵分析学习指导
+#矩阵分析
+#读故事记单词托福必备短语
+#最新托福词汇科学快捷记忆手册
+#最优化方法及其 Matlab 程序设计
+*犹太富翁的财智圣经
+*分身
+*空时无线通信导论
+*Effective C++ : 改善程序与设计的55个具体做法 : 中文版 = Effective C++ : 55 specific ways to improve your programs and designs
+*当尼采哭泣 = When Nictzsche wept
+*无线通信基础 = Fundamentals of wireless communication
+*天黑以后
+*3GPP 长期演进 (LTE) 系统架构与技术规范 = 3GPP long term evolution : architecture and specification
+*现代控制理论
+*MATLAB 电子仿真与应用教程

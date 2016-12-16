@@ -1,0 +1,14 @@
+#零基础学素描技法 , 线稿草图篇
+#R语言实战 = R in action : data analysis and graphics with R
+#Python科学计算
+#数字图像处理 = Digital image processing
+*数字图像处理 = Digital image processing : MATLAB版using MATLAB
+*数字图像处理 : MATLAB版 : 本科教学版 = Digital image processing using MATLAB
+*用户体验度量 : 收集、分析与呈现 = Measuring the user experience : collecing, analyzing, and presenting usability metrics
+*图像处理、分析与机器视觉 = Image processing, analysis, and machine vision
+*Head First Java (中文版)
+*R语言编程艺术 = The art of R programming : a tour of statistical software design
+*统计学基础
+*计量经济学导论 = Intrductory econometrics : a modern approach
+*R的极客理想 , 工具篇
+*写给大忙人看的C++ = C++ for the impatient

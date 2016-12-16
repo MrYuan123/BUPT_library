@@ -1,0 +1,12 @@
+#跟老齐学Python : 从入门到精通
+#SQL Server入门很简单
+*计算机网络安全基础 = The basis of computer network security
+*全国计算机技术与软件专业技术资格 (水平) 考试 , 网络工程师分册
+*C 语言程序设计应用教程
+*MySQL技术内幕 : SQL编程 = Inside MySQL : SQL programming
+*Python编程入门 = Python : Visual quickstart guide
+*数据统计分析与 SPSS 应用
+*大话5G = The myth of 5G
+*Python Cookbook (第3版) 中文版
+*雅思写作机经词汇 : 最新版
+*剑桥雅思全真试题4·5·6最新解析

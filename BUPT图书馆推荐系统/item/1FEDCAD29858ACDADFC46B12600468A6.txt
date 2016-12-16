@@ -1,0 +1,20 @@
+#21 天学通 C 语言
+#Java Web实战开发完全学习手册
+#剑指Offer : 名企面试官精讲典型编程题
+#轻量级Java EE企业应用实战 : Struts 2+Spring 4+Hibernate整合开发
+#Java程序设计完全学习手册
+#黑客攻防大全
+#Java程序员面试笔试宝典
+#Java Web 开发实战
+#Java开发实战
+#网络工程师的5天修炼
+*数据结构 : Java语言描述
+*Java Web程序开发范例宝典
+*算法导论 = Introduction to algorithms
+*Java 程序设计基础教程
+*Java特种兵 . 上册
+*Java编程指南 = Java 7 : a comprehensive tutorial
+*数据结构与问题求解 : Java语言版
+*Java 开发实战经典
+*疯狂Java程序员的基本修养
+*编程珠玑 = Programming pearls

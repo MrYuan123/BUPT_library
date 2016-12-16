@@ -1,0 +1,13 @@
+#Linux环境C程序设计
+#无源光网络技术
+#计算机网络 : 自顶向下方法 = Computer networking : a top-down approach
+*对话下一代网络
+*接入网技术 = Access network technology
+*光纤通信技术
+*QTP 从实践到精通
+*软件测试
+*光通信中的 OFDM = OFDM for optical communications
+*面向新型业务的宽带接入网
+*信息通信系统接入网维护管理概要
+*云时代的大数据
+*社交网络分析及案例详解

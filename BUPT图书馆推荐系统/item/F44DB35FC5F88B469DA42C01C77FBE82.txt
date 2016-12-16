@@ -1,0 +1,13 @@
+#我生命的速度 = Life at these speeds
+#幽灵代笔 = Ghostwritten
+#上帝的两个赌局 : 一枚硬币的赚钱智慧
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

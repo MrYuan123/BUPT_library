@@ -1,0 +1,15 @@
+#面向新型业务的宽带接入网
+#光纤通信技术
+#光通信中的 OFDM = OFDM for optical communications
+#信息通信系统接入网维护管理概要
+#无源光网络技术
+*光纤通信 = Optical fiber communications
+*计算机网络 : 自顶向下方法 = Computer networking : a top-down approach
+*Linux环境C程序设计
+*光纤通信新技术
+*无线光通信
+*接入网技术 = Access network technology
+*软件测试
+*QTP 从实践到精通
+*对话下一代网络
+*光纤通信系统

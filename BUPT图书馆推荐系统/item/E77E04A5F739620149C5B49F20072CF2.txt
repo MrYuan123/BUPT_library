@@ -1,0 +1,16 @@
+#藏地密码 : 一部关于西藏的百科全书式小说 . 3
+#藏地密码 : 一部关于西藏的百科全书式小说 . 2
+#林肯传
+#现代数字信号处理与噪声降低 = Advanced digital signal processing and noise reduction
+#里皮传
+#呐喊·彷徨·故事新编 : 丁聪插图本
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

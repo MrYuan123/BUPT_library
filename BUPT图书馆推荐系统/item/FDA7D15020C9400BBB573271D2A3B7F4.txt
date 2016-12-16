@@ -1,0 +1,12 @@
+#MATLAB 8.0从入门到精通
+#快学Scala = Scala for the impatient
+*AMOS 与研究方法
+*回归分析 : 因变量统计模型 = Regression Analysis : statistical modeling of a response variable
+*SPSS统计分析与行业应用案例详解
+*Spark大数据处理技术
+*算法与数据结构
+*设计模式之禅 = The Zen of design patterns
+*组合数学引论
+*R语言实战 = R in action : data analysis and graphics with R
+*最优化方法 : MATLAB应用 = Optimization by MATLAB
+*离散数学 = Discrete mathematics

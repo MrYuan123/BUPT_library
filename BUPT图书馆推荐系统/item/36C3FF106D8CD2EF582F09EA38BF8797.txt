@@ -1,0 +1,11 @@
+#通信网性能分析基础
+*TD-SCDMA 第三代移动通信系统
+*基于 Verilog HDL 的 FPGA 设计与工程应用
+*随机过程与排队论 = Random process and queuing theory
+*电子电路设计技术基础
+*Verilog HDL 与数字电路设计
+*通信网理论与应用 = Communication network : principle and applications
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

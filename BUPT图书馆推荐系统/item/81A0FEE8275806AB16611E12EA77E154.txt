@@ -1,0 +1,13 @@
+#光纤通信系统
+#光纤通信入门130问
+#光纤通信 = Optical fiber communications
+*MATLAB及在电子信息课程中的应用
+*光纤通信技术
+*通信原理
+*光纤通信技术 = Optical fiber communications technology
+*光子学 = Photonics : 现代通信光电子学optical electronics in modern communications
+*光交换技术 = Optical switching technology
+*光纤通信 = Fiber optic communications
+*光纤光栅 : 原理、技术与传感应用
+*光纤光学与光纤应用技术
+*光纤技术及应用

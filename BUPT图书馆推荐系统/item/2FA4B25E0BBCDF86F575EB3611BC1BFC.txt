@@ -1,0 +1,16 @@
+#哥德尔、艾舍尔、巴赫 : 集异璧之大成
+#文明的度量 : 社会发展如何决定国家命运 = The measure of civilization : how social development decides the fate of nations
+#差半车麦秸
+#自适应Fourier变换 : 一个贯穿复几何, 调和分析及信号分析的数学方法
+#征服C指针
+#战争 : 从类人猿到机器人, 文明的冲突和演变 = War!what is it good for？ : conflict and the progress of civilization from primates to robots
+*智能制造 : 未来工业模式和业态的颠覆与重构 = Smart production
+*自私的基因
+*Qt Creator快速入门
+*共享经济 : 重构未来商业新模式 = Peers inc : how people and platforms are inventing the collaborative economy and reinventing capitalism
+*计算机组织与体系结构 : 性能设计 = Computer organization and architecture : designing for performance
+*数据之巅 : 大数据革命，历史、现实与未来 = Big data history, reality and future
+*Linux 指令范例速查手册
+*Linux网络操作系统项目化教程
+*图解机器学习
+*量化投资 : 策略与技术

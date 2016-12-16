@@ -1,0 +1,15 @@
+#大话数据结构 = Play with data structure
+#Java程序员面试宝典
+#商务智能方法与应用
+#Head First Java (中文版)
+#程序员面试宝典
+*编程之美 : 微软技术面试心得
+*数据结构 : Java版
+*大话数据挖掘
+*疯狂Java : 突破程序员基本功的16课
+*Head First Python中文版
+*解密搜索引擎技术实战 : Lucene & Java精华版
+*数字图像处理 = Digital image processing
+*第一行代码 : Android
+*剑指Offer : 名企面试官精讲典型编程题
+*Java虚拟机精讲

@@ -1,0 +1,14 @@
+#2016年操作系统联考复习指导 = Review guide of operating systems entrance exam
+#2015版计算机组成原理高分笔记
+#2016版数据结构高分笔记
+#2016版计算机网络高分笔记
+*算法导论 = Introduction to algorithms
+*考研英语真题超精读 = Super intensive reading : 提高篇2005-2014 . 第2分册
+*机械原理复习题详解
+*2017版计算机组成原理高分笔记
+*网络编程与动态网站制作
+*信号与系统 (第三版·上册) 同步辅导及习题全解
+*信号与系统 : MATLAB综合实验
+*组合数学及其应用
+*2015版操作系统高分笔记
+*工程测试技术 = Engineering measurement technology

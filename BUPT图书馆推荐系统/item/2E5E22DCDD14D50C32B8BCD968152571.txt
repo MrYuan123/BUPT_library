@@ -1,0 +1,30 @@
+#Spring 3.0就这么简单
+#挑战程序设计竞赛
+#程序员代码面试指南 : IT名企算法与数据结构题目最优解
+#Java多线程编程核心技术 = Java multi-thread programming
+#Python 源码剖析 : 深度探索动态语言核心技术
+#Linux shell脚本攻略
+#Java程序员面试秘笈
+#Maven 实战 = Maven 3 in action
+#设计模式之禅 = The Zen of design patterns
+#计算机操作系统联考辅导教程 : 2012版
+#Oracle SQL疑难解析 = Oracle SQL recipes : a problem-solution approach
+#云计算解密 : 技术原理及应用实践
+#UNIX环境高级编程
+#Servlet和JSP学习指南 = Servlet & JSP : a tutorial
+#Django Web 开发指南 = Python web development with Django
+#轻量级Java EE企业应用实战 : Struts 2＋Spring 3＋Hibernate整合开发
+#程序员面试金典 = Cracking the coding interview : 150 programming questions and solutions
+#Python开发实战
+#Java EE核心框架实战
+#算法分析与设计技巧 = Algorithm analysis and design techniques
+*深入理解计算机系统 = Computer systems : a programmer's perspctive
+*深入分析Java Web技术内幕
+*Spring 3.x企业应用开发实战
+*MySQL内核 : InnoDB存储引擎 . 卷1
+*深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM : advanced features and best practices
+*计算机网络
+*Python 3 程序开发指南 = Programming in Python 3
+*深入理解计算机系统 = Computer systems : a programmer's perspective
+*代码大全 = Code complete
+*OSGi实战 = OSGi in action : creating modulaer applications in Java

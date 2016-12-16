@@ -1,0 +1,15 @@
+#MATLAB 7.x 程序设计语言
+#PHOTOSHOP抠图秘技大全
+#Photoshop 数码照片处理 108 招
+#中文版 Photoshop CS 经典效果实例与操作
+#MATLAB R2013a基础与可视化编程
+*MATLAB R2012a超级学习手册
+*大话数据库
+*可爱的 Python
+*Java程序设计与问题求解
+*数字信号处理 = Digital signal processing using MATLAB : (MATLAB版)
+*MATLAB信号处理超级学习手册
+*数字信号处理的MATLAB实现
+*计算机网络
+*线性代数
+*高等数学 . 上册

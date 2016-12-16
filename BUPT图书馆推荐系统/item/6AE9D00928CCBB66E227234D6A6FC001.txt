@@ -1,0 +1,19 @@
+#LTE教程 : 原理与实现
+#光网络新技术解析与应用 = Optical network-new technology and implementtation
+#下一代无源光网络
+#60GHz频段短距离无线通信 = Short-range wireless communications in 60GHz
+#宽带功率放大器预失真原理
+#5G : 开启移动网络新时代
+#下一代融合网络理论与实践
+#ROF光载无线通信 : 从理论到前沿
+#EPON/GPON 从原理到实践
+*实现吉比特传输的60GHz无线通信技术
+*射频电路设计
+*全光通信网技术
+*精通 JavaScript+jQuery
+*精通 Verilog HDL 语言编程
+*高频电子线路
+*高频电子电路
+*玩转UML与Rose
+*计算机网络 : 原理、技术与应用
+*光纤通信系统与网络

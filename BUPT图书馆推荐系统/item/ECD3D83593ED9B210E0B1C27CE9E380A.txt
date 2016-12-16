@@ -1,0 +1,14 @@
+#最优状态估计 : 卡尔曼, H及非线性滤波
+#PID 控制器参数整定与实现
+#Arduino开发实战指南 : STM32篇
+#传感器信息融合 : MATLAB程序实现
+*Verilog数字系统设计教程
+*门老师教你快速看懂电子电路图
+*模拟电子技术基础
+*FPGA 应用开发入门与典型实例
+*零起步轻松学电子技术
+*数字系统设计与Verilog HDL
+*FPGA项目开发实战讲解
+*FPGA设计实战演练 , 逻辑篇 = Practice-based learning fo FPGA logic level design
+*自适应滤波算法与实现 = Adaptive filtering : algorithms and practical implementation
+*软件无线电 = Telecommunication breakdown : concepts of communication transmitted via software-defined radio

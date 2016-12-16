@@ -1,0 +1,16 @@
+#量子计算和量子信息 = Quantum computation and quantum information . 一 , 量子计算部分
+#量子信息处理技术及算法设计
+#量子密码协议的设计和分析
+#英语学术论文写作 = English acadeng writing
+#量子信息处理技术
+#量子计算和量子信息 = Quantum computation and quantum information . 二 , 量子信息部分
+*量子保密通信协议的设计与分析
+*应用量子密码学 = Applied quantum cryptography
+*信息保护 : 从经典纠错到量子密码 = Protecting information : from classical error correction to quantum cryptography
+*量子力学习题精选与剖析
+*量子密码学
+*博弈论教程
+*博弈论 = Game theory
+*宪政的哲学基础
+*这个世界会好吗? : 梁漱溟晚年口述 = Has man a future? : dialogues with the last Confucian
+*中国最后一个大儒 : 记父亲梁漱溟

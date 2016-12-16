@@ -1,0 +1,14 @@
+#Turbo 与 LDPC 编解码及其应用
+#杨振宁文录 = Chen Ning Yang's collection : 一位科学大师看人与这个世界
+#C 语言入门经典
+#迷人的科学风采 : 费恩曼传
+*LDPC 码理论与应用
+*高效信道编译码技术及其应用
+*激光原理及应用
+*光纤光栅原理及应用
+*鸟哥的 Linux 私房菜 , 基础学习篇
+*差错控制编码 = Error control coding from theory to practice
+*Turbo 码设计与应用
+*数据链技术与系统
+*多元LDPC码及其在无线通信中的应用 = Nonbinary low-density parity-check codes and their applications in wireless communications
+*数据链理论与系统 = Theory and system of data link

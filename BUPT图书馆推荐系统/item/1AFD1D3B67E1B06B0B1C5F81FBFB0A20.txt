@@ -1,0 +1,16 @@
+#组合数学引论
+#R语言实战 = R in action : data analysis and graphics with R
+#MATLAB 8.0从入门到精通
+#最优化方法 : MATLAB应用 = Optimization by MATLAB
+#离散数学 = Discrete mathematics
+#MATLAB完全自学手册
+*快学Scala = Scala for the impatient
+*AMOS 与研究方法
+*回归分析 : 因变量统计模型 = Regression Analysis : statistical modeling of a response variable
+*SPSS统计分析与行业应用案例详解
+*用户体验度量 : 收集、分析与呈现 = Measuring the user experience : collecing, analyzing, and presenting usability metrics
+*R语言编程艺术 = The art of R programming : a tour of statistical software design
+*计量经济学导论 = Intrductory econometrics : a modern approach
+*R的极客理想 , 工具篇
+*统计学基础
+*模拟电子技术基础

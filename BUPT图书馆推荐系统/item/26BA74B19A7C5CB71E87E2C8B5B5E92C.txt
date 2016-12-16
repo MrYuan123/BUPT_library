@@ -1,0 +1,17 @@
+#数学建模 = Mathematical modeling
+#希特勒末日记 = The last days of Hitler
+#中文版 Photoshop CS5 基础培训教程
+#王立群读《史记》 汉武大帝
+#Flash CS3 宝典
+#Photoshop CS2 中文版从入门到精通 : 普及版
+#毛泽东中南海外交风云
+*HTML 与 CSS 入门经典
+*算法引论 = Introduction to algorithms : 一种创造性方法a creative approach
+*实用数据结构 : C++描述
+*精通MATLAB
+*数学建模及其实验
+*线性代数及其应用 = Linear algebra and its applications
+*数学分析
+*国际大学生程序设计竞赛例题解 . 五 : 2006-2007年
+*全国大学生数学竞赛辅导教程 = National mathematical contest tutorial for college students
+*大学生数学竞赛试题解析选编

@@ -1,0 +1,22 @@
+#About Face 3交互设计精髓 = About Face 3 : the essentials of interaction design
+#用户体验设计 : 讲故事的艺术 = Storytelling for user experience : crafting stories for better design
+#改变心理学的 40 项研究
+#交互设计指南 = Designing for interaction creating innovative applications and devices
+#设计心理学 = Design psychology
+#Web信息架构 : 设计大型网站 = Information architecture for the world wide web : designing large-scale web sites
+#用户体验面面观 : 方法、工具与实践
+#高效沟通设计之道 = Communicating design : developing web site documentation for design and planning
+#Web界面设计 = Designing Web interfaces
+#点石成金 = Don't make me think : 访客至上的网页设计秘笈
+#破茧成蝶 : 用户体验设计师的成长之路
+#用户体验要素 : 以用户为中心的产品设计 = The Elements of user experience : user-centered design for the web and beyond
+*吃茶一水间
+*神一样的产品经理 : 基于移动与互联网产品实践
+*认知与设计 : 理解UI设计准则 = Designing with the mind in mind : simple guide to understanding user interface design guidelines
+*结网@改变世界的互联网产品经理
+*人人都是产品经理 = Everyone is a produot manager : version 1.1
+*人性的弱点
+*与庄共舞 : 人生的自救之道
+*亲密 : 瞬间吸引的隐秘力量
+*3ds Max 2013完全学习手册
+*数据库与数据处理 = Database and data processing : Access 2010实现

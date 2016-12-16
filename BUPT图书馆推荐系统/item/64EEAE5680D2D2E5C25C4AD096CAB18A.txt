@@ -1,0 +1,12 @@
+#实时计算机图形学 = Real-time rendering
+#3D 游戏 = 3D games . 卷1Vol1 , 实时渲染与软件技术real-time rendering and software technology
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

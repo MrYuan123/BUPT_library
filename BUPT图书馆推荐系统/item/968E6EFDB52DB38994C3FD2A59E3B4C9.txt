@@ -1,0 +1,15 @@
+#数值分析及其 MATLAB 实验
+#算法导论 = Introduction to algorithms
+#线性代数 = Linear algebra with applications
+#算法设计与分析
+#随机算法 = Randomized Algorithms
+*电磁场与电磁波 = Field and wave electromagnetics
+*审美的历程
+*愿你要的明天, 如约而至 : 吉檀迦利
+*算法 : C 语言实现 . 第1-4部分 , 基础知识、数据结构、排序及搜索 = Algorithms in C . Parts 1-4 : fundamentals, data structures, sorting, searching
+*机器学习实战 = Machine learning in action
+*数学建模
+*数学建模竞赛优秀论文评析
+*数学建模方法与分析 = Mathematical modeling
+*还本归宗 : 六爻预测指南
+*C++程序设计

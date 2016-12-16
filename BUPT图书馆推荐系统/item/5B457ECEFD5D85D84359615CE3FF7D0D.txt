@@ -1,0 +1,13 @@
+#IMS 网络部署、运营与未来演进
+#LTE教程 : 机制与流程
+#LTE语音业务及VoLTE技术详解
+*HTML5+CSS3+jQuery Mobile轻松构造APP与移动网站
+*IMS: IP多媒体子系统概念与服务
+*Android开发课堂实录
+*TD-LTE 技术原理与系统设计 = TD-LTE principles and system design
+*全面详解LTE : MATLAB建模、仿真与实现
+*华尔街之狼 = The wolf of Wall Street : 我走过的金钱、权力与欲望的迷途
+*5G : 开启移动网络新时代
+*UMTS中的LTE : 向LTW-Advanced演进
+*效用函数及优化
+*计算机网络

@@ -1,0 +1,12 @@
+#HTML 5 开发手册 = HTML 5 developer's cookbook
+#精通HTML5+CSS3+JavaScript网页设计
+*JavaScript程序设计 : 基础·PHP·XML = Introduction to JavaScript programming with XML and PHP
+*中日交流标准日本语单词随身听 , 初级
+*标准日本语词汇、语法训练教程 , 初级上、下册
+*数据结构 : Java语言描述
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

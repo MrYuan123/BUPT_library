@@ -1,0 +1,13 @@
+#季羡林随想录 . 十一
+#一天就能读完的《国富论》 : 亚当·斯密的经济学说 = Adam Smithe's the "wealth of nations" : a modern-day interpretation of an economic classic
+#平狄克版 《微观经济学》 (第七版) 学习手册
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

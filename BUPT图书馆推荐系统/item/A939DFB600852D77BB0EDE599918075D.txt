@@ -1,0 +1,13 @@
+#西方哲学史精华本 = A history of western philosophy
+#深入解析 Windows 操作系统 : Microsoft Windows Server 2003/Windows XP/Windows 2000 技术内幕 = Microsoft windows internals : Microsoft Windows server 2003, Windows XP, and Windows 2000
+#大学生数学竞赛习题精讲
+*无用之学 = Useless science
+*VMware Virtual SAN权威指南 = Essential Virtual San : administrator's guide to VMware VSAN
+*微型计算机原理与接口技术实验指导
+*Visual C++从入门到精通
+*Xen虚拟化技术完全导读 = The definitive guide to the Xen hypervisor
+*操作系统
+*云计算通俗讲义
+*C++入门经典
+*计算机网络
+*线性代数

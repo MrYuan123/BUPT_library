@@ -1,0 +1,19 @@
+#程序员的数学思维修练 : 趣味解读
+#情境图解英语听力大突破 = Skills and strategies for understanding English from native speakers
+#大话物联网
+#反入侵的艺术 : 黑客入侵背后的真实故事
+#跟司马懿学管理
+#网站安全攻防秘笈 : 防御黑客和保护用户的100条超级策略 = The Web application defender's cookbook : battling hackers and protecting users
+#密码的故事
+#民国的背影 : 那些人那些事
+#安全软件开发之道 : 构筑软件安全的本质方法 = Building secure software : how to avoid security problems the right way
+*Python 网络编程基础 = Foundations of Python network programming
+*Ajax、JavaScript 和 PHP 编程导学 = Sams teach yourself Ajax, JavaScript, and PHP all in one
+*AJAX 安全技术 = AJAX security
+*世界文明简史 = The story of mankind
+*大话数据挖掘
+*审计学原理 = Auditing principles
+*Spark大数据处理 : 技术、应用与性能优化 = Data processing with spark : technology, application and performance optimization
+*疯狂 Java 实战演义
+*灵魂之匣
+*六级词汇词根 + 联想记忆法 : 乱序版

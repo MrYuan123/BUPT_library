@@ -1,0 +1,11 @@
+#Web性能权威指南 = High performance browser networking
+*高性能网站建设指南 : 前端工程师技能精髓 = High performance web sites
+*统计学习方法
+*深入理解计算机系统 = Computer systems : a programmer's perspctive
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

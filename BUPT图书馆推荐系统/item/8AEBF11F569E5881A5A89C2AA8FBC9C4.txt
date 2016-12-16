@@ -1,0 +1,13 @@
+#程序员面试逻辑题解析 = Puzzles for programmers and pros
+#MySQL教程
+#剑指Offer : 名企面试官精讲典型编程题
+*软件测试 = Software testing
+*软件测试基础教程 = Foundations of software testing
+*概率、统计与随机过程 = Probability, statistics, and random processes for engineers
+*每天30分钟, 像老外一样说英语
+*快时变信道下的无线通信 = Wireless communications over rapidly time-varying channels
+*新托福高分词汇 = TOEFL guide excellence vocabulary
+*C++ Primer : 中文版
+*ACM 国际大学生程序设计竞赛题解 . 1
+*算法导论 = Introduction to algorithms
+*Linux下C语言应用编程

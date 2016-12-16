@@ -1,0 +1,12 @@
+#统计学习方法
+#推荐系统 = Recommender systems : an introduction
+*Python 学习手册
+*推荐系统实践
+*自己动手写网络爬虫
+*Linux入门很简单
+*幻夜
+*人生
+*经济学原理 = Principles of economics
+*面向对象的 Java 语言程序设计
+*Hadoop权威指南
+*高性能网站建设指南 : 前端工程师技能精髓 = High performance web sites

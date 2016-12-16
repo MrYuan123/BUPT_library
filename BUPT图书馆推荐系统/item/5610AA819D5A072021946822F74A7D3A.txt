@@ -1,0 +1,16 @@
+#ADS 2009 射频电路设计与仿真
+#深入浅出Android软件开发教程
+#Altium Designer 13.0电路设计、仿真与验证权威指南 = The defintive guide of altium designer 13.0 circuit design, simulation adn verification
+#数据结构 (C语言版) 学习指导与习题解答
+#DSP 技术及其应用
+#Android技术及应用
+*Android编程入门经典
+*数据结构程序设计题典
+*Altium Designer 14中文版标准实例教程
+*俗世奇人
+*山水旧城谙
+*MATLAB 宝典
+*HTML/CSS网页设计与开发一站式学习 : 难点/案例/练习
+*高等数学考研与竞赛教程
+*考研数学大纲配套辅导全书 , 数学 (一) 
+*通信原理 : 合订本

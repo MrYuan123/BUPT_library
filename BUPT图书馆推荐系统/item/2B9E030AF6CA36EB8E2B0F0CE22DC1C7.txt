@@ -1,0 +1,13 @@
+#信息论基础教程习题解答与实验指导
+#信息论基础
+#信息理论基础
+*MATLAB实用数值分析
+*高等数学引论 . 第四册
+*人工智能 : 智能系统指南 = Artificial intelligence : a guide to intelligent systems
+*结网@改变世界的互联网产品经理
+*物联网 = Internet of things : 未来已来
+*信息论基础与应用
+*产品之力 : 正在爆发的互联网革命
+*信息论简明教程
+*Java程序设计经典300例
+*信息论与编码

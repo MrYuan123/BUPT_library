@@ -1,0 +1,15 @@
+#Stata统计分析与应用
+#货币的力量 = The Power of currency
+#SPSS统计分析与数据挖掘
+#世界是部金融史 = Every true history is financial history : 一部超好看、超管用的金融读本
+#菊与刀 = Chrysanthemum and sword : 解密日本人the secret of Japanese
+*Python标准库 = The Python standard library by example
+*数据挖掘导论
+*SPSS 统计分析从入门到精通
+*SPSS 19.0统计分析综合案例详解
+*IBM SPSS Modeler数据与文本挖掘实战
+*基于SPSS Modeler的数据挖掘
+*了不起的盖茨比 = The great Gatsby : 插图·中文导读英文版
+*暗恋 = Unrequited love
+*STATA 实用教程 = A guide to STATA
+*走遍美国 = Family album U.S.A. : 全新版 . 上册

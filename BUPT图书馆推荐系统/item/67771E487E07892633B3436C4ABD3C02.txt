@@ -1,0 +1,25 @@
+#大话5G = The myth of 5G
+#跟老齐学Python : 从入门到精通
+#雅思写作机经词汇 : 最新版
+#剑桥雅思全真试题4·5·6最新解析
+#Python Cookbook (第3版) 中文版
+#博弈论 : 矛盾冲突分析 = Game theory : analysis of conflict
+#高等应用数学问题的MATLAB求解 = Advanced applied mathematical problem solutions with MATLAB
+#赢在雅思听力词汇
+#剑桥雅思听力考点词真经
+#数据挖掘的应用与实践 = Data mining where theory meets practice : 大数据时代的案例分析
+#剑桥雅思9官方答案全解析
+#OpenStack设计与实现
+#快时变信道下的无线通信 = Wireless communications over rapidly time-varying channels
+#50 天征服雅思词汇 = Conquer vocabulary for IELTS in 50 days
+#5G: 关键技术与系统演进
+*SQL Server入门很简单
+*MySQL技术内幕 : SQL编程 = Inside MySQL : SQL programming
+*移动通信技术
+*4G移动通信技术权威指南 : LTE与LTE-Advanced = 4G LTE/LTE-Advanced for mobile broadband
+*MATLAB图像处理实例详解
+*LTE权威指南 = Fundamentals of LTE
+*每天30分钟, 像老外一样说英语
+*概率、统计与随机过程 = Probability, statistics, and random processes for engineers
+*MySQL教程
+*新托福高分词汇 = TOEFL guide excellence vocabulary

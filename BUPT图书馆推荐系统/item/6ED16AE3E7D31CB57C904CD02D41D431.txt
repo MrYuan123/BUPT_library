@@ -1,0 +1,13 @@
+#线性代数
+#龙文身的女孩 = Man som hatar kvinnor
+#线性代数实践及 MATLAB 入门
+*希腊神话故事
+*生死狙击 : 斯大林格勒的苏军狙击手瓦西里的生死瞬间 = Notes of a russian sniper
+*高等数学 . 上册
+*高等数学复习指导 : 思路、方法与技巧
+*高等数学 . 下册
+*高等数学 (同济·第五版) : 导教·导学·导考 . 上册
+*Kinect应用开发实战 : 用最自然的方式与机器对话
+*凸优化 = Convex optimization
+*概率论与随机过程
+*20 世纪英国 = Twentieth-century Britain : 帝国与遗产a very short introduction

@@ -1,0 +1,12 @@
+#大学英语新六级阅读周计划
+#运筹学解题指导
+*数据结构重点难点问题剖析
+*大学英语六级语法过关必读1000题
+*信号与系统学习指导
+*信号与系统习题指导 = The Answer of signals and systems
+*运筹学教程例题分析与题解
+*JavaScript编程精解 = Eloquent JavaScript : a modern introduction to programming
+*Java从入门到精通
+*运筹学学习指导及习题集
+*数字通信 = Digital Communications
+*数字通信理论与系统

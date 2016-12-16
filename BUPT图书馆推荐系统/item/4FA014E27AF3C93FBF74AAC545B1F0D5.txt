@@ -1,0 +1,14 @@
+#MIMO 无线通信 : 从真实世界的传播到空-时编码的设计 = MIMO wireless communications : from real-world propagation to space-time code design
+#矩阵理论
+#MIMO-OFDM系统原理、应用及仿真
+#动物农场 = Animal farm
+*高等数学 . 上册
+*多用户、多小区 MIMO 通信技术 = Multi-user multi-cell MIMO communication technology
+*数据结构与STL
+*MIMO 通信系统编码 = Coding for MIMO communication systems
+*长征
+*算法帝国 = Automate this : how algorithms came to rule our world
+*MIMO系统与空时编码 : 分集的理论与实践 = MIMO system and STC : the theory and practice of diversity
+*算法之美 : 隐匿在数据结构背后的原理 : C++版
+*博弈论
+*STL源码剖析 = The Annotated STL sources

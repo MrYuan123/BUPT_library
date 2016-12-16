@@ -1,0 +1,11 @@
+#日志管理与分析权威指南 = Logging and log management : the authoritative guide to understanding the concepts surrounding logging and log management
+*数据之美 : 一本书学会可视化设计 = Pata points : visualization that means something
+*数据驱动安全 : 数据安全分析、可视化和仪表盘 = Data-driven security : analysis, visualization and dashboards
+*数据之美
+*MATLAB数据分析与挖掘实战 = MATLAB data analysisanddata mining
+*数据科学 : 理论、方法与R语言实践 = Practical data science with R
+*安全之美
+*数据约简 : 样例约简与属性约简
+*2016年计算机网络联考复习指导 = Review guide of computer networks entrance exam
+*国家公务员录用考试快速突破教材 : 2016版
+*2014版数据结构高分笔记之习题精析扩展

@@ -1,0 +1,14 @@
+#MySQL技术内幕 = MySQL
+#Java程序员面试宝典
+#UNIX网络编程 . 卷1 , 套接字联网API
+#MySQL数据库管理与开发实践教程
+*程序员面试宝典
+*Java Web技术及应用
+*MongoDB入门经典
+*推荐系统 = Recommender systems handbook : 技术、评估及高效算法
+*轻量级Java EE程序设计及实践
+*Java虚拟机精讲
+*概率论与数理统计
+*UNIX环境高级编程
+*编译原理与技术练习解答与实验指导
+*Hadoop技术内幕 : 深入解析Hadoop Common和HDFS架构设计与实现原理 = Hadoop internals : in-depth study of common and HDFS

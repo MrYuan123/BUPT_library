@@ -1,0 +1,13 @@
+#光学信息技术原理及应用
+#幻夜
+#生物特征识别技术与方法 = Biometric technique and method
+*撒哈拉的故事
+*1Q84 . BOOK 1
+*半导体器件基础
+*物流工程概论 = Fundmentals of logistics engineering
+*Python 学习手册
+*科技英语阅读 = A practical course of reading
+*Linux入门很简单
+*人生
+*经济学原理 = Principles of economics
+*单片机原理与项目实践 : 基于C语言

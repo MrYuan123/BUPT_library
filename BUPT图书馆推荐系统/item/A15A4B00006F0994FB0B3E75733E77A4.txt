@@ -1,0 +1,11 @@
+#Java 7并发编程实战手册 = Java 7 concurrency cookbook
+*你必须知道的 261 个 Java 语言问题
+*深入分析Java Web技术内幕
+*疯狂 Java : 突破程序员基本功的16课
+*Java深入解析 : 透析Java本质的36个话题
+*Spring 3.0就这么简单
+*编程珠玑 = Programming pearls
+*剑指Offer : 名企面试官精讲典型编程题
+*Hadoop应用开发技术详解 = Programming hadoop
+*Java RESTful Web service实战 = Java RESTful Web service in action
+*HTML5与CSS3网页设计基础

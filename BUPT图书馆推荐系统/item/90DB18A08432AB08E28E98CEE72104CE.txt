@@ -1,0 +1,16 @@
+#纠错编码原理及MATLAB实现
+#光纤通信
+#Turbo 与 LDPC 编解码及其应用
+#信道编码与MATLAB仿真
+#城域网多业务传送理论与技术
+#城域网组网技术与业务运营
+*LDPC 码理论与应用
+*从零开始做运营
+*工业4.0实践手册
+*信息简史 = The Information : a history, a theory, a flood
+*Turbo 码原理与应用技术
+*高效信道编译码技术及其应用
+*光纤光学前沿
+*光纤通信技术 = Optical fiber communications technology
+*信息论基础
+*光纤通信系统

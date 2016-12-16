@@ -1,0 +1,14 @@
+#Computer science illuminated =
+#蚁群算法原理及其应用 = Ant coloby algorithms : theory and applications
+#Fundamentals of computers =计算机基础 /计算机基础
+#Spark大数据处理技术
+*SQL 学习指南
+*遗传算法 : 理论、应用与软件实现
+*Web Services 原理与研发实践
+*Storm : 大数据流式计算及应用实践
+*快学Scala = Scala for the impatient
+*设计模式之禅 = The Zen of design patterns
+*算法与数据结构
+*南北朝那些事儿
+*计算机组成原理
+*数据结构与算法分析 : Java语言描述 = Data structures and algorithm analysis in Java

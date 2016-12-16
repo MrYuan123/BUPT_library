@@ -1,0 +1,20 @@
+#Android 4高级编程
+#深入分析Java Web技术内幕
+#pcDuino开发实战 : 入门篇
+#编程之美 : 微软技术面试心得
+#Java核心技术 . 卷1 , 基础知识 = Core Java . Volume I , Fundamentals
+#大话数据结构 = Play with data structure
+#算法导论 = Introduction to algorithms
+#Java虚拟机规范 : Java SE 8版 = The Java virtual machine specification : Java SE 8 Edition
+#BeagleBone机器人开发指南 = BeagleBone robotic project
+#疯狂Java : 突破程序员基本功的16课
+*剑指Offer : 名企面试官精讲典型编程题
+*Android 4编程入门经典 : 开发智能手机与平板电脑应用
+*Head First Java (中文版)
+*Head First Python中文版
+*大话数据挖掘
+*数据结构 : Java语言描述
+*数据结构和 Java 集合框架
+*数据挖掘导论 = Introduction to data mining
+*Spring MVC 学习指南
+*Spring实战 = Spring in action

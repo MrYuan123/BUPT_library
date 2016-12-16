@@ -1,0 +1,17 @@
+#TD-LTE 技术原理与系统设计 = TD-LTE principles and system design
+#应用随机过程 : 概率模型导论 = Introduction to probability models
+#博弈论教程 = A Course in Game Theory
+#概率与计算 = Probability and computing : randomized algorithms and probabilistic analysis
+#随机过程 = Stochastic processes
+#实用多元统计分析 = Applied multivariate statistical analysis
+#4G移动通信技术权威指南 : LTE与LTE-Advanced = 4G LTE/LTE-Advanced for mobile broadband
+*LTE权威指南 = Fundamentals of LTE
+*马氏过程
+*随机过程与应用
+*博弈论基础 = A Primer in Game Theory
+*剑桥统计学词典
+*现代极限理论及其在随机结构中的应用
+*LTE及LTE-Advanced无线协议
+*LTE系统原理及应用
+*LTE自组织网络 (SON) : 网络管理自动化提升运维效率
+*大数据 = Mining of massive datasets : 互联网大规模数据挖掘与分布式处理

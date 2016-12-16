@@ -1,0 +1,14 @@
+#C++ 程序设计习题集和实验指导
+#移动通信原理、技术与系统
+#移动通信基础
+#C++ 程序设计
+*移动通信原理
+*LTE 基础原理与关键技术
+*移动通信 = Mobile wireless communications
+*基于Visual C++的MFC编程
+*数据库基础教程 (Access 2010版) 上机实验指导
+*C++ 程序设计实训
+*数据库基础教程 : Access 2010版
+*Hadoop大数据处理 = Big data processing
+*LTE协议栈与信令分析 = LTE protocol stack and signaling analysis
+*LTE网络规划设计手册 = LTE network planning and design handbook

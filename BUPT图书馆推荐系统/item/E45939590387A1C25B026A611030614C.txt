@@ -1,0 +1,16 @@
+#HBase实战 = HBase in action
+#移动 Ad Hoc 网络 : 自组织分组无线网络技术
+#云计算 : 概念、技术与架构 = Cloud computing : concepts, technology & architecture
+#编译原理 = Compilers : principles, techniques and tools
+#移动Ad Hoc网络 = Mobile Ad Hoc networking
+#新日本语能力考试N2读解强化训练
+*射频识别技术原理与应用 = RFID—handbuch: grundlagen und praktische anwendungen von transpondern, kontaktlosen chipkarten und NFC
+*数据库系统基础
+*剑指Offer : 名企面试官精讲典型编程题
+*通信原理
+*汇编语言 : 基于Linux环境
+*加密与解密
+*20 世纪最伟大的心理学实验 : 经典版 = Opening skinner's box : great psychological experiments of the twentieth century
+*王道程序员求职宝典
+*HTML5从入门到精通
+*欧·亨利短篇小说精选 = The Essential O. Henry collection

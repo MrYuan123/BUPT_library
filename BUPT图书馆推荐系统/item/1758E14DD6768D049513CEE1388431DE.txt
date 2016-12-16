@@ -1,0 +1,16 @@
+#数据可视化之美
+#信息论基础 = Elements of information theory
+#图解HTTP
+#Python基础教程 = Beginning python : from novice to professional
+#神经网络与机器学习 = Neural networks and learning machines
+#统计学习方法
+*JavaScript DOM 编程艺术 = DOM Scripting : web design with JavaScript and the document object model
+*Node.js入门经典
+*推荐系统 = Recommender systems : an introduction
+*数据可视化
+*精通D3.js : 交互式数据可视化高级编程
+*数据之美 : 一本书学会可视化设计 = Pata points : visualization that means something
+*Python 学习手册
+*数学之美 = Beauty of mathematics
+*亲爱的安德烈
+*神经网络控制

@@ -1,0 +1,11 @@
+#MATLAB R2014a从入门到精通
+*MATLAB与科学计算教程
+*大学数学复习指南 : 理工类、经济类
+*微分方程及边值问题 = Differential equations and boundary value problems : 计算与建模computing and modeling
+*无价 : 洞悉大众心理玩转价格游戏 = Priceless : the myth of fair value (and how to take advantage of it)
+*信号与系统考研指导
+*数学建模 = A first course in mathematical modeling
+*数学模型
+*鲍尔学习法 = Power learning
+*高等数学 . 上册
+*电子电路基础及通信电子电路学习指导书

@@ -1,0 +1,14 @@
+#赖世雄经典语法
+#大数据 : 战略·技术·实践
+#科学也爱恶作剧 : 来自哈佛的搞笑诺贝尔奖
+#LaTeX 2e 完全学习手册
+*Effective STL中文版 : 50条有效使用STL的经验 = Effective STL : 50 specific ways to improve the use of the standard template library
+*JSP实训教程
+*实战大数据 : DT时代智能组织工作方法
+*机器学习方法
+*软件定义网络 : 原理、技术与实践 = Software defined networks : a comprehensive approach
+*疯狂XML讲义
+*Hadoop权威指南
+*深入 Java 虚拟机
+*Java Web高级编程 : 涵盖WebSockets、Spring Framework、JPA Hibernate和spring security
+*Spring实战 = Spring in action

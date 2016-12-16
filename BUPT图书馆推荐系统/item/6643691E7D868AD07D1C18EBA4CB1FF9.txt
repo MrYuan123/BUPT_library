@@ -1,0 +1,20 @@
+#大数据 : 技术与应用实践指南 = Big data : technology and application practice
+#数据库技术及应用 : SQL Server
+#MySQL入门经典
+#MySQL 完全手册 = MySQL: the complete reference
+#认知无线网络
+#认知无线电
+#认知无线电技术 = Cognitive radio technology
+#认知无线电原理及应用
+#认知无线电网络
+#Java典型模块与项目实战大全
+*认知无线电基础 = Essentials of cognitive radio
+*看见
+*HFSS天线设计
+*认知无线网络 = Cognitive wireless networks
+*反直觉思考 : 斯坦福大学思维自修课 = Think twice : harnessing the power of counterintuition
+*Qt 5开发及实例
+*LTE : UMTS长期演进理论与实践 = LTE-the UMTS long term evolution from theory to practice
+*软件工程
+*认知无线电通信与组网 : 原理与应用
+*认知与协作无线通信网络 = Communication network technology

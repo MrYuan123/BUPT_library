@@ -1,0 +1,13 @@
+#C++ 编程思想 = Thinking in C++ . 第2卷Volume two , 实用编程技术practical programming
+#零点起飞学HTML+CSS
+#HTML与CSS入门经典
+*HTML 5从零开始学 : 视频教学版
+*HTML+CSS+JavaScript网页制作简明教程
+*不合时宜的沉思 = Unzeitgemabe betrachtungen
+*PHP和MySQL Web开发从新手到高手
+*国际大学生程序设计竞赛例题解 . 五 : 2006-2007年
+*C++沉思录 /
+*高等数学习作课精编
+*Linux 操作系统分析与实战
+*JavaScript 基础教程
+*计算机网络

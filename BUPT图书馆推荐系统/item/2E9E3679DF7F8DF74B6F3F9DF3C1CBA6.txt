@@ -1,0 +1,11 @@
+#零基础学算法 : 19.5小时多媒体教学视频
+*MySQL技术内幕 : SQL编程 = Inside MySQL : SQL programming
+*Java程序员面试宝典
+*Redis设计与实现 = The design and implementation of Redis
+*MySQL入门经典
+*数据结构与算法 = Data structures and algorithm
+*程序员的思维修炼开发认知潜能的九堂课 = Pragmatic thinking and learning refactor your wetware
+*算法与数据结构习题精解与实验指导
+*Kali Linux渗透测试技术详解
+*离散数学及应用
+*解忧杂货店

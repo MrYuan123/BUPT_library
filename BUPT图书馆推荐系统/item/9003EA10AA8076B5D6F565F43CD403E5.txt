@@ -1,0 +1,11 @@
+#鸟哥的 Linux 私房菜 , 基础学习篇
+*C语言程序设计与项目实践
+*Python 学习手册
+*汇编语言
+*MATLAB 函数速查手册
+*激光原理及应用
+*光纤光栅原理及应用
+*SQL必知必会 = Same teach yourself SQL in 10 minutes
+*摄影, 是你想多了
+*图解TCP/IP
+*C 语言入门经典

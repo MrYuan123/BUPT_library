@@ -1,0 +1,12 @@
+#运筹学教材编写组《运筹学》 (第3版) 笔记和课后习题 (含考研真题) 详解
+#妙趣横生博弈论 : 事业与人生的成功之道 = The art strategy : a game theorist's guide to success in business and life
+*经济博弈论
+*数字逻辑学习辅导
+*运筹学教程例题分析与题解
+*数字逻辑知识要点与习题解析
+*大数据 = The big data revolution : 正在到来的数据革命, 以及它如何改变政府、商业与我们的生活
+*GRE & GMAT 阅读难句教程
+*逻辑学
+*运筹学教程
+*计算机网络
+*线性代数

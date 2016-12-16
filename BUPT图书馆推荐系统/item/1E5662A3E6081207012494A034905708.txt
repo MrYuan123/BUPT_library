@@ -1,0 +1,12 @@
+#数字图像处理
+#疯狂Java讲义精粹
+*MATLAB基础及在信号与系统中的应用
+*图像处理与识别
+*别输在不懂博弈上 : 人生一定要懂的博弈法则
+*编译原理 = Compilers : principles, techniques, and tools
+*疯狂 Java 讲义
+*国家公务员考试深度辅导教材 , 行政职业能力测验
+*深入理解计算机系统 = Computer systems : a programmer's perspctive
+*Java Web企业项目实战
+*JAVA核心技术 . 卷I , 基础知识 = Core Java . volume I , Fundamentals
+*鸟哥的Linux私房菜 , 服务器架设篇

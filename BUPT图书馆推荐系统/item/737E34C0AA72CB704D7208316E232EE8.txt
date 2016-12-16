@@ -1,0 +1,18 @@
+#MATLAB神经网络应用设计
+#高等数学 , 理工类
+#MATLAB 8.0从入门到精通
+#福尔摩斯最经典的探案故事
+#实时分析 : 流数据的分析与可视化技术 = Real-time analytics : techniques to analyze and visualize streaming data
+#精通MATLAB
+#常用算法深入学习实录
+#大数据Spark企业级实战
+*九型人格 = Enneagram
+*斯诺文集
+*快学Scala = Scala for the impatient
+*程序员的自我修养 : 链接、装载与库
+*解析Java虚拟机开发 : 权衡优化、高效和安全的最优方案
+*C++ Primer 中文版
+*数据挖掘原理与 SPSS Clementine 应用宝典
+*机器学习导论 = Introduction to machine learning
+*数学建模 = Mathematical modeling
+*数学建模及其实验

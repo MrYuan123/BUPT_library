@@ -1,0 +1,14 @@
+#面向对象程序设计 (C++) 实验指导
+#季羡林说北大那些事儿
+#C++程序设计题解与上机指导
+#活着
+*高等数学学·练·考 . 上册
+*高等数学 (同济·第四版) 全析精解 . 上册
+*寻羊冒险记
+*你给的爱, 一如当初 = Your love, good as ever
+*Visual C++应用开发
+*Verilog HDL 应用程序设计实例精讲
+*C++ 语言 99 个常见编程错误 = C++ Gotchas : avoiding common problems in coding and design
+*面向对象程序设计 : C++描述
+*Verilog HDL 设计实践与指导
+*计算机网络

@@ -1,0 +1,14 @@
+#圣经导读 , 按卷读经 = How to read the bible book by book
+#尘曲
+#摩西五经 = Torah or the five books of moses : 希伯来法文化经典之一
+#心若莲花 爱如菩提 : 李叔同作品精选
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

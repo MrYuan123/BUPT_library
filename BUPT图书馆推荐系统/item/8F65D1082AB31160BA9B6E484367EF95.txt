@@ -1,0 +1,15 @@
+#Ad Hoc 网络技术
+#React : 引领未来的用户界面开发框架 = Developing a React edge : the javascript library for user interfaces
+#移动Ad Hoc网络 = Mobile Ad Hoc networking
+#无线移动自组织网
+#无线传感器网络 = Wireless sensor networks a networking perspective
+*移动 Ad Hoc 网络 : 自组织分组无线网络技术
+*沉默的大多数 : 彩绘插图本
+*Harry Potter and the sorcerer's stone 
+*我的孤独是一座花园 : 阿多尼斯诗选
+*版本控制之道 : 使用Git = Pragmatic version control using Git
+*深入浅出 Web 设计
+*数字滤波器的MATLAB与FPGA实现 : Altera/Verilog版
+*地面无线定位技术 = Ground-based wireless positioning
+*阵列信号处理的理论与应用
+*算法精解 : C语言描述

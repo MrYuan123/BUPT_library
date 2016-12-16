@@ -1,0 +1,11 @@
+#应用多元统计分析 = Applied multivariate statistical analysis
+*数据挖掘导论 : 完整版 = Introduction to data mining
+*Hadoop硬实战 = Hadoop in practice
+*实用数据分析 = Practical data analysis
+*实战Hadoop : 开启通向云计算的捷径
+*数据分析方法五种
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

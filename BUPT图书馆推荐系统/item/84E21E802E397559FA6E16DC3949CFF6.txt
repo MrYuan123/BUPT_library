@@ -1,0 +1,18 @@
+#Hadoop权威指南
+#Python 学习手册
+#Mahout算法解析与案例实战 = Mahout in action : algorithm and cases
+#自己动手写网络爬虫
+#Python科学计算
+#Python计算机视觉编程 = Programming computer vision with Python
+#Mahout实战 = Mahout in action
+#推荐系统 = Recommender systems : an introduction
+*统计学习方法
+*Hadoop 技术内幕 : 深入解析MapReduce架构设计与实现原理 = Hadoop internals : in-depth study of MapReduce
+*推荐系统实践
+*Mahout实践指南 = Apache mahout cookbook
+*信息推荐系统
+*软件测试教程 = Software testing
+*视读人工智能 = Artificial intelligence
+*Java 编程思想 = Thinking in Java
+*小波变换与图像处理
+*小波变换与图像、图形处理技术

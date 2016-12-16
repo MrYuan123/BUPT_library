@@ -1,0 +1,24 @@
+#干校六记
+#雷达数据处理及应用 = Radar data processing with applications
+#网络协议的形式化分析与设计
+#智囊全集 . 上
+#洗澡
+#魏巍散文 : 插图珍藏版
+#数据挖掘与最优化技术及其应用
+#模式识别原理及应用
+#模式识别 = Pattern Recognition
+#模式识别优化技术及其应用
+#应用泛函分析 : 自动控制的数学基础
+#Pattern recognition =模式识别 /模式识别
+#网络流量监测与控制
+#模式识别导论
+*数据结构与经典算法
+*多传感器多源信息融合理论及应用
+*计算机图形学 = Fundamentals of computer graphics
+*机器学习基础教程 = A First course in machine learning
+*人脸工程学
+*TCP/IP 协议原理与应用
+*互联网中服务质量与多播路由技术
+*宽带卫星通信技术
+*网络流量分类方法与实践 = Network traffic classification
+*网络优化

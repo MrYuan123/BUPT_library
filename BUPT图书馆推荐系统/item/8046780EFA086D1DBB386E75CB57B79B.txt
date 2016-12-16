@@ -1,0 +1,12 @@
+#Hadoop YARN权威指南
+#大数据时代的IT架构设计
+*设计模式之禅 = The Zen of design patterns
+*MySQL数据库应用从入门到精通
+*MapReduce 2.0源码分析与编程实战
+*Hadoop技术内幕 : 深入解析Hadoop Common和HDFS架构设计与实现原理 = Hadoop internals : in-depth study of common and HDFS
+*Hadoop技术内幕 : 深入解析YARN架构设计与实现原理 = Hadoop internals : in-depth study of YARN
+*Hadoop应用开发技术详解 = Programming hadoop
+*大数据日知录 : 架构与算法
+*代码整洁之道
+*数据挖掘十大算法
+*Spark大数据处理 : 技术、应用与性能优化 = Data processing with spark : technology, application and performance optimization

@@ -1,0 +1,12 @@
+#FPGA 上的嵌入式系统设计实例
+#Xilinx FPGA设计权威指南 : Vivado集成设计环境 = The definitive guide of Xilinx FPGA development : based on Vivado integrated development environment
+*Xilinx FPGA权威设计指南 : Vivado 2014集成开发环境
+*Xilinx新一代FPGA设计套件Vivado应用指南 = The application guide on Xilinx Vivado design suite
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

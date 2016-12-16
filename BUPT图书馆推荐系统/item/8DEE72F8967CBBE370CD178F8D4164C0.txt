@@ -1,0 +1,26 @@
+#网络安全协议
+#S7-200/300/400 PLC 应用技术 , 通用篇
+#典型密码算法C语言实现
+#信息安全概论
+#工控组态技术及应用 : MCGS
+#Python 灰帽子 : 黑客与逆向工程师的Python编程之道 = Gray hat python : python programming for hackers and reverse engineers
+#证券从业人员资格考试考点采分 , 证券投资分析
+#模糊测试强制发掘安全漏洞的利器 = Fuzzing brute force vulnerability discovery
+#图解易学PLC技术及应用 : 双色版
+#Shell从入门到精通
+#量化投资与对冲基金入门
+#Linux网络编程
+#Vim实用技巧 = Practical Vim : edit text at the speed of thought
+#新标准C++程序设计教程
+#Linux指令范例速查手册
+#PLC 与工控系统安全自动化技术及应用 = PLC and application of security automation technology in industrial control systems
+*Android开发入门与实战
+*Python编程实战 : 运用设计模式、并发和程序库创建高质量程序 = Python in practice : create better programs using concurrency, libraries, and patterns
+*软件调试 = Software debugging
+*Linux从入门到精通
+*Linux C程序设计王者归来
+*数据结构 Java 语言描述 = Data structures and other objects using Java
+*Windows 高级调试 = Advanced Windows debugging
+*Python编程入门 = Python : Visual quickstart guide
+*竹林蹊径 : 深入浅出Windows驱动开发
+*渗透测试实践指南 : 必知必会的工具与方法 = The basics of Hacking and penetration testing : ethical Hacking and penetration testing made easy

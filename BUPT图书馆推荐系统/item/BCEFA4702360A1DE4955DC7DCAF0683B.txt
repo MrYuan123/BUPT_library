@@ -1,0 +1,15 @@
+#异构无线网络融合理论与技术实现
+#异构无线网络切换技术
+#应用随机过程
+#信息论基础习题解答 = Elements of information theory : solutions to exercises
+#矩阵论导教·导学·导考
+*矩阵论典型题解析及自测试题
+*Windows 黑客技术揭秘与攻防 . Ⅰ
+*TCP/IP 详解 . 卷2 , 实现
+*概率论与随机过程
+*点云库PCL学习教程
+*三维计算机视觉技术和算法导论 = An introduction to 3D computer vision techniques and algorithms
+*数字图像处理 = Digital image processing
+*信息论基础
+*学通Java Web的24堂课 : 110集大型多媒体教学视频
+*统计物理学 . 1

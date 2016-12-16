@@ -1,0 +1,13 @@
+#计算机算法设计与分析
+#Android程序开发实用教程
+#一学就会的手机APP用户界面设计
+*算法与数据结构习题精解与实验指导
+*数据结构 : C语言版
+*大学英语新四级写作周计划
+*19 世纪英国 = Nineteenth-century Britain : 危机与变革a very short introduction
+*Python游戏编程入门
+*挑战四级 710 分 , 完形填空·翻译·词汇与语法精要
+*程序设计基础 : Python语言
+*四级阅读命题思路透析及高分攻略
+*色彩构成
+*深入学习MongoDB = Scaling mongoDB. 50 tips and tricks for mongoDB developers

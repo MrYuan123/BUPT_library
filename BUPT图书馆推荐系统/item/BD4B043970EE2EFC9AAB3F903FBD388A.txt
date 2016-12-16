@@ -1,0 +1,12 @@
+#电脑组装与维护
+#游戏创作与职业 = Game creation and careers : 来自行业专家的内部秘密
+*突破 Photoshop7.0 文字、纹理、滤镜、网页创作实例五十讲
+*Photoshop CS 中文版平面设计图解教程
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

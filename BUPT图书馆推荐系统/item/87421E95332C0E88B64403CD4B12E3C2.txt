@@ -1,0 +1,14 @@
+#有限元方法基础教程 : 国际单位制版 = A first course in the finite element method
+#控制工程基础
+#自动控制原理习题解析
+#微机原理与接口技术 : 基于32位机
+*傲慢与偏见 = Pride and prejudice : 插图·中文导读英文版
+*ANSYS 13.0有限元分析从入门到精通
+*ANSYS 12 有限元分析自学手册
+*控制系统 MATLAB 计算及仿真实训
+*MATLAB遗传算法工具箱及应用
+*奇点临近 = The singularity is near when humans transcend biology
+*Intel 微处理器 = The Intel microprocessors : 8086/8088, 80186/80188, 80286, 80386, 80486, Pentium, Pentium Pro Processor, Pentium II, Pentium III, Pentium 4, and Core2 with 64-bit extensions : architecture, programming, and interfacing
+*卡耐基写给青年全集
+*自动控制原理题海与考研指导
+*工程测试技术 = Engineering measurement technology

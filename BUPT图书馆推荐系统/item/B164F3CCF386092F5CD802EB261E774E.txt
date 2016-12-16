@@ -1,0 +1,14 @@
+#下一代网络核心控制协议 : SIP及其应用
+#Wireshark数据包分析实战详解
+#Linux系统命令及Shell脚本实践指南 = Linux commands and shell scripting
+#Linux实用教程
+*语义网基础教程 = A semantic Web primer
+*Java Web开发技术教程
+*JavaScript语言精粹 = JavaScript : the good parts
+*HTML 5应用开发实践指南
+*为什么天堂不需要经济学家 = Zombies, bananas and why there are no economists in heaven : the economics of real life
+*高性能JavaScript
+*前端面试江湖
+*OS X系统管理和部署
+*Linux性能优化大师
+*OS X与iOS内核编程 = OS X and iOS kernel programming

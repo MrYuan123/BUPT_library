@@ -1,0 +1,12 @@
+#Hadoop 2.0-YARN核心技术实践
+#Hadoop核心技术 = Core hadoop
+*React Native : 用JavaScript开发移动应用 = The React Native book
+*ES6标准入门 = ECMAScript 6 primer
+*数据之魅 : 基于开源工具的数据分析
+*Hive编程指南
+*Linux入门与实战经典
+*计算机操作系统
+*MySQL高效编程
+*学习R = Learning R
+*Hadoop 技术内幕 : 深入解析MapReduce架构设计与实现原理 = Hadoop internals : in-depth study of MapReduce
+*Python Cookbook (第2版) 中文版

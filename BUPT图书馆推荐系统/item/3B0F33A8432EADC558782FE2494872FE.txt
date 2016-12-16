@@ -1,0 +1,13 @@
+#JavaScript 入门经典
+#由浅入深学Java : 基础、进阶与必做260题
+#耶鲁大学最受欢迎的公开课 : 博弈论
+*精通 JavaScript+jQuery
+*JavaScript 高级程序设计 = Professional JavaScript for web developers
+*HTML 5开发精要与实例详解 = Essential HTML 5 and cases study
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

@@ -1,0 +1,18 @@
+#计算电磁学的数值方法
+#非线性光纤光学原理及应用 = Nonlinear fiber optics, fourth edition & applications of nonlinear fiber optics, second edition
+#光电技术
+#激光技术
+#C++面向对象程序设计实用教程
+#C++ Primer Plus (第五版) 中文版
+#肠子
+#C++ Primer 中文版
+*Sobolev 空间与偏微分方程引论
+*C++ Primer (第4版) 习题解答
+*程序员的自我修养 : 链接、装载与库
+*常用算法深入学习实录
+*Visual C++网络编程
+*C++ 多核高级编程
+*Visual C++ 开发实战
+*21天学通JavaScript
+*选择的艺术 : Photoshop CS 图层通道深度剖析
+*了不起的Node.js : 将JavaScript进行到底 = Smashing Node. js : JavaScript everywhere

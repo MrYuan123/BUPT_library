@@ -1,0 +1,13 @@
+#有限元法
+#ANSYS 12.0 有限元分析从入门到精通
+#电接触理论、应用与技术
+*写给大家看的设计书 = The non-designer's Photoshop book : Photoshop图像处理
+*精通正则表达式 = Mastering regular expressions
+*Cadence印刷电路板设计 : Allegro PCB Editor设计指南
+*学习 PHP 和 MySQL
+*CSS 权威指南
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

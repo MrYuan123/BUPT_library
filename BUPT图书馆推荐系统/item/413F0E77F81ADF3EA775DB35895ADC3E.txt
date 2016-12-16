@@ -1,0 +1,12 @@
+#认知无线网络
+#认知无线电通信与组网 : 原理与应用
+*认知无线电网络
+*认知无线电
+*认知与协作无线通信网络 = Communication network technology
+*认知无线电基础 = Essentials of cognitive radio
+*看见
+*HFSS天线设计
+*大数据 : 技术与应用实践指南 = Big data : technology and application practice
+*MySQL 完全手册 = MySQL: the complete reference
+*认知无线电原理及应用
+*MySQL入门经典

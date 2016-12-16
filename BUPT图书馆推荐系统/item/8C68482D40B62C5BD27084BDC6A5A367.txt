@@ -1,0 +1,12 @@
+#Python语言程序设计
+#Python数据分析基础教程 : NumPy学习指南 = NumPy beginner's guide
+*Java Web开发入门很简单
+*大数据分析与数据挖掘
+*Python入门经典
+*大学算法教程
+*MATLAB GUI设计入门与实战
+*数据挖掘原理、算法与应用
+*OpenCV 教程 , 基础篇
+*HTML 5从入门到精通
+*数据挖掘十大算法
+*Python语言程序设计 = Introduction to programming using Python

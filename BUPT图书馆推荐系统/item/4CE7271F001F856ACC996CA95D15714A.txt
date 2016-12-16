@@ -1,0 +1,17 @@
+#计算机网络与通信 = Computer network & communication
+#计算机算法 : C++语言描述 = Computer Algorithms/C++
+#计算机网络与应用
+#计算机网络
+#计算机网络与通信 = Computer network and communication
+#计算机通信与网络 = Computer communications and networking
+#算法 : C 语言实现 . 第1-4部分 , 基础知识、数据结构、排序及搜索 = Algorithms in C . Parts 1-4 : fundamentals, data structures, sorting, searching
+*算法设计与分析
+*愿你要的明天, 如约而至 : 吉檀迦利
+*数据结构 : Java语言描述
+*近世代数
+*算法与数据结构 (第 2 版) 学习指导与习题解析
+*离散数学习题解答与学习指导
+*可视化Java GUI程序设计教程 : 基于Swing组件库及NetBeans IDE
+*离散数学学习指导与习题解答 = Schaum's outline of discrete mathematics
+*操作系统
+*射频识别技术原理与应用 = RFID—handbuch: grundlagen und praktische anwendungen von transpondern, kontaktlosen chipkarten und NFC

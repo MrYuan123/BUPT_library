@@ -1,0 +1,18 @@
+#数据库设计与关系理论
+#无线自组织网络路由协议及应用
+#移动Ad Hoc网络 : 自组织分组无线网络技术
+#数据库系统概念 = Database system concepts
+#物联网 : 射频识别 (RFID) 核心技术详解 = Radio frequency identification development internals
+#射频识别技术原理与应用 = RFID—handbuch: grundlagen und praktische anwendungen von transpondern, kontaktlosen chipkarten und NFC
+#移动Ad Hoc网络 = Mobile Ad Hoc networking
+#数据库系统基础
+*计算机网络
+*通信原理
+*移动 Ad Hoc 网络 : 自组织分组无线网络技术
+*控制理论基础与应用 = Control theory and applications
+*计算机网络与 Internet 协议和技术 = Computer networking with Internet protocols and technology
+*RFID原理与应用
+*高分新托福阅读120
+*无线网络原理与应用
+*马克·吐温短篇小说精选 = The Selected short stories of mark twain : 中文导读英文版
+*计算机网络 = Computer networking : 自顶向下方法与Internet特色a top-down approach featuring the Internet

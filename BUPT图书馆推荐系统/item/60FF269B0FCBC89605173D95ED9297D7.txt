@@ -1,0 +1,16 @@
+#数据挖掘导论 : 完整版 = Introduction to data mining
+#Spark MLlib机器学习 : 算法、源码及实战详解
+#Java 网络编程
+#文明之光 = Civilizations and enlightenments . 第三册
+#文明之光 = Civilizations and enlightenments . 第一册
+#数据预处理 : 数据归约的统计方法研究及应用
+*文明之光 = Civilizations and enlightenments . 第二册
+*Flask Web开发 : 基于Python的Web应用开发实战 = Flask Web development : developing web applications with python
+*实战Java虚拟机 : JVM故障诊断与性能优化
+*量化研究与统计分析 : SPSS (PASW) 数据分析范例解析
+*问卷统计分析实务 : SPSS操作与应用
+*浪潮之巅 = On top of tides . 下册
+*时间序列分析 . 上册 = Time series analysis
+*GRE考试官方指南 = The official guide to the revised general test
+*时间序列分析 . 下册 = Time series analysis
+*GRE词汇精选

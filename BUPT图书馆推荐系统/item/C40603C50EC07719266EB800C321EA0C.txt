@@ -1,0 +1,14 @@
+#Python语言程序设计
+#数据挖掘原理、算法与应用
+#OpenCV 教程 , 基础篇
+#HTML 5从入门到精通
+*Python数据分析基础教程 : NumPy学习指南 = NumPy beginner's guide
+*精通HTML 5+CSS 3 : 100%网页设计与布局密码
+*Python 学习手册
+*Hadoop 技术内幕 : 深入解析MapReduce架构设计与实现原理 = Hadoop internals : in-depth study of MapReduce
+*数据挖掘技术应用实例
+*动态数据挖掘
+*数据挖掘原理与实践
+*大学算法教程
+*MATLAB GUI设计入门与实战
+*从零开始学 ASP.NET

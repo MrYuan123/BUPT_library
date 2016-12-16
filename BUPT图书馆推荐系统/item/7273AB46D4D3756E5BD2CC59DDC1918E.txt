@@ -1,0 +1,20 @@
+#JavaScript 高级程序设计 = Professional JavaScript for web developers
+#大话数据挖掘
+#CSS 基础教程 = Beginning CSS web development
+#这一辈子
+#JavaScript DOM 编程艺术 = DOM Scripting : web design with JavaScript and the document object model
+#大话数据结构 = Play with data structure
+#大话移动APP测试 : Android与iOS应用测试指南
+#通信原理习题集
+#Java语言程序设计 , 基础篇 = Introduction to Java programming , Comprehensive version
+#通信原理
+*编程之美 : 微软技术面试心得
+*Excel 2013从新手到高手
+*慢慢来, 比较快 : 停止炫耀你的忙碌 = Slowly, slowly 20 reasons to take it easy
+*心若浮尘, 浅笑安然 : 心安即是幸福
+*疯狂Java讲义
+*通信原理 (第六版) 同步辅导及习题全解
+*Head First Java (中文版)
+*Head First Python中文版
+*解忧杂货店
+*设计素描

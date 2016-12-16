@@ -1,0 +1,13 @@
+#大话移动通信
+#计算机网络技术教程 : 自顶向下分析与设计方法 = Computer networking : a top-down approach
+#移动通信原理与系统
+*移动通信技术
+*高等应用数学问题的 MATLAB 求解 = Advanced applied mathematical problem solutions with MATLAB
+*概率论与数理统计
+*LTE教程 : 原理与实现
+*MATLAB实用数值分析
+*认知无线网络无线传输技术 = Wireless transmission technologies for cognitive radio networks
+*博弈论简明教程
+*移动通信
+*空间谱估计理论与算法
+*运筹学教程

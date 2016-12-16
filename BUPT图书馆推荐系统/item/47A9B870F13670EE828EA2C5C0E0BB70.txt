@@ -1,0 +1,12 @@
+#零基础学算法
+#从零开始学MATLAB
+*数据挖掘 : 实用案例分析 = Data mining : practical case analysis
+*Python入门经典
+*真秦始皇 : 智取六国
+*博弈论基础与应用 = Principles and application of game theory
+*蚁群优化 = Ant conlony optimization
+*合作博弈理论模型
+*徐志摩文集
+*柳永词
+*Photoshop 7 影像圣堂
+*嵌入式系统原理、设计及开发

@@ -1,0 +1,15 @@
+#LabVIEW 宝典
+#机器学习 = Machine learning
+#新托福120分阅读机经大全 = Original test bible for TOEFL
+#新托福 120 分写作 30 天速成真经 = Original test bible for TOEFL in 30 days
+#嵌入式系统设计与实践
+*LabVIEW 2013中文版虚拟仪器从入门到精通
+*软件无线电原理与技术 = Software radio principle and technology
+*软件无线电原理与应用
+*数字信号处理原理及其LabVIEW实现
+*Java 编程思想 = Thinking in Java
+*LabVIEW程序设计与应用
+*计算机网络 : 网络设计的原理、技术和协议 = Computer networks : principles, technologies and protocols for network design
+*国家
+*数据挖掘 : 概念、模型、方法和算法
+*操作系统原理与Linux实践教程

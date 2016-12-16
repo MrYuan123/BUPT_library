@@ -1,0 +1,17 @@
+#深入理解C指针 = Understanding and using C pointers
+#Effective C++ 中文版 = Effective C++
+#量子力学
+#量子通信
+#红房子 = The Red house
+#量子通信基础
+#量子通信原理与技术
+*智能配电网
+*电力信息通信实用技术 , 电力通信部分
+*电力通信实用技术问答
+*量子通信技术与应用远景展望
+*高等光学
+*电动力学 = Electrodynamics
+*硅基光电子发光材料与器件
+*硅基光电子学
+*非线性光纤光学原理及应用 = Nonlinear fiber optics & applications of nonlinear fiber optics
+*非线性光学 = Nonlinear optics

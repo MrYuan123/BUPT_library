@@ -1,0 +1,12 @@
+#组合数学及其应用
+#代码大全 = Code complete
+*左传
+*金字塔原理 : 思考、写作和解决问题的逻辑 = The minto pyramid principle : logic in writing thinking & problem solving
+*2016版数据结构高分笔记
+*考研英语真题超精读 = Super intensive reading : 提高篇2005-2014 . 第2分册
+*2016版计算机网络高分笔记
+*机械原理复习题详解
+*2017版计算机组成原理高分笔记
+*网络编程与动态网站制作
+*工程测试技术 = Engineering measurement technology
+*信号与系统 : MATLAB综合实验

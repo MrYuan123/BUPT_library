@@ -1,0 +1,14 @@
+#2016年计算机网络联考复习指导 = Review guide of computer networks entrance exam
+#jQuery权威指南 = jQuery : the definitive guide
+#jQuery实战 = jQuery in action
+#JavaScript权威指南 : ECMAScript5+HTML5DOM+HTML5BOM
+*现代密码学教程
+*JavaScript高级程序设计 = Professional JavaScript for web developers
+*电视人
+*jQuery基础教程 = Learning jQuery
+*数学考研历年真题分类解析 , 数学一 : 考点分析·应试技巧·解题训练 : 2015版
+*2016肖秀荣考研政治命题人讲真题 . 下册 , 命题人详解近10年真题
+*2017张剑考研英语阅读理解精练100篇
+*2013年计算机专业基础综合考试名校真题精析
+*历年考研英语真题名家详解
+*随机过程及其应用

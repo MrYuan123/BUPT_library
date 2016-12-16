@@ -1,0 +1,14 @@
+#古希腊的故事 = The story of the Greeks
+#雅思高分英语速记词汇 = Essential words for IELTS
+#不可不知的西方文化常识
+#卑鄙的圣人 : 曹操 . 第5部
+*雅思口语全攻略 = Ideas and examples for IELTS speaking
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学

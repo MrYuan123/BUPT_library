@@ -1,0 +1,13 @@
+#结构方程模型在组织认同研究中的应用 = Structural equation modeling application in organization identification study
+#结构方程模型 : SIMPLIS的应用
+#结构方程模型 : AMOS的操作与应用
+*结构方程模型 : 方法与应用
+*大学英语6级考试巅峰训练
+*结构方程模型的原理与应用
+*结构方程模型 : Amos 实务进阶
+*问卷统计分析实务 : SPSS操作与应用
+*Servlet/JSP 深入详解 : 基于Tomcat的Web开发
+*TCP/IP 指南 = The TCP/IP guide . 卷1 , 底层核心协议a comprehensive, illustrated internet protocols reference
+*计算机网络
+*深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM advanced features and best practices
+*MapReduce 2.0源码分析与编程实战

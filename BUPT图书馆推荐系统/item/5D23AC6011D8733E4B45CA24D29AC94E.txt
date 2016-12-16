@@ -1,0 +1,13 @@
+#计算机科学导论 = Foundations of computer science
+#Linux 命令、编辑器与 Shell 编程
+#Java语言程序设计 , 基础篇 = Introduction to Java programming
+*命令行中的数据科学 = Data science at the command line facing the future with time-tested tools
+*数据挖掘与知识发现
+*数据挖掘 : R语言实战
+*Java JDK 5.0 学习笔记
+*拉曼谱学 : 峰强中的信息
+*SQL Server 2008数据库应用与开发习题解答与上机指导
+*SQL Server 2008数据库应用与开发
+*Oracle PL/SQL 完全自学手册
+*Spring 高级程序设计 = Pro Spring 2.5
+*数据挖掘技术应用实例

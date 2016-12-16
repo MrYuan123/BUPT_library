@@ -1,0 +1,13 @@
+#jQuery从零开始学
+#jQuery 即学即用
+#JavaScript+jQuery网页特效设计实例教程 = Web design special effects by JavaScript+jQuery
+*超实用的JavaScript代码段
+*HTML、CSS、JavaScript网页制作从入门到精通
+*HTML + CSS 网页布局开发指南
+*jQuery Mobile移动网站开发
+*MySQL数据库应用从入门到精通
+*HTML5 & CSS3 & Javascript App程序开发实战
+*HTML5+CSS3精致范例辞典 = Deluxe web designers handbook
+*PHP Web开发学习实录
+*21 天学通 Linux C 编程
+*21天学通JavaScript

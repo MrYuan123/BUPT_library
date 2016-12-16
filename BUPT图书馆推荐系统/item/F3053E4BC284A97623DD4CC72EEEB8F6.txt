@@ -1,0 +1,13 @@
+#数据分析
+#MySQL数据库应用从入门到精通
+#SAS统计分析与应用从入门到精通
+*解忧杂货店
+*乌合之众 : 大众心理研究 = a Study of the popular mind
+*放学后
+*Access 2010数据库技术与应用
+*零基础学 SQL
+*利用Python进行数据分析
+*SPSS统计分析课堂实录
+*PCI Express 系统体系结构标准教材 = PCI express system architecture
+*操作系统设计与实现 = Operating systems design and implementation . 上册
+*Hadoop YARN权威指南

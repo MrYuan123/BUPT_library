@@ -1,0 +1,14 @@
+#21世纪数量经济学 . 第十卷
+#像奥巴马一样说英语 : 奥巴马演讲集
+#信息技术经济学导论 = The economics of information technology : an introduction
+#经济计量模型、技术与应用 = Econometric models, techniques, and applications
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

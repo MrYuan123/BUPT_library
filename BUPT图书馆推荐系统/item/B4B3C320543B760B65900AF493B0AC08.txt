@@ -1,0 +1,13 @@
+#操作系统原理
+#数据挖掘 : 概念、模型、方法和算法
+#支持向量机 : 理论、算法与拓展
+*Netty权威指南
+*深入剖析Tomcat = How Tomcat works : a guide to developing your own java servlet container
+*Effective Java 中文版 = Effective Java
+*Java 解惑 = Java puzzlers : traps, pitfalls, and corner cases
+*ADuC7026 原理与应用
+*通信原理习题集
+*Ubuntu Linux从入门到精通
+*电磁场与电磁波 = Electromagnetic field theory fundamentals
+*数字图像处理 : MATLAB版 : 本科教学版 = Digital image processing using MATLAB
+*数据结构与算法分析新视角

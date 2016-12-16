@@ -1,0 +1,16 @@
+#文化产业与经济发展
+#文化创意产业集聚与发展 : 北京地区研究报告 = The agglomeration and development of cultural and creative industries : the research report of Beijing region
+#中国文化创意产业研究 : 总论与行业分析
+#文化产业空间集聚研究 : 以中国湖南地区为例
+#文化创意产业概论
+#文化创意产业集群发展理论与实践
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

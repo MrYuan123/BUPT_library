@@ -1,0 +1,12 @@
+#正则表达式经典实例
+#Android内核剖析
+*Python语言程序设计 = Introduction to programming using Python
+*Python数据分析基础教程 : NumPy学习指南 = NumPy beginner's guide
+*编写高质量代码 : 改善JavaScript程序的188个建议 = Writing soliv JavaScript cove 188 suggestion to improve your JavaScript program
+*jQuery基础教程 = Learning jQuery
+*游戏设计艺术 = The art of game design
+*深入浅出密码学 : 常用加密技术原理与应用
+*HTML5游戏编程核心技术与实战
+*JavaScript函数式编程
+*深入浅出Node.js
+*Node.js实战

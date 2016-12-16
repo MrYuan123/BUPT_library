@@ -1,0 +1,14 @@
+#牛奶可乐经济学 : 完整版 = The Economic naturalist : in search of explanations for everyday enigmas
+#会简化工作的人升职更快
+#Google时代的工作方法 = Getting organized in the Google era : 如何解放你的头脑、发现你想要的、做对你想做的
+#每天懂一点色彩心理学
+*平面构成
+*蜂窝网络高级规划与优化2G/2.5G/3G/...向4G的演进
+*大数据时代 : 生活、工作与思维的大变革 = Big data : a revolution that will transform how we live, work and think
+*云计算 = Cloud computing : 大数据时代的系统工程
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

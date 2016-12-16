@@ -1,0 +1,15 @@
+#爱因斯坦全传 : 全面解读爱因斯坦个人和职业生活的最新读本 = Einstein : a life
+#电磁场理论
+#数学物理方程与特殊函数
+#ADS2008射频电路设计与仿真实例
+#数学物理方程及其MATLAB解算
+*Python语言程序设计 = Introduction to programming using Python
+*ADS 射频电路设计基础与典型应用
+*LTE 基础原理与关键技术
+*无线通信的 MATLAB 和 FPGA 实现
+*下一代宽带无线通信系统 : OFDM与WiMAX
+*移动通信原理
+*信息论基础 = Elements of information theory
+*多天线系统中的迭代信号处理技术
+*第 3 代移动通信系统设计原理与规划
+*幅度均衡器

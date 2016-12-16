@@ -1,0 +1,11 @@
+#Java核心技术 . 卷II , 高级特性 = Core Java . Volume II : advanced features
+*第一行代码 : Android
+*JavaScript 高级程序设计 = Professional JavaScript for web developers
+*Node.js实战
+*Python 学习手册
+*Web 搜索 = Web search
+*商务经济统计学
+*数据库系统原理及MySQL应用教程
+*MongoDB权威指南 = MongoDB : the deinitive guide
+*Java语言面向对象程序设计
+*Java 编程思想 = Thinking in Java

@@ -1,0 +1,22 @@
+#绝对过关新日本语能力测试 , N4语法
+#新日语能力考试全真模拟试题 : 解析版 . N5
+#商务礼仪
+#怎样准备日本语能力测试 , 4·3级
+#“一带一路”知识新读本
+#刻板印象 : 我们为什么那样看别人, 这样看自己? = Whistling vivaldi : how stereotypes affect us and what we can do
+#新日本语能力测试N3模拟训练
+#英语外贸应用文
+#东亚经贸关系 : 中国的视角 = Trade relations in east asia : a viewpoint of china
+#中国人的人格
+#外贸函电
+#绝对过关新日本语能力测试 , N5语法
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

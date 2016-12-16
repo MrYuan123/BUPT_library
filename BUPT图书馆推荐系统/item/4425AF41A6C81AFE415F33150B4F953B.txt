@@ -1,0 +1,11 @@
+#MATLAB 神经网络 30 个案例分析
+*神经网络原理 = Neural networks : a comprehensive foundation
+*机器学习 = Machine learning
+*莫急, 你要的岁月都会给你
+*MATLAB神经网络编程
+*机器学习基础教程 = A First course in machine learning
+*现代博弈论基础
+*城市道路智能交通控制技术
+*MATLAB神经网络原理与实例精解
+*MATLAB神经网络30例
+*MATLAB 神经网络应用设计

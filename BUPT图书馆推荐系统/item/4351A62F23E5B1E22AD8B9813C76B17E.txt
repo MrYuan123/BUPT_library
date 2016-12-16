@@ -1,0 +1,14 @@
+#深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM : advanced features and best practices
+#程序员代码面试指南 : IT名企算法与数据结构题目最优解
+#Java并发编程实战 = Java concurrency in practice
+#Java虚拟机并发编程 = Programming concurrency on the JVM : mastering synchronization, STM, and actors
+*数字通信同步技术的MATLAB与FPGA实现 : Altera/Verilog版
+*Effective Java 中文版 = Effective Java
+*Java 编程思想 = Thinking in Java
+*信息论与编码学习辅导及习题详解
+*Spring源码深度解析
+*Java虚拟机规范 : Java SE 7版 = The Java Virtual machine specification : Java SE 7 edition
+*Java多线程编程核心技术 = Java multi-thread programming
+*写给大忙人看的Java核心技术 = Core Java for the impatient
+*ELK stack权威指南 = The definitive guide to Elasticsearch + Logstash + Kibana
+*RabbitMQ实战 : 高效部署分布式消息队列 = RabbitMQ in action : distributed messaging for everyone

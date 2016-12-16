@@ -1,0 +1,17 @@
+#Bootstrap基础教程
+#数字图像处理与分析
+#HTML5与CSS3网页设计基础
+#数字图像处理算法及应用
+#随机过程及应用习题集
+#数字图像处理 : MATLAB版 : 本科教学版 = Digital image processing using MATLAB
+#随机过程疑难分析与解题方法
+*数字图像处理 = Digital image processing
+*实战Java虚拟机 : JVM故障诊断与性能优化
+*计算机图形学 = Computer graphics with OpenGL
+*计算机图形学基础 : OpenGL版
+*C# 数字图像处理算法典型实例
+*Digital image processing =数字图像处理 /数字图像处理
+*图像模式识别 : VC++技术实现
+*3D 数学基础 : 图形与游戏开发
+*模式识别 = Pattern recognition
+*机器学习 = Machine learning

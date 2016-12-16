@@ -1,0 +1,15 @@
+#信息隐藏与数字水印
+#数据结构和 Java 集合框架
+#信息隐藏与数字水印实验教程
+#Java虚拟机规范 : Java SE 8版 = The Java virtual machine specification : Java SE 8 Edition
+#数据结构 : Java语言描述
+*大话数据结构 = Play with data structure
+*数据结构 (Java版)
+*数字水印理论与技术
+*语音信号处理
+*Android智能穿戴设备开发指南
+*Ubuntu Linux 从初学到精通
+*Android系统服务开发 = Android hardware service
+*Android移动开发一本就够
+*Google Android SDK开发范例大全
+*Shell脚本编程诀窍 : 适用于Linux、Bash等

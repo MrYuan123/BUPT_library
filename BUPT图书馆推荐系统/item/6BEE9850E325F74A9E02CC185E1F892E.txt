@@ -1,0 +1,15 @@
+#性格影响你的一生 = Character influences yourwhole life
+#C 语言大学教程 = C how to program
+#认清环境说对话
+#幽默改变人生 : 让烦恼离你而去, 让幽默给你带来快乐
+#沟通口才
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

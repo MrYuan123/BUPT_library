@@ -1,0 +1,11 @@
+#MongoDB权威指南 = MongoDB : the deinitive guide
+*Python 开发技术详解
+*Node.js开发指南
+*深入浅出Node.js
+*JavaScript语言精粹 = JavaScript : the good parts
+*CSS 权威指南
+*商务经济统计学
+*数据库系统原理及MySQL应用教程
+*Java语言面向对象程序设计
+*Java 编程思想 = Thinking in Java
+*Java核心技术 . 卷II , 高级特性 = Core Java . Volume II : advanced features

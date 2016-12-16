@@ -1,0 +1,16 @@
+#ARM9 嵌入式系统开发与实践
+#ARM 微处理器应用开发技术详解与实例分析
+#ARM 体系结构与编程
+#Ubuntu Linux 从初学到精通
+#Linux C从入门到精通
+#ARM 嵌入式系统开发完全入门与主流实践
+*ARM嵌入式系统设计与实践
+*中国史纲
+*Zigbee开发技术及实践
+*疯狂Android讲义
+*鸟哥的Linux私房菜 , 服务器架设篇
+*ubuntu 官方指南 = The official ubuntu book
+*模式识别
+*Python 基础教程 = Beginning Python from novice to professional
+*Winodows网络编程 = Windows network programming
+*Kali Linux渗透测试的艺术 = Kali Linux: assuring security by penetration testing

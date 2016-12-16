@@ -1,0 +1,12 @@
+#矩阵理论与方法导引
+#矩阵计算与应用
+*详解MATLAB/Simulink通信系统建模与仿真 : 配视频教程
+*多用户、多小区 MIMO 通信技术 = Multi-user multi-cell MIMO communication technology
+*现代通信理论
+*数学及其认识 = Mathematics and it's recognize
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

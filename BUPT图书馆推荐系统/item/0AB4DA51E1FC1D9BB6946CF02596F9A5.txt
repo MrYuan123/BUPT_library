@@ -1,0 +1,16 @@
+#数据挖掘导论 : 完整版 = Introduction to data mining
+#实战Hadoop : 开启通向云计算的捷径
+#应用多元统计分析 = Applied multivariate statistical analysis
+#数据分析方法五种
+#实用数据分析 = Practical data analysis
+#Hadoop硬实战 = Hadoop in practice
+*数据挖掘十大算法
+*大数据分析 : 用互联网思维创造惊人价值 = Win with advanced business analytics : creating business value from your data
+*数据分析方法及SPSS应用
+*数据分析方法
+*数据挖掘原理与算法
+*Hive编程指南
+*Hadoop技术内幕 : 深入解析Hadoop Common和HDFS架构设计与实现原理 = Hadoop internals : in-depth study of common and HDFS
+*说孝庄
+*深入云计算 : Hadoop应用开发实战详解
+*Hadoop云计算实战 = Hadoop cloud computing practice

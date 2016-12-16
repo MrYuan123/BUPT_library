@@ -1,0 +1,17 @@
+#大气中的光传输理论
+#光信息大气传输理论与检测技术
+#光学原理与应用 = Optics : principles and applications
+#近代光学信息处理
+#傅里叶光学导论 = An introduction to fourier optics
+#电信行业精确营销方法与案例
+#现代光学基础与前沿
+*OpenGL 超级宝典 = OpenGL superbible
+*Java JDK8学习笔记
+*高等光学仿真 : (MATLAB版) : 光波导, 激光
+*光纤通信 = Optical fiber communications
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

@@ -1,0 +1,11 @@
+#MATLAB之父 : 编程实践 = Experiments with MATLAB : 中译本
+*线性代数实验 : MATLAB 版
+*工程数学 : 线性代数与概率统计
+*RAW格式数码照片后期编修流程实例精解
+*数码摄影后期密码Photoshop CS6调色秘籍
+*线性代数
+*给研究生的学术建议 = The unwritten rules of phD research
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

@@ -1,0 +1,11 @@
+#Unix/Linux 编程实践教程
+*UNIX环境高级编程
+*Python自然语言处理
+*并行程序设计导论 = An Introduction to parallel programming
+*UNIX 网络编程 . 卷1 , 套接字联网API = UNIX network programming . volume 1 , The Sockets networking API
+*Hadoop 权威指南 : 中文版
+*应用密码学 : 协议、算法与C源程序 = Applied cryptography : protocols, algorithms, and source code in C
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

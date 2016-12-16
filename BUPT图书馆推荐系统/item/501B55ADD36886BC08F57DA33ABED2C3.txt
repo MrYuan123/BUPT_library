@@ -1,0 +1,14 @@
+#LTE 基础原理与关键技术
+#YES!产品经理 = Product manager . 1
+#计算机操作系统
+#漫话大数据
+*移动通信原理
+*光子晶体光纤熔接与拉锥理论及技术
+*光子晶体光纤中超连续谱产生及应用
+*敏感材料与传感器 = Sensitive materials and sensors
+*全分布式光纤传感技术
+*MIMO 无线通信原理及应用
+*拖延心理学 = Procrastination : why you do it, what to do about it now
+*Python 学习手册
+*全面详解LTE : MATLAB建模、仿真与实现
+*NS-2 网络模拟基础与应用

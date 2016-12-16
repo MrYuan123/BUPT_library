@@ -1,0 +1,13 @@
+#算法设计与分析
+#算法 : C 语言实现 . 第1-4部分 , 基础知识、数据结构、排序及搜索 = Algorithms in C . Parts 1-4 : fundamentals, data structures, sorting, searching
+#愿你要的明天, 如约而至 : 吉檀迦利
+*算法导论 = Introduction to algorithms
+*C/C++求职宝典
+*像天使一般地唱 : 纪伯伦经典诗选
+*卡尔曼滤波及其实时应用 = Kalman filtering with real-time applications
+*断舍离
+*马尔可夫链 : 模型、算法与应用 = Markov Chains : models, algorithms and applications
+*流萤集 = Fireflies
+*纪伯伦诗选 = Selected poems of Kahlil Gibran
+*贝叶斯网络学习、推理与应用
+*程序员面试宝典 = Best practice for programmer interview

@@ -1,0 +1,18 @@
+#Creo 3.0工程图教程
+#Creo Parametric 2.0工程图与数据交换案例教程
+#C 程序设计
+#Creo 3.0完全自学教程
+#C语言程序设计 (第3版) 学习辅导
+#机械工程专业英语
+#C 程序设计 (第四版) 学习辅导
+#C语言程序设计
+*C 语言程序设计
+*软件测试实践
+*LTE FDD技术原理与网络规划 = LTE FOD technology principle and Network planning
+*LTE : UMTS长期演进理论与实践 = LTE-the UMTS long term evolution from theory to practice
+*21天学通C#
+*全国计算机技术与软件专业技术资格 (水平) 考试历年真题必练 , 程序员
+*WPF 核心技术
+*2011全国计算机等级考试考眼分析与样卷解析 , 三级网络技术
+*全国计算机技术与软件专业技术资格 (水平) 考试历年真题必练 , 网络工程师
+*计算机软件技术基础学习指导与测试

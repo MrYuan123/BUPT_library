@@ -1,0 +1,13 @@
+#管理心理学
+#经济学原理 , 宏观经济学分册 = Principles of economics
+#爱的艺术 = The art of loving
+*少有人走的路 . 4 , 心灵地图 = Care of the soul
+*了不起的盖茨比 = The great Gatsby : 插图·中文导读英文版
+*控制系统仿真与计算机辅助设计
+*论语译注 : 简体字本
+*一只特立独行的猪 : 彩绘插图本
+*计算机程序设计艺术 . 第3卷 , 排序与查找
+*最好的告别 : 关于衰老与死亡，你必须知道的常识 = Being mortal : medicine and what matters in the end
+*Xilinx FPGA 设计基础 : VHDL版
+*电路原理学习指导与习题集 = Learning guide and exercises for principles of electric circuits
+*社会契约论 = The social contract

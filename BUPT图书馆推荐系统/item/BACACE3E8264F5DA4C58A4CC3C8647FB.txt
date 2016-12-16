@@ -1,0 +1,14 @@
+#光纤光栅原理及应用
+#激光原理及应用
+#C 语言入门经典
+#鸟哥的 Linux 私房菜 , 基础学习篇
+*光纤光栅理论基础与传感技术
+*光纤光学前沿
+*通信原理
+*激光原理 = Principles of lasers
+*图解光纤激光器入门
+*激光原理 (第2版） 教案与学习指导 = Study guide for principles of lasers
+*Turbo 与 LDPC 编解码及其应用
+*杨振宁文录 = Chen Ning Yang's collection : 一位科学大师看人与这个世界
+*迷人的科学风采 : 费恩曼传
+*MATLAB仿真在现代通信中的应用

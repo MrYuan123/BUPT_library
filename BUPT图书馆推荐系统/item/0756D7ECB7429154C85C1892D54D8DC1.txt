@@ -1,0 +1,27 @@
+#固体物理学全程导学及习题全解
+#模拟电子技术基础 (第2版) 学习指导与习题解答
+#半导体集成电路 = Semi-conductor integrated circuits
+#模拟电子技术名校考研真题详解
+#半导体物理问题与习题
+#数字集成电路 : 电路、系统与设计 = Digital integrated circuits : a design perspective
+#固体物理概念题和习题指导
+#半导体物理与器件 = Semiconductor physics and devices : basic principles
+#模拟集成电路与系统 = Analog integrated circuits and systems
+#模拟电子技术知识精要与考研真题详解
+#固体物理学习题解答
+#数字电子技术基础题解
+#模拟电子技术基础典型题分析及习题解答
+#半导体物理学学习辅导与典型题解
+#高等模拟集成电路 = Advanced analog integrated circuits
+#半导体器件导论 = An introduction to semiconductor devices
+#研究生入学考试考点解析与真题详解 , 模拟电子技术
+*模拟CMOS集成电路设计 = Design of analog CMOS integrated circuits
+*高速数字信号处理器结构与系统
+*TMS320C54x DSP原理及应用
+*大话企业级Android应用开发实战
+*模拟 CMOS 集成电路设计 = Design of analog CMOS integrated circuits
+*张道真英语语法 = A Comprehensive English grammar
+*计算机网络
+*数字信号处理 = Digital signal processing : 基于计算机的方法a computer-based approach . 上册
+*ADS 应用详解 : 射频电路设计与仿真
+*考研英语写作真题题库满分范文

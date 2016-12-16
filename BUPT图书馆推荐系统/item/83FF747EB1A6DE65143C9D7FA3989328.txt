@@ -1,0 +1,14 @@
+#高等数学
+#C 语言程序设计
+#线性代数辅导及习题精解 : 同济·第四版
+#大学物理学
+*高等数学习题全解
+*大学物理 . 上册
+*大学数学习题册
+*TCP/IP 指南 = The TCP/IP guide . 卷1 , 底层核心协议a comprehensive, illustrated internet protocols reference
+*高等数学全程学习指导
+*一个人的朝圣 = The Unlikely pilgrimage of harold fry
+*C 语言程序设计上机指导与习题解答
+*数据结构实用教程 : C语言版
+*卓越 = Superexcellence
+*高等数学 : 常见题型解析及模拟题

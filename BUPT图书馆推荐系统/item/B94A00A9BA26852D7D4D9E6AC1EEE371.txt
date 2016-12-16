@@ -1,0 +1,14 @@
+#Scala 编程 = Programming in Scala
+#Node.js开发实战详解
+#JavaScript & jQuery交互式Web前端开发
+#AngularJS权威教程 = The complete book on AngularJS
+*神经网络 = Neural networks
+*设计心理学 = The design of everyday things
+*jQuery开发从入门到精通
+*Python入门经典 = The Practice of computing using Python : 以解决计算问题为导向的Python编程实践
+*Head First jQuery : 中文版
+*Java 经典实例
+*JavaScript DOM 编程艺术 = DOM Scripting : web design with JavaScript and the document object model
+*Node.js权威指南 = Node.js : the definitive guide
+*Node与Express开发 = Web development with node and express leveraging the JavaScript stack
+*Node.js项目实践 : 构建可扩展的Web应用 = Practical node.js : building real-world scalable web apps

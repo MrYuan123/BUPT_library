@@ -1,0 +1,17 @@
+#Kubernetes实战
+#OpenStack云计算实战手册
+#Docker全攻略
+#六级词汇词根 + 联想记忆法 : 乱序版
+#Kubernetes权威指南 : 从Docker到Kubernetes实践全接触
+#Docker : 容器与容器云
+#Docker开发实践
+*Go语言·云动力
+*Docker技术入门与实战
+*DevOps故障排除 : Linux服务器运维最佳实践 = DevOps troubleshooting : Linux server best practices
+*Maven 实战 = Maven 3 in action
+*现代优化计算方法
+*非线性最优化理论与方法
+*Java Web 开发实践教程 : 从设计到实现
+*OpenStack开源云王者归来 : 云计算、虚拟化、Nova、Swift、Quantum与Hadoop
+*深入理解Nginx : 模块开发与架构解析 = Understanding Nginx : modules development and architecture resolveing
+*Python编程实践 = Practical programming : an introduction to computer science using python

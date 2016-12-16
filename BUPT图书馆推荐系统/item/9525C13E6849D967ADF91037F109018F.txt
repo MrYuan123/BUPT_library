@@ -1,0 +1,16 @@
+#无线传感器网络
+#Verilog数字系统设计教程
+#新智元 : 机器 + 人类 = 超智能时代
+#C 语言程序设计
+#C程序设计教程学习辅导
+#搜酷 : 全球智能硬件与技术精华集
+*R语言核心技术手册 = R in a nutshell
+*R语言初学者指南 = A Beginner's guide to R
+*高等数学
+*电脑硬件维修从入门到精通
+*无线通信原理与应用 = Wireless communications principles and practice
+*计算机系统概论 = Introduction to computing systems
+*C 语言程序设计上机指导与习题解答
+*MySQL技术内幕
+*正则指引 = Regular expression yet another introduction
+*数据结构与算法 : C语言版 = Data structures and algorithms in C

@@ -1,0 +1,13 @@
+#博弈论教程 = A Course in Game Theory
+#剑桥统计学词典
+#博弈论基础 = A Primer in Game Theory
+*TD-LTE 技术原理与系统设计 = TD-LTE principles and system design
+*应用随机过程 : 概率模型导论 = Introduction to probability models
+*实用多元统计分析 = Applied multivariate statistical analysis
+*随机过程 = Stochastic processes
+*4G移动通信技术权威指南 : LTE与LTE-Advanced = 4G LTE/LTE-Advanced for mobile broadband
+*概率与计算 = Probability and computing : randomized algorithms and probabilistic analysis
+*微信公众平台开发基础与实战
+*微信公众平台应用开发实战 = Wechat public platform application developing
+*哈佛博弈论 : 日常生活中的智慧策略
+*微信公众平台开发实战与应用案例

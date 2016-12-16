@@ -1,0 +1,12 @@
+#Linux入门很简单
+#MATLAB 2009从入门到精通
+*LabVIEW虚拟仪器从入门到测控应用130例
+*SPSS统计分析从零开始学
+*LabVIEW 2013完全自学手册
+*SolidWorks 2012中文版入门与提高
+*Python 学习手册
+*人生
+*面向对象的 Java 语言程序设计
+*幻夜
+*统计学习方法
+*经济学原理 = Principles of economics

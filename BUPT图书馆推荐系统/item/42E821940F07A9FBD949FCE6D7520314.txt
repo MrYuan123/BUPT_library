@@ -1,0 +1,16 @@
+#概率论与数理统计同步学习辅导
+#信号与系统 (第2版·上册) 同步辅导及习题全解
+#大学数学实验
+#数学建模方法与分析 = Mathematical modeling
+#全国大学生数学建模竞赛赛题与优秀论文评析 , 2005-2011年A题
+#中国大学生数学建模竞赛
+*Oracle Database 11g & MySQL 5.6开发手册
+*TCP/IP 指南 = The TCP/IP guide . 卷1 , 底层核心协议a comprehensive, illustrated internet protocols reference
+*不完备性 = Incompleteness : 哥德尔的证明和悖论the proof and paradox of Kurt Godel
+*数学模型
+*数学建模 = A first course in mathematical modeling
+*MATLAB 在数学建模中的应用
+*数学模型与实验
+*数学建模
+*数学建模竞赛优秀论文评析
+*还本归宗 : 六爻预测指南

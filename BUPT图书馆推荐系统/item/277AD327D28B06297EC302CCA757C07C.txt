@@ -1,0 +1,17 @@
+#主动控制中的信号处理 = Signal processing for active control
+#Java编程指南 = Java 7 : a comprehensive tutorial
+#有源噪声与振动控制 : 原理、算法及实现
+#Java多线程编程实战指南 , 设计模式篇
+#R语言经典实例
+#JavaScript编程全解
+#Java ME程序开发实用教程
+*Java特种兵 . 上册
+*不要以为老板好当
+*傅雷书信选 = Selected letters to sons and friends
+*浪潮之巅 = On top of tides . 上册
+*Java Web实战开发完全学习手册
+*jQuery从菜鸟到忍者
+*jQuery Mobile入门经典
+*Netty权威指南
+*Redis入门指南
+*JavaScript 开发技术详解

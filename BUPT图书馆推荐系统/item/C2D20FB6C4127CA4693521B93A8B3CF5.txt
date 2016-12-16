@@ -1,0 +1,26 @@
+#复杂网络理论及其应用
+#GPU 精粹 3
+#特征提取与图像处理 = Feature extraction and image processing
+#在实战中成长 , C++开发之路
+#MATLAB概率与数理统计分析
+#R编程入门经典 : 大数据时代的统计分析语言
+#随机过程及其应用 = Random processes and their applications
+#MINITAB 统计分析教程
+#.NET安全揭秘 = Vnconer .NET security : sabety .NET applications
+#GPU 高性能编程 CUDA 实战 = CUDA by example and introduction to general-purpose GPU programming
+#数字图像处理与机器视觉 : Visual C++与Matlab实现
+#反黑客工具箱 = Anti-hacker tool kit
+#Git权威指南 = Got Git : the definitive guide of Git
+#基于R的统计分析与数据挖掘
+#PaaS实现与运维管理 : 基于Mesos +Docker+ELK的实战指南
+#概率统计及随机过程
+*CUDA专家手册 : GPU编程权威指南 = The CUDA handbook : a comprehensive guide to GPU programming
+*数据挖掘教程
+*“中国特色社会主义理论与实践研究”专题讲义
+*统计建模与 R 软件
+*SDN核心技术剖析和实战指南 = Deciphering SDN : core techniques and practical guide
+*大话处理器 : 处理器基础知识读本
+*大型RISC处理器设计 : 用描述语言Verilog设计VLSI芯片 = Visi chip design with the hardware description language verilog
+*现代VLSI设计 : 基于IP核的设计 = Modern VLSI design : IP-based design
+*模式识别 = Pattern recognition
+*历年真题及华图名师详解 : 2015最新版

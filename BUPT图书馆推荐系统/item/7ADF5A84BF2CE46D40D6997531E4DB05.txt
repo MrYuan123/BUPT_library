@@ -1,0 +1,13 @@
+#嵌入式操作系统原理与应用
+#C++程序设计
+#恋上最美的绘画时光 , 精致素描
+*Python 灰帽子 : 黑客与逆向工程师的Python编程之道 = Gray hat python : python programming for hackers and reverse engineers
+*Python入门经典 = The Practice of computing using Python : 以解决计算问题为导向的Python编程实践
+*Python游戏编程入门
+*MySQL数据库应用从入门到精通
+*疯狂HTML 5/CSS 3/JavaScript讲义
+*UNIX 环境高级编程 = Advanced programming in the UNIX environment
+*大话设计模式
+*Java程序设计基础
+*Photoshop数码照片处理与修饰技巧
+*UG NX 6.0数控加工教程

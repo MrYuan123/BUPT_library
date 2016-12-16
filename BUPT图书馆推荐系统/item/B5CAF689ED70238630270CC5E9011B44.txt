@@ -1,0 +1,14 @@
+#光信道编码
+#空间激光通信技术与系统 = The Technologies and systems of space laser communication
+#卫星光网络技术
+#星地激光通信链路原理与技术 = The principle and technology of the satellite-to-ground laser communication links
+*100个基本 : 松浦弥太郎的人生信条
+*忽然七日 = Before I fall
+*NS2 与网络模拟
+*卫星通信
+*NS 网络模拟和协议仿真
+*Java编程指南 = Java 7 : a comprehensive tutorial
+*空间通信技术
+*Android应用开发攻略
+*大话数据结构 = Play with data structure
+*卫星通信系统

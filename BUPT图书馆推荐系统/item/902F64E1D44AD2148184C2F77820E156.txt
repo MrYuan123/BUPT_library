@@ -1,0 +1,12 @@
+#Qt4 图形设计与嵌入式开发
+#Qt Creator快速入门
+*Qt 5开发及实例
+*PHP Web开发学习实录
+*零基础学PHP
+*哥德尔、艾舍尔、巴赫 : 集异璧之大成
+*自私的基因
+*计算机组织与体系结构 : 性能设计 = Computer organization and architecture : designing for performance
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

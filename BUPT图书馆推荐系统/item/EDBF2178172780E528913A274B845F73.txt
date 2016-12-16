@@ -1,0 +1,13 @@
+#LTE : UMTS长期演进理论与实践 = LTE-the UMTS long term evolution from theory to practice
+#LTE FDD技术原理与网络规划 = LTE FOD technology principle and Network planning
+#C语言程序设计
+*PPT, 要你好看
+*LTE系统原理及应用
+*啊哈! 算法 = Aha! algorithms
+*M2M通信
+*Qt 5开发及实例
+*无线通信与网络 = Wireless communications and networks
+*计算机网络
+*Java典型模块与项目实战大全
+*大话移动通信
+*光网络 = Optical networks : a practical perspective . 上卷 , 光纤通信技术与系统

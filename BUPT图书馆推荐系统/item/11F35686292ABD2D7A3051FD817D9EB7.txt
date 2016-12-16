@@ -1,0 +1,13 @@
+#Go语言程序设计 = Programming in Go : creating applications for the 21st century
+#分布式系统原理与范型
+#深入理解计算机系统 = Computer systems : a programmer's perspective
+*Go语言程序设计
+*设计模式之禅 = The Zen of design patterns
+*Go语言编程 = The Go programming language
+*三重门
+*苏菲的世界 = Sophie's world
+*妙趣横生的算法 : C++语言实现
+*Python 源码剖析 : 深度探索动态语言核心技术
+*代码大全 = Code complete
+*Objective-C基础教程 = Learn Objective-C on the mac for OS X and iOS
+*深入理解计算机系统 = Computer systems : a programmer's perspctive

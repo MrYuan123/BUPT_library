@@ -1,0 +1,12 @@
+#现代性与自我认同 : 晚期现代中的自我与社会 = Modernity and self-identity : Self and society in the late modern age
+#牛奶可乐经济学 = The economic naturalist's field guide : common sense principles for troubled times . 3
+*赢者思维 : 欧洲最受欢迎的思维方法
+*人人都是产品经理 = Everyone is a produot manager : version 1.1
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

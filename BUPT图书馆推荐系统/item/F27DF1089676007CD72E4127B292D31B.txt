@@ -1,0 +1,14 @@
+#Python入门经典 = The Practice of computing using Python : 以解决计算问题为导向的Python编程实践
+#JavaScript & jQuery交互式Web前端开发
+#Java 经典实例
+#设计心理学 = The design of everyday things
+*AngularJS权威教程 = The complete book on AngularJS
+*jQuery开发从入门到精通
+*Scala 编程 = Programming in Scala
+*Head First jQuery : 中文版
+*JavaScript DOM 编程艺术 = DOM Scripting : web design with JavaScript and the document object model
+*Node.js开发实战详解
+*深度解析SDN : 利益、战略、技术、实践
+*Java 面向对象程序设计
+*轻松学Java
+*Python程序设计教程

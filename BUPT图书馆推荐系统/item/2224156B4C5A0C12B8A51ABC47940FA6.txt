@@ -1,0 +1,17 @@
+#Python黑帽子 : 黑客与渗透测试编程之道 = Black hat python : python programming for hackers and pentesters
+#Linux内核设计与实现 = Linux kernel development
+#深入理解Java 7 : 核心技术与最佳实践 = Understanding the Java 7 : the core techniques and best practice
+#深度探索C++对象模型 = Inside the C++ object model
+#七周七语言 : 理解多种编程范型 = Seven languages in seven weeks : a pragmatic guide to learning programming languages
+#代码的未来
+#ML 程序设计教程 = ML for the working programmer
+*XSS跨站脚本攻击剖析与防御
+*C++ coding standards :101 rules, guidelines, and best practices = C++编程规范 /C++编程规范
+*C++ Templates中文版
+*C++并发编程实战 = C++ concurrency in action
+*计算机体系结构 : 量化研究方法 = Computer architecture : a quantitative approach
+*C++ primer 
+*Solaris 内核结构 = Solaris internals : solaris 10 and OpenSolaris kernel architecture
+*Linux多线程服务端编程 : 使用muduo C++网络库
+*深入 Linux 内核架构 = Professional Linux kernel architecture
+*Imperfect C++ :practical solutions for real-life programming /Imperfect C plus plus 

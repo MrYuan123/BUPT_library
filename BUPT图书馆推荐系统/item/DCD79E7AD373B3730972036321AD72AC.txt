@@ -1,0 +1,16 @@
+#海子经典诗歌
+#JavaScript框架设计
+#VC++就业培训宝典之MFC视频教程
+#诺贝尔文学奖获奖作家微型小说精品
+#Linux 核心应用命令速查
+#数据结构与算法JavaScript描述 = Data structures and algorithms with JavaScript
+*了不起的Node.js : 将JavaScript进行到底 = Smashing Node. js : JavaScript everywhere
+*C 语言开发手册 : 典藏版
+*C++编程兵书
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

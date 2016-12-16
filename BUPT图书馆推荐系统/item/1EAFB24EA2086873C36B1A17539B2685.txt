@@ -1,0 +1,16 @@
+#软件工程
+#软件工程基础与实用教程 : 基于架构与MVC模式的一体化开发
+#软件工程实例教程
+#学习vi和Vim编辑器
+#Python UNIX 和 Linux 系统管理指南
+#学习正则表达式 = Introducing regular expressions
+*计算机原理课程设计 = Course design of computer principle
+*计算理论基础
+*具体数学 : 计算机科学基础 = Concrete mathematics : a foundation for computer science
+*初等数论及其应用 = Elementary number theory and its applications
+*MySQL技术精粹 : 架构、高级特性、性能优化与集群实战
+*反直觉思考 : 斯坦福大学思维自修课 = Think twice : harnessing the power of counterintuition
+*软件测试技术、方法和环境
+*Java典型模块与项目实战大全
+*数据结构 : 基于C++模板类的实现
+*需求分析与系统设计 = Requirements analysis and system design

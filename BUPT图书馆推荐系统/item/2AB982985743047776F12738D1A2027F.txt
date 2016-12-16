@@ -1,0 +1,12 @@
+#Turbo 与 LDPC 编解码及其应用
+#高效信道编译码技术及其应用
+*LDPC 码理论与应用
+*Turbo 码设计与应用
+*电力线通信技术与实践
+*统计信号处理基础 : 估计与检测理论 . 卷I = Fundamentals of statistical signal processing . volume I , estimation theory统计信号处理基础 : 估计与检测理论 . 卷II = Fundamentals of statistical signal processing . volume II , detection theory
+*数字通信 = Digital communications
+*宽带无线通信 OFDM 技术
+*“胡”说IC : 菜鸟工程师完美进阶
+*杨振宁文录 = Chen Ning Yang's collection : 一位科学大师看人与这个世界
+*迷人的科学风采 : 费恩曼传
+*差错控制编码 = Error control coding from theory to practice

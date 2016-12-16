@@ -1,0 +1,12 @@
+#产品经理那些事儿
+#借势·造势 : 品牌崛起之道
+*移动支付改变生活 = Mobile payment is changing our life : 电信运营商的移动支付创新与实践
+*产品经理的20堂必修课 = How to be a good product manager
+*用户体验度量 : 收集、分析与呈现 = Measuring the user experience : collecing, analyzing, and presenting usability metrics
+*用户体验与可用性测试
+*乔布斯 : 产品制胜法则
+*启示录 : 打造用户喜爱的产品
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

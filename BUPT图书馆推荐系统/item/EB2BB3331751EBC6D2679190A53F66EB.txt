@@ -1,0 +1,19 @@
+#叔本华散文
+#尼采散文
+#狱中书简
+#与绝望抗争 : 寻求正义的3300个日夜
+#米兰之恋 = Un amore
+#数据结构与算法实验教程
+#印度: 受伤的文明 = India : a wounded civilization
+#邪恶之路
+#实用数据结构
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

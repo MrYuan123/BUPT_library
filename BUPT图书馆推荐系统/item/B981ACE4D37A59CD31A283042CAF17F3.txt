@@ -1,0 +1,11 @@
+#下一代 Internet 的网络技术
+*浪潮之巅 = On top of tides . 上册
+*微机原理与接口技术例题及习题详解
+*操作系统习题解答与考试复习指导 = Detailed analysis and solutions of operating system for examination
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

@@ -1,0 +1,17 @@
+#Python项目开发实战
+#JavaScript精粹 = The JavaScript anthology : 101 essential tips, tricks & hacks
+#Node.js实战
+#移动通信 : 技术、应用与业务生成
+#计算机网络
+#Java 程序设计实践教程
+#UML 建模图解教程
+*LTE系统原理及应用
+*无线Ad Hoc网络移动模型大全 = The encyclopedia of wireless Ad Hoc network mobility model
+*Java程序设计之实验及课程设计教程
+*计算机网络 : 网络设计的原理、技术和协议 = Computer networks : principles, technologies and protocols for network design
+*云计算信息安全管理 : CSA C-STAR实施指南
+*JavaScript基础教程 = JavaScript visual quickStart guide
+*数据结构 : C语言版 = Data structure : C Programming language version
+*概率论、随机过程与数理统计
+*金字塔原理 : 思考、表达和解决问题的逻辑 = The minto pyramid principle : logic in writing, thinking and problem solving
+*80x86 汇编语言基础教程 = Essentials of 80x86 assembly language

@@ -1,0 +1,11 @@
+#Python 学习手册
+*推荐系统 = Recommender systems : an introduction
+*数据挖掘原理、算法与应用
+*汇编语言
+*Python宝典
+*Hadoop 技术内幕 : 深入解析MapReduce架构设计与实现原理 = Hadoop internals : in-depth study of MapReduce
+*Python 基础教程 = Beginning Python from novice to professional
+*鸟哥的 Linux 私房菜 , 基础学习篇
+*HTML5与CSS3基础教程 = HTML5 and CSS3 visual quickstart guide
+*数学之美 = Beauty of mathematics
+*NS-2 网络模拟基础与应用

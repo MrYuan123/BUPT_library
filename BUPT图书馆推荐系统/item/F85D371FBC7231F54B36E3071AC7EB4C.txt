@@ -1,0 +1,11 @@
+#Ubuntu Linux 应用技术教程
+*Linux操作系统 = Linux operating system
+*Unix Shell 编程
+*Linux Shell脚本攻略 = Linux Shell Scripting Cookbook
+*深入理解Android . 卷Ⅱ = Understanding android internals . volume Ⅱ
+*深入理解Android . 卷1 = Understanding Android internals . Volume I
+*Android群英传
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

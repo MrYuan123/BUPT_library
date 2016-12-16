@@ -1,0 +1,13 @@
+#红楼梦 . 下
+#红楼梦 . 上
+#红楼梦 . 中
+*阿波罗之杯
+*信号与系统教程
+*英语写作 : 句子·段落·篇章 = English writing : from sentence to paragraph and to theme
+*英语万词速成 : 词根+词缀记忆法 = Superior word power made easy roots+affixes
+*小团圆
+*计算智能导论
+*洛克菲勒留给儿子的38封信 = Thirty-eight Rockefeller Letter to his son : 珍藏版
+*Python自动化运维 : 技术与最佳实践 = Automation operations with Python : technique and best practices
+*游戏开发工程师修炼之道 = Game development essentials an introduction
+*数字图像处理 : MATLAB版 : 本科教学版 = Digital image processing using MATLAB

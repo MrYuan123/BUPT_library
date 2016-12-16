@@ -1,0 +1,17 @@
+#奥黛丽·赫本传
+#英文说文解词 = A study of English words and their culture-loaded meanings
+#SQL Server应用与开发范例宝典
+#MySQL技术内幕 : SQL编程 = Inside MySQL : SQL programming
+#分布式系统 : 概念与设计 = Distributed systems : concepts and design
+#分布式计算
+#心事 = Heart matters
+*SPSS 19.0统计分析从入门到精通
+*世界500强企业英语面试大全集
+*求职面试实用英语大全
+*大数据挖掘 = Using big data to build your business : 系统方法与实例分析
+*大嘴巴漫谈数据挖掘
+*跟老齐学Python : 从入门到精通
+*面向计算机科学的数理逻辑
+*不可不知的朝韩史
+*计算机网络
+*计算机网络 : 网络设计的原理、技术和协议 = Computer networks : principles, technologies and protocols for network design

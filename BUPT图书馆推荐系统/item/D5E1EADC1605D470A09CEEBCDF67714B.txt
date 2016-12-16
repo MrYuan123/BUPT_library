@@ -1,0 +1,11 @@
+#地面无线定位技术 = Ground-based wireless positioning
+*GNU Make 项目管理
+*实用数据分析 = Practical data analysis
+*算法精解 : C语言描述
+*数字滤波器的MATLAB与FPGA实现 : Altera/Verilog版
+*深入浅出 Web 设计
+*无线传感器网络 = Wireless sensor networks a networking perspective
+*自己动手写网络爬虫
+*阵列信号处理的理论与应用
+*计算机网络
+*线性代数

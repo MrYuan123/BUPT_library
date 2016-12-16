@@ -1,0 +1,14 @@
+#计算机算法 = Computer algorithms : C++版C++
+#数学物理方法 . I
+#北洋大时代
+#民国纪事本末 : 1911-1949
+*光学
+*高等数学物理方法 = Advanced methods of mathematics for physics
+*光纤通信系统 = Fiber-optic communication systems
+*非线性数学物理方法
+*量子力学 . I = Quantum mechanics . I
+*Linux企业应用案例精解
+*算法分析与设计 = Algorithm design : foundation, analysis, and internet examples
+*努力工作不折腾
+*一生中要解决的 50 个关键问题 : 解决人生中面临的难题
+*不抱怨的职场 : 改变个人和公司命运的积极能量

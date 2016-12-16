@@ -1,0 +1,11 @@
+#深入理解OpenCV : 实用计算机视觉项目解析 = Mastering openCV with practical computer vision projects
+*前端面试江湖
+*Visual C++数字图像模式识别典型案例详解 = Detailed explanation of Visual C++ digital image pattern recognition with typical cases
+*Visual C++数字图像模式识别技术详解 = Visual C++ digital image pattern recognition technology explanation
+*OpenCV2计算机视觉编程手册
+*美语发音秘诀 : 语法 = American accent training : grammar
+*MySQL 必知必会 = MySQL crash course
+*软件项目管理 = Software project management
+*算法导论 = Introduction to algorithms
+*计算机原理
+*在漫长的旅途中

@@ -1,0 +1,14 @@
+#牧师的晚餐 = The priest's supper
+#爱+恨数学 : 还原最真实的数学 = Loving + Hating mathematics : challenging the myths of mathematical life
+#暗时间 = Dark Time
+#概率·统计
+*广义线性模型
+*测度论与概率论基础
+*概率论基础
+*代码大全 = Code complete
+*学会提问 = Asking the right questions : a guide to critical thinking
+*冒号课堂 : 编程范式与OOP思想
+*普林斯顿数学指南 . 第1卷
+*实变函数论与泛函分析 . 上册
+*信息科学原理
+*Accelerated C++中文版 : 通过示例进行编程实践 = Accelerated C++ : practical programming by example

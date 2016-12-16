@@ -1,0 +1,13 @@
+#信号与系统 . 上册
+#数据结构 : C++语言版
+#数据结构学习指导和习题解析 = A learning guide and key to exercises for data structures in C++ : C++语言描述
+*信号与系统 . 下册
+*Xilinx FPGA应用开发
+*微型计算机系统与接口
+*光纤光学 = Fiber optics
+*算法与数据结构
+*学习 OpenCV : 中文版
+*史蒂夫·乔布斯传 = Steve Jobs
+*Multisim 10 电路仿真及应用
+*数学分析 . 第一卷
+*电子电路基础及通信电子电路学习指导书

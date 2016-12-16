@@ -1,0 +1,29 @@
+#微分流形与李群基础
+#Visual Studio 2010并行编程从入门到精通
+#演讲师的PPT
+#中国散文排行榜 : 2011
+#C语言接口与实现 : 创建可重用软件的技术 = C interfaces and implementations : techniques for creating reusable software
+#数值分析的泛函方法
+#中国书院史
+#GPU 精粹 : 实时图形编程的技术、技巧和技艺
+#蚁群算法原理及其应用 = Ant coloby algorithms : theory and applications
+#CUDA并行程序设计 : GPU编程指南 = CUDA programming : a developer's guide to parallel computing with GPUs
+#微分拓扑 = Differential topology
+#OpenGL 编程精粹 = Essential OpenGL programming
+#MATLAB应用图像处理
+#序与拓扑
+#蚁群优化 = Ant conlony optimization
+#现代中国文学史
+#随机过程 . Ⅰ = Random process . Ⅰ
+#C 语言详解 = Problem solving and program design in C
+#C语言程序设计
+*穿越计算机的迷雾
+*遗传算法 : 理论、应用与软件实现
+*学习 PHP 和 MySQL
+*无线通信 = Wireless communications
+*概率论及其应用 = An introduction to probability theory and its applications . 卷1
+*概率论·数理统计·随机过程
+*Xilinx FPGA开发实用教程 = Xilinx FPGA : development and application
+*VC++项目开发实战密码
+*C 语言开发手册 : 典藏版
+*可信链度量与测评

@@ -1,0 +1,15 @@
+#C 程序设计
+#数据挖掘理论与技术
+#综合布线技术与实验教程
+#大数据的力量 = The Power of big data
+#Python程序设计
+*Visual Basic 2010 & .NET 4高级编程
+*概率论与数理统计
+*数据挖掘原理与算法
+*数据挖掘技术及应用
+*Python基础教程 = Beginning python : from novice to professional
+*Java 7程序设计入门与提高
+*Web程序设计
+*信息论与编码技术
+*深入理解计算机系统 = Computer systems : a programmer's perspctive
+*软件测试实践

@@ -1,0 +1,11 @@
+#数据结构与算法 : Java版
+*Java程序设计教程 = Textbook for programming in Java
+*C++ PRIMER 中文版 = C++ Primer
+*少有人走的路 . Ⅲ , 心灵地图 = Care of the soul
+*月亮和六便士 = The moon and sixpence
+*生命中不能承受之轻
+*数据结构 : Java版
+*程序员的数学思维修练 : 趣味解读
+*世界文明简史 = The story of mankind
+*大话数据挖掘
+*审计学原理 = Auditing principles

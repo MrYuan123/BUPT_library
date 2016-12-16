@@ -1,0 +1,16 @@
+#Python Cookbook (第2版) 中文版
+#Hadoop核心技术 = Core hadoop
+#Python编程实战 : 运用设计模式、并发和程序库创建高质量程序 = Python in practice : create better programs using concurrency, libraries, and patterns
+#学习R = Learning R
+#MySQL高效编程
+#Hadoop 技术内幕 : 深入解析MapReduce架构设计与实现原理 = Hadoop internals : in-depth study of MapReduce
+*Hadoop权威指南
+*Hadoop 2.0-YARN核心技术实践
+*趣学Python编程 = Python for kids
+*高性能 JavaScript = High performance JavaScript
+*Spark核心技术与高级应用 = Spark core technology and advanced applications
+*Python 学习手册
+*Hadoop大数据处理 = Big data processing
+*JAVA 核心技术 . 卷II , 高级特性 = Core Jave . Volume II , Advanced features
+*数据挖掘原理、算法与应用
+*编写高质量代码 : 改善Python程序的91个建议 = Writing solid python code : 91 suggestions to improve your Python program

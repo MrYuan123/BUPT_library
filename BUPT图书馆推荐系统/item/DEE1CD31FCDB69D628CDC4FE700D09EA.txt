@@ -1,0 +1,14 @@
+#HTML5移动Web开发实战详解
+#HTML5移动应用开发入门经典
+#日语能力考试文法总汇 , 2级
+#N2文字词汇HOLD住
+*新手学HTML5移动开发 : 面向iOS和Android平台
+*ASON 网络互联
+*软件定义网络 : 基于OpenFlow的SDN技术揭秘 = Software defined networking with OpenFlow
+*Python 核心编程
+*移动通信原理
+*天才在左 疯子在右
+*HTML5网页设计案例课堂
+*麦肯锡效率 = Mckinsey efficiency
+*没有任何借口 = No excuse!
+*矩阵理论与方法 = Theory and methods of matrixes

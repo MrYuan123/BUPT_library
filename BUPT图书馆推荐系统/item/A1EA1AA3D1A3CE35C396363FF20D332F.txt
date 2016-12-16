@@ -1,0 +1,11 @@
+#EViews统计分析与应用
+*EViews统计分析在计量经济学中的应用
+*空间计量经济学 = Spatial econometrics
+*投入产出技术 = Input-output technique
+*应用时间序列分析
+*应用计量经济学 : 时间序列分析 = Applied econometric time series
+*时间序列分析 : 预测与控制 = Time series analysis : forecasting and control
+*时间序列分析 = Time series analysis
+*时间序列分析及应用 : R语言 = Time series analysis with applications in R
+*计算机网络
+*线性代数

@@ -1,0 +1,13 @@
+#历年真题及华图名师详解 : 2015最新版
+#基于R的统计分析与数据挖掘
+#言语理解与表达考前必做1000题 : 2015
+*基于Excel的统计应用
+*区域溢出
+*基于SPSS的数据分析
+*R语言实战 = R in action : data analysis and graphics with R
+*区域经济学
+*人人都是产品经理 = Everyone is a produot manager : version 1.1
+*空间经济学 : 城市、区域与国际贸易 = The Spatial economy : cities, regions and international trade
+*随机过程及其应用 = Random processes and their applications
+*PaaS实现与运维管理 : 基于Mesos +Docker+ELK的实战指南
+*MATLAB概率与数理统计分析

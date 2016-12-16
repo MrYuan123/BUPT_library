@@ -1,0 +1,19 @@
+#Qt 高级编程 = Advanced Qt programming creating great software with C++ and Qt 4
+#人工神经网络与微粒群优化
+#复杂性思考
+#Qt 5开发及实例
+#模式识别中的核自适应学习及应用
+#机器学习 : 实用案例解析
+#MATLAB智能算法超级学习手册
+#Effective C++ : 改善程序与设计的55个具体做法 : 中文版 = Effective C++ : 55 specific ways to improve your programs and designs
+#自制编程语言
+*Android移动应用开发从入门到精通
+*大规模分布式存储系统原理解析与架构实战
+*纠删码存储集群系统设计与优化 = Design and optimization of erasure-coded clustered storage systems
+*机器学习理论、方法及应用
+*OpenGL超级宝典 = OpenGL superBible
+*矩阵论
+*Qt Creator快速入门
+*Control of solar energy systems =太阳能系统控制 /太阳能系统控制
+*Java 宝典
+*Java典型模块与项目实战大全

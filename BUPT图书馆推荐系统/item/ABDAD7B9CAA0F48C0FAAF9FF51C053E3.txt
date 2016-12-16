@@ -1,0 +1,13 @@
+#Java程序设计基础与应用
+#轻量级Java EE企业应用实战 : Struts 2+Spring 4+Hibernate整合开发
+#数据结构 : Java语言描述
+*Java程序设计完全学习手册
+*疯狂Java程序员的基本修养
+*Java 开发实战经典
+*数据结构和 Java 集合框架
+*C++语言基础教程
+*剑指Offer : 名企面试官精讲典型编程题
+*非线性光纤光学原理及应用 = Nonlinear fiber optics, fourth edition & applications of nonlinear fiber optics, second edition
+*产品经理 : 从菜鸟到大师
+*光纤光栅 : 原理、技术与传感应用
+*Scrum要素 = The Elements of scrum

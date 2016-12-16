@@ -1,0 +1,14 @@
+#数据库系统 = Database systems : 概念、设计及应用concepts, design and applications
+#图论导引 = Introduction to graph theory
+#Web 搜索 = Web search
+#Shell 脚本学习指南
+*Spring技术内幕 = Spring internals : 深入解析Spring架构与设计原理
+*数据库系统设计、实现与管理
+*东西文化及其哲学
+*宽带网络技术 = Broadband network technology
+*算法导论 = Introduction to algorithms
+*信息论基础
+*相守一生的秘密 : 幸福婚姻枕边书
+*ns-3网络模拟器基础及应用
+*信息论基础及应用
+*送你一颗子弹 = Send you a bullet

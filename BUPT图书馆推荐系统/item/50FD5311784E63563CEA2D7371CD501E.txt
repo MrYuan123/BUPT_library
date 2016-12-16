@@ -1,0 +1,12 @@
+#数据挖掘原理与 SPSS Clementine 应用宝典
+#Web数据挖掘
+*实战大数据
+*解析Java虚拟机开发 : 权衡优化、高效和安全的最优方案
+*常用算法深入学习实录
+*数据挖掘 : 实用案例分析 = Data mining : practical case analysis
+*Redis入门指南
+*卡尔·萨根的上帝
+*美国种族简史 = Ethnic America a history
+*在细雨中呼喊
+*老人与海 = The old man and the sea
+*高效能人士的七个习惯 = The 7 habits of highly effective people

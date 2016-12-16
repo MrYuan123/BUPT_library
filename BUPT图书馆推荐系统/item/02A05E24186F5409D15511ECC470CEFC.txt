@@ -1,0 +1,12 @@
+#NS2 与网络模拟
+#NS2 网络模拟器的原理和应用
+*UNIX/Linux应用、编程与系统管理
+*NS 网络模拟和协议仿真
+*卫星通信
+*空间激光通信技术与系统 = The Technologies and systems of space laser communication
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

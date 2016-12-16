@@ -1,0 +1,30 @@
+#市场营销学 : 真实的人, 真实的选择 = Marketing : real people, real choices
+#统计学 : 基于Excel和R语言
+#雅思9天突破9分 , 阅读 (学术类)
+#促销基础 = Basic sales promotion : 顾客导向的实效促销
+#基于Excel的营销调研 = Basic marketing research : using Microsoft Excel data analysis
+#数学奇趣与应用
+#火车上的女孩 = The girl on the train
+#实战移动互联网营销 = Mobile internet marketing in action : 7 key key factors
+#SPSS与统计分析
+#资治通鉴故事
+#剑桥 FCE 词汇 = Cambridge vocabulary for first certificate with answers
+#哈佛给学生做的 300 个思维游戏 = Keep your mind fit
+#折扣赠品促销案例大剖析 = Sale
+#量化研究与统计分析 : SPSS (PASW) 数据分析范例解析
+#莎士比亚全集 . Ⅰ
+#情绪心理学 = Handbook of emotions
+#剑桥FCE核心词汇精讲精练 = Cambridge English vocabulary for first certificate with answers
+#移动互联风暴口的“猪” : 审时度势, 一飞冲天
+#营销心理学
+#剑桥PET核心词汇精讲精练 = Cambridge English vocabulary for PET with answers
+*IBM SPSS数据分析与挖掘实战案例精粹
+*问卷统计分析实务 : SPSS操作与应用
+*Java 网络编程
+*实战Java虚拟机 : JVM故障诊断与性能优化
+*MATLAB建模与仿真
+*博弈论与信息经济学
+*雅思机经词汇精选
+*SPSS 22.0统计分析应用教程
+*计算机网络
+*线性代数

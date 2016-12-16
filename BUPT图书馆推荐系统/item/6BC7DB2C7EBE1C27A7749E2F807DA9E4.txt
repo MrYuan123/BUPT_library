@@ -1,0 +1,13 @@
+#Java程序设计与实例
+#Java程序设计案例教程
+#Java程序设计教程 = Building Java programs : a back to basics approach
+*操作系统习题解答与考试复习指导 = Detailed analysis and solutions of operating system for examination
+*关于创业, 我们常聊的那些事儿
+*算法设计方法与优化
+*Node应用程序构建 : 使用MongoDB和Backbone
+*Node即学即用 = Node : up and running, scalable server-side code with JavaScript
+*Java Web 应用与开发教程 : 使用Oracle Database 10g Express Edition
+*MySQL 完全手册 = MySQL: the complete reference
+*从零开始学Java
+*矩阵论札记
+*数据结构 : Java版

@@ -1,0 +1,15 @@
+#Linux Shell编程从入门到精通
+#Linux Shell脚本攻略 = Linux Shell Scripting Cookbook
+#MySQL 技术内幕 : InnoDB存储引擎 = Inside MySQL : InnoDB storage engine
+#零点起飞学MySQL
+#数据结构教程 : Java语言描述
+*Android应用开发入门 = Android apps for absolute beginners
+*Visual C++网络编程开发与实战
+*VC++项目开发实战密码
+*Linux Shell编程与编辑器使用详解
+*嵌入式软件开发及 C 语言实现 : MiniGUI 剖析
+*马克思主义哲学原理
+*数学之美 = Beauty of mathematics
+*Unix Shell 编程
+*Ubuntu Linux 应用技术教程
+*Linux 快速入门 : 系统安装、管理、维护及服务器配置

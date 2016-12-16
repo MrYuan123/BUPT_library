@@ -1,0 +1,16 @@
+#MATLAB从入门到精通
+#Python程序设计教程
+#组合优化导论
+#频谱灵活光网络 = Flexible spectrum optical networks
+#近似算法 = Approximation algorithms
+#算法设计
+*中级运筹学
+*数学建模方法及其应用
+*观手识人 = Palmistry from apprentice to pro in twenty four hours
+*R语言核心技术手册 = R in a nutshell
+*MATLAB基础教程
+*基于 MATLAB 7.x 的系统分析与设计 : 信号处理
+*深度解析SDN : 利益、战略、技术、实践
+*Python入门经典 = The Practice of computing using Python : 以解决计算问题为导向的Python编程实践
+*MATLAB 与外部程序接口编程
+*MATLAB GUI 设计学习手记

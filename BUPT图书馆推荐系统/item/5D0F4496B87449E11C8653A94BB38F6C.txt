@@ -1,0 +1,12 @@
+#Spring源码深度解析
+#深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM : advanced features and best practices
+*Java并发编程实战 = Java concurrency in practice
+*Java 编程思想 = Thinking in Java
+*JSP程序设计实训与案例教程
+*信息论与编码学习辅导及习题详解
+*Hadoop云计算实战 = Hadoop cloud computing practice
+*SOA与REST : 用REST构建企业级SOA解决方案 = SOA with REST : principles, patterns & constraints for building enterprise solutions with REST
+*HTML 5开发精要与实例详解 = Essential HTML 5 and cases study
+*Effective Java 中文版 = Effective Java
+*数字通信同步技术的MATLAB与FPGA实现 : Altera/Verilog版
+*CSS 设计彻底研究

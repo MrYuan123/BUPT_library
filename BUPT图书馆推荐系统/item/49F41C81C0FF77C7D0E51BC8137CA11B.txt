@@ -1,0 +1,12 @@
+#Lightroom & Photoshop数码暗房双修宝典
+#不能说的秘密 : Photoshop人像摄影后期高端修饰与调色圣经
+*行摄 : Photoshop CS6后期修片高手之道
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学

@@ -1,0 +1,11 @@
+#数字电路与逻辑设计
+*Java语言程序设计
+*数字与模拟通信系统 = Digital and analog communication systems
+*数字电路与逻辑设计学习指导
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

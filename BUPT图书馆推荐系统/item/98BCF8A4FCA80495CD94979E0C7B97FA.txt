@@ -1,0 +1,11 @@
+#光纤通信系统
+*光纤通信 = Optical fiber communications
+*光纤通信技术 = Optical fiber communications technology
+*光纤通信入门130问
+*光纤通信技术
+*OpenSceneGraph 三维渲染引擎设计与实践
+*信息论基础
+*OpenSceneGraph 3.0三维视景仿真技术开发详解
+*OpenSceneGraph 三维渲染引擎编程指南
+*光纤通信
+*移动通信原理与应用

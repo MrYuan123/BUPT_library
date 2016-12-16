@@ -1,0 +1,12 @@
+#C++ 探秘 : 68讲贯通C++ = Exploring C++ : the programmer's introduction to C++
+#PHP网络编程技术详解
+*RESTful web services cookbook中文版 = RESTful web services cookbook
+*Visual C++网络编程案例实战
+*HTML5 WebSocket权威指南 = The definitive guide to HTML5 WebSocket
+*PHP框架高级编程 : 应用Symfony、CakePHP和Zend
+*Java RESTful Web service实战 = Java RESTful Web service in action
+*TCP Sockets编程 = Working with TCP Sockets
+*Symfony 权威指南 = The Definitive guide to Symfony
+*RESTful Web APIs中文版 = RESTful Web APIs
+*计算机网络
+*线性代数

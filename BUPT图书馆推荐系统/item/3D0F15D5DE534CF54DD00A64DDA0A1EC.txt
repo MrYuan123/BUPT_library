@@ -1,0 +1,14 @@
+#MATLAB仿真在现代通信中的应用
+#MATLAB 通信仿真与应用
+#MATLAB 函数速查手册
+#数字调制解调技术的MATLAB和FPGA实现
+*卫星通信导论
+*LTE教程 : 原理与实现
+*MATLAB 仿真及电子信息应用 = Electronical information application using MATLAB
+*光纤光栅原理及应用
+*通信原理
+*计算机仿真实用教程 : 基于MATLAB/Simulink 7.x
+*C语言程序设计与项目实践
+*鸟哥的 Linux 私房菜 , 基础学习篇
+*基于学习的图像增强技术 = Learning based image enhancement
+*数字图像处理高级应用 : 基于MATLAB与CUDA的实现 = Advanced digital image processing application based on MATLAB and CUDA

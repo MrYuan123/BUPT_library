@@ -1,0 +1,19 @@
+#数学物理方法 = Mathematical methods for physics
+#离散数学习题与解析 = Solution and analysis of problems in discrete mathematics
+#数学物理方程
+#模拟电子技术基础
+#离散数学 = Discrete mathematics
+#量子理论 : 爱因斯坦与玻尔关于世界本质的伟大论战
+#2000 离散数学习题精解
+#离散数学
+#数理逻辑
+*通信原理 = Communication principles
+*Discrete mathematics =离散数学 /离散数学
+*Essential discrete mathematics for computer science =离散数学 /Todd Feil, Joan  Krone著 ; 张明军, 许华译.离散数学
+*离散数学 : 习题与解析
+*离散数学教程
+*足球的科学 = The science of soccer
+*MATLAB 8.0从入门到精通
+*最优化方法 : MATLAB应用 = Optimization by MATLAB
+*组合数学引论
+*R语言实战 = R in action : data analysis and graphics with R

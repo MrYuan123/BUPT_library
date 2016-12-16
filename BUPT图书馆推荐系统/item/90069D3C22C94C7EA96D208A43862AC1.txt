@@ -1,0 +1,18 @@
+#美语发音秘诀 : 语法 = American accent training : grammar
+#深入理解OpenCV : 实用计算机视觉项目解析 = Mastering openCV with practical computer vision projects
+#MySQL 必知必会 = MySQL crash course
+#软件项目管理 = Software project management
+#算法导论 = Introduction to algorithms
+#美语发音 13 个秘诀 = American accent training
+#在漫长的旅途中
+#计算机原理
+*算法设计与分析
+*Visual C++数字图像模式识别典型案例详解 = Detailed explanation of Visual C++ digital image pattern recognition with typical cases
+*Visual C++数字图像模式识别技术详解 = Visual C++ digital image pattern recognition technology explanation
+*OpenCV2计算机视觉编程手册
+*前端面试江湖
+*互联网求职全攻略
+*SPSS Modeler数据挖掘方法及应用
+*机器学习实战 = Machine learning in action
+*Excel 数据分析之道 : 让你的数据更有说服力
+*亲爱的提奥 = Dear Theo : 凡高自传

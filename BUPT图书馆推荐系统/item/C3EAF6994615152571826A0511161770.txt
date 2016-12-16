@@ -1,0 +1,11 @@
+#计算机网络教程 = A textbook no computer networks
+*FORTRAN 95 程序设计与数据结构基础教程
+*计算机组成原理 : 第五版·立体化教材
+*计算机操作系统
+*数据结构 = Data structure : C语言版
+*自立 = Self-reliance
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

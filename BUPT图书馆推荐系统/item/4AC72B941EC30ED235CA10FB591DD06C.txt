@@ -1,0 +1,13 @@
+#神一样的产品经理 : 基于移动与互联网产品实践
+#结网@改变世界的互联网产品经理
+#用户体验要素 : 以用户为中心的产品设计 = The Elements of user experience : user-centered design for the web and beyond
+*Axure RP 6原型设计精髓
+*物联网技术基础教程
+*常用黑客攻防技术大全
+*一本书读懂互联网+金融
+*写给大家看的设计书 = The Non-designer's design book
+*破茧成蝶 : 用户体验设计师的成长之路
+*用户体验设计 : 讲故事的艺术 = Storytelling for user experience : crafting stories for better design
+*改变心理学的 40 项研究
+*设计心理学 = Design psychology
+*Web信息架构 : 设计大型网站 = Information architecture for the world wide web : designing large-scale web sites

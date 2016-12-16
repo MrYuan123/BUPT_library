@@ -1,0 +1,12 @@
+#基于 Sun SPOT 无线传感器网络实验教程
+#网络优化 : 连续和离散模型 = Network optimization : continuous and discrete models
+*数学生态学稳定性理论与方法
+*彼得·潘 = Peter Pan
+*图论导引 = Introduction to graph theory
+*机器学习基础教程 = A First course in machine learning
+*MATLAB 编程与最优化设计应用
+*网络流优化高效智能算法及其应用
+*三维空间张量分析的矩阵方法
+*拓扑学
+*自然计算、机器学习与图像理解前沿 = Advances in natural computation, machine learning and image  understanding
+*MATLAB概率与数理统计分析

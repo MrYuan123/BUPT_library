@@ -1,0 +1,17 @@
+#jQuery实战 = jQuery in action
+#jQuery技术内幕 : 深入解析jQuery架构设计与实现原理 = jQuery internals architecture and implementation in depth
+#MATLAB R2012a超级学习手册
+#随机过程及其应用
+#jQuery 权威指南 = jQuery : the definitive guide
+#随机过程基础 = Essentials of stochastic processes
+#精通jQuery = Pro jQrery 2.0
+*jQuery基础教程 = Learning jQuery
+*JavaScript高级程序设计 = Professional JavaScript for web developers
+*大数据 = Mining of massive datasets : 互联网大规模数据挖掘与分布式处理
+*Hadoop硬实战 = Hadoop in practice
+*随机过程导论 = Introduction to stochastic processes
+*概率与计算 = Probability and computing : randomized algorithms and probabilistic analysis
+*MySQL 5 权威指南 = The definitive guide to MySQL 5
+*数据库处理 : 基础、设计与实现 = Database processing : fundamentals, design, and implementation
+*光荣与梦想之一 = The glory and the dream : 大萧条与罗斯福新政1932-1941插图本
+*国际会议与演讲英语 = English for international conference and oral presentation

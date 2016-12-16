@@ -1,0 +1,22 @@
+#移动通信
+#LTE教程 : 原理与实现
+#高等应用数学问题的 MATLAB 求解 = Advanced applied mathematical problem solutions with MATLAB
+#认知无线网络无线传输技术 = Wireless transmission technologies for cognitive radio networks
+#博弈论简明教程
+#概率论与数理统计
+#移动通信原理与系统
+#MATLAB实用数值分析
+#大话移动通信
+#空间谱估计理论与算法
+#运筹学教程
+#认知无线自组织网络中的可用带宽估计理论和应用
+*认知与协作无线通信网络 = Communication network technology
+*协作通信及其在 LTE-Advanced 中的应用 = Cooperative communication and its application in LTE-Advanced systems
+*计算机网络技术教程 : 自顶向下分析与设计方法 = Computer networking : a top-down approach
+*信息理论基础
+*高等数学引论 . 第四册
+*LTE : UMTS长期演进理论与实践 = LTE-the UMTS long term evolution from theory to practice
+*MATLAB仿真在现代通信中的应用
+*移动通信技术
+*计量经济学 = Econometrics
+*矩阵计算 = Matrix computations

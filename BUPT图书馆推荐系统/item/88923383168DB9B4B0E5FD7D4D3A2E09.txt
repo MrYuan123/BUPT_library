@@ -1,0 +1,11 @@
+#C++编程思想 : 第1卷标准C++导引(原书第2版) & 第2卷实用编程技术 = Thinking in C++ : Volume one : introduction to standard C++, Second Edition & Volume Two : practical programming
+*程序员面试宝典
+*数据结构基础 = Fundamentals of data structures in C : C语言版
+*STL源码剖析 = The Annotated STL sources
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

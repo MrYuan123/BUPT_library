@@ -1,0 +1,16 @@
+#最优化方法及应用案例
+#无线通信 = Wireless communications
+#数据库原理
+#数学规划基础
+#图论与网络最优化算法
+#数学规划
+*无线通信原理与应用 = Wireless communications principles and practice
+*VANET : 车载网技术及应用 = VANET : vehicular applications and inter-networking technologies
+*最优化方法
+*现代无线通信原理
+*通信原理教程 = Lectures on communication principles
+*微波技术基础一本通 : 概要、答疑、题解、实验、自测
+*Visual C#程序设计基础
+*天线理论与技术 = Antenna theory and techniques
+*无线通信基础 = Fundamentals of wireless communication
+*神经网络与机器学习 = Neural networks and learning machines

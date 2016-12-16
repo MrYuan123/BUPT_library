@@ -1,0 +1,12 @@
+#PHP动态网站开发案例课堂
+#零基础学PHP : 11.5小时多媒体教学视频
+*计算机图形学 = Fundamentals of computer graphics
+*PHP程序设计经典300例
+*Web 开发的平民英雄 : PHP+MySQL
+*PHP+MySQL网站开发全程实例
+*网络安全基础 : 应用与标准
+*HTML 5+CSS 3+JavaScript网页设计案例课堂
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

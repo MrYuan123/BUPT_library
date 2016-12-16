@@ -1,0 +1,11 @@
+#应用概率统计
+*密码编码学与网络安全 : 原理与实践 = Cryptography and network security : principles and practice
+*现代模式识别 = Modern pattern recognition
+*从算法到程序
+*博弈论 = The game theory
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

@@ -1,0 +1,15 @@
+#工程测试技术 = Engineering measurement technology
+#自动控制原理习题解析
+#卡耐基写给青年全集
+#自动控制原理题海与考研指导
+#Intel 微处理器 = The Intel microprocessors : 8086/8088, 80186/80188, 80286, 80386, 80486, Pentium, Pentium Pro Processor, Pentium II, Pentium III, Pentium 4, and Core2 with 64-bit extensions : architecture, programming, and interfacing
+*微机原理与接口技术 : 辅导及习题
+*微机原理与接口技术
+*基于ARM Cortex-M3的STM32微控制器实战教程
+*微机原理与接口技术复习指导和习题解答
+*现代控制系统
+*汇编语言程序设计教程
+*《光电检测技术》习题与实验
+*信号与线性系统解题指导
+*光电检测技术
+*信号与系统

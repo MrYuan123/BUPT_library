@@ -1,0 +1,14 @@
+#Head First Java (中文版)
+#沉默的羔羊 = The Silence of the lambs
+#曾国藩传
+#网络工程师考试考眼分析与样卷解析 : 2014版
+*网络工程师教程
+*数字图像处理 = Digital image processing
+*疯狂Java : 突破程序员基本功的16课
+*第一行代码 : Android
+*全国硕士研究生入学统一考试计算机核心习题集 : 绿宝书
+*iOS应用逆向工程 = iOS app reverse engineering
+*软件设计师考试考眼分析与样卷解析 : 2014版
+*iOS应用安全攻防实战
+*2011 年计算机学科专业基础考研辅导
+*软件设计师考试试题分类精解

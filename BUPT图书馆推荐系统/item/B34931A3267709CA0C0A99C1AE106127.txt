@@ -1,0 +1,18 @@
+#工业网络安全 : 智能电网, SCADA和其他工业控制系统等关键基础设施的网络安全 = Industrial network security : securing critical infrastructure networks for smart grid, SCADA, and other industrial control systems
+#挑战程序设计竞赛
+#信息物理融合系统导论
+#Flume : 构建高可用、可扩展的海量日志采集系统 = Using Flume
+#Ruby基础教程
+#经典技术分析 . 上 = Technical analysis : the complete resource for financial market technicians
+#智能配电网
+#Web开发敏捷之道 = Agile Web development with Rails : 应用Rails进行敏捷Web开发
+*量子通信
+*电力信息通信实用技术 , 电力通信部分
+*电力通信实用技术问答
+*量子通信技术与应用远景展望
+*MATLAB语言基础与应用
+*追寻巨人 = Seeking the giant
+*《数字信号处理》学习指导与题解
+*图解TCP/IP
+*Flash CS3 中文版入门与实战
+*程序员面试金典 = Cracking the coding interview : 150 programming questions and solutions

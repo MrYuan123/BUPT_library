@@ -1,0 +1,22 @@
+#jQuery应用开发实践指南 = Learning jQuery : a hands-on guide to building rich interactive web front ends
+#深入体验Java Web项目开发
+#当哲学家遇上心理医生
+#培训行业这一年
+#Word排版之道 = The tao of typesetting
+#智慧教育 : 互联网+时代的教育大转型
+#Bootstrap实战 = Bootstrap site blueprints
+#终身学习视野下的微型移动学习资源建设
+#创新者的课堂 : 颠覆式创新如何改变教育 = Disrupting class : how disruptive innovation will change the way the world learns
+#麦田里的守望者
+#智慧教育与大数据 = Smart education & big data
+#PostgreSQL 9从零开始学
+*锋利的 jQuery
+*网页设计入门经典 HTML+CSS+JavaScript 完全学习手册
+*Web前端开发技术 : HTML、CSS、JavaScript
+*jQuery Mobile入门经典
+*Web前端开发技术实验与实践 : HTML、CSS、JavaScript
+*JavaScript从零开始学 : 视频教学版
+*Hibernate 实战 = Java persistence with hibernate
+*图解CSS3 : 核心技术与案例实战 = Illustrated CSS3 : details and cases
+*深入浅出 Hibernate
+*红楼梦十五讲

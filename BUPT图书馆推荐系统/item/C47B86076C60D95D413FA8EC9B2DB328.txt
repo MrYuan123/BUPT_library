@@ -1,0 +1,15 @@
+#无线Mesh网络基础 = Essentials of wireless mesh networking
+#Linux 常用工具速查实用手册
+#无线Mesh网络应用技术
+#无线 Mesh 网络架构与协议
+#Linux C编程从入门到精通
+*计算机网络管理与安全技术
+*计算机网络管理 = Network management
+*Java程序员面试宝典
+*网络管理
+*SNMP 简单网络管理协议
+*Java程序员面试笔试宝典
+*MySQL管理之道 : 性能调优、高可用与监控 = Management of MySQL : peformance optimization、High availability and surveillance
+*射频与微波电子学
+*计算机网络
+*线性代数

@@ -1,0 +1,11 @@
+#软件无线电原理与技术 = Software radio principle and technology
+*LabVIEW 宝典
+*数字信号处理原理及其LabVIEW实现
+*软件无线电原理与应用
+*LabVIEW 2013中文版虚拟仪器从入门到精通
+*Java 编程思想 = Thinking in Java
+*LabVIEW程序设计与应用
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

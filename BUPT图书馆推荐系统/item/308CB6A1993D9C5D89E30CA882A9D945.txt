@@ -1,0 +1,14 @@
+#Natural language processing with Python =Python自然语言处理 /自然语言处理
+#Python 核心编程
+#编程珠玑 . 续 = More programming pearls
+#STL源码剖析 = The Annotated STL sources
+*浪潮之巅 = On top of tides . 下册
+*代码整洁之道
+*New Internet : 大数据挖掘
+*数据挖掘导论 = Introduction to data mining
+*C/C++求职宝典
+*摄影构图与用光从入门到精通 : 实战版
+*轻松学C++编程
+*C++ 程序设计原理与实践 = Programming principles and practice using C++
+*Python 编程金典
+*HFSS天线设计

@@ -1,0 +1,23 @@
+#Spark MLlib机器学习 : 算法、源码及实战详解
+#深入理解Spark : 核心思想与源码分析 = Spark internals : core design and source code analysis
+#Hadoop核心技术 = Core hadoop
+#模式分类 = Pattern classification
+#Flask Web开发 : 基于Python的Web应用开发实战 = Flask Web development : developing web applications with python
+#深入浅出大数据
+#数据科学 : 理论、方法与R语言实践 = Practical data science with R
+#重构大数据统计
+#应用预测建模 = Applied predictive modeling
+#Spark核心技术与高级应用 = Spark core technology and advanced applications
+#Hadoop技术内幕 : 深入解析YARN架构设计与实现原理 = Hadoop internals : in-depth study of YARN
+#推荐系统 = Recommender systems handbook : 技术、评估及高效算法
+#用户网络行为画像 : 大数据中的用户网络行为画像分析与内容推荐应用
+*数据挖掘导论 : 完整版 = Introduction to data mining
+*Hadoop 2.0-YARN核心技术实践
+*Hadoop YARN权威指南
+*MySQL高效编程
+*深入云计算 : Hadoop应用开发实战详解
+*数值分析与科学计算
+*信号稀疏表示理论及其应用
+*Java Web技术及应用
+*轻量级Java EE程序设计及实践
+*MongoDB入门经典

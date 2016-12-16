@@ -1,0 +1,12 @@
+#暮色 = Twilight
+#HTML5 & CSS3编程入门经典
+*微电子与光电子集成技术
+*汉英-英汉军事通信词典 = The Chinese-English & English-Chinese dictionary of military communication
+*全国硕士研究生入学统一考试计算机学科专业基础综合考点分析与全真模拟
+*数据库处理 = Database processing : 基础、设计与实现fundamentals, design, and implementation
+*计算机网络考研习题解析
+*Android应用程序开发权威指南 = Introduction to Android application development
+*单片开关电源设计200例
+*JavaScript语言精髓与编程实践
+*Java 程序设计之网络编程
+*JSP 网站开发详解 : JSP+Servlet+Tomcat+Eclipse+SSH

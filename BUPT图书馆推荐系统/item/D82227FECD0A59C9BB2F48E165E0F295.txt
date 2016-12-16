@@ -1,0 +1,13 @@
+#鸟哥的 Linux 私房菜 , 服务器架设篇
+#手把手学习Linux服务器配置与管理
+#Red Hat Enterprise Linux 7服务器构建快学通
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

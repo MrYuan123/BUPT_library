@@ -1,0 +1,19 @@
+#卫星网络鲁棒 QoS 路由技术研究
+#人工神经网络原理及仿真实例
+#人工神经网络及其融合应用技术
+#神经网络模糊推理智能信息融合及其工程应用
+#动态模糊神经网络 : 设计与应用
+#卫星网络中的资源管理 : 优化与跨层设计 = Resource management in satellite networks optimization and cross-layer design
+#卫星通信网路由技术及其模拟 = Satellite communication network routing technology and simulation
+#卫星通信系统
+#MATLAB神经网络43个案例分析
+*卫星通信 = Satellite communications
+*卫星网络鲁棒路由算法及TCP协议
+*卫星通信导论
+*小强升职记
+*情人乌发碧眼 = L'amantLes yeux bleus, cheveux noirs
+*TD-SCDMA 网络规划与工程
+*蜂窝网络高级规划与优化2G/2.5G/3G/...向4G的演进
+*TD-SCDMA 网络部署、运营与优化实践
+*光通信原理与技术
+*机器学习理论、方法及应用

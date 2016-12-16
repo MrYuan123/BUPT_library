@@ -1,0 +1,12 @@
+#Java程序设计教程 = Textbook for programming in Java
+#数据结构与算法 : Java版
+*Java 7从入门到精通
+*Java课程设计案例精编
+*Java语言程序设计 (第2版) 学生用书
+*C++ PRIMER 中文版 = C++ Primer
+*月亮和六便士 = The moon and sixpence
+*生命中不能承受之轻
+*少有人走的路 . Ⅲ , 心灵地图 = Care of the soul
+*数据结构 : Java版
+*程序员的数学思维修练 : 趣味解读
+*世界文明简史 = The story of mankind

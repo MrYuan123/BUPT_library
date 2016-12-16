@@ -1,0 +1,18 @@
+#步进电动机伺服控制技术
+#计算机操作系统
+#数据结构教程 : C++版
+#计算机网络
+#现代控制理论
+#计算机组成与体系结构 : 性能设计 = Computer organization and architecture : designing for performance
+#VxWorks嵌入式实时操作系统设备驱动与BSP开发设计
+#VxWorks 内核、设备驱动与 BSP 开发详解
+*矩阵分析
+*计算机操作系统教程
+*操作系统
+*中国之为中国 : 正统与异端之辩
+*儒教简史
+*内核漏洞的利用与防范 = A Guide to kernel exploitation : attacking the core
+*从Paxos到Zookeeper分布式一致性原理与实践
+*梁启超论儒家哲学
+*原儒
+*计算机网络 : 一种开源的设计实现方法 = Computer networks : an open source approach

@@ -1,0 +1,28 @@
+#考研数学概论论与数理统计基础教材
+#高等数学习题详解
+#混沌保密通信原理与技术 = Principle and technology of chaotic secure communication
+#合成孔径雷达图像理解 = Understanding synthetic aperture radar images
+#信号与系统
+#压缩感知雷达成像
+#MATLAB 数字信号处理与应用
+#全国硕士研究生入学统一考试线性代数辅导讲义 : 2014
+#混沌同步控制方法及在保密通信中的应用
+#应用密码学
+#矩阵理论及其应用
+#MATLAB图像处理实例详解
+#现代通信原理 = Modern communication principles
+#自然辩证法概论
+#合成孔径雷达图像处理 = Processing of synthetic aperture radar images
+#现代编码理论 = Modern coding theory
+#小波与傅里叶分析基础 = A First course in wavelets with fourier analysis
+#矩阵的半张量积 : 理论与应用
+*压缩感知浅析
+*现代密码学原理与应用
+*数字签名理论
+*基于MATLAB的小波分析应用
+*MATLAB小波分析
+*MATLAB 辅助现代工程数字信号处理
+*HTML 与 CSS 入门经典
+*Java程序设计与问题解决
+*小波分析
+*数字图像处理 = Digital image processing

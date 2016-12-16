@@ -1,0 +1,19 @@
+#云计算 : 概念、技术与架构 = Cloud computing : concepts, technology & architecture
+#剑指Offer : 名企面试官精讲典型编程题
+#欧·亨利短篇小说精选 = The Essential O. Henry collection
+#20 世纪最伟大的心理学实验 : 经典版 = Opening skinner's box : great psychological experiments of the twentieth century
+#王道程序员求职宝典
+#囚徒的困境 = Prisoner's dilemma : 冯·诺伊曼、博弈论和原子弹之谜John Von Neumann, game theory, and the puzzle of the bomb
+#HTML5从入门到精通
+#离散数学及其应用 = Discrete mathematics and its applications
+#逻辑学是什么 = What is logic
+*编译原理 = Compilers : principles, techniques and tools
+*移动Ad Hoc网络 = Mobile Ad Hoc networking
+*新日本语能力考试N2读解强化训练
+*HBase实战 = HBase in action
+*移动 Ad Hoc 网络 : 自组织分组无线网络技术
+*Windows 核心编程 = Windows via C/C++
+*Unity 2D游戏开发实例教程
+*Unity 2D游戏开发秘籍
+*C++ Primer : 中文版
+*恐怖谷 = The valley of fear

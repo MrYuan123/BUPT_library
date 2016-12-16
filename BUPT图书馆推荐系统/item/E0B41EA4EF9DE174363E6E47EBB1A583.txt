@@ -1,0 +1,14 @@
+#年轻人的英语 = The English of young people
+#VOA地道美语趣味文化 : 小词汇大掌故
+#美国总统是怎么选出来的
+#民主的细节 : 美国当代政治观察随笔
+*心灵、自我和社会
+*美国新闻史 = The press and America : 大众传播媒介解释史an interpretive history of the mass media
+*创新的扩散
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

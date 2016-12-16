@@ -1,0 +1,13 @@
+#软件工程 = Software engineering
+#21天学通C++
+#MySQL 入门很简单
+*Java 范例开发大全
+*Java Web 整合开发实战 : 基于Struts 2+Hibernate+Spring
+*微处理器系统设计
+*软件工程 = Software engineering : theory and practice
+*计算机网络
+*操作系统
+*软件工程基础 = Fundamentals of software engineering
+*Java虚拟机精讲
+*失物之书 = The book of lost things
+*编写高质量代码 : 改善Python程序的91个建议 = Writing solid python code : 91 suggestions to improve your Python program

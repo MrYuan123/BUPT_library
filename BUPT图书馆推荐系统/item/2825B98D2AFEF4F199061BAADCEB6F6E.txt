@@ -1,0 +1,16 @@
+#计算机图形学 = Fundamentals of computer graphics
+#计算机图形学原理及算法教程 : Visual C++版
+#计算机图形学
+#计算机网络技术与应用
+#OpenGL 编程技术详解
+#计算机图形学基础 : OpenGL版
+*麻辣日本史 = Japanese history : 明治物语
+*计算机图形学 = Computer graphics with OpenGL
+*玻璃
+*数据结构 : C++语言版 = Data structure : C++ language version
+*零基础学PHP : 11.5小时多媒体教学视频
+*模式识别导论
+*计算机图形学 = Computer graphics with openGL
+*最优化导论 = An introduction to optimization
+*数字图像处理 : MATLAB版 : 本科教学版 = Digital image processing using MATLAB
+*3D 数学基础 : 图形与游戏开发

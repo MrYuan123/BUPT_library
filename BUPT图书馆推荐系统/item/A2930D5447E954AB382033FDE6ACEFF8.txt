@@ -1,0 +1,16 @@
+#JavaScript详解 = JavaScript by example
+#Java Web编程实战宝典 : JSP+Servlet+Struts 2+Hibernate+Spring+Ajax
+#疯狂Workflow讲义 : 基于Activiti的工作流应用开发
+#Java 开发典型模块大全
+#Hibernate 开发与实战
+#Struts 2+Hibernate+Spring整合开发深入剖析与范例应用
+*精通 Hibernate
+*JavaScript权威指南
+*Visual C# 2012大学教程 = Visual C# 2012 how to program
+*Unity 4.3游戏开发项目实战 : C#、JavaScript版本
+*Unity3D游戏开发实战 : 人气游戏这样做
+*SSH框架整合实战教程
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

@@ -1,0 +1,15 @@
+#MATLAB 图形图像
+#欧·亨利短篇小说精选 = Short stories of O Henry
+#计量经济学同步辅导
+#计量经济学
+#数字图像处理 = Digital image processing
+*数字图像处理 = Digital image processing : MATLAB版using MATLAB
+*数字信号处理教程 : MATLAB释义与实现
+*计量经济学导论 = Introductory econometrics : 现代观点a modern approach
+*计量经济学习题集
+*商务与经济统计 = Statistics for business and economics
+*高级应用计量经济学 = Advanced applied econometrics
+*数字图像处理 : MATLAB版 : 本科教学版 = Digital image processing using MATLAB
+*零售管理 = Retail management
+*MATLAB基础及其应用教程
+*如何写学术论文 = How to write academic papers

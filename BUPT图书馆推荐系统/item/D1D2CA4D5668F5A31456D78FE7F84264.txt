@@ -1,0 +1,17 @@
+#足球入门与技战术图解 = Diagrammatic explanation football
+#Swift开发手册 : 技巧与实战
+#Swift实战之旅 : 精通iOS应用开发
+#Java程序设计完全学习手册
+#Web程序设计
+#计算机专业英语
+#算法导论 = Introduction to algorithms
+*数据结构 : Java语言描述
+*深入理解计算机系统 = Computer systems : a programmer's perspctive
+*Python程序设计
+*信息论与编码技术
+*剑指Offer : 名企面试官精讲典型编程题
+*算法设计与分析
+*机器学习实战 = Machine learning in action
+*Java程序员面试笔试宝典
+*网络工程师的5天修炼
+*黑客攻防大全

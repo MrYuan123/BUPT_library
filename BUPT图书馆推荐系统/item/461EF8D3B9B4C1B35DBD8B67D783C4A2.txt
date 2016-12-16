@@ -1,0 +1,12 @@
+#经济博弈论
+#博弈论与信息经济学
+*深入浅出统计学 = Head first statistics
+*博弈论与经济模型
+*狼人的故事 = The“wolfman”and other cases : 弗洛伊德心理治疗案例三种
+*妙趣横生博弈论 : 事业与人生的成功之道 = The art strategy : a game theorist's guide to success in business and life
+*100年26篇最原声名家励志演讲
+*先秦诸子八大家
+*MATLAB建模与仿真
+*R语言实战 = R in action : data analysis and graphics with R
+*雅思机经词汇精选
+*统计学 : 基于Excel和R语言

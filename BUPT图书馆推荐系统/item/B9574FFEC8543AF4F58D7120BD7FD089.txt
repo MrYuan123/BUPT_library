@@ -1,0 +1,17 @@
+#网站规划与网页设计
+#HTML5 + CSS3 + jQuery应用之美
+#PHP、MySQL和Apache入门经典
+#HTML+CSS网站开发兵书
+#Ubuntu Linux 从入门到精通 : 版本9
+#云计算宝典 = Cloud computing bible
+#CSS Web开发学习实录
+*ANSYS 14完全自学一本通
+*读《时代》周刊学英文 = Time : 85 years of great writing
+*Flash 8 中文版从入门到精通
+*云计算概论 = Introduction of cloud computing
+*中间件技术原理与应用
+*Flash CS3 中文版入门实战与提高
+*MySQL技术内幕 : SQL编程 = Inside MySQL : SQL programming
+*Android从入门到精通
+*JavaScript 动态网页经典实例教程
+*Python自动化运维 : 技术与最佳实践 = Automation operations with Python : technique and best practices

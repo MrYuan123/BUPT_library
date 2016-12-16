@@ -1,0 +1,12 @@
+#MySQL快速入门
+#数据与算法
+*数据库原理与实现
+*MySQL 完全手册 = MySQL: the complete reference
+*HTML、CSS、JavaScript网页制作从入门到精通
+*深入浅出MySQL : 数据库开发、优化与管理维护
+*PHP 和 MySQL Web 开发 = PHP and MySQL Web development
+*JavaScript高级程序设计 = Professional JavaScript for web developers
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

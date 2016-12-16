@@ -1,0 +1,15 @@
+#智能配电网
+#电力信息通信实用技术 , 电力通信部分
+#电力通信实用技术问答
+#量子通信
+#量子通信技术与应用远景展望
+*深入理解C指针 = Understanding and using C pointers
+*量子通信基础
+*量子通信原理与技术
+*量子力学
+*红房子 = The Red house
+*Effective C++ 中文版 = Effective C++
+*Web开发敏捷之道 = Agile Web development with Rails : 应用Rails进行敏捷Web开发
+*Flume : 构建高可用、可扩展的海量日志采集系统 = Using Flume
+*经典技术分析 . 上 = Technical analysis : the complete resource for financial market technicians
+*信息物理融合系统导论

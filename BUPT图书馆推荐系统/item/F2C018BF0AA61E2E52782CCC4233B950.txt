@@ -1,0 +1,14 @@
+#射频电路设计 : 理论与应用 = RF circuit design : theory and applications
+#ADS射频电路设计与仿真学习笔记 : 配视频教程
+#ADS2008 射频电路设计与仿真实例
+#晶体管电路实用设计
+*射频电路工程设计 = RF circuit design
+*微波固态电路设计 = Microwave solid state circuit design
+*微波工程 = Microwave engineering
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

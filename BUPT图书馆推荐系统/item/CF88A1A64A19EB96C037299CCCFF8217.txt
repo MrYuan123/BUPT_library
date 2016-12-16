@@ -1,0 +1,14 @@
+#基督山伯爵 = Le comte de Monte-Cristo . 上
+#Python编程入门经典
+#线性代数 = Linear algebra with applications
+#C++程序设计
+*电磁场与电磁波 = Field and wave electromagnetics
+*审美的历程
+*Computer vision =计算机视觉 /
+*Java程序设计基础
+*Photoshop数码照片处理与修饰技巧
+*量子力学基础教程
+*黑客攻击与防范实战从入门到精通
+*光波导理论与技术
+*C++ 大学基础教程 = Small C++ how to program
+*UG NX 6.0数控加工教程

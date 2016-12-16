@@ -1,0 +1,14 @@
+#Linux C从入门到精通
+#第一行代码 : Android
+#微机原理与接口技术
+#Java从入门到精通
+*Zigbee开发技术及实践
+*Android群英传
+*Java核心技术 . 卷II , 高级特性 = Core Java . Volume II : advanced features
+*Head First Java (中文版)
+*JavaScript编程精解 = Eloquent JavaScript : a modern introduction to programming
+*运筹学解题指导
+*Python 基础教程 = Beginning Python from novice to professional
+*模式识别
+*Winodows网络编程 = Windows network programming
+*Kali Linux渗透测试的艺术 = Kali Linux: assuring security by penetration testing

@@ -1,0 +1,14 @@
+#近世代数学习辅导与习题选解
+#Eclipse 开发学习笔记
+#神兵利器 : Eclipse开发技术详解
+#软件加密与解密 = Surreptitious software : obfuscation, watermarking, and tamperproofing for software protection
+*Eclipse 全程指南 : 基础知识、Web 开发、SWT/JFace 开发、Eclipse 插件
+*信息安全管理
+*jQuery基础教程 = Learning jQuery
+*精通jQuery = Pro jQrery 2.0
+*MYSQL从入门到精通 : 视频教学版
+*21天学通JavaScript
+*CSS禅意花园 = The Zen of CSS design
+*前端面试江湖
+*编程之美 : 微软技术面试心得
+*算法竞赛入门经典训练指南

@@ -1,0 +1,12 @@
+#张道真英语语法 = A Comprehensive English grammar
+#薄冰新编英语语法 = Bobing newly-edited English grammar
+*半导体物理与器件 = Semiconductor physics and devices : basic principles
+*计算机网络
+*模拟CMOS集成电路设计 = Design of analog CMOS integrated circuits
+*数字信号处理 = Digital signal processing : 基于计算机的方法a computer-based approach . 上册
+*模拟 CMOS 集成电路设计 = Design of analog CMOS integrated circuits
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

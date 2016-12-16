@@ -1,0 +1,13 @@
+#算法技术手册
+#深度解析SDN : 利益、战略、技术、实践
+#算法之道 = Ex nihilo : algorithmica logos
+*软件定义网络核心原理与应用实践 = SDN core principles and application practice
+*软件定义网络 : SDN与OpenFlow解析 = SDN : software defined networks
+*数学建模
+*数学建模原理与方法
+*不确定理论教程 = A course in uncertainty theory
+*数学建模案例集
+*运筹学 : 数据、模型与决策 = Operation research : data, model and decision
+*数学建模算法与应用
+*SDN :software defined networks = 软件定义网络 /Software Defined Networks
+*SDN核心技术剖析和实战指南 = Deciphering SDN : core techniques and practical guide

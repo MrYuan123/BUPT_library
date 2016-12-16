@@ -1,0 +1,14 @@
+#机器学习 = Machine learning
+#数据挖掘 : 概念与技术
+#计算机网络 : 网络设计的原理、技术和协议 = Computer networks : principles, technologies and protocols for network design
+#数据挖掘 : 概念、模型、方法和算法
+*数据挖掘导论 = Introduction to data mining
+*数据挖掘 : 实用机器学习工具与技术 = Data mining : practical machine learning tools and techniques
+*网站数据挖掘与分析 : 系统方法与商业实践 = Web data mining and analysis : systematic approach and business practice
+*SQL Server从入门到精通
+*Windows Server 2008 服务器架设与配置实战指南
+*Java Web从入门到精通
+*Visual C++典型模块与项目实战大全
+*看图自学钢琴演奏 = Teach yourself visually piano : 一看就懂的图解钢琴自学书
+*一九八四 = Nineteen eighty-four
+*Python编程入门 = Python : Visual quickstart guide

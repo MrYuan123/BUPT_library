@@ -1,0 +1,14 @@
+#C++ 程序设计
+#C++ 语言程序设计
+#工程力学学习指导典型题解
+#60设计师演讲录 : icograda世界设计大会产业论坛
+*设计心理学 . 3 , 情感设计 = Emotional design
+*飘 = Gone with the wind
+*亲密关系
+*循序渐进 Photoshop 7.0 技巧与实例
+*基于Visual C++的MFC编程
+*数据库基础教程 (Access 2010版) 上机实验指导
+*C++ 程序设计实训
+*数据库基础教程 : Access 2010版
+*世界上最受欢迎的 80 首诗歌 = The 80 most popular poems in the world
+*花开十年 : 2000-2009 : 21世纪最具影响力的中外名篇佳作

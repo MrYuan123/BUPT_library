@@ -1,0 +1,18 @@
+#Python 核心编程
+#移动通信原理
+#HTML5移动Web开发实战详解
+#天才在左 疯子在右
+#HTML5网页设计案例课堂
+#麦肯锡效率 = Mckinsey efficiency
+#没有任何借口 = No excuse!
+#矩阵理论与方法 = Theory and methods of matrixes
+*LTE无线网络规划与设计 = LTE wireless network planning & design
+*深入浅出Node.js
+*智能电网通信及组网技术 = Smart grid communications and networking
+*精通MATLAB科学计算 = Proficient in MATLAB scientific computing
+*电力系统电磁暂态计算与EMTP应用
+*牛奶可乐经济学 = The economic naturalist : in search of explanations for everyday enigmas
+*受戒
+*瑞士
+*128种你不能不知的逻辑错误
+*别怕, 就这样玩转Excel办公

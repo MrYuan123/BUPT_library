@@ -1,0 +1,12 @@
+#曼昆《经济学原理 (宏观经济学分册) 》 (第5、6版) 笔记和课后习题 (含考研真题) 详解
+#《计量经济学基础》(第五版) 学生习题解答手册 = Student solutions manual of basic econometrics
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

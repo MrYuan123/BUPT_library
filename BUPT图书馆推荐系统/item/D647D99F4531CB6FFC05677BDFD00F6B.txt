@@ -1,0 +1,13 @@
+#数学分析
+#C++ 语言习题与解析
+#C++ 语言 : 习题与解析
+*心灵鸡汤全集
+*麦田里的守望者 = The catcher in the rye
+*算法引论 = Introduction to algorithms : 一种创造性方法a creative approach
+*数学建模 = Mathematical modeling
+*线性代数及其应用 = Linear algebra and its applications
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

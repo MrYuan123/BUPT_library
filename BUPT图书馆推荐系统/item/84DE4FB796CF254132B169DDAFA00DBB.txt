@@ -1,0 +1,11 @@
+#基于 OpenCV 的计算机视觉技术实现
+*信息科学原理
+*西方文化风情路 , 美国篇
+*黑客攻防入门与进阶
+*信息理论基础习题集
+*自己动手写网络爬虫
+*大洋彼岸的移民国家 : 美国 = The immigrant nation on the other side of the Ocean : the United Statesof America
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

@@ -1,0 +1,15 @@
+#SQL基础教程
+#Oracle数据库基础及应用
+#MySQL 必知必会 = MySQL crash course
+#Linux操作系统与实训教程
+#循序渐进 Linux : 基础知识、服务器搭建、系统管理、性能调优、集群应用
+*大话数据库
+*互联网求职全攻略
+*SPSS Modeler数据挖掘方法及应用
+*MATLAB小波分析
+*Android程序设计实用教程
+*Windows电脑管家 : DOS BIOS技术 注册表 组策略手册
+*OpenCV 教程 , 基础篇
+*CAN 总线轻松入门与实践
+*MATLAB动态仿真实例教程 = Simulations using MATLAB
+*C++与数据结构

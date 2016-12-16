@@ -1,0 +1,16 @@
+#影响你一生的哈佛演讲 = Listen to the speeches in the first-class universities the most influential Harvard speeches
+#非均匀有理 B 样条 = The NURBS book
+#最优化理论与算法习题解答
+#随时随地记单词 : “疯狂单词”超智能联想记忆CET-6词汇
+#博士英语
+#8 倍速记大学英语六级考试核心词汇
+*数理统计与数据分析 = Mathematical statistics and data analysis
+*非线性优化计算方法
+*最优化理论与方法
+*科技英语语法 = EST grammar
+*SPSS数据统计与分析从新手到高手
+*数据、模型与决策 = Data models & decisions
+*考研英语词汇记忆法门
+*MATLAB 数理统计分析
+*英语四六级词汇语境联想记忆
+*应用量子密码学 = Applied quantum cryptography

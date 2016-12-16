@@ -1,0 +1,11 @@
+#概率、随机变量与随机过程 = Probability, random variables and stochastic processes
+*可视化数据 = Visualizing data
+*无穷分析引论 . 上 = Infinite analysis introduction . I
+*密码学与网络安全
+*深入浅出密码学 : 常用加密技术原理与应用
+*数值分析 = Numerical analysis
+*Python科学计算
+*Java开发实战1200例 . 第Ⅱ卷
+*Git权威指南 = Got Git : the definitive guide of Git
+*程序设计语言 : 实践之路 = Programming language pragmatics
+*短码之美 = Short coding : 编程达人的心得技法

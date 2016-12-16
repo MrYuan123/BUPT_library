@@ -1,0 +1,14 @@
+#算法帝国 = Automate this : how algorithms came to rule our world
+#MIMO系统与空时编码 : 分集的理论与实践 = MIMO system and STC : the theory and practice of diversity
+#MIMO 无线通信 : 从真实世界的传播到空-时编码的设计 = MIMO wireless communications : from real-world propagation to space-time code design
+#算法之美 : 隐匿在数据结构背后的原理 : C++版
+*多用户、多小区 MIMO 通信技术 = Multi-user multi-cell MIMO communication technology
+*数据结构及应用算法教程
+*Python 参考手册 = Python essential reference
+*数据结构与STL
+*MIMO 通信系统编码 = Coding for MIMO communication systems
+*MIMO-OFDM系统原理、应用及仿真
+*动物农场 = Animal farm
+*矩阵理论
+*下一代宽带无线通信 OFDM 与 MIMO 技术
+*MIMO 技术原理及应用

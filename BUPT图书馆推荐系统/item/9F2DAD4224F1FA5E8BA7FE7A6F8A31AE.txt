@@ -1,0 +1,11 @@
+#About Face 3交互设计精髓 = About Face 3 : the essentials of interaction design
+*数据结构 : C++版
+*数据结构精讲与习题详解 : 考研辅导与答疑解惑
+*欧洲建筑漫步 = Strolling around European architecture
+*推理的迷宫 = Labyrinths of reason : 悖论、谜题，及知识的脆弱性paradox, puzzles and the frailty of knowledge
+*黑客与画家 : 硅谷创业之父Paul Graham文集 = Hackers and painters : big ldeas from the computer age
+*北京攻略 = Beijing how : 北京最值得推荐的66个地方
+*数字化生存
+*用户体验设计 : 讲故事的艺术 = Storytelling for user experience : crafting stories for better design
+*改变心理学的 40 项研究
+*交互设计指南 = Designing for interaction creating innovative applications and devices

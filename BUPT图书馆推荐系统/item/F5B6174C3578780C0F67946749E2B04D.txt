@@ -1,0 +1,11 @@
+#数学之美 = Beauty of mathematics
+*Linux Shell脚本攻略 = Linux Shell Scripting Cookbook
+*Python 学习手册
+*LTE协议栈与信令分析 = LTE protocol stack and signaling analysis
+*概率论与数理统计
+*凸优化 = Convex optimization
+*Python基础教程 = Beginning python : from novice to professional
+*Java 编程思想 = Thinking in Java
+*矩阵论教程
+*移动平台 : 托起企业“互联网+”的基石
+*人生的枷锁 = Of human bondage

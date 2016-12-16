@@ -1,0 +1,14 @@
+#计算机图形学教程
+#面向对象的 Java 语言程序设计
+#计算机图形学基础教程
+#计算机图形学
+*Learning OpenCV =学习OpenCV /学习OpenCV
+*详解 MATLAB 图形绘制技术
+*MATLAB 图形与动画设计
+*实时三维图形技术
+*图像处理、分析与机器视觉 = Image processing, analysis, and machine vision
+*数字视频编码技术原理 = Principles of digital video coding technology
+*数据结构、算法与应用 : C++语言描述 = Data structures, algorithms, and applications in C++
+*计算机图形学原理及算法教程 : Visual C++版
+*计算机图形学基础 : OpenGL版
+*计算机图形学 = Fundamentals of computer graphics

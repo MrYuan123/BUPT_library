@@ -1,0 +1,11 @@
+#线性代数与几何 . 上
+*线性代数应该这样学 = Linear algebra done right
+*高等数学指导
+*周恩来传 . 上
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

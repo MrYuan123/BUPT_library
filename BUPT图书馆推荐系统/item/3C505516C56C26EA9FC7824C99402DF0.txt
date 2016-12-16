@@ -1,0 +1,12 @@
+#光交换技术 = Optical switching technology
+#光纤通信 = Optical fiber communications
+*光纤通信系统
+*通信原理
+*光子学 = Photonics : 现代通信光电子学optical electronics in modern communications
+*光纤通信入门130问
+*光纤通信技术
+*Java JDK8学习笔记
+*高等光学仿真 : (MATLAB版) : 光波导, 激光
+*傅里叶光学导论 = An introduction to fourier optics
+*光纤通信 = Fiber optic communications
+*光纤光栅 : 原理、技术与传感应用

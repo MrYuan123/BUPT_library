@@ -1,0 +1,13 @@
+#优化技术与 MATLAB 优化工具箱
+#毕淑敏心灵独白
+#凸优化 = Convex optimization
+*Python宝典
+*具体数学 : 计算机科学基础 = Concrete mathematics : a foundation for computer science
+*线性代数
+*数学之美 = Beauty of mathematics
+*概率论与数理统计
+*人生的枷锁 = Of human bondage
+*给自己一面镜子 = A mirror of yourself
+*唐宁街岁月 = The Downing Street years : 撒切尔夫人自传 . 下
+*运动改造大脑 = Spark : the revolutionary new science of exercise and the brain
+*LTE/LTE-Advanced-UMTS长期演进理论与实践 = LTE-LTE UMTS long term evolution : from theory to practice

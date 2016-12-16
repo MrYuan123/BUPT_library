@@ -1,0 +1,13 @@
+#机器学习实战 = Machine learning in action
+#自然语言处理综论 = Speech and language processing : an introduction to natural language processing, computational linguistics, and speech recognition
+#统计自然语言处理
+*走进搜索引擎 = Stepping into search engine
+*算法导论 = Introduction to algorithms
+*R语言实战 : 编程基础、统计分析与数据挖掘宝典
+*人的自我寻求 = Man's search for himself
+*心理学与人类困境 = Psychology and the human dilemma
+*R语言与数据挖掘 : 最佳实践和经典案例 = R and data mining : examples and case studies
+*R语言数据挖掘 = Data mining with R
+*Java 编程思想 = Thinking in Java
+*疯狂Android讲义
+*数据结构与算法

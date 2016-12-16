@@ -1,0 +1,14 @@
+#离散数学习题解答与学习指导
+#离散数学学习指导与习题解答 = Schaum's outline of discrete mathematics
+#算法与数据结构 (第 2 版) 学习指导与习题解析
+#算法 : C 语言实现 . 第1-4部分 , 基础知识、数据结构、排序及搜索 = Algorithms in C . Parts 1-4 : fundamentals, data structures, sorting, searching
+*雅思 9 分写作 30 天速成真经 = Original test bible for IELTS in 30 days
+*数字逻辑学习辅导
+*算法之道 = The way of algorithms
+*六级听力100主题 = (CET-6) 100 listening themes
+*大学英语六级阅读30天速成胜经 : 新题型
+*算法设计与分析
+*愿你要的明天, 如约而至 : 吉檀迦利
+*数据结构 : Java语言描述
+*可视化Java GUI程序设计教程 : 基于Swing组件库及NetBeans IDE
+*近世代数

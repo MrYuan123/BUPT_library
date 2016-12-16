@@ -1,0 +1,14 @@
+#通信网络基础
+#矩阵分析学习指导
+#MATLAB 电子仿真与应用教程
+#概率论与随机过程
+*系统工程引论 = Introduction of systems engineering
+*线性代数
+*微观经济学 : 现代观点
+*克鲁格曼经济学原理 = Essentials of economics
+*最新托福词汇科学快捷记忆手册
+*新制度经济学 : 一个交易费用分析范式
+*最优化方法及其 Matlab 程序设计
+*管理学 = Management
+*读故事记单词托福必备短语
+*矩阵分析

@@ -1,0 +1,11 @@
+#数据挖掘 = Data mining : 概念与技术concepts and techniques
+*基于SPSS的数据分析
+*数据挖掘 : 实用案例分析 = Data mining : practical case analysis
+*数据挖掘 = Data mining : 实用机器学习技术practical machine learning tools and techniques
+*资治通鉴直解 : 两朝帝师张居正白话讲本
+*这样读资治通鉴 : 全本 . 第一部
+*中国足球内幕
+*形式语言与自动机
+*计算机网络
+*线性代数
+*高等数学 . 上册

@@ -1,0 +1,13 @@
+#JSP程序设计实训与案例教程
+#Spring源码深度解析
+#HTML 5开发精要与实例详解 = Essential HTML 5 and cases study
+*精通 JavaScript+jQuery
+*JavaScript 高级程序设计 = Professional JavaScript for web developers
+*JavaScript 入门经典
+*深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM : advanced features and best practices
+*Spring 3.0就这么简单
+*TCP/IP , Java篇
+*Spring技术内幕 = Spring internals : 深入解析Spring架构与设计原理
+*MySQL数据库基础与实例教程 = MySQL fundamentals & practices
+*程序员突击 , Tomcat原理与Java Web系统开发
+*Java Web 应用开发 : J2EE和Tomcat

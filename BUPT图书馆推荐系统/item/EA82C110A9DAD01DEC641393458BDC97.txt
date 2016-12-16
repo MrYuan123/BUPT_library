@@ -1,0 +1,14 @@
+#JavaScript精粹 = The JavaScript anthology : 101 essential tips, tricks & hacks
+#JavaScript基础教程 = JavaScript visual quickStart guide
+#数据结构 : C语言版 = Data structure : C Programming language version
+#云计算信息安全管理 : CSA C-STAR实施指南
+*Python项目开发实战
+*Node.js实战
+*移动通信 : 技术、应用与业务生成
+*计算机网络
+*Java 程序设计实践教程
+*UML 建模图解教程
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

@@ -1,0 +1,18 @@
+#我们房地产这些年
+#软件工程
+#软件设计师考试同步辅导 , 上午科目
+#模糊控制
+#新手购房完全指南
+#模糊控制理论与系统原理
+#自由选择 : 珍藏版 = Free to choose : a personal statement
+#历史的另一种可能 : 被改变的过去—人类历史中的反事实 = Altered pasts : counterfactuals in history
+*软件设计师考试同步辅导 : 考点串讲、真题详解与强化训练
+*MySQL技术精粹 : 架构、高级特性、性能优化与集群实战
+*反直觉思考 : 斯坦福大学思维自修课 = Think twice : harnessing the power of counterintuition
+*软件测试技术、方法和环境
+*Java典型模块与项目实战大全
+*数据结构 : 基于C++模板类的实现
+*需求分析与系统设计 = Requirements analysis and system design
+*软件工程基础与实用教程 : 基于架构与MVC模式的一体化开发
+*Python UNIX 和 Linux 系统管理指南
+*学习vi和Vim编辑器

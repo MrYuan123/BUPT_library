@@ -1,0 +1,16 @@
+#薄膜光学 = Thin-film optical filters
+#每天看一点《吸血鬼日记》 轻松学地道口语900句
+#创客时代 : 3D打印、机器人技术、新材料和新能源的未来 = A revolution in the making : 3D printing, robots and the future
+#考研高频词汇1周通关
+#画出你的答案 : 用思维导图理清思路、解决问题、达成目标
+#新榜样 : 新媒体运营实战指南
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

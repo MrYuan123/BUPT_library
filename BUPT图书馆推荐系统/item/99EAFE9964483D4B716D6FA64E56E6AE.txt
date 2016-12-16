@@ -1,0 +1,13 @@
+#设计之下 = Invisible design : 搜狐新闻客户端的用户体验设计
+#通用设计方法 = Universal methods of design
+#用户体验草图设计 : 正确地设计, 设计得正确 = Sketching user experiences : getting the design right and the right design
+*工业设计教程
+*设计心理学 . 3 , 情感设计 = Emotional design
+*可用性工程 = Usability engineering
+*top 3d 造型技术 : Rhino 3高级应用技法详解
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

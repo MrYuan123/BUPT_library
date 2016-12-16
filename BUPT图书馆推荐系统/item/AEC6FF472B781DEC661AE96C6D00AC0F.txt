@@ -1,0 +1,11 @@
+#Java 7入门经典
+*黑客的代码
+*傲慢与偏见 = Pride and prejudice
+*Oracle SQL入门与实战经典
+*Linux 从初学到精通
+*Java Web开发技术教程
+*Java Web开发技术
+*从零开始学Oracle
+*Oracle Database 11g & MySQL 5.6开发手册
+*Java 通用范例开发金典
+*Chrome扩展及应用开发

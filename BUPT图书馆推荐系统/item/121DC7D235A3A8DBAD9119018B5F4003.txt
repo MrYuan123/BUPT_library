@@ -1,0 +1,16 @@
+#Ajax、JavaScript 和 PHP 编程导学 = Sams teach yourself Ajax, JavaScript, and PHP all in one
+#深入理解Bootstrap = Understanding Bootstrap
+#奇风岁月 = Boy's life
+#素描技法从入门到精通 , 草图基础篇
+#Bootstrap实战 = Bootstrap in action
+#Ajax 入门经典
+*我和LabVIEW : 一个NI工程师的十年编程经验
+*我和 LabVIEW : 一个NI工程师的十年编程经验
+*Python 网络编程基础 = Foundations of Python network programming
+*网站安全攻防秘笈 : 防御黑客和保护用户的100条超级策略 = The Web application defender's cookbook : battling hackers and protecting users
+*AJAX 安全技术 = AJAX security
+*我们仨＠1963
+*OpenCV3编程入门
+*C++与数据结构
+*图解博弈心理学微表情心理学
+*这也能想到 : 巧妙解答无厘头问题 = Gusstimation : solving the world's problems on the back of a cocktail napkin

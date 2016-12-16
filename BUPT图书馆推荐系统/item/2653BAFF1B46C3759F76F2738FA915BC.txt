@@ -1,0 +1,11 @@
+#福尔摩斯最经典的探案故事
+*MATLAB神经网络应用设计
+*高等数学 , 理工类
+*MATLAB 8.0从入门到精通
+*实时分析 : 流数据的分析与可视化技术 = Real-time analytics : techniques to analyze and visualize streaming data
+*精通MATLAB
+*常用算法深入学习实录
+*大数据Spark企业级实战
+*计算机网络
+*线性代数
+*高等数学 . 上册

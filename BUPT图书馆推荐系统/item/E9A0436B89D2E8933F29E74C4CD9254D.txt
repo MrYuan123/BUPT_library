@@ -1,0 +1,14 @@
+#Windows 内核情景分析 : 采用开源代码ReactOS . 下册
+#Windows 内核情景分析 : 采用开源代码ReactOS . 上册
+#Windows 高级调试 = Advanced Windows debugging
+#蝴蝶效应之谜 : 走近分形与混沌 = Mystery of the butterfly effect : fractals and chaos
+*竹林蹊径 : 深入浅出Windows驱动开发
+*Linux网络编程
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

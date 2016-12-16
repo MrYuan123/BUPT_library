@@ -1,0 +1,13 @@
+#PHP Web开发学习实录
+#Qt4 图形设计与嵌入式开发
+#零基础学PHP
+*Qt Creator快速入门
+*Eclipse 从入门到精通
+*LabVIEW实用工具详解
+*jQuery Mobile移动网站开发
+*MySQL数据库应用从入门到精通
+*HTML5 & CSS3 & Javascript App程序开发实战
+*HTML5+CSS3精致范例辞典 = Deluxe web designers handbook
+*jQuery 即学即用
+*21 天学通 Linux C 编程
+*21天学通JavaScript

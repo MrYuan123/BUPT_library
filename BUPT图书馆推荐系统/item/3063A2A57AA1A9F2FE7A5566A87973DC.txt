@@ -1,0 +1,11 @@
+#LTE权威指南 = Fundamentals of LTE
+*4G移动通信技术权威指南 : LTE与LTE-Advanced = 4G LTE/LTE-Advanced for mobile broadband
+*5G: 关键技术与系统演进
+*3G 核心网技术
+*TD-LTE-Advanced移动通信系统设计 = TD-LTE-Advanced mobile communications system design
+*TD-LTE 技术原理与系统设计 = TD-LTE principles and system design
+*大话移动通信
+*车载无线通信技术
+*LTE FDD网络规划与设计 = LTE FDD network planning and design
+*申论其实很简单 : 李国斌讲申论
+*密训课堂 , 行测之数量关系+资料分析

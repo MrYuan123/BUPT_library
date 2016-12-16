@@ -1,0 +1,25 @@
+#The design and evolution of C++ =
+#Imperfect C++ :practical solutions for real-life programming /Imperfect C plus plus 
+#FreeBSD 操作系统设计与实现 = The design and implementation of the FreeBSD operating system
+#C++并发编程实战 = C++ concurrency in action
+#Clojure编程 = Clojure programming
+#深度探索C++对象模型 = Inside the C++ object model
+#STL源码剖析 = The Annotated STL sources
+#Linux多线程服务端编程 : 使用muduo C++网络库
+#C++ Templates中文版
+#深入 Linux 内核架构 = Professional Linux kernel architecture
+#七周七语言 : 理解多种编程范型 = Seven languages in seven weeks : a pragmatic guide to learning programming languages
+#计算机体系结构 : 量化研究方法 = Computer architecture : a quantitative approach
+#C++ primer 
+#C++ coding standards :101 rules, guidelines, and best practices = C++编程规范 /C++编程规范
+#Solaris 内核结构 = Solaris internals : solaris 10 and OpenSolaris kernel architecture
+*编译原理 = Compilers : principles, techniques and tools
+*Linux内核设计与实现 = Linux kernel development
+*ML 程序设计教程 = ML for the working programmer
+*深入理解Java 7 : 核心技术与最佳实践 = Understanding the Java 7 : the core techniques and best practice
+*Python黑帽子 : 黑客与渗透测试编程之道 = Black hat python : python programming for hackers and pentesters
+*代码的未来
+*无线通信 FPGA 设计
+*C++泛型 : STL原理和应用
+*柔性字符串匹配 = Flexible pattern matching in strings : practical on-line search algorithms for texts and biological sequences
+*自动机理论、语言和计算导论 = Introduction to automata theory, languages, and computation

@@ -1,0 +1,13 @@
+#琥珀手串
+#高等数学典型题解答指南
+#瓦尔登湖 = Walden
+*麦田里的守望者 = The catcher in the rye
+*线性代数解题指南 : 含空间解析几何
+*社会心理学 = Social psychology
+*天线 = Antennas :  for all applications . 上册
+*天线 = Antennas :  for all applications . 下册
+*在路上 = On the road
+*模拟集成电路的分析与设计 = Analysis and design of analog intergrated circuits : 翻译版
+*工程硕士研究生英语基础教程 , 学生用书
+*离散时间信号处理
+*傅佩荣译解大学中庸

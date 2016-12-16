@@ -1,0 +1,13 @@
+#Hadoop 2.0-YARN核心技术实践
+#数据之魅 : 基于开源工具的数据分析
+#Hive编程指南
+*Hadoop核心技术 = Core hadoop
+*ES6标准入门 = ECMAScript 6 primer
+*React Native : 用JavaScript开发移动应用 = The React Native book
+*Hadoop硬实战 = Hadoop in practice
+*Hadoop技术内幕 : 深入解析Hadoop Common和HDFS架构设计与实现原理 = Hadoop internals : in-depth study of common and HDFS
+*TD-LTE 技术原理与系统设计 = TD-LTE principles and system design
+*深入理解大数据 : 大数据处理与编程实践 = Understanding big data : big data processing and programming
+*从零开始学Storm
+*Hadoop Hacks : 中文版 : 专家使用的实践技巧
+*Splunk大数据分析 = Big data analytics using splunk

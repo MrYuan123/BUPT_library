@@ -1,0 +1,13 @@
+#移动无线传感器网 : 原理、应用和发展方向
+#PPT, 要你好看
+#最优化方法
+*LTE : UMTS长期演进理论与实践 = LTE-the UMTS long term evolution from theory to practice
+*最优化方法及应用案例
+*VANET : 车载网技术及应用 = VANET : vehicular applications and inter-networking technologies
+*数值最优化
+*心经 金刚经
+*区间多目标进化优化理论与应用
+*潮流 : UI设计必修课
+*应用量子密码学 = Applied quantum cryptography
+*最优化理论与算法习题解答
+*无约束最优化计算方法

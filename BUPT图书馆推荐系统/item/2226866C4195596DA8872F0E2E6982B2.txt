@@ -1,0 +1,13 @@
+#Arduino程序设计基础
+#奥赛罗 = The Tragedy of Othello, the moor of venice
+#大学计算机基础习题指导
+*VHDL数字系统设计
+*算法竞赛入门经典训练指南
+*算法基础 : 打开算法之门 = Algorithms unlocked
+*逻辑设计基础 = Fundamentals of logic design
+*微型计算机技术与接口应用基础
+*算法竞赛入门经典
+*汇编语言
+*Arduino开发从零开始学 : 学电子的都玩这个
+*计算机网络
+*线性代数

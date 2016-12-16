@@ -1,0 +1,14 @@
+#MATLAB 小波分析
+#数学物理方法
+#复变函数论
+#MATLAB 程序设计与应用
+*现代信号处理教程
+*数学物理方法简明教程
+*电子战接收机与接收系统 = Electronic warfare receivers and receiving systems
+*数字信号处理 : 系统分析与设计 = Digital signal processing : system analysis and design
+*近代物理实验
+*光学
+*泛函分析基础
+*矩阵论辅导讲案
+*复分析导引
+*光波导原理与器件 = Optical waveguide principle and devices

@@ -1,0 +1,17 @@
+#数据挖掘教程
+#数据挖掘原理与算法
+#学习 OpenCV : 中文版
+#数据挖掘理论、方法与应用
+#Hadoop技术内幕 : 深入解析Hadoop Common和HDFS架构设计与实现原理 = Hadoop internals : in-depth study of common and HDFS
+#数据挖掘 : 方法与应用
+#数据挖掘技术应用实例
+*数据挖掘原理与实践
+*Hadoop硬实战 = Hadoop in practice
+*数据库原理及SQL Server
+*信息隐藏与数字水印
+*数据库技术与应用 : SQL Server
+*R语言与网站分析 = Web analysis and mining with R
+*Spring 高级程序设计 = Pro Spring 2.5
+*实用数据分析 = Practical data analysis
+*Web 开发新体验 : ASP.NET 3.5 MVC架构与实战
+*Linux 命令、编辑器与 Shell 编程

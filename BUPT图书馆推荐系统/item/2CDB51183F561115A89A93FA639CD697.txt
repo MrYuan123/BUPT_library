@@ -1,0 +1,14 @@
+#新托业完全热身与实战演练 = Getting it right on the new TOEIC
+#PHP程序开发参考手册 = PHP : the Complete reference
+#托业词汇词根 + 联想记忆法
+#MATLAB宝典
+*托业阅读全真模拟1000题
+*英语四六级词汇词根+联想巧记忆 : 便携版
+*大学英语六级阅读20天冲关快训
+*3GPP 长期演进 (LTE) 技术原理与系统设计 = 3GPP long term evolution : principle and system design
+*3GPP 长期演进 (LTE) 系统架构与技术规范 = 3GPP long term evolution : architecture and specification
+*通信和计算机行业专利申请基础与实务
+*智能光网络路由与生存性技术
+*网络层次分析法与决策科学
+*计算机网络
+*线性代数

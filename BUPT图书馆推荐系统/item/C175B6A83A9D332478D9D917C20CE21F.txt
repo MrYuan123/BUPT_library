@@ -1,0 +1,13 @@
+#计算机图形学 = Computer graphics with OpenGL
+#数字图像处理 : MATLAB版 : 本科教学版 = Digital image processing using MATLAB
+#数字图像处理 = Digital image processing
+*数字图像处理 = Digital image processing : MATLAB版using MATLAB
+*Java面向对象程序设计
+*计算机图形学基础 : OpenGL版
+*3D 数学基础 : 图形与游戏开发
+*机器学习 = Machine learning
+*图像模式识别 : VC++技术实现
+*计算机图形学原理及算法教程 : Visual C++版
+*麻辣日本史 = Japanese history : 明治物语
+*OpenGL 编程技术详解
+*玻璃

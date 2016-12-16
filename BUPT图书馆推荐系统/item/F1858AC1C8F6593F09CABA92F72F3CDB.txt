@@ -1,0 +1,12 @@
+#算法导论 = Introduction to algorithms
+#密码编码学与网络安全 = Cryptography and network security : 原理与实践principles and practices
+*专利信息分析及典型应用
+*密码学原理与实践 = Cryptography theory and practice
+*密码编码学与网络安全 : 原理与实践 = Cryptography and network security : principles and practice
+*专利检索策略及应用
+*算法设计与分析
+*机器学习实战 = Machine learning in action
+*2016版计算机网络高分笔记
+*剑指Offer : 名企面试官精讲典型编程题
+*编程之美 : 微软技术面试心得
+*Python袖珍指南

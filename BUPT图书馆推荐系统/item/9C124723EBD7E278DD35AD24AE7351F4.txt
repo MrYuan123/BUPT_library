@@ -1,0 +1,12 @@
+#量子密码协议的设计和分析
+#量子密码学
+*量子签名及应用
+*应用量子密码学 = Applied quantum cryptography
+*量子计算和量子信息 = Quantum computation and quantum information . 二 , 量子信息部分
+*矩阵计算 = Matrix computations
+*矩阵计算六讲
+*量子计算与量子优化算法
+*线性代数与矩阵论
+*信息安全中的数学方法与技术
+*数值分析 = Numerical analysis
+*Toeplitz系统预处理方法

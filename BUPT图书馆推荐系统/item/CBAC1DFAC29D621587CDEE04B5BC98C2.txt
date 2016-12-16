@@ -1,0 +1,11 @@
+#深入浅出Android软件开发教程
+*DSP 技术及其应用
+*Altium Designer 13.0电路设计、仿真与验证权威指南 = The defintive guide of altium designer 13.0 circuit design, simulation adn verification
+*数据结构 (C语言版) 学习指导与习题解答
+*Android技术及应用
+*ADS 2009 射频电路设计与仿真
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

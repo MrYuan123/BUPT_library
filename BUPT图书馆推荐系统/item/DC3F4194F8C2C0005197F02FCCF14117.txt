@@ -1,0 +1,14 @@
+#实战突击 , Visual C++项目开发案例整合
+#Visual C++ 编程宝典 : 十年典藏版
+#Visual C++ 项目开发案例精粹
+#Visual C++数字图像处理技术详解 = Digital image processing using Visual C++
+*C++编程实战宝典
+*C++开发实战
+*C++基础与案例开发详解
+*了不起的盖茨比 = The great Gasby
+*数据结构与经典算法
+*老人与海 = The old man and the sea
+*C++程序设计经典300例
+*数据结构教程 : C++语言描述
+*算法之美 : 隐匿在数据结构背后的原理 : C++版
+*计算机网络

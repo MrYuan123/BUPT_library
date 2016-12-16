@@ -1,0 +1,13 @@
+#MATLAB 在射频电路设计中的应用
+#射频电路工程设计 = RF circuit design
+#ADS高速电路信号完整性应用实例
+*数学建模入门与提高
+*数学建模
+*数学建模与数学实验
+*复变函数札记
+*不爱学习的校园侦探
+*电路基础 = Fundamentals of electric circuits
+*电子线路
+*濒死之眼
+*数学物理方法 = Methods of mathematical physics
+*锁相环设计、仿真与应用

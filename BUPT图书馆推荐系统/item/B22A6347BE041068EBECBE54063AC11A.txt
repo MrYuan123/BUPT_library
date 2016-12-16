@@ -1,0 +1,12 @@
+#Java程序设计之实验及课程设计教程
+#Java 程序设计实践教程
+*80x86 汇编语言基础教程 = Essentials of 80x86 assembly language
+*Java 手机游戏实例手册 = A programmer's guide on mobile games with Java
+*Java游戏程序设计教程 = Game program design in Java
+*电玩游戏 Java 实战
+*Python项目开发实战
+*JavaScript精粹 = The JavaScript anthology : 101 essential tips, tricks & hacks
+*Node.js实战
+*移动通信 : 技术、应用与业务生成
+*计算机网络
+*UML 建模图解教程

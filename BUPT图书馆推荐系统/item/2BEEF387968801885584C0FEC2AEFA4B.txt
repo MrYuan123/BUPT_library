@@ -1,0 +1,12 @@
+#Python 3 程序开发指南 = Programming in Python 3
+#SPSS 与统计分析
+*Hadoop 权威指南 : 中文版
+*通信系统中 MATLAB 基础与仿真应用
+*算法导论 = Introduction to algorithms
+*Python开发实战
+*Python编程入门 = Python : Visual quickstart guide
+*深入理解大数据 : 大数据处理与编程实践 = Understanding big data : big data processing and programming
+*西藏生死书
+*Hadoop基础教程 = Hadoop beginner's guide
+*智慧书
+*Python 编程基础

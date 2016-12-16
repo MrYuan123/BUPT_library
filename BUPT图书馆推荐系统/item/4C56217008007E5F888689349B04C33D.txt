@@ -1,0 +1,13 @@
+#米歇尔·奥巴马 = Michelle Obama
+#我自信 我成功 : 自信心的培养与提高
+#拉贝日记
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

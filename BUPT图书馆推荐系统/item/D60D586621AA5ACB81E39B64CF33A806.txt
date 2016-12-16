@@ -1,0 +1,11 @@
+#Java EE开发的颠覆者 : Spring Boot实战
+*Spring实战 = Spring in action
+*Scala并发编程 = Learning concurrent programming in Scala
+*Spring 揭秘
+*大话数据库
+*Java虚拟机规范 : Java SE 8版 = The Java virtual machine specification : Java SE 8 Edition
+*深入浅出MySQL : 数据库开发、优化与管理维护
+*Spring MVC 学习指南
+*Hadoop技术内幕 : 深入解析YARN架构设计与实现原理 = Hadoop internals : in-depth study of YARN
+*计算机网络
+*线性代数

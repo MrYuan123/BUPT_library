@@ -1,0 +1,13 @@
+#Linux C从入门到精通
+#模式识别
+#Python 基础教程 = Beginning Python from novice to professional
+*人工神经网络教程
+*概率论与数理统计
+*迷茫的旅行商 : 一个无处不在的计算机算法问题 = In pursuit of the traveling salesman : mathematics at the limits of computation
+*算法学 = Algorithmics : 计算精髓the spirit of computing
+*Zigbee开发技术及实践
+*Python 学习手册
+*经济学原理 = Principles of economics
+*Python宝典
+*信息处理与编码 = Information processing and coding
+*微信公众平台应用开发 : 方法、技巧与案例 = Wechat public platform application developing : method, technique and example

@@ -1,0 +1,15 @@
+#控制系统计算机辅助设计 : MATLAB语言与应用 = Computer aided control systems design : using MATLAB language
+#数学建模
+#模拟电子技术学习及考研辅导
+#电子技术学习指导与习题解答
+#自动控制原理
+*EDA技术基础
+*Java 程序设计
+*数学建模简明教程 = A Concise course in mathematical modeling
+*美国大学生数学建模竞赛题解析与研究 . 第2辑
+*致大四 = To my graduation
+*全国大学生数学建模竞赛赛题与优秀论文评析 , 2005-2011年B题
+*数学建模 = A First course in mathematical modeling
+*数学实验与数学模型
+*美国大学生数学建模竞赛题解析与研究 . 第1辑
+*风电场工程

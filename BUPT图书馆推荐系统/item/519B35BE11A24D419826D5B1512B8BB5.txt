@@ -1,0 +1,13 @@
+#博弈论
+#量子物理史话 = History of quantum physics : 上帝掷骰子吗
+#高等代数辅导与习题解答
+*博弈论教程
+*微观经济学考研真题及强化习题详解
+*宏观经济学考研重难题解析 300 题
+*宏观经济学数理模型基础
+*宏观经济学考研真题及强化习题详解
+*宏观经济学名校考研真题与习题解析
+*高级微观经济学习题集 = Work book for advanced microeconomics
+*STL源码剖析 = The Annotated STL sources
+*无线网络中的博弈论研究 = = Game theory for wireless engineers
+*MIMO-OFDM系统原理、应用及仿真

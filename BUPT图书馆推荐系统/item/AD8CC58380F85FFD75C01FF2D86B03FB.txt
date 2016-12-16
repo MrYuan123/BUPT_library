@@ -1,0 +1,13 @@
+#数据挖掘技术 : 应用于市场营销、销售与客户关系管理
+#数学建模 = A first course in mathematical modeling
+#运筹学导论 = Operations research : an introduction , 初级篇
+*数学模型
+*犯罪心理学 = Criminal behavior: a psychosocial approach
+*数学之美 = Beauty of mathematics
+*少有人走的路 , 心智成熟的旅程 = The road less traveled
+*大数据 小故事
+*新托福考试专项进阶 = How to master skills for the TOEFL iBT
+*数学建模方法与CUMCM赛题详解
+*算法艺术与信息学竞赛
+*MATLAB 在数学建模中的应用
+*数据结构教程

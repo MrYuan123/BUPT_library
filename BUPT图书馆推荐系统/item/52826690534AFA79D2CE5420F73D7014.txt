@@ -1,0 +1,13 @@
+#博弈论及其应用 = Game theory and its application
+#线性代数全程学习指导与习题精解 : 同济五版
+#LTE/LTE-Advanced-UMTS长期演进理论与实践 = LTE-LTE UMTS long term evolution : from theory to practice
+*M2M通信
+*用Maple学大学数学
+*网络融合 : 业务、应用、传输和运营支撑
+*合作的微观经济学 : 一种博弈论的阐释
+*博弈论 = Game theory
+*Maple 教程
+*吉米多维奇数学分析习题集精选精解
+*网络融合环境下宽带接入技术与应用
+*卑鄙的圣人 : 曹操 . 第3部
+*4G移动通信技术权威指南 : LTE与LTE-Advanced = 4G LTE/LTE-Advanced for mobile broadband

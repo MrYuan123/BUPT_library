@@ -1,0 +1,18 @@
+#大水荒 : 水资源大战与动荡未来 = The big thirst : the secret life and turbulent future of water
+#水力学
+#千秋功罪话水坝
+#我的心是一面镜子 : 精装珍藏版
+#中国至 2050 年水资源领域科技发展路线图
+#应用生态水文学 = Applied ecohydrology
+#水资源分区管理
+#南水北调东线工程环境影响及对策
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

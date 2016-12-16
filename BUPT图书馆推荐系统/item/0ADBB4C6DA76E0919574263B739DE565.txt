@@ -1,0 +1,14 @@
+#每天做一道逻辑思维题
+#高等数学解题与分析
+#追风筝的人 = The kite runner
+#艾青精选集
+*每天一堂北大哲学课
+*萨姆·劳埃德的数学趣题 = Mathematical puzzles of sam loyd
+*线性代数学习指导与典型例题
+*C 程序设计与应用教程题解及实验
+*自控力 : 斯坦福大学最受欢迎心理学课程 = The Willpower instinct
+*少年博物馆 = Boy museum
+*亲爱的安德烈
+*西藏生死书
+*Python 3 程序开发指南 = Programming in Python 3
+*智慧书

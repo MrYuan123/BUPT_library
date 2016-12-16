@@ -1,0 +1,16 @@
+#色彩的性格 = Wie farben wirken
+#灰色系统理论及其应用
+#系统建模
+#复杂系统建模理论、方法与技术 = The Theory, method & technique for complex system modeling
+#复杂系统建模理论与方法
+#灰色系统气质理论
+*多体系统动力学 = Dynamics of multibody systems
+*数字电子技术基础
+*多体系统传递矩阵法及其应用
+*高级微观经济理论 = Advanced microeconomic theory
+*统计学
+*统计学 = Stat
+*微观经济学 = Microeconomics
+*矩阵分析
+*互联网金融手册
+*计算机网络

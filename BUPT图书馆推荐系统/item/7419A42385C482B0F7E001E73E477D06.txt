@@ -1,0 +1,16 @@
+#CSS 权威指南
+#学习 PHP 和 MySQL
+#电接触理论、应用与技术
+#写给大家看的设计书 = The non-designer's Photoshop book : Photoshop图像处理
+#精通正则表达式 = Mastering regular expressions
+#Cadence印刷电路板设计 : Allegro PCB Editor设计指南
+*ANSYS 12.0 有限元分析从入门到精通
+*有限元法
+*JavaScript 权威指南
+*咔咔! 我是日语语法书
+*Node学习指南
+*只是为了好玩 : Linux之父林纳斯自传 = Just for fun : the story of an accidental revolutionary
+*高性能网站建设指南 = High performance web sites
+*Node.js开发指南
+*深入浅出Node.js
+*JavaScript语言精粹 = JavaScript : the good parts

@@ -1,0 +1,12 @@
+#大话设计模式
+#飞秒激光技术
+*Spring实战 = Spring in action
+*Java并发编程的艺术 = The art of Java concurrency programming
+*ns-3网络模拟器基础及应用
+*TED演讲的8个秘诀 : 学习18分钟高效表达
+*人性的弱点 : 名著双语读物·中文导读+英文原版 = How to win friends and influence people
+*大话数据结构 = Play with data structure
+*摸金校尉之九幽将军
+*MySQL数据库应用从入门到精通
+*嵌入式操作系统原理与应用
+*疯狂HTML 5/CSS 3/JavaScript讲义

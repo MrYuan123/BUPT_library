@@ -1,0 +1,12 @@
+#Linux从入门到精通
+#CentOS 7系统管理与运维实战
+*Shell从入门到精通
+*移动互联网之智能终端安全揭秘
+*Linux shell脚本攻略
+*深入学习MongoDB = Scaling mongoDB. 50 tips and tricks for mongoDB developers
+*计算机程序的构造和解释 = Structure and interpretation of computer programs
+*深入云计算 : MongoDB管理与开发实战详解
+*Fortran 95 程序设计
+*C 标准库 = The standard C library
+*Linux内核设计与实现 = Linux kernel development
+*UNIX环境高级编程

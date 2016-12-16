@@ -1,0 +1,11 @@
+#C++并发编程实战 = C++ concurrency in action
+*七周七并发模型 = Seven concurrency models in seven weeks : when threads unravel
+*The algorithm design manual =算法设计手册 /算法设计手册
+*数据库设计教程 = Database solutions : a step-by-step guide to building database
+*高质量程序设计指南 : C++/C语言
+*C++ primer 
+*The design and evolution of C++ =
+*Imperfect C++ :practical solutions for real-life programming /Imperfect C plus plus 
+*STL源码剖析 = The Annotated STL sources
+*C++ Templates中文版
+*Clojure编程 = Clojure programming

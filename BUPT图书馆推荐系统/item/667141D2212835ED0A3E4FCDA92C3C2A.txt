@@ -1,0 +1,12 @@
+#数据分析方法
+#程序员突击 , Tomcat原理与Java Web系统开发
+*数据分析方法及SPSS应用
+*数据分析方法五种
+*大数据分析 : 用互联网思维创造惊人价值 = Win with advanced business analytics : creating business value from your data
+*Spring 3.0就这么简单
+*TCP/IP , Java篇
+*JSP Web技术及应用教程
+*MySQL数据库基础与实例教程 = MySQL fundamentals & practices
+*Java Web 应用开发 : J2EE和Tomcat
+*零点起飞学Java Web开发
+*图表之美 : 打造优秀的Excel图表 = Beautiful chart : creating excellent Excel chart

@@ -1,0 +1,15 @@
+#Head First Servlets & JSP : 中文版
+#微波工程 = Microwave engineering
+#移动通信系统终端射线跟踪定位理论与方法
+#现代电子通信
+#Head First Java (中文版)
+*射频与微波电子学
+*移动通信无线电波传播
+*移动传播环境 : 理论基础·分析方法和建模技术
+*小波分析理论与 MATLAB R2007 实现
+*大话移动通信网络规划
+*Fundamentals of queueing theory /
+*Head First 设计模式
+*Effective Java 中文版 = Effective Java
+*Java并发编程实战 = Java concurrency in practice
+*Git权威指南 = Got Git : the definitive guide of Git

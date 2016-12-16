@@ -1,0 +1,17 @@
+#小波分析及其应用
+#MATLAB小波分析
+#基于MATLAB的小波分析应用
+#大数据 = Mining of massive datasets : 互联网大规模数据挖掘与分布式处理
+#数据挖掘与数据化运营实战 = Data mining, leading with data driven practice : 思路、方法、技巧与应用
+#品读剑桥雅思官方范文
+#小波与傅里叶分析基础 = A First course in wavelets with fourier analysis
+*小波分析及其在信号处理中的应用
+*信号检测与估计理论
+*检测、估计和调制理论 = Detection, estimation, and modulation theory . 卷ⅠPart I , 检测、估计和线性调制理论detection, estimation, and linear modulation theory
+*基于 GPU 的多尺度离散模拟并行计算
+*鲜活的数据 : 数据可视化指南
+*商务与经济统计 = Statistics for business and economics
+*深入理解大数据 : 大数据处理与编程实践 = Understanding big data : big data processing and programming
+*小波分析
+*笑傲股市 = How to make money in stocks : a winning system in good times or bad
+*通向财务自由之路 = Trade your way to financial freedom

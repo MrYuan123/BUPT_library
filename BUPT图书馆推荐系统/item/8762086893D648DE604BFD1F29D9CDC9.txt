@@ -1,0 +1,13 @@
+#你不知道的JavaScript = Scope & closures this & object prototypes . 上卷
+#Python 高级编程
+#Python宝典
+*计算机网络 : 系统方法 = Computer networks : a systems approach
+*Python Web开发学习实录
+*凸优化 = Convex optimization
+*数据挖掘 : 概念、模型、方法和算法
+*大数据算法 = Big data algorithms
+*基于 Struts2 + Hibernate + Spring 实用开发指南
+*Python 学习手册
+*Python 基础教程 = Beginning Python from novice to professional
+*MATLAB基础与应用
+*精通MATLAB信号处理 = Proficient in MATLAB signal processing

@@ -1,0 +1,13 @@
+#赢者思维 : 欧洲最受欢迎的思维方法
+#人人都是产品经理 = Everyone is a produot manager : version 1.1
+#牛奶可乐经济学 = The economic naturalist's field guide : common sense principles for troubled times . 3
+*现代性与自我认同 : 晚期现代中的自我与社会 = Modernity and self-identity : Self and society in the late modern age
+*点石成金 = Don't make me think : 访客至上的网页设计秘笈
+*谁说菜鸟不会数据分析
+*Word高效办公应用技巧
+*明朝那些事儿 . 第壹部 , 洪武大帝
+*基于SPSS的数据分析
+*基于Excel的统计应用
+*区域溢出
+*R语言实战 = R in action : data analysis and graphics with R
+*区域经济学

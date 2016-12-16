@@ -1,0 +1,17 @@
+#21天学通Java
+#Java 面向对象程序设计
+#微机原理、汇编与接口技术学习指导
+#通信原理 (第 6 版) 学习辅导与考研指导
+#编译原理辅导及习题全解
+#编译原理 : 重点难点分析·习题解析·实验指导
+#自然语言处理技术基础
+*微机原理与接口技术习题与解析
+*现代控制理论习题集 = Exercises for modern control theory
+*微机原理、汇编与接口技术
+*Python入门经典 = The Practice of computing using Python : 以解决计算问题为导向的Python编程实践
+*轻松学Java
+*一头想要被吃掉的猪 : 100个思想实验 = The pig that wants to be eaten and 99 other thought experiments
+*现代通信原理习题解析
+*网络存储技术
+*编译原理学习指导与习题解析
+*JavaScript DOM 编程艺术 = DOM Scripting : web design with JavaScript and the document object model

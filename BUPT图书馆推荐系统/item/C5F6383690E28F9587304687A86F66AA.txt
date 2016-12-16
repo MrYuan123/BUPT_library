@@ -1,0 +1,12 @@
+#深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM : advanced features and best practices
+#信息论与编码学习辅导及习题详解
+*Java并发编程实战 = Java concurrency in practice
+*微型计算机原理及应用习题集
+*Java 编程思想 = Thinking in Java
+*Spring源码深度解析
+*Effective Java 中文版 = Effective Java
+*数字通信同步技术的MATLAB与FPGA实现 : Altera/Verilog版
+*信息论与编码
+*信息处理与编码 = Information processing and coding
+*信息论 : 基础理论与应用
+*程序员代码面试指南 : IT名企算法与数据结构题目最优解

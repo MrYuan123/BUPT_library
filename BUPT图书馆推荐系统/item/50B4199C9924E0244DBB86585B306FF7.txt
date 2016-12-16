@@ -1,0 +1,13 @@
+#编码理论 : 算法、结构和应用 = Coding theory : algorithms, architectures and applications
+#代数和编码
+#非线性泛函分析及其应用
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

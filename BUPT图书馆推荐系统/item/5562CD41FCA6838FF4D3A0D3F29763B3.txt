@@ -1,0 +1,30 @@
+#Python Cookbook (第3版) 中文版
+#Java程序员面试宝典
+#帝国衰亡史 : 十六个古代帝国的崛起、霸业和衰亡 = The fall of empires : from glory to buin, an epic account of history's ancient civilisations
+#微信公众平台应用开发 : 方法、技巧与案例 = Wechat public platform application developing : method, technique and example
+#那些古怪又让人忧心的问题 = What if serious scientific answers to absurd hypothetical questions
+#Head First Python中文版
+#图解TCP/IP
+#深入理解Spark : 核心思想与源码分析 = Spark internals : core design and source code analysis
+#Spark核心技术与高级应用 = Spark core technology and advanced applications
+#JAVA 实例技术手册 = Java examples in a nutsbell
+#说春秋 . 一 , 齐楚崛起
+#Java开发实例大全 , 基础卷
+#Shell脚本编程诀窍 : 适用于Linux、Bash等
+#毕淑敏散文精选
+#Python 学习手册
+#老梁故事汇 , 天下大观
+#写给大忙人看的Java核心技术 = Core Java for the impatient
+#ACM/ICPC算法基础训练教程
+#快学Scala = Scala for the impatient
+#Java多线程编程实战指南 , 设计模式篇
+*大话数据结构 = Play with data structure
+*埃及
+*大国的崛起 = A short history of the world : 从成功走向辉煌的世界强国启示录
+*ELK stack权威指南 = The definitive guide to Elasticsearch + Logstash + Kibana
+*Python 基础教程 = Beginning Python from novice to professional
+*编程之美 : 微软技术面试心得
+*RabbitMQ实战 : 高效部署分布式消息队列 = RabbitMQ in action : distributed messaging for everyone
+*鸟哥的 Linux 私房菜 , 基础学习篇
+*TCP/IP网络编程
+*Java虚拟机精讲

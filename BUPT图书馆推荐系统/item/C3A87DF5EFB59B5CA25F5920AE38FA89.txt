@@ -1,0 +1,13 @@
+#LabVIEW实用工具详解
+#Eclipse 从入门到精通
+#零基础学PHP
+*PHP Web开发学习实录
+*Qt4 图形设计与嵌入式开发
+*从零开始学 Java Web 开发
+*研磨设计模式
+*Python标准库 = The Python standard library by example
+*机器学习及其应用2011
+*机器学习方法
+*Java 完全自学宝典
+*2014年会计专业技术资格考试应试指导及全真模拟测试 , 初级会计实务
+*会计经典题解

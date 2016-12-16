@@ -1,0 +1,12 @@
+#近世代数
+#格理论与密码学
+*Java 学习手册
+*可视化Java GUI程序设计教程 : 基于Swing组件库及NetBeans IDE
+*数据结构 : Java语言描述
+*算法 : C 语言实现 . 第1-4部分 , 基础知识、数据结构、排序及搜索 = Algorithms in C . Parts 1-4 : fundamentals, data structures, sorting, searching
+*富爸爸投资指南 = Rich Dad's guide to investing
+*近世代数基础
+*现代信号处理 = Modern signal processing
+*彼得·林奇的成功投资 : 珍藏版 = One up on wall street : how to use what you already know to make money in the market
+*Python黑帽子 : 黑客与渗透测试编程之道 = Black hat python : python programming for hackers and pentesters
+*信息论基础及应用

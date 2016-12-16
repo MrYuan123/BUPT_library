@@ -1,0 +1,12 @@
+#随机过程理论与应用
+#随机过程与排队论 = Random process and queuing theory
+*基于 Verilog HDL 的 FPGA 设计与工程应用
+*通信网性能分析基础
+*电子电路设计技术基础
+*Verilog HDL 与数字电路设计
+*通信网理论与应用 = Communication network : principle and applications
+*电磁波空间传播 = Electromagnetic wave propagation in space
+*无线传感器网络的理论及应用
+*ZigBee技术原理与实战
+*无线通信 = Wireless communications
+*ZigBee 技术及应用

@@ -1,0 +1,15 @@
+#Arduino实战 = Arduino in action
+#Arduino项目DIY = The Arduino project DIY
+#Arduino高级开发权威指南 = Arduino microcontroller : processing for everyone
+#电子达人 , 我的第一本Arduino项目制作手册
+#Arduino魔法书 : 实现梦想的工具和技术 = Exploring Arduino : tools and techniques for engineering wizardry
+*Arduino权威指南 = Arduino cookbook
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学

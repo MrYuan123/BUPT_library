@@ -1,0 +1,13 @@
+#信号与系统 . 上册
+#微型计算机系统与接口
+#Xilinx FPGA应用开发
+*信号与系统 . 下册
+*数据结构 : C++语言版
+*数据结构学习指导和习题解析 = A learning guide and key to exercises for data structures in C++ : C++语言描述
+*高等数学 . 上册
+*MATLAB R2014a从入门到精通
+*数学分析 . 第一卷
+*吉米多维奇数学分析习题集学习指引 . 第一册
+*Multisim 10 电路仿真及应用
+*电子电路基础及通信电子电路学习指导书
+*电子电路原理 = Electonic principles

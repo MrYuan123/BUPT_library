@@ -1,0 +1,12 @@
+#神经网络与机器学习 = Neural networks and learning machines
+#神经网络控制
+*基于细胞神经网络的非线性时滞系统自适应控制
+*MATLAB 实用教程 : 控制系统仿真与应用
+*智能控制理论及应用
+*神经模糊控制理论及应用
+*模糊控制及其 MATLAB 仿真
+*SQL查询的艺术
+*智能控制实验与综合设计指导
+*LATEX　入门与提高
+*无线通信 = Wireless communications
+*失控 = Out of control : 全人类的最终命运和结局

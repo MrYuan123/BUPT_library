@@ -1,0 +1,20 @@
+#C#从入门到精通
+#大数据技术与应用
+#精通PHP+MySQL动态网站开发
+#C#开发实例大全 , 基础卷
+#C#入门经典
+#微信公众平台开发最佳实践 = WeChat public platform development best practice
+#现代微型计算机原理与接口技术教程
+#C#图解教程 = Illustrated C# 2012
+#我的第一本C++书
+#C#语言程序设计基础
+*NumPy攻略 = NumPy cookbook : Python科学计算与数据分析
+*Python语言程序设计 = Introduction to programming using Python
+*软件工程原理与应用
+*SQL Server数据库应用课堂实录
+*C#实践教程
+*SQL Sever教程
+*普通物理学教程 , 力学
+*懒人的春天
+*零基础学Java : 13小时多媒体教学视频
+*如何从 C 语言向 C++ 语言转换

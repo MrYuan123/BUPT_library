@@ -1,0 +1,11 @@
+#现代编码理论 = Modern coding theory
+*复杂神经动力网络的稳定性和同步性
+*软件可靠性分析及质量保证研究
+*RBF神经网络自适应控制MATLAB仿真 = RBF neural network control for mechanical systems design analysis and MATLAB simulation
+*如何写好英文科学论文 : 使你的研究论文获取最优机会而被快速接受 = Preparing your results for publication : maximizing your chances to get your manuscript rapidly accepted
+*手把手教你学 DSP : 基于TMS320X281x
+*LTE/LTE-Advanced-UMTS长期演进理论与实践 = LTE-LTE UMTS long term evolution : from theory to practice
+*嵌入式系统及其应用 : 基于Cortex-M3内核和STM32F103系列微控制器的系统设计与开发
+*C++ 程序设计教程
+*STM32F10X系列ARM微控制器入门与提高
+*无线通信基础 = Fundamentals of wireless communication

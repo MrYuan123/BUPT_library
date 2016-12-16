@@ -1,0 +1,12 @@
+#文明之光 = Civilizations and enlightenments . 第二册
+#文明之光 = Civilizations and enlightenments . 第一册
+*数据挖掘导论 : 完整版 = Introduction to data mining
+*Spark MLlib机器学习 : 算法、源码及实战详解
+*文明之光 = Civilizations and enlightenments . 第三册
+*数据预处理 : 数据归约的统计方法研究及应用
+*Java 网络编程
+*时间序列分析 . 下册 = Time series analysis
+*GRE词汇精选
+*浪潮之巅 = On top of tides . 上册
+*时间序列分析 . 上册 = Time series analysis
+*浪潮之巅 = On top of tides . 下册

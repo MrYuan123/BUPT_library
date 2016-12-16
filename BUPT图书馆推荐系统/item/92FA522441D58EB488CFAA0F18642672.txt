@@ -1,0 +1,14 @@
+#高级网络概论
+#网络科学引论 = Networks : an introduction
+#组合服务建模、测试与验证
+#SOA 服务设计原则
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

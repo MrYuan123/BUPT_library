@@ -1,0 +1,12 @@
+#推荐系统实践
+#TCP/IP入门经典
+*推荐系统 = Recommender systems : an introduction
+*数据通信与网络 = Data communications and networking
+*现代控制系统 = Modern control systems
+*会计学 = Horngren's accounting
+*深入浅出Linux工具与编程
+*C++入门经典
+*Hadoop权威指南
+*信息安全的数学基础
+*Ubuntu Linux 指南 = A practical guide to Ubuntu Linux
+*近世代数及其应用

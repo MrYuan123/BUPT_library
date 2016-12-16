@@ -1,0 +1,20 @@
+#博弈论
+#Shell 脚本学习指南
+#MIMO-OFDM系统原理、应用及仿真
+#从算法到程序
+#STL源码剖析 = The Annotated STL sources
+#KVM虚拟化技术 : 实战与原理解析 = KVM : principles and practices
+#MIMO-OFDM无线通信技术及MATLAB实现 = MIMO-OFDM wireless communications with MATLAB
+#无线网络中的博弈论研究 = = Game theory for wireless engineers
+#Effective C++ 中文版 = Effective C++
+#最优化方法
+*VANET : 车载网技术及应用 = VANET : vehicular applications and inter-networking technologies
+*SQL Server 2000 实验指导
+*动物农场 = Animal farm
+*MIMO 无线通信 : 从真实世界的传播到空-时编码的设计 = MIMO wireless communications : from real-world propagation to space-time code design
+*矩阵理论
+*博弈论及其在无线通信网络中的应用
+*现代模式识别 = Modern pattern recognition
+*内容中心网络体系架构
+*密码编码学与网络安全 : 原理与实践 = Cryptography and network security : principles and practice
+*博弈论 = The game theory

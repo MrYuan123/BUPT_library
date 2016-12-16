@@ -1,0 +1,18 @@
+#Altera FPGA/CPLD 设计 , 基础篇
+#托福词汇速记精典
+#FPGA/CPLD边练边学 : 快速入门Verilog/VHDL
+#C++ 程序设计语言 = The C++ programming language
+#Altera FPGA/CPLD 设计 , 高级篇
+#C++ 面向对象程序设计习题解答与上机指导
+#深入浅出玩转FPGA
+#修出好照片 : 数码照片处理核心技法
+*Griffiths量子力学概论学习指导与习题解答
+*C++ Primer : 中文版
+*打破思维里的框 : 激发创造力只需五步 = Thinking in new boxes : a new paradigm for business creativity
+*美国的本质 : 基督新教支配的国家和外交
+*设计原本 : 计算机科学巨匠Frederick P. Brooks的反思 = The Design of design : essays from a computer scientist
+*ACM 图灵奖 = The ACM turing award (1966-2006) : 1966-2006计算机发展史的缩影an epitomized history of computing in the twentieth-century
+*用 TCP/IP 进行网际互连 = Internetworking with TCP/IP . 第一卷Volume I , 原理、协议与结构principles, protocols, and architectures
+*Verilog编程艺术
+*算法设计与分析基础 = Introduction to the design and analysis of algorithms
+*互联网伦理 : 信息时代的道德重构 = Ethics for the information age

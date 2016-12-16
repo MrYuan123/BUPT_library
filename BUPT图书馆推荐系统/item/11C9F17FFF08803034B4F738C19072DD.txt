@@ -1,0 +1,11 @@
+#STM32F10X系列ARM微控制器入门与提高
+*手把手教你学 DSP : 基于TMS320X281x
+*无线通信基础 = Fundamentals of wireless communication
+*微信公众平台开发最佳实践 = WeChat public platform development best practice
+*LTE/LTE-Advanced-UMTS长期演进理论与实践 = LTE-LTE UMTS long term evolution : from theory to practice
+*TMS320 F2833x DSP应用开发与实践
+*嵌入式系统及其应用 : 基于Cortex-M3内核和STM32F103系列微控制器的系统设计与开发
+*C++ 程序设计教程
+*现代编码理论 = Modern coding theory
+*计算机网络
+*线性代数

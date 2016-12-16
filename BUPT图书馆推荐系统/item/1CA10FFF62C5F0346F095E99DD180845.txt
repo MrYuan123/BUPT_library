@@ -1,0 +1,17 @@
+#光学原理 = Principles of optics : electromagnetic theory of propagation, interference and diffraction of light
+#数学物理方法 = Mathematical methods for physics
+#光学变换·从量子到经典
+#信息论与编码
+#信息论理论基础
+#信息论与编码 = Information theory & coding
+#精通MATLAB信号处理 = Proficient in MATLAB signal processing
+*Python宝典
+*MATLAB基础与应用
+*Java 语言程序设计 = Introduction to Java programming , 基础篇comprehensive version
+*数字与模拟通信系统 = Digital and analog communication systems
+*数字信号处理基础 = Fundamentals of digital signal processing
+*Java 从入门到精通
+*现代通信系统 = Contemporary communication systems using MATLAB and simulink : MATLAB版
+*MATLAB通信系统建模与仿真 = Modeling and simulation of MATLAB communication system
+*详解MATLAB/Simulink通信系统建模与仿真 : 配视频教程
+*MATLAB/Simulink 通信系统建模与仿真实例精讲

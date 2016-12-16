@@ -1,0 +1,11 @@
+#平面设计基础教程 = The fundamentals of graphic design
+*大设计 : BBC写给大众的设计史
+*Java程序设计基础教程
+*超越 LOGO 设计 : 国际顶级平面设计师的成功法则 = Logo design love : a guide to creating iconic brand identities
+*真实的设计 : 荷兰现代主义与视觉识别 = Droom van helderheid : Huisstijlen, ontwerpbureaus en modernisme in Nederland : 1960-1975
+*设计艺术史
+*完美网页的视觉设计法则 = The principles of beautiful web design
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

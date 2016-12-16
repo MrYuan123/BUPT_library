@@ -1,0 +1,15 @@
+#Java Web开发入门很简单
+#大数据分析与数据挖掘
+#Python入门经典
+#Python数据分析基础教程 : NumPy学习指南 = NumPy beginner's guide
+#Python语言程序设计
+*自控力 : 斯坦福大学最受欢迎心理学课程 = The Willpower instinct
+*大学算法教程
+*MATLAB GUI设计入门与实战
+*社会工程 : 安全体系中的人性漏洞 = Social engineering : the art of human hacking
+*零基础学算法
+*Python 参考手册 = Python essential reference
+*数据挖掘原理、算法与应用
+*OpenCV 教程 , 基础篇
+*HTML 5从入门到精通
+*新版韩国语 . 1

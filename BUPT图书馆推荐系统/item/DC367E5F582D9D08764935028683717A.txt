@@ -1,0 +1,13 @@
+#通信原理 : 基于Matlab的计算机仿真
+#TCP/IP 协议族
+#现代控制系统 = Modern control systems
+*MATLAB 与控制系统仿真实践
+*数据库设计教程 = Database solutions : a step-by-step guide to building database
+*数据通信与网络 = Data communications and networking
+*通信原理习题集
+*PHP 和 MySQL Web 开发 = PHP and MySQL Web development
+*JavaScript高级程序设计 = Professional JavaScript for web developers
+*TCP/IP入门经典
+*数字通信 = Digital Communications
+*数字与模拟通信系统 = Digital and analog communication systems
+*数字通信 = Digital communications

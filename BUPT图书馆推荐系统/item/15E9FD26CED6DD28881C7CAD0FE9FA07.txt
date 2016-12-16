@@ -1,0 +1,14 @@
+#光纤通信系统
+#信息论基础
+#光纤通信
+#移动通信原理与应用
+*光纤通信技术 = Optical fiber communications technology
+*信道编码与MATLAB仿真
+*光纤通信 = Optical fiber communications
+*光纤光学前沿
+*光子学 = Photonics : 现代通信光电子学optical electronics in modern communications
+*光纤通信入门130问
+*光纤通信技术
+*OpenSceneGraph 三维渲染引擎设计与实践
+*OpenSceneGraph 三维渲染引擎编程指南
+*OpenSceneGraph 3.0三维视景仿真技术开发详解

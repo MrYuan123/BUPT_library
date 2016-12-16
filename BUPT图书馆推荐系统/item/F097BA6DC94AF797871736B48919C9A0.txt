@@ -1,0 +1,13 @@
+#新托福高分·阅读 = Preparation for new TOEFL ibt test· reading
+#Spark原理、机制及应用
+#现代操作系统 = Modern operating systems
+*Hadoop权威指南
+*数据驱动安全 : 数据安全分析、可视化和仪表盘 = Data-driven security : analysis, visualization and dashboards
+*Spark大数据实例开发教程
+*深入云计算 : Hadoop源代码分析
+*Linux命令、编辑器与Shell编程
+*会计报表的阅读与分析
+*软件工程 = Software engineering : theory and practice
+*MySQL入门经典
+*Scala 编程 = Programming in Scala
+*2012考研英语真题同源阅读80篇

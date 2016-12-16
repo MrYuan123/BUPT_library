@@ -1,0 +1,14 @@
+#JavaScript 从入门到精通 : 黄金版 = Mastering JavaScript premium edition
+#Adobe  After  Effects  5.5/6.0  标准培训教材
+#识时务的阴谋家 : 刘邦
+#美国教父 = Mickey Cohen : the life and crimes of L.A.'s notorious mobster
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

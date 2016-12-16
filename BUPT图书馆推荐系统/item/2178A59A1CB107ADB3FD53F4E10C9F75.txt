@@ -1,0 +1,12 @@
+#OPNET Modeler 与网络仿真
+#OPNET Modeler 与计算机网络仿真
+*美人何处
+*Satellite communications =
+*卫星通信 = Satellite communications
+*钟表馆幽灵
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

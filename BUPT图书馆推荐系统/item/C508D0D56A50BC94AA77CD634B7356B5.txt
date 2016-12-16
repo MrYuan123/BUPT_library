@@ -1,0 +1,14 @@
+#Git权威指南 = Got Git : the definitive guide of Git
+#图解TCP/IP
+#现代通信网概论 = Modern communication networks
+#ns-3网络模拟器基础及应用
+*Netty权威指南
+*数据结构、算法与应用 : C++语言描述 = Data structures, algorithms, and applications in C++
+*深入浅出Linux工具与编程
+*Java并发编程的艺术 = The art of Java concurrency programming
+*相守一生的秘密 : 幸福婚姻枕边书
+*Shell 脚本学习指南
+*大话设计模式
+*Head First 设计模式
+*Effective Java 中文版 = Effective Java
+*Java并发编程实战 = Java concurrency in practice

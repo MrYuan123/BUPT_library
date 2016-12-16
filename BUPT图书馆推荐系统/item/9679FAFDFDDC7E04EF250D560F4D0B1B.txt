@@ -1,0 +1,14 @@
+#博弈论与非线性分析
+#策略博弈 = Games of strategy
+#博弈论 = Game theory : 矛盾冲突分析analysis of conflict
+#大忙人的趣味博弈论
+*博弈论视角的认知无线电网络
+*博弈理论在无线网络中的应用
+*离散数学与算法化思维
+*MATLAB数值分析
+*数学建模 = A first course in mathematical modeling
+*人间喜剧
+*数学模型
+*数据结构
+*大学物理解题指导
+*大学物理学习指导与解题指南

@@ -1,0 +1,13 @@
+#深入浅出嵌入式底层软件开发
+#嵌入式实时操作系统 VxWorks 及其开发环境 Tornado
+#基于 VxWorks 的嵌入式实时系统设计
+*C语言大学教程 = C how to program
+*Access 2007 数据库原理、技术与全程实例
+*UML 2.2面向对象分析与设计
+*C语言参考手册 = C: a reference manual
+*如丧 : 我们终于老得可以谈谈未来
+*系统分析与设计 = Systems analysis & design
+*黑天鹅 : 如何应对不可预知的未来 = The Black swan : the impact of the highly improbable
+*数据库处理 = Database processing : 基础、设计与实现fundamentals, design, and implementation
+*计算机网络
+*线性代数

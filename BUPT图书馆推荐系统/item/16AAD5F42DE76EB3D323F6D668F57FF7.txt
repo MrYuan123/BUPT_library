@@ -1,0 +1,11 @@
+#PHP和MySQL Web开发从新手到高手
+*国际大学生程序设计竞赛例题解 . 五 : 2006-2007年
+*零点起飞学HTML+CSS
+*C++沉思录 /
+*高等数学习作课精编
+*Linux 操作系统分析与实战
+*JavaScript 基础教程
+*Android程序设计入门、应用到精通
+*数字通信原理
+*通信原理
+*操作系统概念 = Operating system concepts

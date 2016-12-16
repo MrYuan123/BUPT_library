@@ -1,0 +1,22 @@
+#文本挖掘原理
+#Hadoop实战手册
+#解密搜索引擎技术实战 : Lucene & Java精华版
+#发现数据之美 = = Discover the beauty of data : 数据分析原理与实践
+#数据挖掘原理与算法
+#程序员面试宝典
+#深入浅出数据分析 = Head first data analysis
+#莫泊桑小说精选
+#Hadoop硬实战 = Hadoop in practice
+#算法导论 = Introduction to algorithms
+#Lucene搜索引擎开发进阶实战 = Advanced practice of Lucene search engine development
+#编程之美 : 微软技术面试心得
+*大话数据结构 = Play with data structure
+*Java程序员面试宝典
+*剑指Offer : 名企面试官精讲典型编程题
+*Hadoop技术内幕 : 深入解析Hadoop Common和HDFS架构设计与实现原理 = Hadoop internals : in-depth study of common and HDFS
+*推销员之死 = Death of a salesman and other plays
+*挪威的森林
+*算法与数据结构 : Java语言描述
+*多媒体通信技术基础
+*实用数据分析 = Practical data analysis
+*Storm实时数据处理 = Storm real-time processing cookbook

@@ -1,0 +1,16 @@
+#MATLAB基础与应用
+#每天学点社交礼仪
+#杨澜访谈录之风云
+#季羡林读书与做人
+#MATLAB 函数速查手册
+#精通MATLAB最优化计算
+*配送车辆优化调度模型与算法
+*MATLAB 从入门到精通
+*MATLAB 仿真及电子信息应用 = Electronical information application using MATLAB
+*Python宝典
+*精通MATLAB信号处理 = Proficient in MATLAB signal processing
+*遗传算法 : 理论、应用与软件实现
+*C语言程序设计与项目实践
+*鸟哥的 Linux 私房菜 , 基础学习篇
+*离散数学及其应用 = Discrete mathematics and its applications
+*数据结构 : C语言版

@@ -1,0 +1,16 @@
+#LTE协议栈与信令分析 = LTE protocol stack and signaling analysis
+#LTE及LTE-Advanced无线协议
+#LTE/LTE-Advanced-UMTS长期演进理论与实践 = LTE-LTE UMTS long term evolution : from theory to practice
+#LTE系统原理及应用
+#大话核心网
+#4G移动通信技术权威指南 : LTE与LTE-Advanced = 4G LTE/LTE-Advanced for mobile broadband
+*应用随机过程 : 概率模型导论 = Introduction to probability models
+*LTE权威指南 = Fundamentals of LTE
+*TD-LTE-Advanced移动通信系统设计 = TD-LTE-Advanced mobile communications system design
+*移动通信原理 = Principles of mobile communication
+*M2M通信
+*TOEFL词汇词根+联想记忆法
+*Python Web开发学习实录
+*你好，抑郁
+*宏观经济学 : 中国版 = Macroeconomics : China version
+*信息论基础

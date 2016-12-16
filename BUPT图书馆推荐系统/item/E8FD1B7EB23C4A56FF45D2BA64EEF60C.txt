@@ -1,0 +1,13 @@
+#Spark MLlib机器学习实践
+#设计模式之禅 = The Zen of design patterns
+#Spark大数据实例开发教程
+*一本书读懂大数据 : 全彩图解版
+*深入云计算 : Hadoop源代码分析
+*Spark原理、机制及应用
+*Linux命令、编辑器与Shell编程
+*PHP 函数库查询辞典
+*大数据时代的IT架构设计
+*Vim实用技巧 = Practical Vim : edit text at the speed of thought
+*Spring 3.0就这么简单
+*Go语言编程 = The Go programming language
+*Go语言程序设计 = Programming in Go : creating applications for the 21st century

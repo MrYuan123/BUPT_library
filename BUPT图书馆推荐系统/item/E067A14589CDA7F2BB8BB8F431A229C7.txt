@@ -1,0 +1,11 @@
+#RESTful Web APIs中文版 = RESTful Web APIs
+*微服务架构与实践
+*Nginx高性能Web服务器详解
+*数据挖掘原理 = Principles of data mining
+*黑客与画家 : 硅谷创业之父Paul Graham文集 = Hackers and painters : big ldeas from the computer age
+*大型分布式网站架构设计与实践
+*恰如其分的软件架构 : 风险驱动的设计方法 = Just enough software architecture : a risk-driven approach
+*Redis入门指南
+*RESTful web services cookbook中文版 = RESTful web services cookbook
+*Visual C++网络编程案例实战
+*HTML5 WebSocket权威指南 = The definitive guide to HTML5 WebSocket

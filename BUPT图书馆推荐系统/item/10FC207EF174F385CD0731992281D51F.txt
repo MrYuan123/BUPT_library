@@ -1,0 +1,15 @@
+#JavaScript 学习指南
+#学习Nginx HTTP Server : 中文版
+#HTML + CSS网页开发技术精解
+#Nginx高性能Web服务器详解
+#JavaScript 实例精通 = Mastering JavaScript step by step
+*Redis入门指南
+*Head First 设计模式
+*大型分布式网站架构设计与实践
+*数据挖掘原理 = Principles of data mining
+*恰如其分的软件架构 : 风险驱动的设计方法 = Just enough software architecture : a risk-driven approach
+*黑客与画家 : 硅谷创业之父Paul Graham文集 = Hackers and painters : big ldeas from the computer age
+*RESTful Web APIs中文版 = RESTful Web APIs
+*微服务架构与实践
+*面向数字系统综合的 Verilog 编码风格 = Verilog styles for synthesis of digital systems
+*神秘岛 = The Mysterious island : 插图·中文导读英文版 . 上部

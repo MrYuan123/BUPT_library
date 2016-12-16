@@ -1,0 +1,15 @@
+#大话设计模式
+#大话数据结构 = Play with data structure
+#TED演讲的8个秘诀 : 学习18分钟高效表达
+#摸金校尉之九幽将军
+#人性的弱点 : 名著双语读物·中文导读+英文原版 = How to win friends and influence people
+*编程之美 : 微软技术面试心得
+*智慧城市 : 大数据、物联网和云计算之应用
+*茶马古道 = Ancient tea-horse road
+*超好玩的铅笔速写一本通
+*Spring实战 = Spring in action
+*飞秒激光技术
+*大话数据挖掘
+*Java并发编程的艺术 = The art of Java concurrency programming
+*ns-3网络模拟器基础及应用
+*Head First Python中文版

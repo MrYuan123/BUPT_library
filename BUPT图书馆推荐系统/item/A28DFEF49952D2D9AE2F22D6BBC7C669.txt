@@ -1,0 +1,15 @@
+#反编译技术与软件逆向分析
+#30天自制操作系统
+#活出生命的意义 : 成为你天生应该成为的人 = What is your what : discover the one amazing thing you were born to do
+#汇编语言程序设计
+#MATLAB 在数学建模中的应用
+*妙趣横生的博弈论
+*数学建模与数学实验
+*多样式攻克考研英语词汇词根+联想记忆
+*Altium Designer 14电路设计与仿真从入门到精通
+*数学建模 = A first course in mathematical modeling
+*ANSYS机械工程应用精华50例
+*数学建模方法与分析 = Mathematical modeling
+*美国大学生数学建模竞赛题解析与研究 . 第2辑
+*数学建模竞赛优秀论文选评
+*美国大学生数学建模竞赛题解析与研究 . 第1辑

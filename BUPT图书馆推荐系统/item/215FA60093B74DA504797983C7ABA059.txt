@@ -1,0 +1,13 @@
+#Java 编程艺术
+#Java从入门到精通 : 实例版
+#Java完全参考手册
+*呼兰河传
+*数学物理方法专题 : 复变函数与积分变换
+*复变函数与积分变换
+*智能光网络 : 体系结构、协议和标准
+*精通PHP+MySQL动态网站开发
+*Android程序设计入门、应用到精通
+*操作系统概念 = Operating system concepts
+*通信原理
+*编译原理 = Compilers : principles, techniques, and tools
+*PHP和MySQL Web开发从新手到高手

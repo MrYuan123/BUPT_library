@@ -1,0 +1,20 @@
+#接入网技术 = Access network technology
+#FTTx PON 技术与应用
+#频谱灵活光网络 = Flexible spectrum optical networks
+#光纤接入网规划设计手册
+#接入网技术
+#宽带通信网原理
+#宽带光接入技术
+#计算机与通信网络 = Computer and communication networks
+#光纤通信技术 = Optical fiber communication technology
+#宽带无线接入网的动态QoS技术
+*软件测试
+*无源光网络技术
+*QTP 从实践到精通
+*对话下一代网络
+*MATLAB从入门到精通
+*近似算法 = Approximation algorithms
+*算法设计
+*Python程序设计教程
+*组合优化导论
+*自然辩证法 : 在工程中的理论与应用

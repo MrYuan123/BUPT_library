@@ -1,0 +1,12 @@
+#模拟滤波器与电路设计手册 = Analog filter and circuit design handbook
+#LC 滤波器设计与制作
+*模拟滤波器设计
+*改变未来的九大算法 = Nine algorithms that changed the future
+*最优化理论与算法习题解答
+*宽带匹配网络
+*MATLAB智能算法30个案例分析
+*MATLAB智能算法超级学习手册
+*矩阵分析 = Matrix analysis
+*通信系统微波滤波器 : 基础、设计与应用 = Microwave filters for communication systems : fundamentals, design and application
+*最优化理论与算法
+*计算机网络

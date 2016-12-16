@@ -1,0 +1,13 @@
+#21天学通Java
+#UNIX/Linux应用、编程与系统管理
+#Linux 编程从入门到精通
+*NS2 网络模拟器的原理和应用
+*深入浅出 Linux TCP/IP 协议栈
+*RF MEMS 理论·设计·技术 = RF MEMS theory, design, and technology
+*射频微机电系统的理论、设计、制备及应用
+*Eclipse 编程技术与实例
+*6 级词汇分频精讲速记
+*Java 程序设计
+*大学英语四六级常考词组必备
+*Java 面向对象程序设计
+*微机原理、汇编与接口技术学习指导

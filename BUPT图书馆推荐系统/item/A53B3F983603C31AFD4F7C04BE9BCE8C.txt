@@ -1,0 +1,12 @@
+#Android开发入门与实战
+#信息安全概论
+*机器学习导论 = Introduction to machine learning
+*微信公众平台开发与案例分析
+*Android经典应用程序开发
+*Android 开发应用实战详解
+*Android开发应用从入门到精通
+*Android 应用开发范例大全
+*网络安全协议
+*S7-200/300/400 PLC 应用技术 , 通用篇
+*典型密码算法C语言实现
+*工控组态技术及应用 : MCGS

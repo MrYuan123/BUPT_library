@@ -1,0 +1,12 @@
+#60GHz频段短距离无线通信 = Short-range wireless communications in 60GHz
+#实现吉比特传输的60GHz无线通信技术
+*成为领导者 = On becoming a leader
+*下一代融合网络理论与实践
+*LTE教程 : 原理与实现
+*光网络新技术解析与应用 = Optical network-new technology and implementtation
+*下一代无源光网络
+*宽带功率放大器预失真原理
+*5G : 开启移动网络新时代
+*ROF光载无线通信 : 从理论到前沿
+*EPON/GPON 从原理到实践
+*计算机网络

@@ -1,0 +1,12 @@
+#韩国语语法入门
+#数据挖掘教程
+*电影风 : 不容错过的100部经典英文电影
+*托业考试官方指南 = Toeic official test-preparation guide
+*Opnet Modeler 仿真建模大解密
+*实用韩国语写作教程
+*女巫宣言
+*数据挖掘 : 概念与技术 = Data mining : concepts and techniques
+*Java语言程序设计 : Java 7 : 入门与提高篇
+*“中国特色社会主义理论与实践研究”专题讲义
+*概率统计及随机过程
+*数据结构 : Java版

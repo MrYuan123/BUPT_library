@@ -1,0 +1,12 @@
+#用户体验度量 : 收集、分析与呈现 = Measuring the user experience : collecing, analyzing, and presenting usability metrics
+#R语言实战 = R in action : data analysis and graphics with R
+*大数据时代 : 生活、工作与思维的大变革 = Big data : a revolution that will transform how we live, work and think
+*Excel 2010图表实战技巧精粹
+*精通色彩搭配 : 100%全能网页配色密码
+*用户体验与可用性测试
+*乔布斯 : 产品制胜法则
+*产品经理那些事儿
+*启示录 : 打造用户喜爱的产品
+*R语言编程艺术 = The art of R programming : a tour of statistical software design
+*计量经济学导论 = Intrductory econometrics : a modern approach
+*R的极客理想 , 工具篇

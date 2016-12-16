@@ -1,0 +1,12 @@
+#自己动手写网络爬虫
+#Web 服务 : 原理与技术 = Web Services : principles and technology
+*大话数据库
+*服务计算应用开发技术
+*Web Services 原理与研发实践
+*OSGi 原理与最佳实践
+*学术交流 = Academic communication : 博士研究生英语视听说教程
+*面向服务的计算 : 原理和应用
+*轻量级Java EE企业应用实战 : Struts 2+Spring 4+Hibernate整合开发
+*统计学习方法
+*Java多线程编程核心技术 = Java multi-thread programming
+*信息科学原理

@@ -1,0 +1,18 @@
+#高级人工智能
+#大学 C/C++ 程序设计案例教程
+#C++ 程序设计
+#Web数据挖掘
+#Java 语言程序设计 = Introduction to Java programming , 进阶篇
+#计算机网络 : 系统方法 = Computer networks : a systems approach
+#研磨设计模式
+#Linux内核设计的艺术 = The art of Linux kernel design : 图解Linux操作系统架构设计与实现原理
+*Java 语言程序设计 = Introduction to Java programming , 基础篇comprehensive version
+*Eclipse 从入门到精通
+*从零开始学 Java Web 开发
+*Python 高级编程
+*3GPP 长期演进 (LTE) 技术原理与系统设计 = 3GPP long term evolution : principle and system design
+*数据挖掘原理与 SPSS Clementine 应用宝典
+*文本挖掘原理
+*Spark技术内幕 : 深入解析Spark内核架构设计与实现原理 = Spark internals : design and implement principle of Spark core
+*深入解析Android 5.0系统
+*基于Visual C++的MFC编程

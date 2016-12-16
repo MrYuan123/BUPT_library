@@ -1,0 +1,12 @@
+#Linux C从入门到精通
+#Zigbee开发技术及实践
+*嵌入式实时操作系统μC/OS-III = μC/OS-III, the real-time kernel
+*TCP/IP网络编程
+*宽带电力线通信网络设计 = Broadband powerline communications network design
+*嵌入式网络那些事 : LwIP协议深度剖析与实战演练
+*模式识别
+*Python 基础教程 = Beginning Python from novice to professional
+*微机原理与接口技术
+*Winodows网络编程 = Windows network programming
+*Oday 安全 : 软件漏洞分析技术
+*第一行代码 : Android

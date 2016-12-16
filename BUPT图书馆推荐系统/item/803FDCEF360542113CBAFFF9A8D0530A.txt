@@ -1,0 +1,30 @@
+#相控阵雷达原理 = Principles of phased array radar
+#雷达发射机技术
+#风电系统故障诊断与容错控制
+#海上风电成本建模 : 安装与拆除
+#超宽带通信原理及应用 = Ultra-wideband communications : fundamentals and applications
+#Java Web程序开发范例宝典
+#风电场工程
+#模糊控制系统及应用
+#主动式雷达遥感 = Active radar and lidar remote sensing
+#模糊控制及其 MATLAB 仿真
+#超宽带SAR浅埋目标成像与检测的理论和技术研究
+#应用最优化方法及MATLAB实现
+#相控阵雷达馈线技术 = Phased array radar feed line technology
+#风电场电气工程
+#控制系统计算机辅助设计 : MATLAB语言与应用 = Computer aided control systems design : using MATLAB language
+#试验设计与MATLAB数据分析
+#相控阵天线手册 = Phased array antenna handbook
+#精通 MATLAB 7
+#Java Web入门经典
+#风力发电场
+*Java Web 开发实战
+*数学建模
+*电子技术学习指导与习题解答
+*自动控制原理
+*模拟电子技术学习及考研辅导
+*过程控制工程及仿真 : 基于MATLAB/Simulink
+*Matlab/Simulink实例详解
+*MATLAB/Simulink系统仿真超级学习手册
+*先进 PID 控制 MATLAB 仿真
+*基于细胞神经网络的非线性时滞系统自适应控制

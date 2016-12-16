@@ -1,0 +1,11 @@
+#数据挖掘与机器学习 : WEKA应用技术与实践
+*数据挖掘 : 概念与技术 = Data mining : concepts and techniques
+*数据挖掘原理与实践
+*数据挖掘教程
+*数据挖掘 : 实用案例分析 = Data mining : practical case analysis
+*卓越表现 : 从大学到社会 = Peak performance : success in college and beyond
+*7天搞定托福单词 = 7 dictionary of iBT's English
+*利用业余时间拯救世界 : 93位顶尖科学家教你如何以科学思维面对生活
+*时间管理 : 高效率人士的成功利器
+*深入云计算 : Hadoop源代码分析
+*罗素自述

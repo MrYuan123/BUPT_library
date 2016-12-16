@@ -1,0 +1,14 @@
+#R语言实用教程
+#Python 核心编程
+#社交网站的数据挖掘与分析
+#Hadoop权威指南
+*互联网金融 : 逻辑与结构 = Internet finance : logic and structure
+*中国资本市场制度变革研究 = Study on the regulation transformation of China capital market
+*Hadoop 技术内幕 : 深入解析MapReduce架构设计与实现原理 = Hadoop internals : in-depth study of MapReduce
+*机器学习实战 = Machine learning in action
+*Hadoop实战 = Hadoop in action
+*摄影构图与用光从入门到精通 : 实战版
+*深入云计算 : Hadoop源代码分析
+*Hadoop云计算实战 = Hadoop cloud computing practice
+*Spark原理、机制及应用
+*推荐系统 = Recommender systems : an introduction

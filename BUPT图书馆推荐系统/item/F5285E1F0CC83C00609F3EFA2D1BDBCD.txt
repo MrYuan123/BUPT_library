@@ -1,0 +1,16 @@
+#陈列天线理论与工程应用
+#宽频带微带天线技术及其应用
+#阵列天线分析与综合
+#天线与电波传播
+#天线测量实用手册 = Antenna measurement engineering handbook
+#天线理论与技术 = Antenna theory and techniques
+*Spring 3.x企业应用开发实战
+*无线通信 = Wireless communications
+*现代无线通信原理
+*智能天线 = Smart antennas for wireless communications : MATLAB版
+*电磁场与电磁波
+*ADS射频电路设计与仿真入门及应用实例
+*半导体偏微分方程引论
+*无线光通信
+*MATLAB工程仿真与应用30例
+*相控阵天线理论和技术

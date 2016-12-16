@@ -1,0 +1,12 @@
+#易学Python
+#Python编程实践 = Practical programming : an introduction to computer science using python
+*详解MATLAB/Simulink通信系统建模与仿真 : 配视频教程
+*MATLAB 8.X实战指南 : R2014a中文版 = MATLAB 8.X application guide : R2014A Chinese version
+*SPSS统计分析与行业应用案例详解
+*MATLAB数值分析与仿真案例
+*精通 MATLAB : 升级版
+*Docker全攻略
+*Python 3面向对象编程 = Python 3 object oriented programming
+*Eclipse 从入门到精通
+*Verilog编程艺术
+*FPGA数字信号处理与工程应用实践 = The engineering application and digital signal processing of FPGA

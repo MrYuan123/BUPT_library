@@ -1,0 +1,14 @@
+#Xilinx FPGA权威设计指南 : Vivado 2014集成开发环境
+#Xilinx系列FPGA芯片IP核详解
+#TCP/IP 网络与协议
+#PCI 局部总线及其应用
+*Xilinx新一代FPGA设计套件Vivado应用指南 = The application guide on Xilinx Vivado design suite
+*Linux shell脚本编程入门
+*Linux常用工具入门到精通
+*Xilinx FPGA设计权威指南 : Vivado集成设计环境 = The definitive guide of Xilinx FPGA development : based on Vivado integrated development environment
+*数字通信同步技术的MATLAB与FPGA实现 : Altera/Verilog版
+*打赢职场遭遇战
+*中外经典导读与欣赏 = A guide to Chinese and Western classics : 代表人类知识与文化的名著和名作精选
+*基于FPGA的现代数字系统设计
+*决定成败的 50 个关键问题
+*Xilinx FPGA设计与实践教程

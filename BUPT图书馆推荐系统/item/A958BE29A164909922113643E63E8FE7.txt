@@ -1,0 +1,15 @@
+#复杂神经动力网络的稳定性和同步性
+#RBF神经网络自适应控制MATLAB仿真 = RBF neural network control for mechanical systems design analysis and MATLAB simulation
+#软件可靠性分析及质量保证研究
+#如何写好英文科学论文 : 使你的研究论文获取最优机会而被快速接受 = Preparing your results for publication : maximizing your chances to get your manuscript rapidly accepted
+#现代编码理论 = Modern coding theory
+*神经网络稳定性理论
+*多变量非线性系统的神经网络逆控制方法
+*MATLAB 在时间序列分析中的应用
+*神经网络设计 = Neural network design
+*时间序列分析 . 上册 = Time series analysis
+*神经网络原理 = Neural networks : a comprehensive foundation
+*MATLAB 神经网络应用设计
+*时间序列分析 . 下册 = Time series analysis
+*MATLAB神经网络超级学习手册
+*LTE/LTE-Advanced-UMTS长期演进理论与实践 = LTE-LTE UMTS long term evolution : from theory to practice

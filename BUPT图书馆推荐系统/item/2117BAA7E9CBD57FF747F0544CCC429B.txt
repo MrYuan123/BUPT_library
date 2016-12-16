@@ -1,0 +1,17 @@
+#矩阵计算 = Matrix computations
+#离散时间信号处理 = Discrete-time signal processing
+#信号检测与估计理论
+#Linux C程序设计王者归来
+#最优阵列处理技术 = Optimum array processing part IV of detection, estimation, and modulation theory
+#宽带阵列信号波达方向估计理论与方法 = Wideband array signal direction of arrive estimation theory and methods
+#空间谱估计理论与算法
+*Linux网络编程
+*信号与系统 (第三版) 习题解析
+*Tornado/VxWorks 入门与提高
+*C++ PRIMER 中文版 = C++ Primer
+*教与写的记忆 : 信号与系统评注
+*随机过程论
+*概率论习题集
+*数字信号处理教程
+*检测、估计和调制理论 = Detection, estimation, and modulation theory . 卷ⅠPart I , 检测、估计和线性调制理论detection, estimation, and linear modulation theory
+*基于MATLAB的小波分析应用

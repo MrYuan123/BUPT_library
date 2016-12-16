@@ -1,0 +1,16 @@
+#JavaScript语言精粹 = JavaScript : the good parts
+#为什么天堂不需要经济学家 = Zombies, bananas and why there are no economists in heaven : the economics of real life
+#HTML 5应用开发实践指南
+#Wireshark数据包分析实战详解
+#高性能JavaScript
+#前端面试江湖
+*Linux系统命令及Shell脚本实践指南 = Linux commands and shell scripting
+*下一代网络核心控制协议 : SIP及其应用
+*Linux实用教程
+*JavaScript模式
+*JavaScript设计模式
+*深入理解OpenCV : 实用计算机视觉项目解析 = Mastering openCV with practical computer vision projects
+*Visual C++数字图像模式识别典型案例详解 = Detailed explanation of Visual C++ digital image pattern recognition with typical cases
+*Visual C++数字图像模式识别技术详解 = Visual C++ digital image pattern recognition technology explanation
+*OpenCV2计算机视觉编程手册
+*Node.js开发指南

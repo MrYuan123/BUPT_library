@@ -1,0 +1,11 @@
+#Hadoop实战 = Hadoop in action
+*模拟电子技术实验教程
+*OpenStack部署实践
+*并行算法导论 = Introduction to parallel algorithms
+*中文版Photoshop CS5完全自学教程 : 超值版
+*跨文化交际英语教程 = Intercultural communication in English
+*MySQL 5.6从零开始学 : 视频教学版
+*Java程序员教程 = Java for programmers
+*发现数据之美 = = Discover the beauty of data : 数据分析原理与实践
+*Python数据分析基础教程 : NumPy学习指南 = NumPy beginner's guide
+*Hadoop权威指南

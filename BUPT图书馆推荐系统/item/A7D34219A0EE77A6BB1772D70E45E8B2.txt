@@ -1,0 +1,13 @@
+#数据结构精讲与习题详解 : 考研辅导与答疑解惑
+#About Face 3交互设计精髓 = About Face 3 : the essentials of interaction design
+#数据结构 : C++版
+*案例学单片机 C 语言开发
+*数据结构与算法 : C语言版
+*算法精解 : C语言描述
+*用英语聊点儿身边事 : 流利口语100% Perfect!
+*TOEFL词汇词根+联想记忆法 : 乱序版
+*信号与系统
+*SQL必知必会 = Same teach yourself SQL in 10 minutes
+*生存的图像
+*操作系统 : 原理、设计与应用
+*黑客与画家 : 硅谷创业之父Paul Graham文集 = Hackers and painters : big ldeas from the computer age

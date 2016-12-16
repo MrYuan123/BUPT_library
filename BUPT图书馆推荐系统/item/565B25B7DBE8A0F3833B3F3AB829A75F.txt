@@ -1,0 +1,13 @@
+#巧学活用CISCO网络典型配置
+#计算机网络实用技术
+#30 天学通 Visual C++ 项目案例开发
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

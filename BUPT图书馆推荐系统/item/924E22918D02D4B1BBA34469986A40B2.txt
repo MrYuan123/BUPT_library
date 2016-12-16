@@ -1,0 +1,12 @@
+#Servlet & JSP 学习笔记
+#KINECT人机交互开发实践
+*Kinect应用开发实战 : 用最自然的方式与机器对话
+*用户体验草图设计工具手册 = Sketching user experiences : the workbook
+*Unity 3D游戏开发技术详解与典型案例
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

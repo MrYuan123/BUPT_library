@@ -1,0 +1,16 @@
+#实战Hadoop : 开启通向云计算的捷径
+#网络信息安全原理与技术 = Network information security principal and technology
+#Hadoop开源云计算平台
+#Java 基础与实例精解
+#网络安全基础 = Introduction to network security : 网络攻防、协议与安全
+#网络安全基础教程
+*Java并发编程实战 = Java concurrency in practice
+*软件测试 = Software testing : a craftsman's approach
+*Java 从初学到精通
+*Linux从入门到精通
+*深入云计算 : Hadoop应用开发实战详解
+*数据挖掘十大算法
+*说孝庄
+*Hadoop云计算实战 = Hadoop cloud computing practice
+*轻松学Java
+*Hadoop大数据处理 = Big data processing

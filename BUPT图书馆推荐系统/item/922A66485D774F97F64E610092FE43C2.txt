@@ -1,0 +1,18 @@
+#美国人天天在用的15000单词
+#解放国企 : 民营化的逻辑与改革路径
+#国有企业改革实录 = The reform of state-owned enterprises in memoir : 1998-2008
+#2017年考研英语大纲词汇分类精读笔记
+#股票大作手回忆录 : 珍藏版 = Reminiscences of a stock operator
+#国企改革 30 年 = The reform of state-owned enterprises in 30 years : 1978-2008走向市场经济的中国国有企业
+#国企改革三十年亲历记
+#国有产权制度改革研究
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

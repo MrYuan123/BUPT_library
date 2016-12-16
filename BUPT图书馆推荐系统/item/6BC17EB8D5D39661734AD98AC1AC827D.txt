@@ -1,0 +1,13 @@
+#Hadoop大数据处理 = Big data processing
+#Hadoop权威指南
+#Hadoop 技术内幕 : 深入解析MapReduce架构设计与实现原理 = Hadoop internals : in-depth study of MapReduce
+*JAVA 核心技术 . 卷II , 高级特性 = Core Jave . Volume II , Advanced features
+*Python 学习手册
+*数据挖掘原理、算法与应用
+*Hadoop实战 = Hadoop in action
+*EDA技术及应用 , Verilog HDL版
+*PHP从入门到精通
+*网络科学 : 原理与应用 = Network science : theory and applications
+*Spark原理、机制及应用
+*深入云计算 : Hadoop源代码分析
+*Hadoop云计算实战 = Hadoop cloud computing practice

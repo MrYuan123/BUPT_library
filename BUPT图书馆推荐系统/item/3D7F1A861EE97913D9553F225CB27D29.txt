@@ -1,0 +1,16 @@
+#无价 : 洞悉大众心理玩转价格游戏 = Priceless : the myth of fair value (and how to take advantage of it)
+#信号与系统考研指导
+#数学建模 = A first course in mathematical modeling
+#数学模型
+#鲍尔学习法 = Power learning
+#MATLAB R2014a从入门到精通
+*数学建模方法与分析 = Mathematical modeling
+*电子电路基础及通信电子电路学习指导书
+*数学建模算法与应用
+*MATLAB 在数学建模中的应用
+*复变函数典型题
+*撒冷镇 = 'Salem's lot
+*模拟电路分析与设计基础
+*信号与系统 (第三版) 习题解析
+*信号与系统重点与难点解析及模拟题
+*运筹学 = Operations research

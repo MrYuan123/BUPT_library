@@ -1,0 +1,15 @@
+#标准韩国语 . 第一册
+#计量经济学导论 = Introductory econometrics : 现代观点a modern approach
+#财务成本管理 : 经典题解
+#《计量经济学》 (第 2 版) 笔记和习题详解
+#韩国语能力考试真题解析与仿真突破 = Complete guide to the TOPIK , 初级
+*数字信号处理教程 : MATLAB释义与实现
+*高级应用计量经济学 = Advanced applied econometrics
+*计量经济学同步辅导
+*计量经济学习题集
+*商务与经济统计 = Statistics for business and economics
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

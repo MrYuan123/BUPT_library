@@ -1,0 +1,11 @@
+#Axure RP 7网站和APP原型制作从入门到精通 = Axure Rapid Prototyping 7 for web & App prototype design
+*结网@改变世界的互联网产品经理
+*墨菲定律 = Murphy's law
+*互联网产品设计 = Product design for the web
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

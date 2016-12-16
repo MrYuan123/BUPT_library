@@ -1,0 +1,11 @@
+#Node.js入门经典
+*D3.js数据可视化实战手册
+*JavaScript DOM 编程艺术 = DOM Scripting : web design with JavaScript and the document object model
+*图解HTTP
+*Node.js开发指南
+*Node.js实战 : 第2季
+*Node.js权威指南 = Node.js : the definitive guide
+*Node.js实战
+*疯狂Java讲义精粹
+*你不知道的JavaScript = Scope & closures this & object prototypes . 上卷
+*Node.js实战 = Node.js in action

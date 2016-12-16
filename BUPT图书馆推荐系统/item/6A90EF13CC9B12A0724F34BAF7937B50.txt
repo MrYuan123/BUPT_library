@@ -1,0 +1,11 @@
+#Verilog编程艺术
+*Verilog HDL与FPGA开发设计及应用
+*矩阵论 = Matrix
+*基于 Verilog HDL 的 FPGA 设计与工程应用
+*易学Python
+*Eclipse 从入门到精通
+*FPGA数字信号处理与工程应用实践 = The engineering application and digital signal processing of FPGA
+*基于Nios II的嵌入式SoPC系统设计与Verilog开发实例 = Embedded SoPC design with Nios II processor and Verilog examples
+*深入理解Altera FPGA应用设计
+*Altera系列FPGA芯片IP核详解
+*数字通信基础 = Fundamentals of digital communication

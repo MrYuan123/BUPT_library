@@ -1,0 +1,15 @@
+#Spring实战 = Spring in action
+#Objective-C编程全解
+#iOS组件与框架 : iOS SDK高级特性剖析 = iOS components and frameworks : understanding the advanced features to the iOS SDK
+#iOS网络编程与云端应用最佳实践 = iOS development insights : network and iCloud
+#微信公众平台开发最佳实践 = WeChat public platform development best practice
+*Java EE开发的颠覆者 : Spring Boot实战
+*JUnit实战 = JUnit in action
+*大话设计模式
+*图像识别与项目实践 : VC++、MATLAB技术实现
+*MySQL 5 权威指南 = The definitive guide to MySQL 5
+*LTE/LTE-Advanced-UMTS长期演进理论与实践 = LTE-LTE UMTS long term evolution : from theory to practice
+*C++ 程序设计教程
+*手把手教你学 DSP : 基于TMS320X281x
+*无线通信基础 = Fundamentals of wireless communication
+*TMS320 F2833x DSP应用开发与实践

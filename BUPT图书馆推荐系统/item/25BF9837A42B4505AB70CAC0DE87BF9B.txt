@@ -1,0 +1,12 @@
+#Spark大数据实例开发教程
+#一本书读懂大数据 : 全彩图解版
+*Spark MLlib机器学习实践
+*设计模式之禅 = The Zen of design patterns
+*Spark原理、机制及应用
+*Linux命令、编辑器与Shell编程
+*深入云计算 : Hadoop源代码分析
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

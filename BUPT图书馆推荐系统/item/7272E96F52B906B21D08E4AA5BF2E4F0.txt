@@ -1,0 +1,14 @@
+#MIMO-OFDM无线通信基带接收机设计 = Baseband receiver design for wireless MIMO-OFDM communications
+#无线通信原理与应用 = Wireless communications principles and practice
+#现代无线通信 = Modern wireless communications
+#无线通信与网络 = Wireless communications and networking
+*无线通信 = Wireless communications
+*移动通信原理
+*移动传播环境 : 理论基础·分析方法和建模技术
+*电脑硬件维修从入门到精通
+*计算机系统概论 = Introduction to computing systems
+*Verilog数字系统设计教程
+*LED可见光通信技术 = LED visible light communication technologies
+*生活与命运
+*通信概论 = Telecommunications essentials the complete global source
+*路由与交换技术

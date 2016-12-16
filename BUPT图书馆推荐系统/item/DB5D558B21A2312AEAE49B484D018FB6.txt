@@ -1,0 +1,12 @@
+#Spring实战 = Spring in action
+#图像识别与项目实践 : VC++、MATLAB技术实现
+*易经
+*Haskell趣学指南 = Learn you a haskell for great good!
+*人类群星闪耀时 : 岁月中的决定时刻
+*Java EE开发的颠覆者 : Spring Boot实战
+*JUnit实战 = JUnit in action
+*大话设计模式
+*MySQL 5 权威指南 = The definitive guide to MySQL 5
+*PHP+MySQL 开发实战
+*通信原理
+*Scala并发编程 = Learning concurrent programming in Scala

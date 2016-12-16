@@ -1,0 +1,11 @@
+#算法 = Algorithms
+*零基础学数据结构 : 24小时多媒体教学视频
+*算法的乐趣
+*JavaScript专家编程
+*了不起的Node.js : 将JavaScript进行到底 = Smashing Node. js : JavaScript everywhere
+*全分布式光纤传感技术
+*软件测试 = Software testing
+*Node与Express开发 = Web development with node and express leveraging the JavaScript stack
+*信息科学原理
+*JavaScript 权威指南
+*数据挖掘十大算法

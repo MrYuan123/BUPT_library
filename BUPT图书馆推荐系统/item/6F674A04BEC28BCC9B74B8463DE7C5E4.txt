@@ -1,0 +1,11 @@
+#区块链2.0 = Blockchain 2.0 : the times 03/Jan/2009 chancellor in brink of second bailout for banks
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

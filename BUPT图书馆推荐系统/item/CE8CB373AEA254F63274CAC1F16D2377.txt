@@ -1,0 +1,20 @@
+#Servlet/JSP 深入详解 : 基于Tomcat的Web开发
+#TCP/IP 指南 = The TCP/IP guide . 卷1 , 底层核心协议a comprehensive, illustrated internet protocols reference
+#计算机网络
+#MapReduce 2.0源码分析与编程实战
+#结构方程模型 : AMOS的操作与应用
+#深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM advanced features and best practices
+#深入理解计算机网络 = Understanding computer networks
+#Effective Java 中文版 = Effective Java
+#Redis入门指南
+#The art of public speaking =演讲的艺术 /演讲的艺术
+*Netty权威指南
+*结构方程模型 : 方法与应用
+*算法导论 = Introduction to algorithms
+*Hadoop YARN权威指南
+*Python基础教程 = Beginning python : from novice to professional
+*Java多线程编程实战指南 , 设计模式篇
+*Kali渗透测试技术实战 = Hacking with Kail : practical penetration testing techniques
+*Head First 设计模式
+*中国大学生数学建模竞赛
+*C 语言程序设计

@@ -1,0 +1,12 @@
+#人民观 : 一个民族的品质
+#现代编译原理 = Modern compiler implementation in C : C语言描述
+*Windows 系统编程 = Windows system programming
+*计算方法 : C语言版
+*C++ API设计 = API design for C++
+*实用偏微分方程 = Applied partial differential equations : with Fourier series and boundary value problems
+*游戏引擎架构 = Game engine architecture
+*C语言接口与实现 : 创建可重用软件的技术 = C interfaces and implementations : techniques for creating reusable software
+*新日本语能力测试 N3 词汇必备
+*信息论基础
+*深入 Linux 内核架构 = Professional Linux kernel architecture
+*程序设计语言 : 实践之路 = Programming language pragmatics

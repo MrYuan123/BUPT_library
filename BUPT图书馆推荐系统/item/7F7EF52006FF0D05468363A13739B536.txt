@@ -1,0 +1,11 @@
+#C++ Primer : 中文版
+*剑指Offer : 名企面试官精讲典型编程题
+*Python编程入门 = Python : Visual quickstart guide
+*C++ 程序设计语言 = The C++ programming language
+*LTE系统原理及应用
+*TD-LTE-Advanced移动通信系统设计 = TD-LTE-Advanced mobile communications system design
+*程序员历年试题分析与解答
+*零基础学数据结构 : 24小时多媒体教学视频
+*数据结构及应用算法教程
+*数据结构与面向对象程序设计 : C++版
+*LTE 空中接口技术与性能

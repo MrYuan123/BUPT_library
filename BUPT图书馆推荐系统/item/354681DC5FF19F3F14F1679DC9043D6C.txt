@@ -1,0 +1,18 @@
+#Java语言面向对象程序设计
+#数据库系统原理及MySQL应用教程
+#商务经济统计学
+#Java 编程思想 = Thinking in Java
+#Java核心技术 . 卷II , 高级特性 = Core Java . Volume II : advanced features
+#算法导论 = Introduction to algorithms
+#机器学习实战 = Machine learning in action
+#MongoDB权威指南 = MongoDB : the deinitive guide
+*管理学 = Management
+*Java开发宝典 = The bible for Java developer
+*现代企业管理
+*Python 开发技术详解
+*Python 学习手册
+*深入浅出Node.js
+*第一行代码 : Android
+*疯狂Java讲义
+*算法设计与分析
+*深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM advanced features and best practices

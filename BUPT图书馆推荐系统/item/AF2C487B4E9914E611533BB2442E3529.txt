@@ -1,0 +1,23 @@
+#程序员的数学思维修练 : 趣味解读
+#世界文明简史 = The story of mankind
+#大话数据挖掘
+#审计学原理 = Auditing principles
+#Spark大数据处理 : 技术、应用与性能优化 = Data processing with spark : technology, application and performance optimization
+#疯狂 Java 实战演义
+#灵魂之匣
+#六级词汇词根 + 联想记忆法 : 乱序版
+#数据结构与算法 : Java版
+#轻量级Java EE程序设计及实践
+#MySQL高效编程
+#JavaEE编程及应用开发
+#疯狂Java : 突破程序员基本功的16课
+*大话数据结构 = Play with data structure
+*Head First Java (中文版)
+*Spark核心技术与高级应用 = Spark core technology and advanced applications
+*推荐系统 = Recommender systems handbook : 技术、评估及高效算法
+*Java Web技术及应用
+*MongoDB入门经典
+*MySQL数据库管理与开发实践教程
+*C++ PRIMER 中文版 = C++ Primer
+*Java程序设计教程 = Textbook for programming in Java
+*疯狂Java讲义

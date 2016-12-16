@@ -1,0 +1,12 @@
+#语音信号处理
+#信息隐藏与数字水印
+*数字水印理论与技术
+*数据库原理及SQL Server
+*数据挖掘 : 方法与应用
+*数据库技术与应用 : SQL Server
+*Python黑帽子 : 黑客与渗透测试编程之道 = Black hat python : python programming for hackers and pentesters
+*信息隐藏与数字水印实验教程
+*SQL注入攻击与防御
+*数据结构和 Java 集合框架
+*数据结构 : Java语言描述
+*黑客防线 : 2010合订本 . 上半年

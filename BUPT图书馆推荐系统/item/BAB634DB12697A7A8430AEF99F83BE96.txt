@@ -1,0 +1,12 @@
+#发展经济学 = Development economics : 超边际与边际分析inframarginal versus marginal analyses
+#新兴古典经济学与超边际分析 = New classical economics and inframarginal analysis
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

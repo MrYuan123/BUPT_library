@@ -1,0 +1,15 @@
+#数据库设计教程 = Database solutions : a step-by-step guide to building database
+#七周七并发模型 = Seven concurrency models in seven weeks : when threads unravel
+#C++并发编程实战 = C++ concurrency in action
+#高质量程序设计指南 : C++/C语言
+#The algorithm design manual =算法设计手册 /算法设计手册
+*MATLAB 与控制系统仿真实践
+*TCP/IP 协议族
+*通信原理 : 基于Matlab的计算机仿真
+*现代控制系统 = Modern control systems
+*商业模式新生代 = Business model generation
+*重构与模式 = Refactoring to patterns
+*Java 8函数式编程 = Java 8 lambdas functional programming for the masses
+*Linux Shell脚本攻略 = Linux Shell Scripting Cookbook
+*消息设计与开发 : 分布式应用开发的核心技术
+*Spring 揭秘

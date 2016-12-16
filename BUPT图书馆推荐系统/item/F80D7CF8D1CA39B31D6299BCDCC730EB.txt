@@ -1,0 +1,13 @@
+#大话数据结构 = Play with data structure
+#Excel 2013从新手到高手
+#大话数据挖掘
+*编程之美 : 微软技术面试心得
+*Head First Java (中文版)
+*Head First Python中文版
+*通信原理习题集
+*大话移动APP测试 : Android与iOS应用测试指南
+*JavaScript DOM 编程艺术 = DOM Scripting : web design with JavaScript and the document object model
+*Java语言程序设计 , 基础篇 = Introduction to Java programming , Comprehensive version
+*这一辈子
+*通信原理
+*CSS 基础教程 = Beginning CSS web development

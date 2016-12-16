@@ -1,0 +1,13 @@
+#微信公众平台应用开发实战
+#数据库系统导论 = An Introduction to database systems
+#数据库系统原理及应用
+*微波工程 = Microwave engineering
+*微波技术与天线
+*微波与射频技术实验教程
+*jQuery Mobile移动网站开发
+*微信公众平台开发与案例分析
+*贯通 Tomcat 开发 : Java Web 开发配置、整合、应用开发详解
+*HTML、CSS、JavaScript网页制作从入门到精通
+*微信公众平台搭建与开发揭秘
+*Android开发实例大全
+*C#基础与案例开发祥解

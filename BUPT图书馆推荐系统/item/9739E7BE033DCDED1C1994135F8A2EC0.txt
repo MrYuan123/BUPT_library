@@ -1,0 +1,13 @@
+#数据库处理 : 基础、设计与实现 = Database processing : fundamentals, design, and implementation
+#概率统计与随机过程习题解集
+#自然辨证法新编
+*混沌 : 开创新科学 = Chaos : Making a new science
+*数字媒体中的隐写术 : 原理, 算法和应用 = Steganography in digital media : principles, algorithms and applications
+*光荣与梦想之一 = The glory and the dream : 大萧条与罗斯福新政1932-1941插图本
+*随机过程及其应用
+*国际会议与演讲英语 = English for international conference and oral presentation
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

@@ -1,0 +1,11 @@
+#Verilog HDL数字设计与综合 : 本科教学版 = Verilog HDL : a guide to digital design and synthesis
+*Verilog 数字系统设计教程
+*Java 7从入门到精通
+*Verilog 嵌入式数字系统设计教程 = Digital design : ean embedded systems approach using Verilog
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

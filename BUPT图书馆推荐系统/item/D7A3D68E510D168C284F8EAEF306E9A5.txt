@@ -1,0 +1,14 @@
+#代码大全 = Code complete
+#数据结构与算法分析 : C++版 = Data structures and algorithm analysis in C++
+#C++ 高级编程 = Professional C++
+#面向对象软件工程 = Object-oriented software engineering
+*交互式计算机图形学 : 基于WebGL的自顶向下方法 = Interactive computer graphics : a top-down approach with WebGL
+*C# 本质论 = Essential C# 4.0
+*Unity 3D人工智能编程 = Unity 4.x game ai programming
+*金字塔原理 : 思考、写作和解决问题的逻辑 = The minto pyramid principle : logic in writing thinking & problem solving
+*左传
+*组合数学及其应用
+*Python 源码剖析 : 深度探索动态语言核心技术
+*深入理解计算机系统 = Computer systems : a programmer's perspective
+*深入理解计算机系统 = Computer systems : a programmer's perspctive
+*实变函数论与泛函分析 . 上册

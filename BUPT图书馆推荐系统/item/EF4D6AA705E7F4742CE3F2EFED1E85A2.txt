@@ -1,0 +1,15 @@
+#Photoshop + Lightroom摄影师必备后期处理技法
+#泊松点过程 : 成像、跟踪和感知 = Poisson point processes : imaging, tracking and sensing
+#实战Gradle = Gradle in action
+#Lightroom 5照片后期处理从入门到精通
+#网络性能分析原理与应用
+*大学英语六级词汇 : 熟记这些词就够
+*Photoshop CC人像调色秘籍一本通
+*Core Java.Vol. I,Fundamentals =Java核心技术.卷I,基础知识.上 /Java 核心技术
+*新日本语能力测试50天逐级突破N5 N4 N3阅读天天做
+*面对面 : Rick Sammon人像摄影完全指南
+*构图决定一切 = Composition is everything
+*Core Java.Vol. I,Fundamentals =Java核心技术.卷I,基础知识.下 /Java 核心技术
+*C++ 实用编程技术 : 百例精编与妙解
+*数码单反摄影完全宝典
+*自然摄影经典教程

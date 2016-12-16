@@ -1,0 +1,14 @@
+#分布式系统及云计算概论
+#从Paxos到Zookeeper分布式一致性原理与实践
+#大型分布式网站架构设计与实践
+#分布式 Java 应用 : 基础与实践
+*数据结构实用教程 : Java语言描述
+*Java学习指南 . 上册
+*解密搜索引擎技术实战 : Lucene & Java精华版
+*开发自己的搜索引擎 : Lucene + Heritrix
+*儒教简史
+*数据挖掘原理 = Principles of data mining
+*梁启超论儒家哲学
+*恰如其分的软件架构 : 风险驱动的设计方法 = Just enough software architecture : a risk-driven approach
+*VxWorks 内核、设备驱动与 BSP 开发详解
+*Redis入门指南

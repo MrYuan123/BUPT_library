@@ -1,0 +1,15 @@
+#MySQL技术精粹 : 架构、高级特性、性能优化与集群实战
+#Nginx模块开发指南 : 使用C++11和Boost程序库
+#互联网+制造 : 发现工业4.0时代微蓝海 = Internet plus manufacture : strategy of micro blue ocean in the era of industrie 4.0
+#美国的痛点 : 科学否定派如何威胁我们的未来 = Reality check : how science deniers threaten our future
+#向前一步 : 女性、工作及领导意志 = Lean in for graduates
+*软件测试技术、方法和环境
+*软件工程
+*Linux shell脚本攻略
+*解密搜索引擎技术实战 : Lucene & Java精华版
+*MySQL 性能调优与架构设计
+*大型网站系统与Java中间件实践
+*MySQL技术内幕 : SQL编程 = Inside MySQL : SQL programming
+*Python 核心编程
+*数据结构与算法分析 = Data structures and algorithm analysis in Java : Java语言描述
+*MySQL 实用教程

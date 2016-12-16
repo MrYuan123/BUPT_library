@@ -1,0 +1,12 @@
+#信道编码与MATLAB仿真
+#光纤通信
+*纠错编码原理及MATLAB实现
+*Turbo 与 LDPC 编解码及其应用
+*城域网组网技术与业务运营
+*城域网多业务传送理论与技术
+*光纤光学前沿
+*光纤通信技术 = Optical fiber communications technology
+*信息论基础
+*光纤通信系统
+*移动通信原理与应用
+*差错控制编码 = Error control coding

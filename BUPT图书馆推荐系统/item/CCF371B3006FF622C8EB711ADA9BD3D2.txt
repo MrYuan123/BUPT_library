@@ -1,0 +1,11 @@
+#Node.js开发实战详解
+*神经网络 = Neural networks
+*Node.js权威指南 = Node.js : the definitive guide
+*Scala 编程 = Programming in Scala
+*AngularJS权威教程 = The complete book on AngularJS
+*Node.js项目实践 : 构建可扩展的Web应用 = Practical node.js : building real-world scalable web apps
+*JavaScript & jQuery交互式Web前端开发
+*Node与Express开发 = Web development with node and express leveraging the JavaScript stack
+*计算机网络
+*线性代数
+*高等数学 . 上册

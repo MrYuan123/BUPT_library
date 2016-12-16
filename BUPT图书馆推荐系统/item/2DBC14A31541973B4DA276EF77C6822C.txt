@@ -1,0 +1,12 @@
+#模式识别 = Pattern recognition
+#特征提取与图像处理 = Feature extraction and image processing
+*Docker技术入门与实战
+*Java 语言程序设计 = Introduction to Java programming , 基础篇comprehensive version
+*实施工业4.0 : 智能工厂的生产·自动化·物流及其关键技术、应用迁移和实战案例
+*数字图像处理 : MATLAB版 : 本科教学版 = Digital image processing using MATLAB
+*图像模式识别 : VC++技术实现
+*C# 数字图像处理算法典型实例
+*Digital image processing =数字图像处理 /数字图像处理
+*小波变换与图像处理
+*中国哲学简史
+*计算机视觉教程 = A Course of computer vision

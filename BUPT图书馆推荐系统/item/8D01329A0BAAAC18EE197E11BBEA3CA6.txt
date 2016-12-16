@@ -1,0 +1,30 @@
+#Altera FPGA/CPLD 设计 , 基础篇
+#ACM 图灵奖 = The ACM turing award (1966-2006) : 1966-2006计算机发展史的缩影an epitomized history of computing in the twentieth-century
+#体验 : 未来业务新场景 = What's the future of business : changing the way businesses create experiences
+#Verilog编程艺术
+#算法设计与分析基础 = Introduction to the design and analysis of algorithms
+#打破思维里的框 : 激发创造力只需五步 = Thinking in new boxes : a new paradigm for business creativity
+#用 TCP/IP 进行网际互连 = Internetworking with TCP/IP . 第一卷Volume I , 原理、协议与结构principles, protocols, and architectures
+#TCP/IP协议原理与应用
+#互联网伦理 : 信息时代的道德重构 = Ethics for the information age
+#机器学习实践指南 = The practice of machine learning : 案例应用解析
+#Altera FPGA/CPLD 设计 , 高级篇
+#TCP/IP 高效编程 : 改善网络程序的44个技巧 = Effective TCP/IP programming : 44 tips to improve your network programs
+#美国的本质 : 基督新教支配的国家和外交
+#这就是欧洲史！ = European history
+#代码之美
+#迷茫的旅行商 : 一个无处不在的计算机算法问题 = In pursuit of the traveling salesman : mathematics at the limits of computation
+#学会提问 = Asking the right questions : a guide to critical thinking
+#代码之殇 = I. M. Wright's "hard code" : a decade of hard-won lessons from Microsoft
+#设计原本 : 计算机科学巨匠Frederick P. Brooks的反思 = The Design of design : essays from a computer scientist
+#深入理解云计算 : 基本原理和应用程序编程技术 = Mastering cloud computing : foundations and applications programming
+*C++ 程序设计语言 = The C++ programming language
+*托福词汇速记精典
+*C++ 面向对象程序设计习题解答与上机指导
+*修出好照片 : 数码照片处理核心技法
+*深入浅出玩转FPGA
+*FPGA/CPLD边练边学 : 快速入门Verilog/VHDL
+*Griffiths量子力学概论学习指导与习题解答
+*人工神经网络教程
+*模式识别
+*概率论与数理统计

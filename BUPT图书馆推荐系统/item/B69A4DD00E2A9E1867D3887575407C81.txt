@@ -1,0 +1,14 @@
+#图像识别与项目实践 : VC++、MATLAB技术实现
+#易经
+#人类群星闪耀时 : 岁月中的决定时刻
+#Haskell趣学指南 = Learn you a haskell for great good!
+*Spring实战 = Spring in action
+*AngularJS开发秘籍
+*Python计算机视觉编程 = Programming computer vision with Python
+*编写可读代码的艺术
+*精通Linux = How Linux works : what every superuser should know
+*Linux shell脚本攻略
+*HTTP权威指南 = HTTP : the definitive guide
+*MongoDB入门经典
+*Haskell函数式编程基础 = Haskell : the craft of functional programming
+*精通Puppet配置管理工具 = Pro Puppet

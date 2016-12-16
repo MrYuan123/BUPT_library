@@ -1,0 +1,13 @@
+#TMS320C674x DSP应用开发
+#TMS320C6000 系列 DSP 编程工具与指南
+#通信系统中的多采样率信号处理 = Multirate signal processing for communication systems
+*数字通信 : 基础与应用 = Digital communications : fundamentals and applications
+*数字通信 = Digital communications
+*TMS320 C6000 DSP 结构原理与硬件设计
+*腾云 : 云计算和大数据时代网络技术揭秘
+*高性能MySQL = High performance MySQL
+*TMS320C6000 系列 DSP 开发应用技巧 : 重点与难点部析
+*MySQL技术内幕 : SQL编程 = Inside MySQL : SQL programming
+*TD-LTE 网络规划设计与优化 = TD-LTE network planning, design and optimization
+*LTE/LTE-Advanced-UMTS长期演进理论与实践 = LTE-LTE UMTS long term evolution : from theory to practice
+*高可用MySQL = MySQL high availability

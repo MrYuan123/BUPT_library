@@ -1,0 +1,18 @@
+#信息科学原理
+#数学之美 = Beauty of mathematics
+#数据挖掘十大算法
+#算法 = Algorithms
+#PHP编程 = Programming PHP
+#程序员的数学
+#统计自然语言处理基础 = Foundations of statistical natural language processing
+#JavaScript 权威指南
+*了不起的Node.js : 将JavaScript进行到底 = Smashing Node. js : JavaScript everywhere
+*Linux Shell脚本攻略 = Linux Shell Scripting Cookbook
+*量子保密通信协议的设计与分析
+*Go语言编程 = The Go programming language
+*Hadoop实战 = Hadoop in action
+*咔咔! 我是日语语法书
+*CSS 权威指南
+*C++ Primer 中文版
+*21天学通JavaScript
+*Learning PHP, MySQL, JavaScript和CSS

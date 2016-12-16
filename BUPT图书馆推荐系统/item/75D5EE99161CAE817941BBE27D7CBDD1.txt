@@ -1,0 +1,12 @@
+#KVM虚拟化技术 : 实战与原理解析 = KVM : principles and practices
+#SQL Server 2000 实验指导
+*博弈论
+*Shell 脚本学习指南
+*MIMO-OFDM系统原理、应用及仿真
+*从算法到程序
+*STL源码剖析 = The Annotated STL sources
+*MIMO-OFDM无线通信技术及MATLAB实现 = MIMO-OFDM wireless communications with MATLAB
+*无线网络中的博弈论研究 = = Game theory for wireless engineers
+*Effective C++ 中文版 = Effective C++
+*最优化方法
+*计算机网络

@@ -1,0 +1,14 @@
+#JavaScript编程全解
+#JavaScript 开发技术详解
+#Linux 操作系统原理与应用
+#HTML + CSS网页设计实践教程
+*jQuery Mobile入门经典
+*jQuery从菜鸟到忍者
+*通信原理典型题解析及自测试题
+*操作系统习题解答与考试复习指导 = Detailed analysis and solutions of operating system for examination
+*Java程序设计
+*Java程序设计案例教程与实训
+*HTML与CSS网页设计教学做一体化教程
+*通信原理全程学习指导与习题精解 : 国防工业第六版
+*微机原理及应用教学辅导与习题解析
+*Java ME程序开发实用教程

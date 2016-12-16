@@ -1,0 +1,17 @@
+#高速光纤传输系统
+#空间多维协同传输理论与关键技术 = Spatial multidimensional cooperative transmission theories and key technologies
+#超长距离光传输技术基础及其应用
+#自适应滤波算法与实现 = Adaptive filtering : algorithms and practical implementation
+#多载波通信 = Multicarrier communications
+#光通信中的 OFDM = OFDM for optical communications
+#MIMO 通信系统编码 = Coding for MIMO communication systems
+*无线通信的 MATLAB 和 FPGA 实现
+*MIMO 无线通信 : 从真实世界的传播到空-时编码的设计 = MIMO wireless communications : from real-world propagation to space-time code design
+*数据结构与STL
+*紫外光自组织网络理论
+*无线光通信
+*光纤通信技术
+*信息通信系统接入网维护管理概要
+*面向新型业务的宽带接入网
+*无源光网络技术
+*最优状态估计 : 卡尔曼, H及非线性滤波

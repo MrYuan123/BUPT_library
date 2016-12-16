@@ -1,0 +1,13 @@
+#PowerPoint 2010幻灯片制作完美互动手册
+#PowerPoint 2013从新手到高手
+#隐私权研究 : 以体系构建为中心 = Research on the right of privacy : focusing on systematic construction
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

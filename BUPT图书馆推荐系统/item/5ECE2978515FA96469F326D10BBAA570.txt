@@ -1,0 +1,21 @@
+#MATLAB神经网络编程
+#机器学习基础教程 = A First course in machine learning
+#城市道路智能交通控制技术
+#现代博弈论基础
+#MATLAB神经网络原理与实例精解
+#MATLAB 神经网络 30 个案例分析
+#MATLAB神经网络30例
+#MATLAB 神经网络应用设计
+#交通信息智能预测理论与方法
+#MATLAB神经网络43个案例分析
+#神经网络在应用科学和工程中的应用 : 从基本原理到复杂的模式识别
+*日语汉字音研究
+*MATLAB优化算法案例分析与应用
+*MATLAB优化算法案例分析与应用 , 进阶篇
+*人工智能实用教程
+*人工智能
+*MATLAB智能算法超级学习手册
+*MATLAB神经网络超级学习手册
+*神经网络原理 = Neural networks : a comprehensive foundation
+*神经网络设计方法与实例分析
+*精通 MATLAB 神经网络

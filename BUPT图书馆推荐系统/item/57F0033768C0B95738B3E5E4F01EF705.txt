@@ -1,0 +1,14 @@
+#实战Java虚拟机 : JVM故障诊断与性能优化
+#量化研究与统计分析 : SPSS (PASW) 数据分析范例解析
+#问卷统计分析实务 : SPSS操作与应用
+#Java 网络编程
+*结构方程模型 : AMOS的操作与应用
+*结构方程模型 : Amos 实务进阶
+*文明之光 = Civilizations and enlightenments . 第三册
+*文明之光 = Civilizations and enlightenments . 第一册
+*数据挖掘导论 : 完整版 = Introduction to data mining
+*Spark MLlib机器学习 : 算法、源码及实战详解
+*数据预处理 : 数据归约的统计方法研究及应用
+*莎士比亚全集 . Ⅰ
+*火车上的女孩 = The girl on the train
+*实战移动互联网营销 = Mobile internet marketing in action : 7 key key factors

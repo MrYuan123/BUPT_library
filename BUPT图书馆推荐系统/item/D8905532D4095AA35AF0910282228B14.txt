@@ -1,0 +1,12 @@
+#Node.js入门经典
+#D3.js数据可视化实战手册
+*数据挖掘 : 概念与技术 = Data mining : concepts and techniques
+*数据仓库与数据挖掘教程
+*数据挖掘技术及应用
+*JavaScript DOM 编程艺术 = DOM Scripting : web design with JavaScript and the document object model
+*图解HTTP
+*Node.js开发指南
+*Node.js实战 : 第2季
+*Node.js权威指南 = Node.js : the definitive guide
+*Node.js实战
+*疯狂Java讲义精粹

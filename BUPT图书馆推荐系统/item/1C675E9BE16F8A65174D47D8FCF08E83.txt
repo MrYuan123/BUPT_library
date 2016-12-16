@@ -1,0 +1,13 @@
+#模拟电子技术基础
+#电路分析基础
+#信号与系统
+*足球的科学 = The science of soccer
+*复变函数与积分变换
+*模拟电子技术基础习题解答
+*诗经
+*嵌入式开发工程师入行手册
+*数字设计与Verilog实现 = Digital design with an introduction to the Verilog HDL
+*数字信号处理
+*费恩曼物理学讲义 . 第2卷 = The Feynman lectures on physics . Volume Ⅱ
+*信号与系统学习指导及题解
+*名著的力量 = Literary impact of masterpieces : 向文学大师学英语

@@ -1,0 +1,13 @@
+#信息论基础及应用
+#信息论基础
+#图论导引 = Introduction to graph theory
+*信息论与编码
+*Web 搜索 = Web search
+*Shell 脚本学习指南
+*数据库系统 = Database systems : 概念、设计及应用concepts, design and applications
+*十天突破新托福 ESSAYS = The Ten-day step-by-step guide to the TOEFL iBT writing module
+*分布式系统 = Distributed systems : 概念与设计concepts and design
+*拯救我的新GRE写作 = Saving my revised GRE argument
+*数学建模方法与分析 = Mathematical modeling
+*线性代数应该这样学 = Linear algebra done right
+*信息论

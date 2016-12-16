@@ -1,0 +1,13 @@
+#机器学习方法
+#从 Java 走向 Java EE
+#J2EE 项目实训 : Spring 框架技术
+*Python标准库 = The Python standard library by example
+*机器学习及其应用2011
+*Eclipse 从入门到精通
+*Hadoop权威指南
+*软件定义网络 : 原理、技术与实践 = Software defined networks : a comprehensive approach
+*大数据 : 战略·技术·实践
+*JSP实训教程
+*疯狂XML讲义
+*实战大数据 : DT时代智能组织工作方法
+*MySQL技术内幕 : SQL编程 = Inside MySQL : SQL programming

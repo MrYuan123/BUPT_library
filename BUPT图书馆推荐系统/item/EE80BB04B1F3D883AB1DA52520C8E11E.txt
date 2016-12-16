@@ -1,0 +1,11 @@
+#现代控制理论
+*矩阵分析
+*步进电动机伺服控制技术
+*计算机操作系统
+*数据结构教程 : C++版
+*计算机网络
+*计算机组成与体系结构 : 性能设计 = Computer organization and architecture : designing for performance
+*VxWorks嵌入式实时操作系统设备驱动与BSP开发设计
+*VxWorks 内核、设备驱动与 BSP 开发详解
+*计算机网络
+*线性代数

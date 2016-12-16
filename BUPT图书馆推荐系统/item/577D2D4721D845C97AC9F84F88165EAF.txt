@@ -1,0 +1,13 @@
+#UG NX 8.5运动分析教程
+#机构动态仿真 : 使用MATLAB和SIMULINK = Simulations of machines : Using MATLAB and SIMULINK
+#机械原理教程
+*高等机构学
+*Mathematica基础与应用
+*神经网络与机器学习 = Neural networks and learning machines
+*Mathematica 7 实用教程 = Step up to mathematica 7
+*机器人机构学的数学基础
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

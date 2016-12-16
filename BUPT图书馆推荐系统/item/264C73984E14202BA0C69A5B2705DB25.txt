@@ -1,0 +1,15 @@
+#代码整洁之道
+#数据挖掘导论 = Introduction to data mining
+#New Internet : 大数据挖掘
+#编程珠玑 . 续 = More programming pearls
+#浪潮之巅 = On top of tides . 下册
+*浪潮之巅 = On top of tides . 上册
+*STL源码剖析 = The Annotated STL sources
+*Natural language processing with Python =Python自然语言处理 /自然语言处理
+*Python 核心编程
+*数据结构与程序设计 : C语言
+*代码阅读 = Code reading : the open source perspective
+*数据之美
+*数据挖掘 = Data mining : 实用机器学习技术practical machine learning tools and techniques
+*Java核心技术 . 卷1 , 基础知识 = Core Java . Volume I , Fundamentals
+*网站数据挖掘与分析 : 系统方法与商业实践 = Web data mining and analysis : systematic approach and business practice

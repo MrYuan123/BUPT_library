@@ -1,0 +1,12 @@
+#软件定义网络核心原理与应用实践 = SDN core principles and application practice
+#深度解析SDN : 利益、战略、技术、实践
+*SDN核心技术剖析和实战指南 = Deciphering SDN : core techniques and practical guide
+*软件定义网络 : SDN与OpenFlow解析 = SDN : software defined networks
+*软件定义网络 : 原理、技术与实践 = Software defined networks : a comprehensive approach
+*软件定义网络技术及应用
+*信息中心网络
+*SDN :software defined networks = 软件定义网络 /Software Defined Networks
+*算法之道 = Ex nihilo : algorithmica logos
+*Python入门经典 = The Practice of computing using Python : 以解决计算问题为导向的Python编程实践
+*Cisco IPSec VPN实战指南
+*算法技术手册

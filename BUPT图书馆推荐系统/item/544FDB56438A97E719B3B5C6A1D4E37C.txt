@@ -1,0 +1,12 @@
+#MATLAB技术大全
+#MATLAB工程与科学绘图 = MATLAB drawing engineering and science
+*应用MATLAB实现神经网络
+*TOEFL 核心词汇 21 天突破
+*矩阵分析 = Marix analysis
+*学术交流 = Academic communication : 博士研究生英语视听说教程
+*巧学活用Linux
+*金融知识国民读本
+*计算机科学中的逻辑学
+*数学哲学
+*从大学数学走向现代数学
+*大嘴巴漫谈数据挖掘

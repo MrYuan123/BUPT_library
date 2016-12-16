@@ -1,0 +1,11 @@
+#Java Web编程实战宝典 : JSP+Servlet+Struts 2+Hibernate+Spring+Ajax
+*SSH框架整合实战教程
+*JavaScript详解 = JavaScript by example
+*疯狂Workflow讲义 : 基于Activiti的工作流应用开发
+*Hibernate 开发与实战
+*Struts 2+Hibernate+Spring整合开发深入剖析与范例应用
+*Java 开发典型模块大全
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

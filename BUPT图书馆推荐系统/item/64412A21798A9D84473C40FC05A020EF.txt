@@ -1,0 +1,16 @@
+#C#本质论 = Essential C# 5.0
+#LTE网络规划设计手册 = LTE network planning and design handbook
+#学习R = Learning R
+#SQL Server 2012数据库应用案例课堂
+#C++ Primer 中文版
+#MySQL技术内幕
+*C++ Primer (第4版) 习题解答
+*每天读点英文感动你一生的英文全集
+*涂抹MySQL : 跟着三思一步一步学MySQL
+*数据挖掘 : R语言实战
+*MySQL核心技术与最佳实践 = MySQL core technology & best practice
+*LTE协议栈与信令分析 = LTE protocol stack and signaling analysis
+*Hadoop大数据处理 = Big data processing
+*高级无线网络 : 4G技术
+*移动通信基础
+*LTE无线网络规划与设计 = LTE wireless network planning & design

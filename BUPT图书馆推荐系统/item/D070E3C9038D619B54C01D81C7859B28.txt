@@ -1,0 +1,17 @@
+#光纤通信技术 = Optical fiber communications
+#通信原理 : 精简本
+#大话移动通信
+#无线通信技术概论
+#现代交换原理与技术
+#综合宽带接入技术
+#光纤通信原理与应用
+*计算机通信与网络
+*现代交换技术
+*Java语言程序设计
+*通信原理 (第7版) 学习辅导与考研指导
+*微机原理与接口技术
+*移动通信原理与系统
+*移动通信原理、系统及技术
+*大客户销售谋攻之道 = Key account selling: strategy and planning
+*3GPP 长期演进 (LTE) 系统架构与技术规范 = 3GPP long term evolution : architecture and specification
+*大话5G = The myth of 5G

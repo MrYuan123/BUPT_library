@@ -1,0 +1,21 @@
+#2013年计算机专业基础综合考试习题详解 . I , 计算机组成原理+计算机网络
+#2015年计算机专业基础综合历年统考真题及思路分析
+#操作系统答疑解惑与典型题解
+#数据结构高分笔记之习题精析扩展
+#操作系统考研习题精析 = Analysis and solution of operating system for graduate entrance examination
+#数据结构习题解析
+#2014年历年名校计算机考研自主命题真题及思路分析
+#计算机系统结构教程
+#2016考研数学接力题典1800 : 通关 高分 夺冠必备 , 数学一
+#2013年计算机专业基础综合考试习题详解 . Ⅱ , 数据结构+操作系统
+#计算机系统结构学习指导与题解
+*2014年计算机专业基础综合历年统考真题及思路分析
+*即用即查 Linux 命令行实例参考手册
+*Spring实战 = Spring in action
+*Hibernate程序开发
+*数据结构实验教程 : 基于C语言
+*数据结构重点难点问题剖析
+*信号与系统分析学习指导与习题详解
+*不能承受的生命之轻 = L'insoutenable legerete de l'etre
+*Hadoop MapReduce实战手册
+*Effective C++ : 改善程序与设计的55个具体做法 : 中文版 = Effective C++ : 55 specific ways to improve your programs and designs

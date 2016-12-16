@@ -1,0 +1,12 @@
+#编译原理 = Compilers : principles, techniques and tools
+#汇编语言 : 基于Linux环境
+*加密与解密
+*柔性字符串匹配 = Flexible pattern matching in strings : practical on-line search algorithms for texts and biological sequences
+*自动机理论、语言和计算导论 = Introduction to automata theory, languages, and computation
+*计算机体系结构 : 量化研究方法 = Computer architecture : a quantitative approach
+*应用密码学手册 = Handbook of applied cryptography
+*计算机图形学 = Fundamentals of computer graphics
+*深度探索C++对象模型 = Inside the C++ object model
+*应用密码学 : 协议、算法与C源程序 = Applied cryptography : protocols, algorithms, and source code in C
+*移动Ad Hoc网络 = Mobile Ad Hoc networking
+*云计算 : 概念、技术与架构 = Cloud computing : concepts, technology & architecture

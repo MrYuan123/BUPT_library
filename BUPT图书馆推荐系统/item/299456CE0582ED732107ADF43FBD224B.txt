@@ -1,0 +1,11 @@
+#博弈论与信息经济学
+*经济博弈论
+*深入浅出统计学 = Head first statistics
+*博弈论与经济模型
+*先秦诸子八大家
+*MATLAB建模与仿真
+*R语言实战 = R in action : data analysis and graphics with R
+*100年26篇最原声名家励志演讲
+*雅思机经词汇精选
+*统计学 : 基于Excel和R语言
+*矩阵论

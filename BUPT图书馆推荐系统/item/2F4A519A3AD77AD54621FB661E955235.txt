@@ -1,0 +1,12 @@
+#计算机网络 : 系统方法 = Computer networks : a systems approach
+#Python 高级编程
+*你不知道的JavaScript = Scope & closures this & object prototypes . 上卷
+*Python宝典
+*数据挖掘 : 概念、模型、方法和算法
+*大数据算法 = Big data algorithms
+*基于 Struts2 + Hibernate + Spring 实用开发指南
+*高级人工智能
+*大学 C/C++ 程序设计案例教程
+*C++ 程序设计
+*Web数据挖掘
+*Java 语言程序设计 = Introduction to Java programming , 进阶篇

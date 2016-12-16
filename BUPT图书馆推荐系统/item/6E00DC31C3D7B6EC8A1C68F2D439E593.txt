@@ -1,0 +1,19 @@
+#查令十字街84号
+#数据挖掘与R语言 = Data mining with R : learning with case studies
+#R语言数据挖掘方法及应用
+#褚时健传
+#Copula 理论及其在金融分析上的应用
+#MATLAB 统计分析与应用 : 40个案例分析
+#一生家国 : 李光耀传奇
+#金融时间序列分析 = Analysis of financial time series
+#金融计量学 : 时间序列分析视角
+*时间序列分析及应用 : R语言 = Time series analysis with applications in R
+*应用时间序列分析 = Applied time series analysis
+*深入理解云计算 : 基本原理和应用程序编程技术 = Mastering cloud computing : foundations and applications programming
+*架构大数据 : 大数据技术及算法解析
+*第四范式 : 数据密集型科学发现
+*盗墓笔记 , 七星鲁王宫
+*希拉里传 = A woman in charge : 掌权美国的女人the life of Hillary Rodham Clinton
+*中国饭局里的潜规则
+*盗墓笔记 . 捌 , 大结局 . 下
+*盗墓笔记 . 柒

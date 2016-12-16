@@ -1,0 +1,12 @@
+#Python 参考手册 = Python essential reference
+#Python入门经典
+*Google软件测试之道 : 像Google一样进行软件测试
+*零基础学算法
+*社会工程 : 安全体系中的人性漏洞 = Social engineering : the art of human hacking
+*算法之美 : 隐匿在数据结构背后的原理 : C++版
+*数据结构及应用算法教程
+*Java Web开发入门很简单
+*趣学Python编程 = Python for kids
+*Python编程入门 = Python : Visual quickstart guide
+*零基础学Python
+*Python数据分析基础教程 : NumPy学习指南 = NumPy beginner's guide

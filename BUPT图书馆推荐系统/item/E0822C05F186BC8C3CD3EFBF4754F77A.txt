@@ -1,0 +1,14 @@
+#公民常备实用法律手册
+#1000 个心理游戏
+#降龙十八掌 = 18 skills for managing effectively : 用人管人的18种技能
+#先做人 后做事
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

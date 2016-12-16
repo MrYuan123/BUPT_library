@@ -1,0 +1,17 @@
+#数学建模方法与分析 = Mathematical modeling
+#MATLAB数学实验与建模
+#优化建模与 LINDO/LINGO 软件
+#SPSS 19.0统计分析入门与提高
+#SPSS 19.0统计分析综合案例详解
+#Mathematica基础及其在数学建模中的应用
+#数学建模算法与应用
+*数学模型
+*数学建模入门与提高
+*数学建模 = A first course in mathematical modeling
+*数学建模
+*MATLAB GUI设计学习手记
+*Python编程入门 = Python : Visual quickstart guide
+*数据挖掘方法与模型 = Data mining methods and models
+*网络科学导论 = Network science : an introduction
+*会声会影X8视频剪辑完全自学一本通
+*Photoshop+Lightroom数码摄影后期实战宝典

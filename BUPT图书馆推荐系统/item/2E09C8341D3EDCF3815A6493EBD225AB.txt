@@ -1,0 +1,15 @@
+#概率论与数理统计
+#迷茫的旅行商 : 一个无处不在的计算机算法问题 = In pursuit of the traveling salesman : mathematics at the limits of computation
+#人工神经网络教程
+#模式识别
+#算法学 = Algorithmics : 计算精髓the spirit of computing
+*Python 基础教程 = Beginning Python from novice to professional
+*Linux C从入门到精通
+*计量经济学 = Econometrics
+*高等数学 . 上册
+*统计学中的矩阵代数 = Matrix algebra in statistics
+*统计学导论
+*Altera FPGA/CPLD 设计 , 基础篇
+*设计原本 : 计算机科学巨匠Frederick P. Brooks的反思 = The Design of design : essays from a computer scientist
+*算法设计与分析基础 = Introduction to the design and analysis of algorithms
+*学会提问 = Asking the right questions : a guide to critical thinking

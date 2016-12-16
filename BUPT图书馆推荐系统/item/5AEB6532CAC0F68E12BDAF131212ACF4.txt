@@ -1,0 +1,16 @@
+#Cocos2d-x实战 , 工具卷 = Cocos2d-x in action , for tools
+#诺桑觉寺 = Northanger abbey
+#Cocos2D-X游戏开发技术精解
+#Cocos2d-x学习笔记 : 完全掌握C + + API与游戏项目开发 = Cocos 2 d-x learning notes : the definitive guide to C + + API and game projects development
+#ACM程序设计竞赛基础教程
+#Cocos2d-x 3.x游戏开发之旅
+*近世代数讲义
+*Java 算法 . 第1卷
+*JavaScript 基础教程
+*近世代数习题解答
+*MySQL高效编程
+*计算机图形学 : OpenGL版
+*OpenGL 超级宝典 = OpenGL superbible
+*OS X系统管理和部署
+*另一个地球 : 互联网+社会 = Society and the internet : how networks of information and communication are changing our lives
+*iOS游戏框架Sprite Kit技术详解

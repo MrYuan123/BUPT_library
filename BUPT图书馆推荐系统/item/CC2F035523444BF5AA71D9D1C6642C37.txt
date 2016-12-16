@@ -1,0 +1,20 @@
+#数学物理方法第四版全程导学及习题全解
+#数学建模基础
+#离散数学 = Discrete mathematics
+#数学建模方法与分析 = Mathematical modeling
+#力学
+#数学建模与数学实验
+#物理学难题集萃
+#MATLAB 数值计算 = Numerical computing with MATLAB
+#约翰·弗里曼摄影用光教程
+#光学学习指导
+*MATLAB 在数学建模中的应用
+*数学建模
+*阁楼上的狐狸 = The fox in the attic
+*红与黑
+*数学建模入门与提高
+*数学建模竞赛优秀论文评析
+*数学建模及其实验
+*数学建模原理与案例
+*不完备性 = Incompleteness : 哥德尔的证明和悖论the proof and paradox of Kurt Godel
+*数学模型

@@ -1,0 +1,13 @@
+#精彩绝伦的jQuery = Smashing jQuery
+#Go语言编程 = The Go programming language
+#Go语言程序设计
+*Go语言程序设计 = Programming in Go : creating applications for the 21st century
+*PHP编程 = Programming PHP
+*jQuery 开发技术详解
+*HTML5 高级程序设计 = Pro HTML5 programming : powerful APIs for richer internet application development
+*2015年数据结构联考复习指导 = Review guide of data structures entrance exam
+*HTML5与CSS3基础教程 = HTML and CSS : visual QuickStart guide
+*漠上烟罗
+*设计模式之禅 = The Zen of design patterns
+*Spring 3.0就这么简单
+*编程珠玑 = Programming pearls

@@ -1,0 +1,13 @@
+#jQuery基础教程 = Learning jQuery
+#jQuery实战 = jQuery in action
+#电视人
+*精通jQuery = Pro jQrery 2.0
+*Struts 2 + Spring+Hibernate框架技术与项目实战
+*JavaScript高级程序设计 = Professional JavaScript for web developers
+*编写高质量代码 : 改善JavaScript程序的188个建议 = Writing soliv JavaScript cove 188 suggestion to improve your JavaScript program
+*正则表达式经典实例
+*jQuery权威指南 = jQuery : the definitive guide
+*2016年计算机网络联考复习指导 = Review guide of computer networks entrance exam
+*JavaScript权威指南 : ECMAScript5+HTML5DOM+HTML5BOM
+*信息安全管理
+*MYSQL从入门到精通 : 视频教学版

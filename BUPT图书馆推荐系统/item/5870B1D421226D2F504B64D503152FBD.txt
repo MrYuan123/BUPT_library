@@ -1,0 +1,12 @@
+#大话移动通信
+#3GPP 长期演进 (LTE) 系统架构与技术规范 = 3GPP long term evolution : architecture and specification
+*3GPP 长期演进 (LTE) 技术原理与系统设计 = 3GPP long term evolution : principle and system design
+*MIMO-OFDM无线通信技术及MATLAB实现 = MIMO-OFDM wireless communications with MATLAB
+*移动通信原理与系统
+*MATLAB宝典
+*移动通信原理、系统及技术
+*大客户销售谋攻之道 = Key account selling: strategy and planning
+*空时无线通信导论
+*Effective C++ : 改善程序与设计的55个具体做法 : 中文版 = Effective C++ : 55 specific ways to improve your programs and designs
+*无线通信基础 = Fundamentals of wireless communication
+*最优化方法及其 Matlab 程序设计

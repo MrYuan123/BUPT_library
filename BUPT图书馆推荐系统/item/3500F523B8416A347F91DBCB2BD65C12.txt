@@ -1,0 +1,15 @@
+#Node.js开发指南
+#深入浅出Node.js
+#MongoDB权威指南 = MongoDB : the deinitive guide
+#JavaScript语言精粹 = JavaScript : the good parts
+#CSS 权威指南
+*Node.js实战 = Learning Node.js : a hands-on guide to building web applications in JavaScript
+*高性能网站建设指南 = High performance web sites
+*Python 开发技术详解
+*算法导论 = Introduction to algorithms
+*JavaScript设计模式
+*咔咔! 我是日语语法书
+*JavaScript 权威指南
+*Node.js实战 : 第2季
+*Node.js实战
+*Node学习指南

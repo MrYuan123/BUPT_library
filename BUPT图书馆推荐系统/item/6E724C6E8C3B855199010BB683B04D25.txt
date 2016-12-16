@@ -1,0 +1,12 @@
+#数字微波与卫星通信
+#纳米光通信技术与应用
+*互联网中服务质量与多播路由技术
+*卫星网络鲁棒路由算法及TCP协议
+*宽带卫星通信技术
+*网络流量分类方法与实践 = Network traffic classification
+*网络优化
+*卫星通信网路由技术及其模拟 = Satellite communication network routing technology and simulation
+*网络流量监测与控制
+*网络流量整形与带宽控制技术
+*计算机网络
+*线性代数

@@ -1,0 +1,15 @@
+#卫星移动通信系统
+#光纤通信技术
+#新一代互联网交换与路由技术
+#3G IP 多媒体子系统IMS : 融合移动网与因特网
+#现代移动通信网络技术 = Modern mobile communications network technology
+*光纤通信新技术
+*光纤通信系统
+*光纤通信 = Optical fiber communications
+*Windows XP+Office 2003+Internet 办公自动化教程与上机指导
+*现代光纤通信
+*无源光网络技术
+*信息通信系统接入网维护管理概要
+*面向新型业务的宽带接入网
+*光通信中的 OFDM = OFDM for optical communications
+*光纤通信 = Fiber optic communications

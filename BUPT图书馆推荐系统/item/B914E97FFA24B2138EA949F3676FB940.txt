@@ -1,0 +1,15 @@
+#社交网站的数据挖掘与分析
+#NumPy攻略 = NumPy cookbook : Python科学计算与数据分析
+#像计算机科学家一样思考Python
+#R语言实战 : 编程基础、统计分析与数据挖掘宝典
+#编程之美 : 微软技术面试心得
+*大话数据结构 = Play with data structure
+*Vim实用技巧 = Practical Vim : edit text at the speed of thought
+*自然语言处理综论 = Speech and language processing : an introduction to natural language processing, computational linguistics, and speech recognition
+*人的自我寻求 = Man's search for himself
+*心理学与人类困境 = Psychology and the human dilemma
+*R语言与数据挖掘 : 最佳实践和经典案例 = R and data mining : examples and case studies
+*R语言数据挖掘 = Data mining with R
+*Python语言程序设计 = Introduction to programming using Python
+*C#图解教程 = Illustrated C# 2012
+*经济学原理 = Principles of economics

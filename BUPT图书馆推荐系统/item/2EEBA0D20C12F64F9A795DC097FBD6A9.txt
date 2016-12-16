@@ -1,0 +1,13 @@
+#Scala 程序设计 : Java虚拟机多核编程实战 = Programming Scala : tackle multi-core complexity on the Java virtual machine
+#Scala并发编程 = Learning concurrent programming in Scala
+#Scala与Clojure函数式编程模式 : Java虚拟机高效编程 = Functional programming patterns in scala and clojure : write lean programs for the JVM
+*Spring实战 = Spring in action
+*Spring 揭秘
+*Java EE开发的颠覆者 : Spring Boot实战
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

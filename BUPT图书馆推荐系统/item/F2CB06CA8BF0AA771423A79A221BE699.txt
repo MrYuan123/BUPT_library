@@ -1,0 +1,12 @@
+#算法导论 = Introduction to algorithms
+#剑指Offer : 名企面试官精讲典型编程题
+*编程之美 : 微软技术面试心得
+*算法设计与分析
+*大话数据结构 = Play with data structure
+*机器学习实战 = Machine learning in action
+*C++ Primer : 中文版
+*ACM 国际大学生程序设计竞赛题解 . 1
+*Java程序设计完全学习手册
+*密码编码学与网络安全 = Cryptography and network security : 原理与实践principles and practices
+*2016版计算机网络高分笔记
+*程序员面试宝典

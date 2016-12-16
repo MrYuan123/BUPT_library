@@ -1,0 +1,11 @@
+#邓小平时代
+*ANSYS Workbench 14有限元分析自学手册
+*冰与火之歌 . 卷一 , 权力的游戏 . 下 = A Song of ice and fire , a game of thrones
+*ANSYS 13.0 Workbench数值模拟技术
+*冰与火之歌 . 卷一 , 权力的游戏 . 中 = A Song of ice and fire , a game of thrones
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

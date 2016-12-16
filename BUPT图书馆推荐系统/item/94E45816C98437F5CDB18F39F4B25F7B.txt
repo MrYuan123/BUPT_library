@@ -1,0 +1,13 @@
+#Python计算机视觉编程 = Programming computer vision with Python
+#小波变换与图像处理
+#小波变换与图像、图形处理技术
+*计算机视觉教程 = A Course of computer vision
+*特征提取与图像处理 = Feature extraction and image processing
+*中国哲学简史
+*深入浅出数字信号处理
+*Python 学习手册
+*Mahout实战 = Mahout in action
+*Python科学计算
+*Mahout算法解析与案例实战 = Mahout in action : algorithm and cases
+*自己动手写网络爬虫
+*Hadoop权威指南

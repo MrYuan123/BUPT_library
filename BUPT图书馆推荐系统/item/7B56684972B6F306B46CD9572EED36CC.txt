@@ -1,0 +1,12 @@
+#LTE轻松进阶
+#宽带移动通信系统的网络自组织 (SON) 技术
+*实战无线通信应知应会 : 新手入门, 老手温故
+*大话移动通信
+*别样诠释 : 一个Visual C++老鸟10年学习与开发心得
+*无线通信 = Wireless communications
+*基于 Quartus Ⅱ 的数字系统 Verilog HDL 设计实例详解
+*无线通信的 MATLAB 和 FPGA 实现
+*MIMO 技术原理及应用
+*移动通信中的空时信号处理 = Space-time signal processing for mobile communications
+*MIMO 多天线无线通信系统
+*LTE 空中接口技术与性能

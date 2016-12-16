@@ -1,0 +1,18 @@
+#JavaScript语言精粹 = JavaScript : the good parts
+#锋利的jQuery
+#MySQL数据库管理与开发实践教程
+#JavaScript DOM 编程艺术 = DOM Scripting : web design with JavaScript and the document object model
+#编写可测试的JavaScript代码
+#Git权威指南 = Got Git : the definitive guide of Git
+#HTML5权威指南 = The Definitive guide to HTML5
+#疯狂Java讲义
+*Java 编程思想 = Thinking in Java
+*JavaScript高级程序设计 = Professional JavaScript for web developers
+*UNIX网络编程 . 卷1 , 套接字联网API
+*MySQL技术内幕 = MySQL
+*Java程序员面试宝典
+*推荐系统 = Recommender systems handbook : 技术、评估及高效算法
+*Java Web技术及应用
+*轻量级Java EE程序设计及实践
+*MongoDB入门经典
+*jQuery Mobile快速入门

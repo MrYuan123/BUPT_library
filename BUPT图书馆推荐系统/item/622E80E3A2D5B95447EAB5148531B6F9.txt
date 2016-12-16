@@ -1,0 +1,16 @@
+#用好时间做对事
+#麦肯锡咨询方法
+#阿米巴经营实践指南 = Amiba operation : 用经营把管理做简单
+#清醒思考的艺术 : 你最好让别人去犯的52种思维错误 = Die Kunst des Klaren Denkens : 52 Denkfehler, die sie besser anderen uberlassen
+#稻盛和夫的实学 : 阿米巴经营的基础 = 稲盛和夫の実学 : 経営と会計
+#中国谋略之藏心术
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

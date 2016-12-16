@@ -1,0 +1,11 @@
+#Linux 指令范例速查手册
+*计算机网络
+*计算机网络 = Computer networks
+*程序员面试笔试宝典
+*软件测试技术大全 : 测试基础 流行工具 项目实战 = Software testing guide : fundamentals, tools and practice
+*软件测试之魂 : 核心测试设计精解
+*大话处理器 : 处理器基础知识读本
+*图解机器学习
+*量化投资 : 策略与技术
+*C++ Primer (第4版) 习题解答
+*征服C指针

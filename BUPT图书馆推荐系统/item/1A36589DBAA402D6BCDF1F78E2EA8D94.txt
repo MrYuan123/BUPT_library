@@ -1,0 +1,16 @@
+#R语言 : 迈向大数据之路
+#数据挖掘 : 实用案例分析 = Data mining : practical case analysis
+#零基础学数据结构 : 24小时多媒体教学视频
+#零基础学算法
+#正则表达式必知必会 = Sams teach yourself regular expressions in 10 minutes
+#机器学习实战 = Machine learning in action
+*机器学习基础教程 = A First course in machine learning
+*算法 = Algorithms
+*算法的乐趣
+*Python入门经典
+*从零开始学MATLAB
+*机器学习及其应用
+*大话数据挖掘
+*人工智能 : 一种现代方法
+*数据挖掘技术及应用
+*机器学习及其应用 . 2013

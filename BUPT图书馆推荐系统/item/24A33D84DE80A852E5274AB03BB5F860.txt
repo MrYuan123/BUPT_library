@@ -1,0 +1,12 @@
+#MATLAB数据分析与挖掘实战 = MATLAB data analysisanddata mining
+#Web 数据挖掘 = Web data mining
+*数据驱动安全 : 数据安全分析、可视化和仪表盘 = Data-driven security : analysis, visualization and dashboards
+*数据之美
+*数据科学 : 理论、方法与R语言实践 = Practical data science with R
+*数据约简 : 样例约简与属性约简
+*数据之美 : 一本书学会可视化设计 = Pata points : visualization that means something
+*日志管理与分析权威指南 = Logging and log management : the authoritative guide to understanding the concepts surrounding logging and log management
+*安全之美
+*趣学Python编程 = Python for kids
+*2007 年 CPA 易考通 , 审计
+*数据挖掘技术

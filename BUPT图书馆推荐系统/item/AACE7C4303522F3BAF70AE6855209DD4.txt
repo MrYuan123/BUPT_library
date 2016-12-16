@@ -1,0 +1,13 @@
+#模式识别 = Pattern Recognition
+#TCP/IP 协议原理与应用
+#人脸工程学
+*MATLAB 2012 简明教程
+*MATLAB 2012数学计算与工程分析从入门到精通
+*路由设计的优化 = Optimal routing design
+*大学物理习题全解 : 华中科大版·《大学物理》(第4版)
+*Cisco路由器配置手册 = Cisco router configuration handbook
+*Python 学习手册
+*设计模式的艺术 : 软件开发人员内功修炼之道
+*统计学习基础 : 数据挖掘、推理与预测 = The elements of statistical learning : data mining, inference, and prediction
+*线性代数
+*Linux从入门到精通

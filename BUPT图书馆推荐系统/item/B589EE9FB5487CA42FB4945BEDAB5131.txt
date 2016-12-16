@@ -1,0 +1,13 @@
+#大话移动通信网络规划
+#现代电子通信
+#Fundamentals of queueing theory /
+*JAVA 2 核心技术 = Core Java 2 . 卷Ⅰvolume Ⅰ , 基础知识fundamentals
+*李十三推磨
+*Java程序设计教程
+*Head First Servlets & JSP : 中文版
+*MPLS 和 VPN 体系结构 . 第2卷 = MPLS and VPN architectures . Volume 2
+*微波工程 = Microwave engineering
+*PTN : IP化分组传送
+*操作系统 = Operating systems
+*移动通信系统终端射线跟踪定位理论与方法
+*Head First Java (中文版)

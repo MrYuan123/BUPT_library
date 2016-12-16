@@ -1,0 +1,14 @@
+#深入搜索引擎 = Managing gigabytes : 海量信息的压缩、索引和查询compressing and indexing documents and images
+#MATLAB 神经网络仿真与应用
+#TOEFL官方题库范文精讲 = Writing for the TOEFL
+#托福考试全真试题集 = Official TOEFL iBT tests tith aduio
+*GRE词汇精选 : 乱序版
+*人工智能基础教程
+*TOEFL托福高分范文大全
+*数学文化与不等式 : 探究式学习导引
+*TOEFL词汇词根+联想记忆法
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

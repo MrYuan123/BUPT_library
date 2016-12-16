@@ -1,0 +1,12 @@
+#密码学原理与实践 = Cryptography theory and practice
+#密码学与网络安全
+*密码学与网络安全 = Cryptography and network security
+*现代密码学
+*深入浅出密码学 : 常用加密技术原理与应用
+*专利检索策略及应用
+*密码编码学与网络安全 = Cryptography and network security : 原理与实践principles and practices
+*专利信息分析及典型应用
+*密码编码学与网络安全 : 原理与实践 = Cryptography and network security : principles and practice
+*无线传感器网络轻量级密码算法与协议 = Lightweight cryptographic algorithms and protocols for wireless sensor networks
+*密码编码与信息安全 : C++实践
+*信息安全中的数学方法与技术

@@ -1,0 +1,14 @@
+#Bootstrap实战 = Bootstrap site blueprints
+#JavaScript从零开始学 : 视频教学版
+#图解CSS3 : 核心技术与案例实战 = Illustrated CSS3 : details and cases
+#jQuery Mobile入门经典
+*MATLAB神经网络应用设计
+*HTML5秘籍 = HTML5 the missing manual : the book that should have been in the box
+*jQuery从菜鸟到忍者
+*Head first HTML5 programming : 中文版 : 用Javascript构建Web应用
+*JavaScript编程全解
+*信号的统计检测与估计理论 = The Statistical theory of signal detection and estimation
+*社交网络分析及案例详解
+*浪潮之巅 = On top of tides
+*SDN核心技术剖析和实战指南 = Deciphering SDN : core techniques and practical guide
+*云时代的大数据

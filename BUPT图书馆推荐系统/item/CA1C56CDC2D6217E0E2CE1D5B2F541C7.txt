@@ -1,0 +1,12 @@
+#团队之美
+#Python程序设计基础
+*Python 3面向对象编程 = Python 3 object oriented programming
+*大数据分析 : 方法与应用 = Big data analysis : methods and applications
+*数据库技术与应用 : SQL Server 2008
+*Python 学习手册
+*MATLAB应用大全
+*ARM9 嵌入式系统设计与开发教程
+*Python入门经典 = The Practice of computing using Python : 以解决计算问题为导向的Python编程实践
+*现代机构学进展 . 第1卷
+*高等机构学
+*ARM 嵌入式程序设计

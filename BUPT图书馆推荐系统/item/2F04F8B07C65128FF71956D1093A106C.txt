@@ -1,0 +1,18 @@
+#儒教简史
+#中国之为中国 : 正统与异端之辩
+#内核漏洞的利用与防范 = A Guide to kernel exploitation : attacking the core
+#梁启超论儒家哲学
+#原儒
+#计算机网络 : 一种开源的设计实现方法 = Computer networks : an open source approach
+#从Paxos到Zookeeper分布式一致性原理与实践
+#VxWorks 内核、设备驱动与 BSP 开发详解
+*解密搜索引擎技术实战 : Lucene & Java精华版
+*开发自己的搜索引擎 : Lucene + Heritrix
+*大型分布式网站架构设计与实践
+*分布式系统及云计算概论
+*分布式 Java 应用 : 基础与实践
+*步进电动机伺服控制技术
+*数据结构教程 : C++版
+*计算机组成与体系结构 : 性能设计 = Computer organization and architecture : designing for performance
+*计算机网络
+*现代控制理论

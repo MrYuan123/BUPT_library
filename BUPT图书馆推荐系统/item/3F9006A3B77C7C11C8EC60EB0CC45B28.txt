@@ -1,0 +1,14 @@
+#近世代数概论 = A Survey of modern algebra
+#应用近世代数
+#C函数全能速查宝典
+#抽象代数基础 = Basic algebra
+*KAM方法和系统的KAM稳定性
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学

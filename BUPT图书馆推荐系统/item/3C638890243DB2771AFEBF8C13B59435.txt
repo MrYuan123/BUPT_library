@@ -1,0 +1,14 @@
+#集体智慧编程 = Programming collective intelligence
+#深入云计算 : Hadoop应用开发实战详解
+#Hadoop技术详解
+#.NET之美 : .NET关键技术深入解析 = Beautiful .NET : in-depth analysis of key points of .NET
+*美国国家地理摄影教程
+*美国纽约摄影学院摄影教材 = New York Institute of Photography . 下册
+*MATLAB实用教程 = The practical textbook of MATLAB
+*Hadoop技术内幕 : 深入解析YARN架构设计与实现原理 = Hadoop internals : in-depth study of YARN
+*实战Hadoop : 开启通向云计算的捷径
+*Hadoop云计算实战 = Hadoop cloud computing practice
+*数据挖掘 : R语言实战
+*妙趣横生的算法 : C++语言实现
+*精通 SQL : 结构化查询语言详解
+*由浅入深学C++ : 基础、进阶与必做300题

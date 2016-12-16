@@ -1,0 +1,12 @@
+#Linux C 程序设计大全
+#Java 范例大全 = Java by example
+*Objective-C程序设计 = Programming in Objective-C
+*Java 语言程序设计 = Introduction to Java programming , 进阶篇comprehensive version
+*iOS Auto Layout开发秘籍
+*iOS编程指南
+*数据挖掘 : 概念、模型、方法和算法
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

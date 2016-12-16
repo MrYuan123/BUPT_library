@@ -1,0 +1,15 @@
+#金融学原理 = Principles of finance
+#经济数学
+#投资学 = Investments
+#计量经济学
+#计量经济学导论 = Intrductory econometrics : a modern approach
+*计量经济学 = Econometrics
+*概率论与数理统计
+*公司理财 = Corporate finance
+*货币银行学 = Money and Banking
+*R语言实战 = R in action : data analysis and graphics with R
+*统计学基础
+*零售管理 = Retail management
+*投资学导论 = Investments : an introduction
+*金融工程学原理 = Principles of financial engineering
+*数据挖掘 : 概念与技术 = Data mining : concepts and techniques

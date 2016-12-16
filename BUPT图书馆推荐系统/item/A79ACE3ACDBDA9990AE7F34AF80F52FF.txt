@@ -1,0 +1,11 @@
+#量子力学
+*信息论基础习题解答 = Elements of information theory : solutions to exercises
+*统计物理学 . 1
+*量子信息处理技术
+*深入理解C指针 = Understanding and using C pointers
+*Effective C++ 中文版 = Effective C++
+*量子通信原理与技术
+*量子通信
+*红房子 = The Red house
+*量子通信基础
+*激光原理

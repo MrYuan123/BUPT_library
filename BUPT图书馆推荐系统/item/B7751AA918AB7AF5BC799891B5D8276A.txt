@@ -1,0 +1,14 @@
+#IDA Pro权威指南 = The IDA Pro book : the unofficial guide to the world's most popular disassembler
+#鸟哥的 LINUX 私房菜 , 基础学习篇
+#天才在左 疯子在右
+#Android软件安全与逆向分析
+*受戒
+*牛奶可乐经济学 = The economic naturalist : in search of explanations for everyday enigmas
+*Linux指令从入门到精通
+*边干边学 : LINUX内核指导 : Learning Linux kernel by practice
+*TCP/IP 协议族
+*霍乱时期的爱情 = El amor en los tiempos del colera
+*安娜·卡列尼娜 . I
+*情人乌发碧眼 = L'amantLes yeux bleus, cheveux noirs
+*HTML5网页设计案例课堂
+*没有任何借口 = No excuse!

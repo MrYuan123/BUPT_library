@@ -1,0 +1,13 @@
+#Java 宝典
+#Android移动应用开发从入门到精通
+#Qt 5开发及实例
+*机器学习 : 实用案例解析
+*Android移动编程实用教程
+*Control of solar energy systems =太阳能系统控制 /太阳能系统控制
+*深入理解Java 7 : 核心技术与最佳实践 = Understanding the Java 7 : the core techniques and best practice
+*Qt Creator快速入门
+*Java基础入门
+*机器学习导论 = Introduction to machine learning
+*Android应用开发实战 = Android in action
+*机器学习系统设计 = Building machine learning systems with python
+*矩阵论

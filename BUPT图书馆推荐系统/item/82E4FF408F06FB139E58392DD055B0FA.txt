@@ -1,0 +1,13 @@
+#大学英语六级考试词汇联想助记智慧树
+#生而为赢 : 心灵鸡汤精选
+#R语言编程艺术 = The art of R programming : a tour of statistical software design
+*R的极客理想 , 工具篇
+*R语言实战 = R in action : data analysis and graphics with R
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

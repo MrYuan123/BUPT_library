@@ -1,0 +1,15 @@
+#Java程序设计经典课堂
+#JavaScript学习指南
+#Java程序设计
+#ETS 新托福考试官方指南 = The official guide to the TOEFL test
+#Java 编程思想 = Thinking in Java
+*大学基础物理 . 第二册
+*大学基础物理 . 第三册
+*大学基础物理 . 第一册
+*jQuery网页开发实例精解
+*Head First jQuery : 中文版
+*深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM : advanced features and best practices
+*Android程序设计
+*JavaScript 语言精粹 = JavaScript : the good parts
+*JavaScript入门经典
+*通信原理全程学习指导与习题精解 : 国防工业第六版

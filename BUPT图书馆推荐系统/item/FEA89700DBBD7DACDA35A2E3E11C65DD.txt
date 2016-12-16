@@ -1,0 +1,15 @@
+#通信原理辅导与习题解答
+#幸福了吗?
+#微型计算机原理及应用习题集
+#Photoshop CS5从新手到高手
+#信息论与编码学习辅导及习题详解
+*通信原理 (第六版) 同步辅导及习题全解
+*剑桥商务英语考试BEC历年真题解析及模拟试题 = Analysis for original tests a bible of modle tests , 中级
+*BBC 实况英语听力练习 = BBC world news English
+*C++ 程序设计题解与上机指导
+*C 程序设计
+*C++编程实战宝典
+*C++ 面向对象程序设计 = C++ object-oriented programming
+*深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM : advanced features and best practices
+*信息论与编码
+*信息处理与编码 = Information processing and coding

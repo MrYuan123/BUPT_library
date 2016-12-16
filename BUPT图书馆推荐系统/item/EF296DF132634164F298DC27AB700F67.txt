@@ -1,0 +1,11 @@
+#自动控制原理习题解析
+*有限元方法基础教程 : 国际单位制版 = A first course in the finite element method
+*控制工程基础
+*微机原理与接口技术 : 基于32位机
+*Intel 微处理器 = The Intel microprocessors : 8086/8088, 80186/80188, 80286, 80386, 80486, Pentium, Pentium Pro Processor, Pentium II, Pentium III, Pentium 4, and Core2 with 64-bit extensions : architecture, programming, and interfacing
+*卡耐基写给青年全集
+*自动控制原理题海与考研指导
+*工程测试技术 = Engineering measurement technology
+*计算机网络
+*线性代数
+*高等数学 . 上册

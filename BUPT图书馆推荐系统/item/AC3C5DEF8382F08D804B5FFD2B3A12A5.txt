@@ -1,0 +1,14 @@
+#MATLAB智能算法30个案例分析
+#无线传感器网络技术与应用
+#无线传感器网络节能、优化与可生存性
+#精通MATLAB智能算法 = Proficient in MATLAB intelligent algorithm
+*MATLAB从基础到精通
+*数学建模思路简析 : 美国数学建模竞赛试题讨论
+*Raspberry Pi入门指南
+*数字信号处理 = Understanding digital signal processing
+*Raspberry Pi树莓派实作应用 = Practical raspberry pi
+*学习 OpenCV : 中文版
+*汇编语言
+*MATLAB图像处理375例
+*精通MATLAB科学计算 = Proficient in MATLAB scientific computing
+*遗传算法 : 理论、应用与软件实现

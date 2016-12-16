@@ -1,0 +1,14 @@
+#Ubuntu Linux 从初学到精通
+#疯狂Android讲义
+#ubuntu 官方指南 = The official ubuntu book
+#鸟哥的Linux私房菜 , 服务器架设篇
+*数据结构 : Java语言描述
+*JAVA核心技术 . 卷I , 基础知识 = Core Java . volume I , Fundamentals
+*疯狂Java讲义精粹
+*编程之美 : 微软技术面试心得
+*生气不如争气全集
+*网络安全编程技术与实例
+*网络安全管理实践
+*道教十讲
+*LATEX　入门与提高
+*沟通的艺术 : 看入人里看出人外 = Looking out /looking in

@@ -1,0 +1,13 @@
+#SPSS 19.0统计分析综合案例详解
+#跨文化交际 = Intercultural communication , 教师手册Teacher's guide
+#网络科学导论 = Network science : an introduction
+*1973 年的弹子球
+*SPSS统计分析与数据挖掘
+*IBM SPSS Modeler数据与文本挖掘实战
+*SPSS 统计分析从入门到精通
+*基于SPSS Modeler的数据挖掘
+*数理统计与MATLAB数据分析
+*R软件及其环境流行病学应用
+*SPSS数据分析教程 = SPSS data analysis
+*复杂网络健壮性 = Complex networks structure, robustness and function
+*网络科学 : 原理与应用 = Network science : theory and applications

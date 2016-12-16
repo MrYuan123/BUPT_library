@@ -1,0 +1,14 @@
+#移动互联网环境下的核心网剖析及演进 = Analysis of mobile core network and evolution
+#移动互联网技术架构及其发展 = Mobile internet technical architecture
+#颠覆与重整 : 手机人的群落与游牧
+#网站性能监测与优化 : 用户行为分析/网站性能分析/社区管理/竞争对手分析
+*移动互联网技术 = Mobile internet technology
+*大话移动通信
+*LTE/LTE-Advanced-B3G/4G/B4G移动通信系统无线技术
+*卫星网络鲁棒 QoS 路由技术研究
+*卫星网络鲁棒路由算法及TCP协议
+*宽带无线接入网的动态QoS技术
+*密码编码学与网络安全 : 原理与实践 = Cryptography and network security : principles and practice
+*无线与移动网技术
+*Hadoop基础教程 = Hadoop beginner's guide
+*非线性时间序列分析及其应用

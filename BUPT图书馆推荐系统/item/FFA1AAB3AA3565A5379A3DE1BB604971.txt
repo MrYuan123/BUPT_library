@@ -1,0 +1,14 @@
+#概率论与数理统计
+#数学之美 = Beauty of mathematics
+#凸优化 = Convex optimization
+#人生的枷锁 = Of human bondage
+*线性代数
+*计量经济学 = Econometrics
+*Python宝典
+*具体数学 : 计算机科学基础 = Concrete mathematics : a foundation for computer science
+*高等数学 . 上册
+*Linux Shell脚本攻略 = Linux Shell Scripting Cookbook
+*毕淑敏心灵独白
+*优化技术与 MATLAB 优化工具箱
+*统计学中的矩阵代数 = Matrix algebra in statistics
+*统计学导论

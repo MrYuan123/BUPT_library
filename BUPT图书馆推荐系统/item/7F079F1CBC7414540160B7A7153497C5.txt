@@ -1,0 +1,13 @@
+#HTML5经典实例
+#Node即学即用 = Node : up and running, scalable server-side code with JavaScript
+#深入HTML5应用开发 = HTML5 geolocation making lsometric social real-time games with HTML5, CSS3, and JavaScript
+*Java程序设计教程 = Building Java programs : a back to basics approach
+*Node应用程序构建 : 使用MongoDB和Backbone
+*矩阵理论与方法
+*Spring 高级程序设计 = Pro Spring 2.5
+*线性代数
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

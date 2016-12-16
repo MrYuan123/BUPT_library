@@ -1,0 +1,13 @@
+#说孝庄
+#数据挖掘十大算法
+#实战Hadoop : 开启通向云计算的捷径
+*数据挖掘导论 : 完整版 = Introduction to data mining
+*深入云计算 : Hadoop应用开发实战详解
+*Hadoop云计算实战 = Hadoop cloud computing practice
+*QTP 自动化测试实践
+*疯狂Android讲义
+*机器学习实战 = Machine learning in action
+*Python数据分析基础教程 : NumPy学习指南 = NumPy beginner's guide
+*Hadoop应用开发技术详解 = Programming hadoop
+*轻松学Java
+*Hadoop大数据处理 = Big data processing

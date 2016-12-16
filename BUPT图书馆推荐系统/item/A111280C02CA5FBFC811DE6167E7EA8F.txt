@@ -1,0 +1,11 @@
+#数据挖掘导论 : 完整版 = Introduction to data mining
+*机器学习实战 = Machine learning in action
+*Unix & Linux 大学教程
+*挑战程序设计竞赛
+*Flask Web开发 : 基于Python的Web应用开发实战 = Flask Web development : developing web applications with python
+*数据挖掘 : 概念、模型、方法和算法
+*数据挖掘十大算法
+*数据分析方法五种
+*Java 网络编程
+*文明之光 = Civilizations and enlightenments . 第三册
+*文明之光 = Civilizations and enlightenments . 第一册

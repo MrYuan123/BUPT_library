@@ -1,0 +1,20 @@
+#我们仨
+#项目实践精解 : 基于 Strusts-Spring-Hibernate 的 Java 应用开发
+#你因灵魂被爱 = The sketch of Zhang ailin : 张爱玲传
+#算法竞赛入门经典训练指南
+#目送
+#做自己
+#计算机考研 : 机试指南
+#Android开发从入门到精通
+#杨绛传
+#推荐系统 = Recommender systems : an introduction
+*回归 = The return
+*我所知道的顾城
+*统计学习方法
+*推荐系统实践
+*微信公众平台应用开发实战
+*HTML、CSS、JavaScript网页制作从入门到精通
+*Android开发实例大全
+*C#基础与案例开发祥解
+*C 语言学习指南与题解
+*算法竞赛入门经典

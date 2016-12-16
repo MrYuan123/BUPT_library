@@ -1,0 +1,21 @@
+#无线传感器网络的理论及应用
+#ZigBee技术原理与实战
+#智能无线传感器网络系统
+#无线通信 = Wireless communications
+#ZigBee 技术及应用
+#电动力学
+#短距离无线系统的可靠通信
+#随机过程理论与应用
+#无线传感器网络原理与应用 = Principles and applications of wireless sensor networks
+#电磁波空间传播 = Electromagnetic wave propagation in space
+#概率论、随机过程与数理统计
+*ZigBee技术开发 : Z-Stack协议栈原理及应用
+*ZigBee原理、实践及综合应用
+*Unity 3D游戏开发技术详解与典型案例
+*Lua游戏开发实践指南 = Game development with lua
+*MATLAB 编程与最优化设计应用
+*随机过程与排队论 = Random process and queuing theory
+*无线通信原理与应用 = Wireless communications principles and practice
+*现代无线通信原理
+*计算机网络 : 网络设计的原理、技术和协议 = Computer networks : principles, technologies and protocols for network design
+*Python项目开发实战

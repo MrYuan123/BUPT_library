@@ -1,0 +1,13 @@
+#光网络规划与优化
+#计算机网络基础教程
+#2015版计算机网络高分笔记
+*光网络速成教程
+*通信原理学习辅导 = Tutorial of problems and test papers for communication principles
+*电磁场理论基础 : 概念、题解与自测
+*信息论与编码学习辅导及习题详解
+*微型计算机原理与接口技术学习指导与习题解答
+*802.11 无线网络权威指南
+*计算机网络
+*光网络 = Optical networks : a practical perspective
+*光纤接入网规划设计手册
+*宽带无线通信技术

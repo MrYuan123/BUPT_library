@@ -1,0 +1,13 @@
+#计算机组成与结构 (第5版) 习题详解、实验和CPU设计指导
+#2016版数据结构高分笔记
+#数据结构习题精析与考研辅导 = Detailed solutions of the data structure's exercises for graduate entrance examination
+*2016版计算机网络高分笔记
+*微信公众平台应用开发实战 = Wechat public platform application developing
+*Web数据挖掘
+*数据挖掘基础教程 = Insight into data mining : theory and practice
+*操作系统联考辅导教程 : 2011版
+*计算机操作系统
+*数据结构精讲与习题详解 : 考研辅导与答疑解惑
+*2015版计算机组成原理高分笔记
+*2016年操作系统联考复习指导 = Review guide of operating systems entrance exam
+*数据挖掘 : 概念、模型、方法和算法

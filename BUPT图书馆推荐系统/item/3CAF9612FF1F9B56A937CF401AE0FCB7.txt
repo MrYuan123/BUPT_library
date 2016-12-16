@@ -1,0 +1,26 @@
+#数据结构与算法分析新视角
+#通信原理习题集
+#微机原理与接口技术
+#电磁场与电磁波名师大课堂
+#数字图像压缩编码
+#Ubuntu Linux从入门到精通
+#电磁场与电磁波
+#通信原理 . 上
+#Intel 微处理器 = The Intel microprocessors : 8086/8088, 80186/80188, 80286, 80386, 80486, Pentium, Pentium Pro Processor, Pentium II, Pentium III, Pentium 4, and Core2 with 64-bit extensions : architecture, programming, and interfacing
+#微机原理与接口技术 : 辅导及习题
+#信息理论基础
+#支持向量机 : 理论、算法与拓展
+#算法Ⅰ-Ⅳ (C++实现) = Algorithms in C++ parts 1-4 , 基础、数据结构、排序和搜索fundamentals, data structures, sorting, searching
+#电磁场与电磁波习题精解
+#数字图像处理 : MATLAB版 : 本科教学版 = Digital image processing using MATLAB
+#电磁场与电磁波 = Electromagnetic field theory fundamentals
+*高等代数 . 上册 : 大学高等代数课程创新教材
+*信息简史 = The Information : a history, a theory, a flood
+*代数结构
+*自动控制原理题海与考研指导
+*工程测试技术 = Engineering measurement technology
+*数字图像处理 = Digital image processing
+*数据挖掘 : 概念、模型、方法和算法
+*操作系统原理
+*在斯坦福大学听演讲 = Listen to the speeches in Stanford University
+*学习 OpenCV : 中文版

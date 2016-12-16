@@ -1,0 +1,13 @@
+#More Effective C++ 中文版 : 35个改善编程与设计的有效方法 = More Effective C++ : 35 new ways to improve your programs and designs
+#Effective STL中文版 : 50条有效使用STL的经验 = Effective STL : 50 specific ways to improve your use of the standard template library
+#深入理解计算机系统 = Computer systems : a programmer's perspctive
+*天线与电波传播
+*国际学术会议英语 = English for international academic conference
+*21 天学通 C++
+*疯狂Java讲义精粹
+*高性能网站建设指南 : 前端工程师技能精髓 = High performance web sites
+*Python 源码剖析 : 深度探索动态语言核心技术
+*Web程序设计
+*代码大全 = Code complete
+*信息论与编码技术
+*深入理解计算机系统 = Computer systems : a programmer's perspective

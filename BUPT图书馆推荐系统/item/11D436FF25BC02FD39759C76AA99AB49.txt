@@ -1,0 +1,14 @@
+#HTML、CSS、JavaScript网页制作从入门到精通
+#PHP 和 MySQL Web 开发 = PHP and MySQL Web development
+#JavaScript高级程序设计 = Professional JavaScript for web developers
+#MySQL快速入门
+*微信公众平台开发基础与实战
+*现代控制系统 = Modern control systems
+*数据通信与网络 = Data communications and networking
+*TCP/IP 协议族
+*数据与算法
+*面向对象技术 UML 教程
+*PHP+MySQL 开发实战
+*深入浅出MySQL : 数据库开发、优化与管理维护
+*MySQL 完全手册 = MySQL: the complete reference
+*数据库原理与实现

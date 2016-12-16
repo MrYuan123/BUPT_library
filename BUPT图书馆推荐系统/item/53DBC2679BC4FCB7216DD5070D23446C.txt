@@ -1,0 +1,14 @@
+#疯狂Android讲义
+#高速电路设计与仿真分析 : Cadence实例设计详解
+#SMT核心工艺解析与案例分析
+#电磁兼容的印制电路板设计 = Printed circuit board design techniques for EMC compliance
+*数据挖掘十大算法
+*数据结构 : Java语言描述
+*数据库基础教程 : SQL Server平台
+*机器学习实战 = Machine learning in action
+*鸟哥的Linux私房菜 , 服务器架设篇
+*Ubuntu Linux 从初学到精通
+*ubuntu 官方指南 = The official ubuntu book
+*2014版操作系统高分笔记
+*学通Java的24堂课 : 120集大型多媒体教学视频
+*操作系统学习指导典型题解

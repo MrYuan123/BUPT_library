@@ -1,0 +1,13 @@
+#软件工程 = Software engineering : theory and practice
+#现代操作系统 = Modern operating systems
+#会计报表的阅读与分析
+*数据驱动安全 : 数据安全分析、可视化和仪表盘 = Data-driven security : analysis, visualization and dashboards
+*Google软件测试之道 : 像Google一样进行软件测试
+*新托福高分·阅读 = Preparation for new TOEFL ibt test· reading
+*Spark原理、机制及应用
+*Head First 软件开发 : 中文版
+*计算机网络
+*微处理器系统设计
+*软件工程 = Software engineering
+*操作系统
+*软件工程基础 = Fundamentals of software engineering

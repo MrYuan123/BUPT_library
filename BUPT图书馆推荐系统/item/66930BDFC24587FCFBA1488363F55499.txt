@@ -1,0 +1,15 @@
+#光子晶体光纤中超连续谱产生及应用
+#全分布式光纤传感技术
+#漫话大数据
+#敏感材料与传感器 = Sensitive materials and sensors
+#光子晶体光纤熔接与拉锥理论及技术
+*JavaScript专家编程
+*了不起的Node.js : 将JavaScript进行到底 = Smashing Node. js : JavaScript everywhere
+*算法 = Algorithms
+*软件测试 = Software testing
+*Node与Express开发 = Web development with node and express leveraging the JavaScript stack
+*LTE 基础原理与关键技术
+*计算机操作系统
+*YES!产品经理 = Product manager . 1
+*Nginx高性能Web服务器详解
+*PYTHON 技术手册

@@ -1,0 +1,11 @@
+#CAN总线技术与应用系统设计
+*ROS机器人程序设计 = Learning ROS for robotics programming
+*现场总线CANopen设计与应用 = CANopen-das standardisierte, eingebettete netzwerk
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

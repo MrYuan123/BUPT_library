@@ -1,0 +1,13 @@
+#Xilinx FPGA数字电路设计
+#耶鲁博弈论 = Yale game theory
+#VHDL 设计指南 = The designer's guide to VHDL
+*信息论基础及应用
+*Matlab语言及实践教程
+*随机信号处理原理与实践
+*VHDL嵌入式数字系统设计教程 = Digital design : an embedded systems approach using VHDL
+*信息论与编码
+*Xilinx FPGA 开发实用教程
+*CPU自制入门
+*Java从入门到精通 : 实例版
+*卫星通信导论
+*现代无线通信电路设计与实现

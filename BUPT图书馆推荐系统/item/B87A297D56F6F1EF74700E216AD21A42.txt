@@ -1,0 +1,11 @@
+#浪潮之巅 = On top of tides . 下册
+*浪潮之巅 = On top of tides . 上册
+*从零开始学 C++
+*童年的消逝 = The Disappearance of childhood
+*浪潮之巅 = On top of tides
+*大话无线通信
+*李敖有话说 . 4
+*代码整洁之道
+*数据挖掘导论 = Introduction to data mining
+*New Internet : 大数据挖掘
+*编程珠玑 . 续 = More programming pearls

@@ -1,0 +1,14 @@
+#喜福会 = The joy luck club
+#读故事记单词托福词汇
+#不在场证明 = The alibi
+#新托福高分一本全
+*新托福写作真经 = Toefl iBT writing . 3
+*雅思周计划 , 语法
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

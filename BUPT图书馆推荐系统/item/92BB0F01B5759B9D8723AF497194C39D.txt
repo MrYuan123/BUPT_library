@@ -1,0 +1,22 @@
+#MySQL数据库应用从入门到精通
+#Storm : 大数据流式计算及应用实践
+#Spark快速数据处理 = Fast data processing with Spark
+#防御! 网络攻击内幕剖析
+#零基础学数据结构
+#Storm实战 : 建构大数据实时计算
+#解惑大数据 = Big data
+#黑客攻防入门
+#网络技术入门经典
+#Storm企业级应用 : 实战、运维和调优 = Enterprise storm : practice, iperation and optimization
+#计算机网络原理 : 基于实验的协议分析方法
+#计算机与网络安全 : 如何应对身边的安全问题
+*Spark大数据处理技术
+*Web Services 原理与研发实践
+*Hadoop大数据处理 = Big data processing
+*轻松学Java
+*实战Hadoop : 开启通向云计算的捷径
+*社会计算 : 社区发现和社会媒体挖掘 = Community detection and mining in social media
+*Spark技术内幕 : 深入解析Spark内核架构设计与实现原理 = Spark internals : design and implement principle of Spark core
+*Hadoop基础教程 = Hadoop beginner's guide
+*SAS统计分析与应用从入门到精通
+*SPSS统计分析课堂实录

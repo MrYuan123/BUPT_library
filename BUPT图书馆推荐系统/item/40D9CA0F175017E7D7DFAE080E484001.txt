@@ -1,0 +1,13 @@
+#算法精解 : C语言描述
+#数据结构与算法 : C语言版
+#数据结构 : C++版
+*About Face 3交互设计精髓 = About Face 3 : the essentials of interaction design
+*案例学单片机 C 语言开发
+*数据结构精讲与习题详解 : 考研辅导与答疑解惑
+*用英语聊点儿身边事 : 流利口语100% Perfect!
+*21天学通C语言
+*戏中人 = Morality play
+*伊人·鲁豫有约
+*我若不勇敢, 谁替我坚强 = What if I'm not brave, who will take the courage for me
+*无线传感器网络 = Wireless sensor networks a networking perspective
+*深入浅出 Web 设计

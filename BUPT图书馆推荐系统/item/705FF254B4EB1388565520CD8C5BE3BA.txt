@@ -1,0 +1,11 @@
+#衍射微光学设计 = Design of diffractive micro-optics
+*现代光学设计方法
+*太阳电池物理基础 = Physical fundamentals of solar cells
+*MATLAB从零到进阶
+*从零开始学 MATLAB
+*MATLAB模拟的电磁学时域有限差分法
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

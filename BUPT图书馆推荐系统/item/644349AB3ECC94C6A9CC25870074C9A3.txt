@@ -1,0 +1,12 @@
+#Origin 9.1科技绘图及数据分析
+#Origin 9.0科技绘图与数据分析超级学习手册
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

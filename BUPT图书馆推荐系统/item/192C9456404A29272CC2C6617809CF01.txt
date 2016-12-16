@@ -1,0 +1,16 @@
+#VC++项目开发实战密码
+#Unity 4.3游戏开发项目实战 : C#、JavaScript版本
+#C 语言开发手册 : 典藏版
+#品悟C : 抛弃C程序设计中的谬误与恶习
+#Visual C++开发实例大全 , 提高卷
+#C 语言详解 = Problem solving and program design in C
+*Visual C++项目开发全程实录
+*C++编程兵书
+*VC++就业培训宝典之MFC视频教程
+*Visual C# 2012大学教程 = Visual C# 2012 how to program
+*木偶奇遇记 = The Adventures of pinocchio : 插图·中文导读英文版
+*wow!1000个彩色简笔画
+*C#编程实战宝典
+*Unity3D游戏开发实战 : 人气游戏这样做
+*JavaScript详解 = JavaScript by example
+*Visual C++网络编程开发与实战

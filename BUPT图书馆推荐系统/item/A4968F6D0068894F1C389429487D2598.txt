@@ -1,0 +1,14 @@
+#追随你的心 = Follow your heart : 用苹果撬动世界
+#有一种潇洒叫魏晋风度 : 魏晋南北朝诗歌品鉴
+#为你而战 : 德约科维奇的世界 = The sporting statesman : Novak Djokovic and the rise of Serbia
+#25 岁, 我赚了 3 个亿
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

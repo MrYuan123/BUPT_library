@@ -1,0 +1,13 @@
+#高等数学习题课教程
+#当你的才华还撑不起你的梦想时
+#Visual C++从入门到精通
+*数据库技术与应用
+*数据库处理 = Database processing : 基础、设计与实现fundamentals, design, and implementation
+*Java 程序设计学习指导与习题解答 = Schaum's outline of programming with Java
+*钢铁是怎样炼成的
+*高等数学习题集 . 基础篇
+*茶花女 = La dame aux camelias
+*高等数学讲稿
+*霸王别姬 : 王立群读《史记》之项羽
+*领袖们 = Leaders
+*C 语言程序设计实训教程 : 上机指导与等级考试辅导

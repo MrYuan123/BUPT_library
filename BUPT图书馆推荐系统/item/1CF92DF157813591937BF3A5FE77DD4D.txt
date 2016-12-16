@@ -1,0 +1,13 @@
+#Struts 2+Spring 3+Hibernate框架技术精讲与整合案例
+#Hibernate 逍遥游记 = Mastering hibernate easily
+#Node.js实战
+*JavaEE轻量级框架 : Struts2+Spring+Hibernate整合开发
+*Node.js实战 : 第2季
+*电力通信
+*电力线通信技术
+*高性能网站建设指南 : 前端工程师技能精髓 = High performance web sites
+*高性能网站建设进阶指南 : Web开发者性能优化最佳实践 = Even faster Web sites : performance best practices for Web developers
+*Node.js项目实践 : 构建可扩展的Web应用 = Practical node.js : building real-world scalable web apps
+*JavaScript 高级程序设计 = Professional JavaScript for web developers
+*Python 学习手册
+*Web 搜索 = Web search

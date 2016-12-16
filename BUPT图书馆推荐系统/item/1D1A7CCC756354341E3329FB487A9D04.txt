@@ -1,0 +1,12 @@
+#算法与数据结构
+#数据结构 : C++语言版
+*快学Scala = Scala for the impatient
+*Spark大数据处理技术
+*设计模式之禅 = The Zen of design patterns
+*光纤光学 = Fiber optics
+*学习 OpenCV : 中文版
+*信号与系统 . 上册
+*史蒂夫·乔布斯传 = Steve Jobs
+*数据结构学习指导和习题解析 = A learning guide and key to exercises for data structures in C++ : C++语言描述
+*离散数学教程
+*英语专业4级考试标准阅读100篇

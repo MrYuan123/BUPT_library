@@ -1,0 +1,12 @@
+#计算机图形学 = Fundamentals of computer graphics
+#模式识别导论
+*机器学习基础教程 = A First course in machine learning
+*零基础学PHP : 11.5小时多媒体教学视频
+*应用密码学手册 = Handbook of applied cryptography
+*编译原理 = Compilers : principles, techniques and tools
+*深度探索C++对象模型 = Inside the C++ object model
+*应用密码学 : 协议、算法与C源程序 = Applied cryptography : protocols, algorithms, and source code in C
+*计算机图形学原理及算法教程 : Visual C++版
+*计算机图形学基础 : OpenGL版
+*计算机网络技术与应用
+*OpenGL 编程技术详解

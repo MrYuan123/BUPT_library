@@ -1,0 +1,15 @@
+#源氏物语图典
+#动物农庄 = Animal farm
+#产业经济学教程与案例 = Industrial economics text and cases
+#朗读者 = Der vorleser
+#万物既伟大又渺小 = All creatures great and small
+*色 = Pornografia
+*诗之旅 : 中国与日本的诗意绘画 : 1993年赖世和讲座 = The lyric journey : poetic painting in China and Japan
+*三十九级台阶 = The thirty-nine steps
+*双重结构的日本文化
+*酷日本 = From manga to money : 日本动漫创意产业大解密
+*数据挖掘与R语言 = Data mining with R : learning with case studies
+*南京安魂曲
+*贝叶斯网络在智能信息处理中的应用 = Applications of Bayesian network in intelligent information processing
+*计算机网络
+*线性代数

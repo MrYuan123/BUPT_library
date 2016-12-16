@@ -1,0 +1,19 @@
+#编程珠玑 = More programming pearls : confessions of a coder . Ⅱ
+#编程珠玑 = Programming pearls
+#剑指Offer : 名企面试官精讲典型编程题
+#C++ Primer : 中文版
+#UNIX网络编程 . 卷2 , 进程间通信
+#程序员面试宝典
+#计算机算法设计与分析
+#深入理解 LINUX 内核
+#数据库系统概论
+*2016银行业专业人员职业资格考试辅导教材 , 银行业法律法规与综合能力
+*深入学习MongoDB = Scaling mongoDB. 50 tips and tricks for mongoDB developers
+*Java程序员面试宝典
+*轻量级Java EE企业应用实战 : Struts 2+Spring 4+Hibernate整合开发
+*算法导论 = Introduction to algorithms
+*大话数据结构 = Play with data structure
+*数据结构及应用算法教程
+*程序员历年试题分析与解答
+*零基础学数据结构 : 24小时多媒体教学视频
+*数据结构与面向对象程序设计 : C++版

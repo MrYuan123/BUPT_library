@@ -1,0 +1,16 @@
+#数据结构及应用算法教程
+#零基础学数据结构 : 24小时多媒体教学视频
+#C++ Primer : 中文版
+#程序员历年试题分析与解答
+#数据结构与面向对象程序设计 : C++版
+#剑指Offer : 名企面试官精讲典型编程题
+*算法 = Algorithms
+*算法之美 : 隐匿在数据结构背后的原理 : C++版
+*算法的乐趣
+*Python 参考手册 = Python essential reference
+*编程珠玑 = Programming pearls
+*C++ 程序设计语言 = The C++ programming language
+*Python编程入门 = Python : Visual quickstart guide
+*机器学习实战 = Machine learning in action
+*R语言 : 迈向大数据之路
+*零基础学算法

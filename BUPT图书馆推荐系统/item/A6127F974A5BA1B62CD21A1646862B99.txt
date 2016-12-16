@@ -1,0 +1,11 @@
+#MATLAB完全自学手册
+*组合数学引论
+*R语言实战 = R in action : data analysis and graphics with R
+*MATLAB 8.0从入门到精通
+*最优化方法 : MATLAB应用 = Optimization by MATLAB
+*离散数学 = Discrete mathematics
+*精通MATLAB混合编程
+*MATLAB GUI设计入门与实战
+*货币战争3.0 = Currency war 3.0
+*自然辩证法简编
+*巴洛克建筑风格 : 1600-1750年的建筑艺术

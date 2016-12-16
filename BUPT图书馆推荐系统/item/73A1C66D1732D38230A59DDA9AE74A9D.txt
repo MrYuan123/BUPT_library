@@ -1,0 +1,13 @@
+#4周攻克BEC词汇8000周计划 , 中级
+#零基础学Python
+#六级词汇词根 + 联想记忆法 : 便携版
+*Python Web开发学习实录
+*Python 核心编程
+*Python编程入门 = Python : Visual quickstart guide
+*趣学Python编程 = Python for kids
+*Python入门经典
+*深入解析SAS : 数据处理、分析优化与商业应用
+*智能大数据SMART准则 : 数据分析方法、案例和行动纲领 = Big data : using SMART big data, analytics and metrics to make better decisions and improve performance
+*大数据 小故事
+*计算机网络 : 原理、技术与应用
+*Hadoop大数据处理 = Big data processing

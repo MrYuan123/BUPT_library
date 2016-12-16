@@ -1,0 +1,11 @@
+#光通信中的 OFDM = OFDM for optical communications
+*无线通信的 MATLAB 和 FPGA 实现
+*紫外光自组织网络理论
+*无线光通信
+*光纤通信技术
+*无源光网络技术
+*信息通信系统接入网维护管理概要
+*面向新型业务的宽带接入网
+*超长距离光传输技术基础及其应用
+*MIMO 通信系统编码 = Coding for MIMO communication systems
+*多载波通信 = Multicarrier communications

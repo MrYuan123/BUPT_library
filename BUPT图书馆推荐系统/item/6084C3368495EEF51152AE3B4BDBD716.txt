@@ -1,0 +1,15 @@
+#投资科学 = Investment science
+#股神巴菲特给儿女的忠告 = Warren Buffett
+#亚洲史 . 上册
+#飞鸟集 = Stray birds
+#孔子的幽默
+*思维导图与学习 : 学习科学与技术新探
+*养心太极拳
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

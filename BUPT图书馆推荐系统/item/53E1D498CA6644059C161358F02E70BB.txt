@@ -1,0 +1,14 @@
+#软件功能测试 : 基于QuickTest Professional应用
+#Oracle 数据库基础
+#Shell从入门到精通
+#软件测试基础与测试案例分析
+*软件测试方法和技术
+*Linux从入门到精通
+*大话软件测试
+*软件测试方法与技术
+*软件测试基础教程
+*机关的机关 : 升级版
+*数据结构 : Java语言描述
+*人工神经网络原理
+*Java语言程序设计教程
+*神经网络与机器学习 = Neural networks and learning machines

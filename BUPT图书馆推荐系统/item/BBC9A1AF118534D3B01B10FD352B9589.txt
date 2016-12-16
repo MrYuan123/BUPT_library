@@ -1,0 +1,12 @@
+#Python编程入门 = Python : Visual quickstart guide
+#C++ Primer : 中文版
+*剑指Offer : 名企面试官精讲典型编程题
+*C++ 程序设计语言 = The C++ programming language
+*Python 灰帽子 : 黑客与逆向工程师的Python编程之道 = Gray hat python : python programming for hackers and reverse engineers
+*数据挖掘方法与模型 = Data mining methods and models
+*Mathematica基础及其在数学建模中的应用
+*数据统计分析与 SPSS 应用
+*跟老齐学Python : 从入门到精通
+*Python编程实战 : 运用设计模式、并发和程序库创建高质量程序 = Python in practice : create better programs using concurrency, libraries, and patterns
+*LTE系统原理及应用
+*TD-LTE-Advanced移动通信系统设计 = TD-LTE-Advanced mobile communications system design

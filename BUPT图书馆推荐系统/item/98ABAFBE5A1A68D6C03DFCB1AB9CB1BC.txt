@@ -1,0 +1,18 @@
+#Verilog 数字系统设计教程
+#Verilog HDL 应用程序设计实例精讲
+#C++ 语言 99 个常见编程错误 = C++ Gotchas : avoiding common problems in coding and design
+#C++程序设计题解与上机指导
+#面向对象程序设计 : C++描述
+#Verilog HDL 设计实践与指导
+#计算机网络
+#Visual C++应用开发
+*季羡林说北大那些事儿
+*面向对象程序设计 (C++) 实验指导
+*活着
+*MFC Windows应用程序设计
+*基于Visual C++的MFC编程
+*可视化程序设计
+*CAN 总线轻松入门与实践
+*交际英语应急口语 900 句
+*美国人最喜欢和你聊的 50 个话题 = The 50 hottest topics in America
+*Verilog 嵌入式数字系统设计教程 = Digital design : ean embedded systems approach using Verilog

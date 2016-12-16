@@ -1,0 +1,13 @@
+#Hadoop权威指南
+#JAVA 核心技术 . 卷II , 高级特性 = Core Jave . Volume II , Advanced features
+#Hadoop 技术内幕 : 深入解析MapReduce架构设计与实现原理 = Hadoop internals : in-depth study of MapReduce
+*Java 编程思想 = Thinking in Java
+*Hadoop大数据处理 = Big data processing
+*Head First 设计模式
+*Python 学习手册
+*数据挖掘原理、算法与应用
+*Spark原理、机制及应用
+*深入云计算 : Hadoop源代码分析
+*Hadoop云计算实战 = Hadoop cloud computing practice
+*推荐系统 = Recommender systems : an introduction
+*Hadoop核心技术 = Core hadoop

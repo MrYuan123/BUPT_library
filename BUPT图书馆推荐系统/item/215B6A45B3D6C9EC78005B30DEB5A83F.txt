@@ -1,0 +1,15 @@
+#JavaScript程序设计 : 基础·PHP·XML = Introduction to JavaScript programming with XML and PHP
+#中日交流标准日本语单词随身听 , 初级
+#标准日本语词汇、语法训练教程 , 初级上、下册
+#数据结构 : Java语言描述
+#精通HTML5+CSS3+JavaScript网页设计
+*HTML 5 开发手册 = HTML 5 developer's cookbook
+*通信原理
+*HTML 5+CSS 3+JavaScript网页设计案例课堂
+*数据结构和 Java 集合框架
+*Java程序设计完全学习手册
+*C++语言基础教程
+*疯狂Android讲义
+*数据库基础教程 : SQL Server平台
+*轻量级Java EE企业应用实战 : Struts 2+Spring 4+Hibernate整合开发
+*Java程序设计基础与应用

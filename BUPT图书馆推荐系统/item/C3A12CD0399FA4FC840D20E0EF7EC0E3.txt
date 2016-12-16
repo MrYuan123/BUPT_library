@@ -1,0 +1,13 @@
+#MATLAB神经网络编程
+#日语汉字音研究
+#神经网络在应用科学和工程中的应用 : 从基本原理到复杂的模式识别
+*城市道路智能交通控制技术
+*MATLAB 神经网络 30 个案例分析
+*交通信息智能预测理论与方法
+*MATLAB神经网络30例
+*MATLAB 神经网络应用设计
+*机器学习基础教程 = A First course in machine learning
+*MATLAB神经网络原理与实例精解
+*现代博弈论基础
+*MATLAB神经网络43个案例分析
+*神经网络 = Neural networks

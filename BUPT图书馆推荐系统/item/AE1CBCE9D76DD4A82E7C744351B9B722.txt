@@ -1,0 +1,15 @@
+#ANSYS 13.0 Workbench数值模拟技术
+#ANSYS Workbench 14有限元分析自学手册
+#邓小平时代
+#冰与火之歌 . 卷一 , 权力的游戏 . 中 = A Song of ice and fire , a game of thrones
+#冰与火之歌 . 卷一 , 权力的游戏 . 下 = A Song of ice and fire , a game of thrones
+*正则指引 = Regular expression yet another introduction
+*Python绝技 : 运用Python成为顶级黑客 = Violent Python : a cookbook for hackers, forensic analysts, penetration testers and security engineers
+*AngularJS 高级编程
+*AngularJS权威教程 = The complete book on AngularJS
+*Wow! 不一样的插画设计 : Chunso的梦幻世界
+*JavaScript面向对象编程指南
+*你不知道的JavaScript = Scope & closures this & object prototypes . 上卷
+*冰与火之歌 . 卷一 , 权力的游戏 . 上 = A Song of ice and fire , a game of thrones
+*单页Web应用 : JavaScript从前端到后端 = Single page Web applications
+*国际顶尖插画艺术家的创造力X商业力

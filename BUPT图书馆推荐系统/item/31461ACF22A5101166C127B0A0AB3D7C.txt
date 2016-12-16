@@ -1,0 +1,13 @@
+#HTML5 Canvas开发详解
+#HTML5 Canvas基础教程 = Foundation HTML5 Canvas : for games and entertainment
+#HTML5 Canvas核心技术 : 图形、动画与游戏开发 = Core HTML5 Canvas : graphics, animation, and development
+*jQuery网页开发实例精解
+*由浅入深学SQL Server : 基础、进阶与必做300题
+*Java程序开发范例宝典
+*流星雨
+*长安乱 = Lost world
+*中国最美的100座名山
+*精通正则表达式 = Mastering regular expressions
+*HTML 5+JavaScript动画基础
+*HTML 5 揭秘 = HTML 5 : up and running
+*追风筝的人 = The kite runner

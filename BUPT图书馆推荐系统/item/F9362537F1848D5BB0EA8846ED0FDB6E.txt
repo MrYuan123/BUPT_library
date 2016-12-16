@@ -1,0 +1,11 @@
+#集体智慧编程 = Programming collective intelligence
+*美国纽约摄影学院摄影教材 = New York Institute of Photography . 下册
+*美国国家地理摄影教程
+*深入云计算 : Hadoop应用开发实战详解
+*Hadoop技术详解
+*.NET之美 : .NET关键技术深入解析 = Beautiful .NET : in-depth analysis of key points of .NET
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

@@ -1,0 +1,12 @@
+#了不起的Node.js : 将JavaScript进行到底 = Smashing Node. js : JavaScript everywhere
+#扩展jQuery = Extending jQuery
+*用AngularJS开发下一代Web应用 = AngularJS
+*Node.js项目实践 : 构建可扩展的Web应用 = Practical node.js : building real-world scalable web apps
+*精通D3.js : 交互式数据可视化高级编程
+*Div+CSS 3+jQuery网页布局案例精粹
+*Python自然语言处理
+*数据结构与算法JavaScript描述 = Data structures and algorithms with JavaScript
+*JavaScript 权威指南
+*C++ Primer 中文版
+*21天学通JavaScript
+*JavaScript专家编程

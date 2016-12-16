@@ -1,0 +1,18 @@
+#Python 学习手册
+#Linux入门很简单
+#面向对象的 Java 语言程序设计
+#幻夜
+#人生
+#经济学原理 = Principles of economics
+#统计学习方法
+#推荐系统 = Recommender systems : an introduction
+*MATLAB 2009从入门到精通
+*计算机图形学教程
+*自己动手写网络爬虫
+*推荐系统实践
+*Hadoop权威指南
+*Python 基础教程 = Beginning Python from novice to professional
+*撒哈拉的故事
+*力量 = Force : 动画速写与角色设计character design from life drawing
+*文化苦旅
+*潮骚

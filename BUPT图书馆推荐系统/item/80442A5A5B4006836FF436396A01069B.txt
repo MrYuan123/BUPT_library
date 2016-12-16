@@ -1,0 +1,16 @@
+#GRE词汇精选 : 乱序版
+#数学文化与不等式 : 探究式学习导引
+#TOEFL词汇词根+联想记忆法
+#TOEFL托福高分范文大全
+#人工智能基础教程
+#TOEFL官方题库范文精讲 = Writing for the TOEFL
+*MATLAB 神经网络仿真与应用
+*深入搜索引擎 = Managing gigabytes : 海量信息的压缩、索引和查询compressing and indexing documents and images
+*托福考试全真试题集 = Official TOEFL iBT tests tith aduio
+*科技英语综合教程 = Est integrated course
+*MATLAB 从入门到精通
+*电子爱好者必备手册
+*MATLAB R2013a求解数学问题
+*电子工艺实习
+*电子工艺学教程
+*Android开发实战经典

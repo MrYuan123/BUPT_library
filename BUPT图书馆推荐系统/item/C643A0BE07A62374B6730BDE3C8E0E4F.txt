@@ -1,0 +1,19 @@
+#Hadoop实战手册
+#Storm实时数据处理 = Storm real-time processing cookbook
+#Mahout算法解析与案例实战 = Mahout in action : algorithm and cases
+#计算机组成原理
+#数据结构与算法分析 : Java语言描述 = Data structures and algorithm analysis in Java
+#多源数据融合和传感器管理 = Multi-source data fusion and sensor
+#算法与数据结构 : Java语言描述
+#南北朝那些事儿
+#Spark大数据处理技术
+*玩火的女孩 = Flickan som lekte med elden
+*编程之美 : 微软技术面试心得
+*Mahout实战 = Mahout in action
+*操作系统教程
+*1973 年的弹子球
+*编写高质量代码 = Writing solid web front-end code : Web前端开发修炼之道
+*Redis入门指南
+*Head First 设计模式
+*Hadoop权威指南
+*Android群英传

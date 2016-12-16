@@ -1,0 +1,18 @@
+#压缩感知浅析
+#视听觉信息整合脑机制研究
+#数学史概论 = An Introduction to the history of mathematics
+#视觉信息处理的脑机制 = Brain mechanisms of visual information processing
+#进化动力学 : 探索生命的方程 = Evolutionary dynamics : exploring the equations of life
+#人工生命模型
+#视觉信息认知计算理论
+#生物建模仿真 = Biological modeling and simulation
+*压缩感知雷达成像
+*现代密码学原理与应用
+*鬼吹灯之昆论神宫
+*鬼吹灯之云南虫谷
+*压缩感知 : 通信与信号处理领域中的机遇与挑战
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

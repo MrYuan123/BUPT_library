@@ -1,0 +1,12 @@
+#Java 从入门到精通
+#新托业分类词汇一本通 = Easily handle classified TOEIC words
+*大学英语六级作文 = College English test band six : 10天只背5个押题模板考试必过
+*710 分高分攻略
+*数字与模拟通信系统 = Digital and analog communication systems
+*数字信号处理基础 = Fundamentals of digital signal processing
+*Java 语言程序设计 = Introduction to Java programming , 基础篇comprehensive version
+*信息论与编码 = Information theory & coding
+*游戏策划教程
+*程序设计基础 : Python语言
+*游戏机制 : 高级游戏设计技术
+*C 程序设计实验与实践教程

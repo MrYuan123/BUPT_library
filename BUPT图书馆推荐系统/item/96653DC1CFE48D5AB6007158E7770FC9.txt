@@ -1,0 +1,14 @@
+#MySQL开发与实践
+#Sed 与 awk
+#数据库系统原理 = Information technology
+#数据库系统原理习题集与上机指导
+*Python高手之路 = The Hacker's guide to Python
+*编程导论 = Introduction to computation and programming using Python
+*计算机网络
+*SQL必知必会 = Same teach yourself SQL in 10 minutes
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

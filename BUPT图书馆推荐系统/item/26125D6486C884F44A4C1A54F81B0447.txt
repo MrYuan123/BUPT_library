@@ -1,0 +1,12 @@
+#光纤传感器基础
+#光纤传感器及其应用技术 = Fiber optic sensors technology
+*光纤光栅理论基础与传感技术
+*光纤光学前沿
+*光纤光栅原理及应用
+*光纤传感原理与应用技术 = Principles and application technology of optical fiber sensors
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

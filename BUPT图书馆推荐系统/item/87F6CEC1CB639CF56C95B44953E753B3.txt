@@ -1,0 +1,12 @@
+#推荐系统 = Recommender systems : an introduction
+#推荐系统实践
+*统计学习方法
+*Hadoop权威指南
+*TCP/IP入门经典
+*Python 学习手册
+*机器学习实战 = Machine learning in action
+*形式语言与自动机
+*信息安全的数学基础
+*Ubuntu Linux 指南 = A practical guide to Ubuntu Linux
+*研究生英语听说教程 , 基础级
+*近世代数及其应用

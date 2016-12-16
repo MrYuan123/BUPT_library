@@ -1,0 +1,26 @@
+#网格高性能调度及资源管理技术
+#网格计算核心技术
+#云计算 : 技术、应用、标准和商业模式
+#编码 : 隐匿在计算机软硬件背后的语言 = Code : the hidden language of computer hardware and software
+#遗传算法的基本理论与应用
+#排队论 : 基础与分析技术
+#云计算 : 资源调度管理
+#典型云计算平台与应用教程
+#群智能算法及其应用
+#计算网格中的任务管理研究及示范应用
+#联邦论 = The Federalist papers
+#混合云计算 = Hybrid cloud for dummies
+#人之将死 = Mortality
+#云计算及应用
+#蚁群算法原理及其应用 = Ant coloby algorithms : theory and applications
+#组合优化与博弈论
+*遗传算法 : 理论、应用与软件实现
+*差错控制编码 = Error control coding
+*MATLAB遗传算法工具箱及应用
+*云计算架构 : 解决方案设计手册 = Cloud computing architected : solution design handbook
+*云计算与 SOA = Cloud computing and SOA convergence in your enterprise : a step-by-step guide
+*云计算 : 实现、管理与安全 = Cloud computing : implementation, management, and security
+*云计算技术架构与实践
+*云计算安全指南 = Cloud security : a comprehensive guide to secure cloud computing
+*云计算 : 企业信息化建设策略与实践
+*云计算

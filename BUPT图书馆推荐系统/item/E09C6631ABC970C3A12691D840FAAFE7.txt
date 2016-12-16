@@ -1,0 +1,17 @@
+#线性代数实验 : MATLAB 版
+#工程数学 : 线性代数与概率统计
+#RAW格式数码照片后期编修流程实例精解
+#MATLAB之父 : 编程实践 = Experiments with MATLAB : 中译本
+#数码摄影后期密码Photoshop CS6调色秘籍
+#线性代数
+#给研究生的学术建议 = The unwritten rules of phD research
+*高等数学 . 上册
+*高等数学复习指导 : 思路、方法与技巧
+*MATLAB R2013a工具箱手册大全
+*数码摄影后期密码Photoshop CS6人像精修
+*数码摄影后期密码Photoshop CS6旅游风光
+*C 语言入门经典
+*MATLAB优化算法案例分析与应用 , 进阶篇
+*世界速记冠军的快速记忆技巧 = Developed a prodigious mind
+*数据分析 : 企业的贤内助 = Data analysis : the smart assistant for enterprise
+*剑指Offer : 名企面试官精讲典型编程题

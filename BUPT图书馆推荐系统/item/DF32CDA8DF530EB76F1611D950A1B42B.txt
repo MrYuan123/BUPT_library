@@ -1,0 +1,12 @@
+#爱上英文 = Read it love it
+#C++ PRIMER 中文版 = C++ Primer
+*数据结构与算法 : Java版
+*C/C++常用算法手册
+*零基础学C++
+*Java 编程入门经典
+*Linux C程序设计王者归来
+*Tornado/VxWorks 入门与提高
+*无限的清单
+*法语语法系统解读 = Grammaire systématique du Francais
+*STL源码剖析 = The Annotated STL sources
+*ADS2011射频电路设计与仿真实例

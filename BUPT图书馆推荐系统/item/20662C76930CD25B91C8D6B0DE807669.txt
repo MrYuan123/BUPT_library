@@ -1,0 +1,16 @@
+#嵌入式单片机STM32设计及应用技术
+#挑战程序设计竞赛
+#After Effects CC完全自学宝典
+#大学英语四级翻译特训 : 新题型
+#基于ARM的单片机应用及实践 : STM32案例式教学
+#数据结构联考辅导教程 : 2012版
+*Photoshop 5.5 功能详解与实例精选
+*亚当·斯密 = Adam Smith
+*春尽江南
+*约翰·梅纳德·凯恩斯 = John Maynard Keynes
+*大学英语四级阅读20天冲关快训
+*程序员面试金典 = Cracking the coding interview : 150 programming questions and solutions
+*机器学习实战 = Machine learning in action
+*数据挖掘导论 : 完整版 = Introduction to data mining
+*Unix & Linux 大学教程
+*Flask Web开发 : 基于Python的Web应用开发实战 = Flask Web development : developing web applications with python

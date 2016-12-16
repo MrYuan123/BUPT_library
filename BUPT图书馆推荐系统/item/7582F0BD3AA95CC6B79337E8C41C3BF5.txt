@@ -1,0 +1,13 @@
+#Linux Shell编程与编辑器使用详解
+#Objective-C开发经典教程
+#SQL Server 完全自学手册
+*MySQL技术内幕 : SQL编程 = Inside MySQL : SQL programming
+*数据库原理与应用
+*MySQL内核 : InnoDB存储引擎 . 卷1
+*数学物理方法专题 : 复变函数与积分变换
+*Visual C++网络编程开发与实战
+*Android应用开发入门 = Android apps for absolute beginners
+*VC++项目开发实战密码
+*嵌入式软件开发及 C 语言实现 : MiniGUI 剖析
+*Linux Shell编程从入门到精通
+*计算机网络

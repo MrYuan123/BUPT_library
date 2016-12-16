@@ -1,0 +1,13 @@
+#Visual C++网络通信编程技术详解 = Network communication programming using visual C++
+#NS 网络模拟和协议仿真
+#Network Warrior中文版 : 思科网络工程师必备手册
+*计算机网络仿真OPNET实用指南
+*OMNeT++网络仿真
+*NS2 与网络模拟
+*卫星通信
+*空间激光通信技术与系统 = The Technologies and systems of space laser communication
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

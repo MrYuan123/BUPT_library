@@ -1,0 +1,13 @@
+#文化产业商业模式 = Business models on culture industries
+#文化产业项目策划与管理 = The Planning and management of projects on cultural industries
+#创意与管理 : 从创意产业到创意管理 = Management and creativity : from creative industries to creative management
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

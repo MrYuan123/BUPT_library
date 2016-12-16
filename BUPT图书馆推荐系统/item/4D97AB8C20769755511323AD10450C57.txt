@@ -1,0 +1,26 @@
+#数据结构与算法 = Data structures and algorithm
+#程序员的思维修炼开发认知潜能的九堂课 = Pragmatic thinking and learning refactor your wetware
+#算法与数据结构习题精解与实验指导
+#Kali Linux渗透测试技术详解
+#程序设计方法及在线实践指导 : 学习指导与习题解析
+#零基础学算法 : 19.5小时多媒体教学视频
+#解忧杂货店
+#Linux常用命令手册
+#黑客札记 , 网络安全手册
+#Kali Linux渗透测试的艺术 = Kali Linux: assuring security by penetration testing
+#C语言程序设计 : 零基础ACM/ICPC竞赛实战指南 = C language programming practical guide for ACM/CPC contest
+#黑客防线 : 2012合订本
+#离散数学及应用
+#挑战程序设计竞赛
+#鸟哥的 Linux 私房菜 , 基础学习篇
+#编程珠玑 = Pragramming pearls
+*自控力 : 斯坦福大学最受欢迎心理学课程 = The Willpower instinct
+*Kali渗透测试技术实战 = Hacking with Kail : practical penetration testing techniques
+*女人的能量魔法书
+*数据结构 : C语言版
+*计算机算法设计与分析
+*JavaScript 高级程序设计 = Professional JavaScript for web developers
+*机器学习实战 = Machine learning in action
+*Redis设计与实现 = The design and implementation of Redis
+*MySQL技术内幕 : SQL编程 = Inside MySQL : SQL programming
+*MySQL入门经典

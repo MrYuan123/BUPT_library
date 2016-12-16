@@ -1,0 +1,24 @@
+#MATLAB 宝典
+#高等数学 (第六版·合订本) 同步辅导及习题全解
+#HTML/CSS网页设计与开发一站式学习 : 难点/案例/练习
+#高等数学考研与竞赛教程
+#考研数学大纲配套辅导全书 , 数学 (一) 
+#Altium Designer 13.0电路设计、仿真与验证权威指南 = The defintive guide of altium designer 13.0 circuit design, simulation adn verification
+#通信原理 : 合订本
+#CMOS数字集成电路 : 分析与设计 = CMOS digital integrated circuits : analysis and design
+#全国大学生数学竞赛辅导指南
+#多样式攻克大学英语六级词汇
+#通信原理习题集
+#大话企业级Android应用开发实战
+#2015考研数学 . 一 , 基础篇 : 全面复习与常考知识点解析
+#疯狂Java讲义
+*半导体物理学学习辅导与典型题解
+*ADS2012射频电路设计与仿真
+*模拟CMOS集成电路设计 = Design of analog CMOS integrated circuits
+*Communication systems =通信系统 /通信系统
+*C 语言程序设计
+*大学英语分级计时阅读 . 3级
+*C 程序设计教程
+*大学英语四级词汇巧记+联想记忆 : 测试版
+*通信原理
+*ADS 2009 射频电路设计与仿真

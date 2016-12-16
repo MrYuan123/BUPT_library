@@ -1,0 +1,12 @@
+#SQL Server 2012数据库技术实用教程
+#Effective STL中文版 : 50条有效使用STL的经验 = Effective STL : 50 specific ways to improve the use of the standard template library
+*LaTeX 2e 完全学习手册
+*数据结构与算法 : C++版
+*XML 程序设计
+*XML 案例解析教程 : 提出问题-分析问题-解决方案
+*信任管理与计算
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

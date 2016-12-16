@@ -1,0 +1,15 @@
+#Linux kernel development =Linux内核设计与实现 /Linux内核设计与实现
+#Linux 内核设计与实现 = Linux kernel development
+#Harry Potter and the Deathly Hallows 
+#深入理解计算机系统 = Computer systems : a programmer's perspctive
+#Operating systems :design and implementation = 操作系统 : 设计及实现 /操作系统 :
+*疯狂Java讲义精粹
+*Effective STL中文版 : 50条有效使用STL的经验 = Effective STL : 50 specific ways to improve your use of the standard template library
+*More Effective C++ 中文版 : 35个改善编程与设计的有效方法 = More Effective C++ : 35 new ways to improve your programs and designs
+*高性能网站建设指南 : 前端工程师技能精髓 = High performance web sites
+*Python 源码剖析 : 深度探索动态语言核心技术
+*Web程序设计
+*代码大全 = Code complete
+*信息论与编码技术
+*深入理解计算机系统 = Computer systems : a programmer's perspective
+*统计学习方法

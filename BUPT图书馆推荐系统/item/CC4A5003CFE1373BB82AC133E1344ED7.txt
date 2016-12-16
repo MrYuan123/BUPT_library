@@ -1,0 +1,13 @@
+#变身 PPT 高手 : PowerPoint核心关键技术解析
+#MySQL入门经典
+#MySQL数据库基础与实例教程 = MySQL fundamentals & practices
+*数据结构教程 (Java 语言描述)
+*MySQL技术内幕 : SQL编程 = Inside MySQL : SQL programming
+*零基础学算法 : 19.5小时多媒体教学视频
+*Redis设计与实现 = The design and implementation of Redis
+*Java程序员面试宝典
+*Spring 3.0就这么简单
+*TCP/IP , Java篇
+*Spring技术内幕 = Spring internals : 深入解析Spring架构与设计原理
+*精通 JavaScript+jQuery
+*程序员突击 , Tomcat原理与Java Web系统开发

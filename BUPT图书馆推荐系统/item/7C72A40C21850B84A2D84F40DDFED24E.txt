@@ -1,0 +1,18 @@
+#消费文化与后现代主义
+#传媒经济学 : 信息传播的12种新趋势 = Newsonomics : twelve new trends that will shape the news you get
+#传播学核心理论与概念 = Key theories and concepts in communication
+#涌现与互动 : 网络社会的传播视角
+#互动传播的思维
+#新中国邮票图鉴
+#网络传播学
+#信息传播学
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

@@ -1,0 +1,16 @@
+#数学建模 = A first course in mathematical modeling
+#数学模型
+#运筹学 = Operations research
+#侦探推理游戏大全集
+#凉生, 我们可不可以不忧伤 . 4 , 彩云散
+#如果巴黎不快乐 . Ⅲ
+*数学建模方法与分析 = Mathematical modeling
+*管理学 : 原理与实践 = Fundamentals of management : essential concepts and applications
+*人际关系与说话艺术
+*数学建模算法与应用
+*MATLAB 在数学建模中的应用
+*运筹学学习指导及习题集
+*复变函数典型题
+*无价 : 洞悉大众心理玩转价格游戏 = Priceless : the myth of fair value (and how to take advantage of it)
+*信号与系统考研指导
+*鲍尔学习法 = Power learning

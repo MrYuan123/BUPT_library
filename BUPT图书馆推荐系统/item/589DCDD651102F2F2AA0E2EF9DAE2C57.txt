@@ -1,0 +1,11 @@
+#MySQL入门经典
+*数据结构教程 (Java 语言描述)
+*变身 PPT 高手 : PowerPoint核心关键技术解析
+*MySQL数据库基础与实例教程 = MySQL fundamentals & practices
+*MySQL技术内幕 : SQL编程 = Inside MySQL : SQL programming
+*零基础学算法 : 19.5小时多媒体教学视频
+*Redis设计与实现 = The design and implementation of Redis
+*Java程序员面试宝典
+*2012考研英语真题同源阅读80篇
+*动荡的世界 : 风险、人性与未来的前景 = The map and the territory : risk, human nature, and the future of forecasting
+*Scala 编程 = Programming in Scala

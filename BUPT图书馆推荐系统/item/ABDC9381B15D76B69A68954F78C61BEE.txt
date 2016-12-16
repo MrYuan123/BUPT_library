@@ -1,0 +1,11 @@
+#图论算法及其 MATLAB 实现
+*自动控制原理考研大串讲
+*研究生入学考试考点解析与真题详解 , 自动控制原理
+*自动控制原理知识精要与考研真题详解
+*信息论基础 = Elements of information theory
+*Mahout实战 = Mahout in action
+*自动控制原理题海大全
+*机器学习 : 实用案例解析
+*Hadoop实战 = Hadoop in action
+*数学之美 = Beauty of mathematics
+*自动控制原理名校考研真题详解

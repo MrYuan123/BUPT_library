@@ -1,0 +1,13 @@
+#“中国特色社会主义理论与实践研究”专题讲义
+#数据挖掘教程
+#概率统计及随机过程
+*数据挖掘 : 概念与技术 = Data mining : concepts and techniques
+*Java语言程序设计 : Java 7 : 入门与提高篇
+*韩国语语法入门
+*随机过程及其应用 = Random processes and their applications
+*PaaS实现与运维管理 : 基于Mesos +Docker+ELK的实战指南
+*MATLAB概率与数理统计分析
+*在实战中成长 , C++开发之路
+*MINITAB 统计分析教程
+*GPU 高性能编程 CUDA 实战 = CUDA by example and introduction to general-purpose GPU programming
+*GPU 精粹 3

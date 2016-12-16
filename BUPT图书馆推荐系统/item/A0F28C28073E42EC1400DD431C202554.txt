@@ -1,0 +1,14 @@
+#GPS接收机硬件实现方法 = Fundamentals of GPS receivers : a hardware approach
+#卫星通信
+#GPS 卫星导航定位原理与方法
+#无线通信 FPGA 设计
+*计算机体系结构 : 量化研究方法 = Computer architecture : a quantitative approach
+*NS2 与网络模拟
+*NS 网络模拟和协议仿真
+*空间激光通信技术与系统 = The Technologies and systems of space laser communication
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

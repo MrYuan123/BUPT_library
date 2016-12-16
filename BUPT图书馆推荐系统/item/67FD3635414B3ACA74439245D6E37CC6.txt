@@ -1,0 +1,13 @@
+#樊昌信《通信原理》 (第6版) 笔记和课后习题 (含考研真题) 详解
+#通信原理学习辅导与习题解答
+#数学建模方法及其应用
+*通信原理 (第六版) 同步辅导及习题全解
+*通信原理学习及考研辅导
+*通信原理学习与实验指导 = Instruction to exercise and experiment for communication principle
+*大学英语四、六级词汇记忆 : 词根+词缀+联想
+*MATLAB实用教程 = The practical textbook of MATLAB
+*Java 程序设计之网络编程
+*算法设计
+*大学英语六级5套模拟+3套真题
+*中级运筹学
+*MATLAB数学实验

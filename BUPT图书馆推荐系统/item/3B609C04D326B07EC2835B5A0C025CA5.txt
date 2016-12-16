@@ -1,0 +1,15 @@
+#精通MATLAB科学计算 = Proficient in MATLAB scientific computing
+#汇编语言
+#MATLAB图像处理375例
+#学习 OpenCV : 中文版
+#精通MATLAB智能算法 = Proficient in MATLAB intelligent algorithm
+*数据结构 : C++语言版
+*HTML5网页设计案例课堂
+*深入浅出Node.js
+*电力系统电磁暂态计算与EMTP应用
+*智能电网通信及组网技术 = Smart grid communications and networking
+*电磁场与电磁波习题精解
+*数字图像处理 = Digital image processing
+*实用MATLAB图像和视频处理 = Practical image and video processing using MATLAB
+*史蒂夫·乔布斯传 = Steve Jobs
+*VHDL 入门·解惑·经典实例·经验总结

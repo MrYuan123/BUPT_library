@@ -1,0 +1,12 @@
+#数据转换器 = Data converters
+#CMOS 射频集成电路分析与设计 = Analysis and design of CMOS RF integrated circuits
+*MATLAB 在射频电路设计中的应用
+*复变函数札记
+*射频电路工程设计 = RF circuit design
+*不爱学习的校园侦探
+*电路基础 = Fundamentals of electric circuits
+*电子线路
+*濒死之眼
+*数学物理方法 = Methods of mathematical physics
+*锁相环设计、仿真与应用
+*射频电路与芯片设计要点 = Key issues in RF/RFIC circuit design

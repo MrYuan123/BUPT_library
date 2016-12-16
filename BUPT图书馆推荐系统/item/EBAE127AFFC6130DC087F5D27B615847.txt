@@ -1,0 +1,20 @@
+#红楼梦十五讲
+#传习录全鉴
+#云教育 = Cloud computing education : 科技让教育更精彩
+#精益创业方法论 : 新创企业的成长模式
+#计算机辅助数学教学
+#九型人格 : 展现工作中的最佳自我 = Bringing out the best in yourself at work
+#智慧教育 : 互联网+时代的教育大转型
+#跟踪成熟的轨迹 : 发展心理学
+#王国维点评红楼梦
+#企业商业模式 : 互联网思维的颠覆与重塑 = Enterprise business model : subversion and innovation of internet thinking
+*jQuery应用开发实践指南 = Learning jQuery : a hands-on guide to building rich interactive web front ends
+*麦田里的守望者
+*当哲学家遇上心理医生
+*培训行业这一年
+*Word排版之道 = The tao of typesetting
+*Bootstrap实战 = Bootstrap site blueprints
+*终身学习视野下的微型移动学习资源建设
+*创新者的课堂 : 颠覆式创新如何改变教育 = Disrupting class : how disruptive innovation will change the way the world learns
+*深入体验Java Web项目开发
+*智慧教育与大数据 = Smart education & big data

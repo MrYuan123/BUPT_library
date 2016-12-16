@@ -1,0 +1,11 @@
+#启示录 : 打造用户喜爱的产品
+*简约至上 : 交互式设计四策略
+*JavaScript DOM 编程艺术 = DOM Scripting : web design with JavaScript and the document object model
+*浪潮之巅 = On top of tides
+*C++ 从入门到精通
+*用户体验度量 : 收集、分析与呈现 = Measuring the user experience : collecing, analyzing, and presenting usability metrics
+*用户体验与可用性测试
+*产品经理那些事儿
+*乔布斯 : 产品制胜法则
+*计算机网络
+*线性代数

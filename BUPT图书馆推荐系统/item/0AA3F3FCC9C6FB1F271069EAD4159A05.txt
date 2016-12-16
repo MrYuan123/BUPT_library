@@ -1,0 +1,16 @@
+#顾客要买什么 = Treasure hunt : inside the mind of the new consumer
+#市场营销案例评析
+#消费者行为学
+#华为的营销策略 = The marketing of Huawei innovation
+#电子商务情景案例 = Scene cases of E-Business
+#新手配色宝典 . 1
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

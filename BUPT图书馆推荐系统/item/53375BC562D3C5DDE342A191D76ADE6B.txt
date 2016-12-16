@@ -1,0 +1,18 @@
+#大话5G = The myth of 5G
+#大规模强化学习
+#合作博弈理论模型
+#大话移动通信
+#应用博弈论
+#摄动马尔可夫决策与哈密尔顿圈 = Perturbed Markov decision processes and Hamiltonian cycles
+#高级无线网络 : 4G技术
+#有限自动机理论
+*LTE无线网络规划与设计 = LTE wireless network planning & design
+*Hadoop海量数据处理 : 技术详解与项目实战
+*Hadoop大数据处理 = Big data processing
+*LTE协议栈与信令分析 = LTE protocol stack and signaling analysis
+*移动通信基础
+*LTE网络规划设计手册 = LTE network planning and design handbook
+*移动通信原理
+*蚁群优化 = Ant conlony optimization
+*真秦始皇 : 智取六国
+*徐志摩文集

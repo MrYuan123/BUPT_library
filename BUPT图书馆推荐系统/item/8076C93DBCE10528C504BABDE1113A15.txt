@@ -1,0 +1,24 @@
+#随机信号分析
+#国富论 = An inquiry into the nature and causes of the wealth of nations . 上
+#Style :
+#衍射计算及数字全息 . 上册
+#信息光学原理
+#信号统计分析与处理
+#通信原理 . 上
+#量子力学
+#激光原理
+#量子力学概论 = Introduction to quantum mechanics
+#量子菜根谭 : 量子理论专题分析
+#The Radom house book of jokes and anecdotes :
+#量子力学习题精选与剖析
+#量子力学教程
+*群论习题精解
+*量子迷宫 : 历史·理论·诠释·哲学 = Beyong measure : modern physics, philosophy and the meaning of quantum theory
+*量子力学的前沿问题
+*微机原理与接口技术
+*应用量子密码学 = Applied quantum cryptography
+*信息保护 : 从经典纠错到量子密码 = Protecting information : from classical error correction to quantum cryptography
+*量子密码协议的设计和分析
+*量子计算和量子信息 = Quantum computation and quantum information . 二 , 量子信息部分
+*大学英语四级词汇搭配+活用
+*无敌全范围英语法 = Super English grammar

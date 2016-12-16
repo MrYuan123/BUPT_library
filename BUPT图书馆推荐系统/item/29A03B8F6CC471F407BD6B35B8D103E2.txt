@@ -1,0 +1,11 @@
+#通信原理
+*通信原理习题集
+*射频识别技术原理与应用 = RFID—handbuch: grundlagen und praktische anwendungen von transpondern, kontaktlosen chipkarten und NFC
+*光纤通信 = Optical fiber communications
+*自组织网络 : GSM, UMTS和LTE的自规划、自优化和自愈合
+*PHP 5.5从零开始学 : 视频教学版
+*半导体器件基础 = Semiconductor device fundamentals
+*移动 Ad Hoc 网络 : 自组织分组无线网络技术
+*通信原理 (第六版) 同步辅导及习题全解
+*HTML 5+CSS 3+JavaScript网页设计案例课堂
+*PHP+MySQL 开发实战

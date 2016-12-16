@@ -1,0 +1,16 @@
+#HTML5 高级程序设计 = Pro HTML5 programming : powerful APIs for richer internet application development
+#精彩绝伦的jQuery = Smashing jQuery
+#HTML5与CSS3基础教程 = HTML and CSS : visual QuickStart guide
+#jQuery 开发技术详解
+#漠上烟罗
+#2015年数据结构联考复习指导 = Review guide of data structures entrance exam
+*Go语言编程 = The Go programming language
+*Go语言程序设计
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

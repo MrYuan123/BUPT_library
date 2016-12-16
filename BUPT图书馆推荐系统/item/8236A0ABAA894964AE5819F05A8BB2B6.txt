@@ -1,0 +1,16 @@
+#计算机网络
+#模拟CMOS集成电路设计 = Design of analog CMOS integrated circuits
+#半导体物理与器件 = Semiconductor physics and devices : basic principles
+#数字信号处理 = Digital signal processing : 基于计算机的方法a computer-based approach . 上册
+#模拟 CMOS 集成电路设计 = Design of analog CMOS integrated circuits
+#张道真英语语法 = A Comprehensive English grammar
+*薄冰新编英语语法 = Bobing newly-edited English grammar
+*半导体物理学学习辅导与典型题解
+*ADS2012射频电路设计与仿真
+*大话企业级Android应用开发实战
+*通信原理习题集
+*Communication systems =通信系统 /通信系统
+*操作系统
+*射频识别技术原理与应用 = RFID—handbuch: grundlagen und praktische anwendungen von transpondern, kontaktlosen chipkarten und NFC
+*数据库系统基础
+*控制理论基础与应用 = Control theory and applications

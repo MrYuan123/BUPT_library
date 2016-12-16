@@ -1,0 +1,19 @@
+#弱信号全球导航卫星系统接收机 = GNSS receivers for weak signals
+#Java编程实战宝典
+#无线电导航原理与信号接收技术
+#卫星导航软件接收机原理与设计
+#算法导论 = Introduction to algorithms
+#卫星导航常用知识问答
+#疯狂Java讲义
+#疯外套的科学日记
+#卫星导航定位工程 = The Engineering of satellite navigation and positioning
+*英语口语语料库 , 点滴生活
+*算法设计与分析
+*机器学习实战 = Machine learning in action
+*MVC程序设计
+*Algorithms =算法 /算法
+*算法竞赛入门经典
+*Java核心技术 . 卷II , 高级特性 = Core Java . Volume II : advanced features
+*2016版计算机网络高分笔记
+*剑指Offer : 名企面试官精讲典型编程题
+*密码编码学与网络安全 = Cryptography and network security : 原理与实践principles and practices

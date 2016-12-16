@@ -1,0 +1,16 @@
+#JAVA 2 核心技术 = Core Java 2 . 卷Ⅰvolume Ⅰ , 基础知识fundamentals
+#Python 学习手册
+#C++ 程序设计语言 = The C++ programming language
+#21 天学通 Java
+#MATLAB 从入门到精通
+#数据结构 = Data structure
+*C++ Primer : 中文版
+*Discrete mathematics for computer scientists =离散数学 /离散数学
+*数据结构学习指导与习题解析
+*闪灵 = The shining
+*GRE作文大讲堂 : 方法、素材、题库逐题精讲
+*图解TCP/IP
+*Photoshop CS4 从入门到精通
+*精通MATLAB最优化计算
+*大话移动通信网络规划
+*操作系统 = Operating systems

@@ -1,0 +1,15 @@
+#日语词汇新思维 : 词源+联想记忆法
+#认知语言学入门 = An introduction to cognitive linguistics
+#日本 . 下册
+#日本近现代文学作品导读
+#日语“体”的研究
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

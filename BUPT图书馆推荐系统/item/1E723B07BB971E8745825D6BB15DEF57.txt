@@ -1,0 +1,13 @@
+#数学模型
+#信号分析与处理
+#复变函数典型题
+*数学建模 = A first course in mathematical modeling
+*数学建模算法与应用
+*MATLAB在数学建模中的应用
+*数学建模方法与分析 = Mathematical modeling
+*复变函数
+*工程数学 : 复变函数
+*电子电路
+*训练思维的数学趣题
+*信号与系统
+*复变函数与积分变换

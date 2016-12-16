@@ -1,0 +1,13 @@
+#M2M通信
+#计算机网络
+#LTE : UMTS长期演进理论与实践 = LTE-the UMTS long term evolution from theory to practice
+*LTE/LTE-Advanced-UMTS长期演进理论与实践 = LTE-LTE UMTS long term evolution : from theory to practice
+*PPT, 要你好看
+*LTE系统原理及应用
+*操作系统
+*C语言程序设计
+*大话移动通信
+*无线通信与网络 = Wireless communications and networks
+*LTE FDD技术原理与网络规划 = LTE FOD technology principle and Network planning
+*Java典型模块与项目实战大全
+*Qt 5开发及实例

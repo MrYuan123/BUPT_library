@@ -1,0 +1,11 @@
+#图论与网络流理论 = Graph theory and network flow theory
+*大数据 = The big data revolution : 正在到来的数据革命, 以及它如何改变政府、商业与我们的生活
+*城市物流 : 网络建模与智能交通系统 = City logistics : network modelling and intelligent transport systems
+*精通MATLAB R2014a = Proficient in MATLAB R2014a
+*图论 = Graph theory
+*博弈论的诡计全集 : 日常生活中的博弈策略
+*MATLAB 编程与最优化设计应用
+*The vehicle routing problem =车辆路径问题 /车辆路径问题
+*MATLAB 从入门到精通
+*组合最优化 : 理论与算法
+*精通MATLAB最优化计算

@@ -1,0 +1,11 @@
+#Java语言程序设计 , 基础篇 = Introduction to Java programming
+*拉曼谱学 : 峰强中的信息
+*Java JDK 5.0 学习笔记
+*Linux 命令、编辑器与 Shell 编程
+*计算机科学导论 = Foundations of computer science
+*SQL Server 2008数据库应用与开发习题解答与上机指导
+*SQL Server 2008数据库应用与开发
+*Oracle PL/SQL 完全自学手册
+*计算机网络
+*线性代数
+*高等数学 . 上册

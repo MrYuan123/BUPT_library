@@ -1,0 +1,12 @@
+#RESTful Web Services 中文版 = RESTful web services
+#Python标准库 = The Python standard library by example
+*OMNeT++与网络仿真
+*OMNeT++网络仿真
+*数据挖掘 = Data mining : 实用机器学习技术practical machine learning tools and techniques
+*分布式算法 = Distributed algorithms
+*Linux命令行大全 = The Linux command line
+*WebGL 高级编程 : 开发Web 3D图形
+*SPSS统计分析与数据挖掘
+*数据挖掘导论
+*Python Cookbook (第3版) 中文版
+*机器学习及其应用2011

@@ -1,0 +1,14 @@
+#Python Cookbook (第3版) 中文版
+#NumPy攻略 = NumPy cookbook : Python科学计算与数据分析
+#计算机硬件及组成原理 = Hardware and computer organization : the software perspective
+#Python标准库 = The Python standard library by example
+*RESTful Web Services 中文版 = RESTful web services
+*SPSS统计分析与数据挖掘
+*数据挖掘导论
+*雪国
+*Python语言程序设计 = Introduction to programming using Python
+*C#图解教程 = Illustrated C# 2012
+*机器学习及其应用2011
+*Eclipse 从入门到精通
+*机器学习方法
+*Vim实用技巧 = Practical Vim : edit text at the speed of thought

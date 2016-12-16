@@ -1,0 +1,11 @@
+#HTML5权威指南 = The Definitive guide to HTML5
+*JavaScript高级程序设计 = Professional JavaScript for web developers
+*Java 编程思想 = Thinking in Java
+*jQuery Mobile快速入门
+*精通JavaScript开发 = Pro JavaScript development : coding, capabilities, and tooling
+*排队论
+*JavaScript完全参考手册
+*JavaScript语言精粹 = JavaScript : the good parts
+*锋利的jQuery
+*MySQL数据库管理与开发实践教程
+*JavaScript DOM 编程艺术 = DOM Scripting : web design with JavaScript and the document object model

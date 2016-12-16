@@ -1,0 +1,16 @@
+#数字信号处理 : MATLAB版 = Digital signal processing using MATLAB
+#光纤通信器件及系统
+#信息论基础
+#MATLAB/Simulink系统仿真超级学习手册
+#光子学 = Photonics : 现代通信光电子学optical electronics in modern communications
+#光网络 = Optical networks : a Practical perspective . 下卷 , 组网技术分析
+*光纤通信 = Optical fiber communications
+*光纤通信系统
+*HTML 5开发实例大全
+*C51 单片机 C 程序模板与应用工程实践
+*高等数学学习与提高 . 下册
+*高等数学学习与提高 . 上册
+*爱上单片机
+*21天学通51单片机开发
+*模糊控制及其 MATLAB 仿真
+*先进 PID 控制 MATLAB 仿真

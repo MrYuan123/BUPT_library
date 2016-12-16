@@ -1,0 +1,13 @@
+#MATLAB实用教程 = The practical textbook of MATLAB
+#数学建模方法及其应用
+#Java 程序设计之网络编程
+*深入云计算 : Hadoop应用开发实战详解
+*HTML5 & CSS3编程入门经典
+*电源应用电路集粹
+*JSP 网站开发详解 : JSP+Servlet+Tomcat+Eclipse+SSH
+*单片开关电源设计200例
+*JavaScript语言精髓与编程实践
+*大学英语四、六级词汇记忆 : 词根+词缀+联想
+*樊昌信《通信原理》 (第6版) 笔记和课后习题 (含考研真题) 详解
+*通信原理学习辅导与习题解答
+*中级运筹学

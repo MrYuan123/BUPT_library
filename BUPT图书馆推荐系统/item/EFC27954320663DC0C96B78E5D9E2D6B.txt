@@ -1,0 +1,12 @@
+#移动 Ad Hoc 网络 : 自组织分组无线网络技术
+#移动Ad Hoc网络 = Mobile Ad Hoc networking
+*云计算 : 概念、技术与架构 = Cloud computing : concepts, technology & architecture
+*编译原理 = Compilers : principles, techniques and tools
+*新日本语能力考试N2读解强化训练
+*HBase实战 = HBase in action
+*射频识别技术原理与应用 = RFID—handbuch: grundlagen und praktische anwendungen von transpondern, kontaktlosen chipkarten und NFC
+*数据库系统基础
+*通信原理
+*无线移动自组织网
+*无线传感器网络 = Wireless sensor networks a networking perspective
+*React : 引领未来的用户界面开发框架 = Developing a React edge : the javascript library for user interfaces

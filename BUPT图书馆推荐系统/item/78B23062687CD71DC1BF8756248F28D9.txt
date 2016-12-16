@@ -1,0 +1,14 @@
+#Python项目开发实战
+#金字塔原理 : 思考、表达和解决问题的逻辑 = The minto pyramid principle : logic in writing, thinking and problem solving
+#计算机网络 : 网络设计的原理、技术和协议 = Computer networks : principles, technologies and protocols for network design
+#概率论、随机过程与数理统计
+*计算机网络
+*机器学习 = Machine learning
+*数据挖掘 : 概念、模型、方法和算法
+*数据挖掘 : 概念与技术
+*无线通信 = Wireless communications
+*短距离无线系统的可靠通信
+*智能无线传感器网络系统
+*随机过程理论与应用
+*ZigBee技术原理与实战
+*无线传感器网络的理论及应用

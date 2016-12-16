@@ -1,0 +1,12 @@
+#哈姆莱特 = Hamlet
+#李尔王 = King Lear
+*Hadoop MapReduce实战手册
+*凸优化理论 = Convex optimization theory
+*深入理解Spark : 核心思想与源码分析 = Spark internals : core design and source code analysis
+*美国后现代派小说选读 = Selected readings in American postmodernist fiction
+*软件小设计
+*悲剧的诞生 = Die geburt der tragodie : eine auswahl aus nietzsche's asthetischen werken
+*荷马史诗导读
+*荷马史诗的故事 = Homeric stories
+*权力意志 . 下卷
+*莎士比亚十四行诗集 = Sonnets of william Shakespeare

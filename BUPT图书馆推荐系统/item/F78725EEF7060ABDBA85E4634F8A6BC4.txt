@@ -1,0 +1,17 @@
+#移动 Ad Hoc 网络 : 自组织分组无线网络技术
+#数据链 : 信息系统连接武器系统的捷径
+#无线自组网移动性建模技术 = Mobility modeling technology for ad hoc Networks
+#数据链技术与系统
+#无线Ad Hoc网络移动模型大全 = The encyclopedia of wireless Ad Hoc network mobility model
+#数据链理论与系统 = Theory and system of data link
+#移动自组网路由协议研究 = Mobile ad hoc network protocols
+*LDPC 码理论与应用
+*多元LDPC码及其在无线通信中的应用 = Nonbinary low-density parity-check codes and their applications in wireless communications
+*Turbo 与 LDPC 编解码及其应用
+*移动Ad Hoc网络 = Mobile Ad Hoc networking
+*移动通信 : 技术、应用与业务生成
+*LTE系统原理及应用
+*通信原理
+*HBase实战 = HBase in action
+*计算机网络与 Internet 协议和技术 = Computer networking with Internet protocols and technology
+*数据库系统基础

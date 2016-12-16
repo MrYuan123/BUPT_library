@@ -1,0 +1,13 @@
+#Java入门经典
+#数据之美 : 一本书学会可视化设计 = Pata points : visualization that means something
+#Java开发实例大全 , 基础卷
+*Java JDK 7学习笔记
+*Java程序设计及实验
+*SQL 学习指南
+*三天读懂五千年中国史
+*精通D3.js : 交互式数据可视化高级编程
+*数据可视化
+*数据可视化之美
+*算法与数据结构 : Java语言描述
+*大话数据库
+*结网 : 改变世界的互联网产品经理

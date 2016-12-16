@@ -1,0 +1,18 @@
+#无线传感器网络轻量级密码算法与协议 = Lightweight cryptographic algorithms and protocols for wireless sensor networks
+#现代密码学
+#密码编码与信息安全 : C++实践
+#信息安全原理与实践
+#密码学与网络安全
+#信息安全中的数学方法与技术
+#Android安全架构深究 = Android security internals an in-depth guide to andriod's security architecture
+#PKI 技术
+*密码学原理与实践 = Cryptography theory and practice
+*深入浅出密码学 : 常用加密技术原理与应用
+*密码学与网络安全 = Cryptography and network security
+*数值分析 = Numerical analysis
+*计算机网络
+*计算机网络简明教程
+*数字签名 = Digital signatures
+*移动通信原理
+*C++ 语言从入门到精通
+*光网络信息传输技术

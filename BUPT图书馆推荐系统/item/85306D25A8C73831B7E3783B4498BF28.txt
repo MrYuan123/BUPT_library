@@ -1,0 +1,17 @@
+#可靠性试验及其统计分析
+#MATLAB 数理统计 (6.x)
+#深入浅出数据分析 = Head first data analysis
+#谁说菜鸟不会数据分析
+#Ansys Workbench 14.5有限元分析案例详解
+#谁说菜鸟不会数据分析 , 工具篇
+#ANSYS Workbench 14.5有限元分析从入门到精通
+*多媒体通信技术基础
+*软件设计师考试同步辅导 : 考点串讲、真题详解与强化训练
+*非线性光纤光学 = Nonlinear fiber optics
+*软件测试教学做一体化教程
+*R 语言与统计分析 = Statistical analysis with R
+*ANSYS Workbench 15.0从入门到精通
+*六级词汇词根+联想记忆法
+*工程力学
+*ANSYS Workbench工程应用案例精通
+*Word高效办公应用技巧

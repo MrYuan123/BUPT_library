@@ -1,0 +1,12 @@
+#数据结构、算法与应用 : C++语言描述 = Data structures, algorithms, and applications in C++
+#ns-3网络模拟器基础及应用
+*Web 搜索 = Web search
+*Netty权威指南
+*深入浅出Linux工具与编程
+*疯狂 XML 讲义
+*Java简明教程
+*相守一生的秘密 : 幸福婚姻枕边书
+*Shell 脚本学习指南
+*大话设计模式
+*Java并发编程的艺术 = The art of Java concurrency programming
+*图像处理、分析与机器视觉 = Image processing, analysis, and machine vision

@@ -1,0 +1,13 @@
+#Python入门经典 = The Practice of computing using Python : 以解决计算问题为导向的Python编程实践
+#轻松学Java
+#Java 面向对象程序设计
+*疯狂Java : 突破程序员基本功的16课
+*Java 程序员面试宝典
+*Java 轻松入门
+*Linux 快速入门 : 系统安装、管理、维护及服务器配置
+*Linux Shell脚本攻略 = Linux Shell Scripting Cookbook
+*Java经典编程300例
+*考研英语词汇词根 + 联想记忆法 : 乱序版
+*电子与通信工程专业英语
+*Java JDK 6 学习笔记
+*解惑大数据 = Big data

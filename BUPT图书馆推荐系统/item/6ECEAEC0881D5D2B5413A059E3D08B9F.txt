@@ -1,0 +1,14 @@
+#深入理解Spark : 核心思想与源码分析 = Spark internals : core design and source code analysis
+#Excel/PPT 2013办公应用从入门到精通
+#数据结构教程
+#MySQL核心技术与最佳实践 = MySQL core technology & best practice
+*怪诞行为学 , 可预测的非理性 : 升级版
+*算法艺术与信息学竞赛
+*信号与系统
+*罗辑思维 : 在知识中寻找见识
+*数学建模 = A first course in mathematical modeling
+*Spark核心技术与高级应用 = Spark core technology and advanced applications
+*数据结构
+*信号与噪声 = The signal and the noise
+*数据结构与算法教程 = Data structures and algorithms
+*每天读点英文感动你一生的英文全集

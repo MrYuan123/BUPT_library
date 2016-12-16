@@ -1,0 +1,12 @@
+#汤姆·索亚历险记 = The adventures of tom sawwyer
+#神经网络 = Neural networks
+*Node.js开发实战详解
+*神经网络盲均衡理论、算法与应用
+*神经网络设计方法与实例分析
+*Java 编程入门经典
+*MATLAB神经网络编程
+*MATLAB GUI设计入门与实战
+*深入学习MongoDB = Scaling mongoDB. 50 tips and tricks for mongoDB developers
+*宇宙与天体
+*弯曲时空中的黑洞 = Black hole in curved spacetime
+*MongoDB实战 = MongoDB in action

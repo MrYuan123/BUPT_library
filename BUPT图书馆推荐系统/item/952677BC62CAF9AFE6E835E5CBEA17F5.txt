@@ -1,0 +1,13 @@
+#Java必须知道的300个问题
+#机器学习与R语言 = Machine learning with R
+#Java经典编程300例
+*Java 面向对象程序设计
+*Linux Shell脚本攻略 = Linux Shell Scripting Cookbook
+*Linux 快速入门 : 系统安装、管理、维护及服务器配置
+*机器学习与智能决策支持系统
+*机器学习系统设计 = Building machine learning systems with python
+*Mahout实战 = Mahout in action
+*机器学习基础教程 = A First course in machine learning
+*线性算子理论
+*机器学习实战 = Machine learning in action
+*泛函分析 = Analyse fonctionnelle : 理论和应用theorie et applications

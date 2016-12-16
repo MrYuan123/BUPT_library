@@ -1,0 +1,15 @@
+#UML基础与Rose建模案例
+#HTML、CSS、JavaScript网页制作从入门到精通
+#Unix内核源码剖析
+#面向对象技术 UML 教程
+#操作系统原理与应用
+*JavaScript高级程序设计 = Professional JavaScript for web developers
+*HTML、XHTML、CSS与JavaScript入门经典
+*自控力 : 一次戒掉拖延症
+*考研英语词汇词根+联想记忆法[乱序版]
+*普京大传 = Putin biography
+*jQuery 即学即用
+*HTML + CSS 网页布局开发指南
+*PHP 和 MySQL Web 开发 = PHP and MySQL Web development
+*超实用的JavaScript代码段
+*MySQL快速入门

@@ -1,0 +1,17 @@
+#面试有戏 : 求职招聘AB面
+#轻松应聘好工作 : 资深招聘主管的求职忠告
+#HiAll 求职快车 , 面试篇
+#汽车构造透视图典 : 发动机与变速器
+#C#编程实战宝典
+#汽车是怎样跑起来的
+#电动汽车原理与构造
+*Unity 4.3游戏开发项目实战 : C#、JavaScript版本
+*wow!1000个彩色简笔画
+*木偶奇遇记 = The Adventures of pinocchio : 插图·中文导读英文版
+*从零开始学 JavaScript
+*MATLAB 小波分析
+*信号处理与数据分析 = Signal processing and data analysis
+*非平稳信号特征提取方法及其应用
+*信息论基础 = Elements of information theory
+*现代模式识别 = Modern pattern recognition
+*信号与系统 : 精编版

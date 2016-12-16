@@ -1,0 +1,14 @@
+#高等数学 . 上册
+#托福考试官方指南 = The official guide to the TOEFL test
+#高等数学 . 下册
+#数学复习全书 , 数学一
+*线性代数
+*复变函数
+*概率论与数理统计
+*2015年考研数学新编考试参考书
+*Verilog HDL高级数字设计 = Advanced digital design with the verilog HDL
+*离散数学常见题型解析及模拟题
+*高等数学 . 上
+*英语应用语法 = Modern English grammar in use
+*工程电路分析
+*高等数学学习指导 . 上册

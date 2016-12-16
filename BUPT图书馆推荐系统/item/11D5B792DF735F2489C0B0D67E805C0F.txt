@@ -1,0 +1,13 @@
+#神经计算原理 = Principles of neurocomputing for science & engineering
+#MATLAB 神经网络应用设计
+#人工智能 = Artificial intelligence : 复杂问题求解的结构和策略structures and strategies for complex problem solving
+*MATLAB神经网络30例
+*MATLAB神经网络原理与实例精解
+*业务流程管理
+*图论算法理论、实现及应用
+*数据挖掘 : 概念与技术 = Data mining : concepts and techniques
+*柔性业务过程管理体系与方法
+*人工智能 : 一种现代的方法
+*过程挖掘 : 业务过程的发现、合规和改进
+*过程感知的信息系统
+*规划算法

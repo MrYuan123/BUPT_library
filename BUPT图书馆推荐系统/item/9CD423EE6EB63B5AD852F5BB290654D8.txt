@@ -1,0 +1,11 @@
+#解忧杂货店
+*JavaScript 高级程序设计 = Professional JavaScript for web developers
+*乌合之众 : 大众心理研究 = a Study of the popular mind
+*放学后
+*数据分析
+*大数据时代 : 生活、工作与思维的大变革 = Big data : a revolution that will transform how we live, work and think
+*躺着改变世界
+*乐观的偏见 : 激发理性乐观的潜在力量 = The optimism bias : a tour of the irrationally positive brain
+*数字经济大趋势 : 正在到来的商业机遇 = Unzipping the digital world
+*怎样读书
+*从创意到畅销书 : 修改与自我编辑 = Revision and self-editing for publication : techniques for transforming your first draft into a novel that sells

@@ -1,0 +1,11 @@
+#射频电路工程设计 = RF circuit design
+*MATLAB 在射频电路设计中的应用
+*ADS高速电路信号完整性应用实例
+*微波工程 = Microwave engineering
+*ADS2008 射频电路设计与仿真实例
+*微波固态电路设计 = Microwave solid state circuit design
+*复变函数札记
+*不爱学习的校园侦探
+*电路基础 = Fundamentals of electric circuits
+*电子线路
+*濒死之眼

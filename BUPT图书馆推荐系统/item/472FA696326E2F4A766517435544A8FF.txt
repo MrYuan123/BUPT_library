@@ -1,0 +1,19 @@
+#GNU Make 项目管理
+#自己动手写网络爬虫
+#实用数据分析 = Practical data analysis
+#算法精解 : C语言描述
+#数字滤波器的MATLAB与FPGA实现 : Altera/Verilog版
+#地面无线定位技术 = Ground-based wireless positioning
+#无线传感器网络 = Wireless sensor networks a networking perspective
+#深入浅出 Web 设计
+#阵列信号处理的理论与应用
+*数据结构与算法 : C语言版
+*数据结构 : C++版
+*无线移动自组织网
+*React : 引领未来的用户界面开发框架 = Developing a React edge : the javascript library for user interfaces
+*移动Ad Hoc网络 = Mobile Ad Hoc networking
+*Ad Hoc 网络技术
+*信息检测与估计 : 原理及应用 = Detection and estimation : principles and applications
+*统计信号处理基础 : 估计与检测理论 . 卷I = Fundamentals of statistical signal processing . volume I , estimation theory统计信号处理基础 : 估计与检测理论 . 卷II = Fundamentals of statistical signal processing . volume II , detection theory
+*现代信号谱分析 = Spectral analysis of signals
+*阵列信号处理及MATLAB实现

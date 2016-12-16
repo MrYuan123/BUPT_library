@@ -1,0 +1,13 @@
+#王小波散文精选
+#人和吞食者 : 刘慈欣最具代表中短篇小说集
+#红高梁家族
+*芙蓉如面柳如眉 = Desperate love
+*蛙
+*温网荣耀 : 穆雷自传 = Andy Murray: seventy-seven  : my road to wimbledon glory
+*电影欣赏 = Movie appreciation
+*差错控制编码与安全
+*数字图像处理 = Digital image processing
+*图灵的秘密 = The Annotated turing : 他的生平、思想及论文解读
+*计算机网络
+*线性代数
+*高等数学 . 上册

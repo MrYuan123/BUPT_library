@@ -1,0 +1,14 @@
+#LTE轻松进阶
+#大话移动通信
+#别样诠释 : 一个Visual C++老鸟10年学习与开发心得
+#实战无线通信应知应会 : 新手入门, 老手温故
+*宽带移动通信系统的网络自组织 (SON) 技术
+*大话无线通信
+*移动通信原理与系统
+*移动通信原理、系统及技术
+*3GPP 长期演进 (LTE) 系统架构与技术规范 = 3GPP long term evolution : architecture and specification
+*大客户销售谋攻之道 = Key account selling: strategy and planning
+*无线通信 = Wireless communications
+*基于 Quartus Ⅱ 的数字系统 Verilog HDL 设计实例详解
+*无线通信的 MATLAB 和 FPGA 实现
+*移动通信中的空时信号处理 = Space-time signal processing for mobile communications

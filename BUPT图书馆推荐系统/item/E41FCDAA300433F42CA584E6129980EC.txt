@@ -1,0 +1,16 @@
+#深入解析SAS : 数据处理、分析优化与商业应用
+#智能大数据SMART准则 : 数据分析方法、案例和行动纲领 = Big data : using SMART big data, analytics and metrics to make better decisions and improve performance
+#大数据 小故事
+#计算机网络 : 原理、技术与应用
+#零基础学Python
+#Python Web开发学习实录
+*机器学习系统设计 = Building machine learning systems with python
+*数据挖掘技术 : 应用于市场营销、销售与客户关系管理
+*犯罪心理学 = Criminal behavior: a psychosocial approach
+*数学之美 = Beauty of mathematics
+*少有人走的路 , 心智成熟的旅程 = The road less traveled
+*4周攻克BEC词汇8000周计划 , 中级
+*六级词汇词根 + 联想记忆法 : 便携版
+*Python宝典
+*Python自动化运维 : 技术与最佳实践 = Automation operations with Python : technique and best practices
+*统计自然语言处理

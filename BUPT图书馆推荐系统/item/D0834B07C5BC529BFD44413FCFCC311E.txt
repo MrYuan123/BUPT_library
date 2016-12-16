@@ -1,0 +1,12 @@
+#数字图像处理 = Digital image processing
+#Head First Java (中文版)
+*数字图像处理 = Digital image processing : MATLAB版using MATLAB
+*数字图像处理 : MATLAB版 : 本科教学版 = Digital image processing using MATLAB
+*疯狂Java : 突破程序员基本功的16课
+*第一行代码 : Android
+*图像处理、分析与机器视觉 = Image processing, analysis, and machine vision
+*网络工程师考试考眼分析与样卷解析 : 2014版
+*沉默的羔羊 = The Silence of the lambs
+*曾国藩传
+*矩阵论典型题解析及自测试题
+*矩阵论导教·导学·导考

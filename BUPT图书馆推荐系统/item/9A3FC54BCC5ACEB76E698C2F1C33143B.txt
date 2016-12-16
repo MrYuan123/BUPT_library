@@ -1,0 +1,13 @@
+#哈利·波特与死亡圣器 = Harry Potter and the deathly hallows
+#哈利·波特与凤凰社 = Harry Potter and the order of the phoenix
+#哈利·波特与“混血王子” = Harry Potter and the half-blood prince
+*哈利·波特与魔法石 = Harry Potter and the philosopher's stone
+*哈利·波特与密室 = Harry Potter and the chamber of secrets
+*一日重生 = For one more day
+*玫瑰杀机 = Rosebush
+*傲慢与偏见
+*哈利·波特与阿兹卡班囚徒 = Harry Potter and the prisoner of Azkaban
+*杜拉拉升职记 = A story of Lala's promotion
+*哈利·波特与火焰杯 = Harry Potter and the goblet of fire
+*C 算法 . 第1卷 , 基础、数据结构、排序和搜索
+*线性代数学习指导

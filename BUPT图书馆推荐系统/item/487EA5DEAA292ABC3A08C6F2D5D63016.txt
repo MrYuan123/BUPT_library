@@ -1,0 +1,12 @@
+#JavaScript高级程序设计 = Professional JavaScript for web developers
+#牛奶可乐经济学 = The economic naturalist : in search of explanations for everyday enigmas
+*PHP 和 MySQL Web 开发 = PHP and MySQL Web development
+*jQuery实战 = jQuery in action
+*HTML5权威指南 = The Definitive guide to HTML5
+*天才在左 疯子在右
+*王小波小说全集
+*牛奶可乐经济学 : 行为经济学版 = Microeconomics and behavior . 2
+*PHP 网络编程技术与实例
+*别具光芒 , CSS 属性、浏览器兼容与网页布局
+*曼昆《经济学原理: 宏观经济学分册》 (第5版) 学习精要·习题解析·补充训练
+*经济学原理 , 宏观经济学分册

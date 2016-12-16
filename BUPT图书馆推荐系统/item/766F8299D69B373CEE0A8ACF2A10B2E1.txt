@@ -1,0 +1,26 @@
+#Android SDK程序设计与开发范例
+#HTML+CSS+JavaScript网页制作简明教程
+#逆向工程核心原理
+#多样式攻克大学英语六级词汇 : 便携版
+#英语句法解析 = English syntactic analysis
+#CET-6词汇串记大比拼
+#0day安全 : 软件漏洞分析技术
+#Java 程序开发参考手册 = Java : the complete reference
+#30天自制操作系统
+#Java JDK8学习笔记
+#Python 核心编程
+#Android高级开发技术案例教程
+#Android应用开发学习手册
+#Android手机程序设计实用教程
+#Java 7面向对象程序设计教程
+#PHP语言精粹 = PHP the good parts
+*精通 Android 游戏开发 = Pro Android games
+*Android安全机制解析与应用实践 = Android security mechanism and application practices
+*HTML与CSS入门经典
+*不合时宜的沉思 = Unzeitgemabe betrachtungen
+*Android开发课堂实录
+*人工智能 : 一种现代的方法
+*搜索方法论 : 优化与决策支持技术入门教程
+*Linux 服务器配置与管理
+*ECMAScript 6入门
+*大学英语六级词汇过关必练1500题

@@ -1,0 +1,17 @@
+#编程珠玑 = Programming pearls
+#认知与协作无线通信网络 = Communication network technology
+#高维数据挖掘技术研究 = Research on technologies for high dimensional data mining
+#认知无线网络理论与关键技术 = Cognitive wireless network theory and key technology
+#算法设计
+#神经网络在应用科学和工程中的应用 : 从基本原理到复杂的模式识别
+#软件无线电技术与应用
+*MATLAB神经网络编程
+*协作通信及其在 LTE-Advanced 中的应用 = Cooperative communication and its application in LTE-Advanced systems
+*认知无线网络无线传输技术 = Wireless transmission technologies for cognitive radio networks
+*矩阵分析与应用 = Matrix analysis and applications
+*信息安全与对抗实践基础
+*信息安全数学基础
+*认知无线网络
+*日语汉字音研究
+*中级运筹学
+*数学建模方法及其应用

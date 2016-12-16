@@ -1,0 +1,11 @@
+#疯狂Java : 突破程序员基本功的16课
+*Head First Java (中文版)
+*轻松学Java
+*轻松学Java编程
+*喻世明言 : 足本
+*你必须知道的 261 个 Java 语言问题
+*Java 程序员面试宝典
+*Android 4高级编程
+*pcDuino开发实战 : 入门篇
+*Java核心技术 . 卷II , 高级特性 = Core Java . Volume II : advanced features
+*Spring实战 = Spring in action

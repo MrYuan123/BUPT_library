@@ -1,0 +1,12 @@
+#JavaScript 高级程序设计 = Professional JavaScript for web developers
+#数据结构与算法 = Data structures and algorithms in Java : Java语言版
+*解忧杂货店
+*设计素描
+*羊皮卷实践
+*中国小小说年度佳作 . 2013
+*精通 JavaScript+jQuery
+*JavaScript 入门经典
+*HTML 5开发精要与实例详解 = Essential HTML 5 and cases study
+*CSS+DIV网页样式与布局从入门到精通
+*Python 学习手册
+*哲学的精神

@@ -1,0 +1,16 @@
+#四魔头 = The big four
+#新编基础物理学 . 下册
+#用户体验, 求胜之道 = User experience management : essential skills for leading effective UX teams
+#理论力学辅导与训练
+#IPv6精髓
+#7天精通Photoshop CS6 UI交互设计
+*Adobe After Effects CC完全剖析
+*Photoshop CC从新手到高手
+*离散数学
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

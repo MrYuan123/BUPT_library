@@ -1,0 +1,12 @@
+#经济学 = Econmics
+#Web 搜索 = Web search
+*送你一颗子弹 = Send you a bullet
+*Python高手之路 = The Hacker's guide to Python
+*数据结构、算法与应用 : C++语言描述 = Data structures, algorithms, and applications in C++
+*OMNeT++与网络仿真
+*图论导引 = Introduction to graph theory
+*Shell 脚本学习指南
+*Linux Shell脚本攻略 = Linux Shell Scripting Cookbook
+*P2P 网络技术原理与系统开发案例 = Technology principle and system development
+*数据库系统 = Database systems : 概念、设计及应用concepts, design and applications
+*JavaScript 高级程序设计 = Professional JavaScript for web developers

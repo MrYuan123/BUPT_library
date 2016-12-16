@@ -1,0 +1,12 @@
+#大话移动通信
+#移动通信原理、系统及技术
+*移动通信原理与系统
+*大客户销售谋攻之道 = Key account selling: strategy and planning
+*3GPP 长期演进 (LTE) 系统架构与技术规范 = 3GPP long term evolution : architecture and specification
+*大话5G = The myth of 5G
+*4G移动通信技术权威指南 : LTE与LTE-Advanced = 4G LTE/LTE-Advanced for mobile broadband
+*Java程序设计教程
+*LTE : UMTS长期演进理论与实践 = LTE-the UMTS long term evolution from theory to practice
+*无线通信与网络 = Wireless communications and networks
+*大话数据库
+*计算机网络技术教程 : 自顶向下分析与设计方法 = Computer networking : a top-down approach

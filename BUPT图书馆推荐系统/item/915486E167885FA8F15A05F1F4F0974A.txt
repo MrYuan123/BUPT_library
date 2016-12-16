@@ -1,0 +1,13 @@
+#随机过程导论 = Introduction to stochastic processes
+#移动宽带多媒体网络 : 4G技术、模型和工具
+#无线网络射频工程 : 硬件、天线和电波传播 = RF engineering for wireless networks : hardware, antennas, and propagation
+*Hadoop硬实战 = Hadoop in practice
+*大数据 = Mining of massive datasets : 互联网大规模数据挖掘与分布式处理
+*随机过程基础 = Essentials of stochastic processes
+*概率与计算 = Probability and computing : randomized algorithms and probabilistic analysis
+*MySQL 5 权威指南 = The definitive guide to MySQL 5
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

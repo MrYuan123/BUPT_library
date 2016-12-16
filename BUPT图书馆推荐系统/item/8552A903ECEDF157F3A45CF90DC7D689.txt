@@ -1,0 +1,16 @@
+#图像处理、分析与机器视觉 = Image processing, analysis, and machine vision
+#语音处理及人机交互技术
+#统计自然语言处理
+#GPU 高性能编程 CUDA 实战 = CUDA by example and introduction to general-purpose GPU programming
+#图像处理与计算机视觉算法及应用
+#高维信息几何与语音分析
+*CUDA专家手册 : GPU编程权威指南 = The CUDA handbook : a comprehensive guide to GPU programming
+*计算机视觉 : 算法与应用
+*数字图像处理 = Digital image processing
+*走进搜索引擎 = Stepping into search engine
+*数字视频编码技术原理 = Principles of digital video coding technology
+*数据结构、算法与应用 : C++语言描述 = Data structures, algorithms, and applications in C++
+*计算机图形学
+*GPGPU编程技术 : 从GLSL、CUDA到OpenCL
+*高性能CUDA应用设计与开发 = CUDA application design and development : 方法与最佳实践
+*自然语言处理综论 = Speech and language processing : an introduction to natural language processing, computational linguistics, and speech recognition

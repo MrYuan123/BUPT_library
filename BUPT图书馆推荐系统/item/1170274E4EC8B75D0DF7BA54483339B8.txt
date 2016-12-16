@@ -1,0 +1,17 @@
+#统计学习基础 : 数据挖掘、推理与预测 = The elements of statistical learning : data mining, inference, and prediction
+#Python 学习手册
+#Linux从入门到精通
+#模式识别 = Pattern Recognition
+#数字图像处理 = The image processing handbook
+#线性代数
+#设计模式的艺术 : 软件开发人员内功修炼之道
+*明朝那些事儿 . 陆
+*明朝那些事儿 . 伍 , 帝国飘摇
+*明朝那些事儿 . 第肆部 , 粉饰太平
+*人脸工程学
+*TCP/IP 协议原理与应用
+*CentOS 7系统管理与运维实战
+*Shell从入门到精通
+*高等数学 . 上册
+*Linux shell脚本攻略
+*移动互联网之智能终端安全揭秘

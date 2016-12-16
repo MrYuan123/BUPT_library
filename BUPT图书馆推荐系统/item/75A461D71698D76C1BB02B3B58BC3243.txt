@@ -1,0 +1,12 @@
+#Hadoop大数据处理 = Big data processing
+#网络科学 : 原理与应用 = Network science : theory and applications
+*微软云计算Windows Azure开发与部署权威指南
+*让云落地 : 云计算服务模式 (SaaS、PaaS和IaaS) 设计Architecting the cloud : design decisions for cloud computing service models (SaaS、PaaS, and IaaS)
+*复杂网络健壮性 = Complex networks structure, robustness and function
+*网络科学导论 = Network science : an introduction
+*EDA技术及应用 , Verilog HDL版
+*PHP从入门到精通
+*Ubuntu Linux从入门到精通
+*Hadoop 技术内幕 : 深入解析MapReduce架构设计与实现原理 = Hadoop internals : in-depth study of MapReduce
+*Eclipse 开发入门与项目实践
+*Hadoop权威指南

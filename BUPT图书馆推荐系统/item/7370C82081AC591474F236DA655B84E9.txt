@@ -1,0 +1,11 @@
+#小波十讲 = Ten lectures on wavelets
+*Python Web开发学习实录
+*MySQL 入门很简单
+*Python自动化运维 : 技术与最佳实践 = Automation operations with Python : technique and best practices
+*PHP、MySQL和Apache入门经典
+*统计自然语言处理
+*Hadoop大数据处理 = Big data processing
+*移动通信天线技术与工程应用 = Antenna technologies and applications in mobile communication system
+*Hadoop实战 = Hadoop in action
+*零基础学Python
+*Linux Bash编程与脚本应用实战

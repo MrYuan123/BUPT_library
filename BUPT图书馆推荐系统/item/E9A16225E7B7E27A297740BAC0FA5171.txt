@@ -1,0 +1,11 @@
+#C语言程序设计
+*LTE : UMTS长期演进理论与实践 = LTE-the UMTS long term evolution from theory to practice
+*LTE FDD技术原理与网络规划 = LTE FOD technology principle and Network planning
+*Creo 3.0工程图教程
+*C语言程序设计 (第3版) 学习辅导
+*C 程序设计
+*Creo Parametric 2.0工程图与数据交换案例教程
+*C 程序设计 (第四版) 学习辅导
+*Creo 3.0完全自学教程
+*机械工程专业英语
+*Arduino完全实战

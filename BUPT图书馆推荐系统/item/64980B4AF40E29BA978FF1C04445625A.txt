@@ -1,0 +1,11 @@
+#黑客防线 : 2010合订本 . 上半年
+*Python黑帽子 : 黑客与渗透测试编程之道 = Black hat python : python programming for hackers and pentesters
+*信息隐藏与数字水印
+*XSS跨站脚本攻击剖析与防御
+*SQL注入攻击与防御
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

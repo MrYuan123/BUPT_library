@@ -1,0 +1,14 @@
+#信息论 : 基础理论与应用
+#信息论与编码学习辅导及习题详解
+#信息处理与编码 = Information processing and coding
+#信息论与编码
+*经济学原理 = Principles of economics
+*Python 基础教程 = Beginning Python from novice to professional
+*微型计算机原理及应用习题集
+*深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM : advanced features and best practices
+*信息论基础
+*数值分析基础 = Fundamentals of numerical analysis
+*C++ 面向对象程序设计
+*数值计算方法 . 下册
+*通信原理辅导与习题解答
+*通信原理学习辅导 = Tutorial of problems and test papers for communication principles

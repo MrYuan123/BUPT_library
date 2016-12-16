@@ -1,0 +1,13 @@
+#算法艺术与信息学竞赛
+#算法设计编程实验 : 大学程序设计课程与竞赛训练教材 = Algorithm design experiment : for collegiate programming contest and education
+#高性能FPGA系统 : 时序设计与分析
+*数学建模 = A first course in mathematical modeling
+*数据结构教程
+*离散数学结构 = Discrete mathematical structures : 翻译版
+*初等数论及其应用 = Elementary number theory and its applications
+*被窝是青春的坟墓
+*傲慢与偏见 = Pride and prejudice
+*Vim实用技巧 = Practical Vim : edit text at the speed of thought
+*具体数学 : 计算机科学基础 = Concrete mathematics : a foundation for computer science
+*组合数学教程 = A course in combinatorics
+*中国触动 : 百国视野下的观察与思考

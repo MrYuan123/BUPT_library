@@ -1,0 +1,15 @@
+#综合评价方法 MATLAB 实现
+#软件过程管理
+#测试成熟度模型集成 : 测试过程改进指南
+#组织项目管理成熟度模型 = Strategic planning for project management : using a project management maturity model
+#软件能力成熟度模型与模型集成基础 = Software capacity maturity model and model integration basis
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

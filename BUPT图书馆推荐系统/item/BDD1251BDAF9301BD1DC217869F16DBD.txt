@@ -1,0 +1,14 @@
+#信息论与编码技术
+#深入理解计算机系统 = Computer systems : a programmer's perspctive
+#Web程序设计
+#Python程序设计
+*Python基础教程 = Beginning python : from novice to professional
+*Java 7程序设计入门与提高
+*计算机专业英语
+*Swift开发手册 : 技巧与实战
+*Swift实战之旅 : 精通iOS应用开发
+*足球入门与技战术图解 = Diagrammatic explanation football
+*Java程序设计完全学习手册
+*算法导论 = Introduction to algorithms
+*疯狂Java讲义精粹
+*C 程序设计

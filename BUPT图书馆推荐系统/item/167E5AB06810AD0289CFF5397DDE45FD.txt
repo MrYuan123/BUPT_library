@@ -1,0 +1,13 @@
+#观测宇宙学
+#经济学原理 = Principles of economics
+#C++ 程序设计教程
+*炒股一定要懂股指期货
+*数据结构 (C++版) 学习辅导与实验指导
+*大学英语六级词汇过关必练1500题
+*生活中的中国式智慧
+*神圣的渴望 = Sacred hunger
+*编程之美 : 微软技术面试心得
+*人性的弱点全集
+*人际博弈论 = The interpersonal game theory : 掌控绝对优势的交际策略
+*信息处理与编码 = Information processing and coding
+*Python 基础教程 = Beginning Python from novice to professional

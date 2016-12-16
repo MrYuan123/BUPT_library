@@ -1,0 +1,14 @@
+#高等数学 . 上册
+#高等数学 . 下册
+#线性代数
+#2015年考研数学新编考试参考书
+*概率论与数理统计
+*复变函数
+*数学复习全书 , 数学一
+*托福考试官方指南 = The official guide to the TOEFL test
+*Verilog HDL高级数字设计 = Advanced digital design with the verilog HDL
+*离散数学常见题型解析及模拟题
+*高等数学 : 轻工类 . 上册
+*线性代数学习指导
+*大数据分析的道与术
+*概率统计

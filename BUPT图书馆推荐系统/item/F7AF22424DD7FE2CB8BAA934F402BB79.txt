@@ -1,0 +1,27 @@
+#Python Cookbook (第3版) 中文版
+#ELK stack权威指南 = The definitive guide to Elasticsearch + Logstash + Kibana
+#PHP&MySQL跨设备网站开发实例精粹
+#看，这是哲学 = Looking at philosophy : the unbearable heaviness of philosophy made lighter donald palmer
+#利用Python进行数据分析
+#黑客攻防实战从入门到精通
+#MATLAB GUI设计入门与实战
+#Kali Linux渗透测试技术详解
+#机器学习实战 = Machine learning in action
+#正则指引 = Regular expression yet another introduction
+#大学英语 6 级考试 710 分词汇速记
+#机器学习 = Machine learning
+#黑客大曝光 = Hacking exposed : 网络安全机密与解决方案
+#犹太人与现代资本主义
+#正则表达式经典实例
+#Effective Ruby : 改善Ruby程序的48条建议 = Effective Ruby : 48 specific ways to write better ruby
+#Ruby元编程 = Metaprogramming ruby
+*黑客攻防从入门到精通
+*Python数据分析基础教程 : NumPy学习指南 = NumPy beginner's guide
+*RabbitMQ实战 : 高效部署分布式消息队列 = RabbitMQ in action : distributed messaging for everyone
+*Kali Linux渗透测试的艺术 = Kali Linux: assuring security by penetration testing
+*算法导论 = Introduction to algorithms
+*写给大忙人看的Java核心技术 = Core Java for the impatient
+*Android内核剖析
+*Python 3 程序开发指南 = Programming in Python 3
+*程序员代码面试指南 : IT名企算法与数据结构题目最优解
+*大学算法教程

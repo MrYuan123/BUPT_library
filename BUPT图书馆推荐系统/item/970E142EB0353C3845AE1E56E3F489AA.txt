@@ -1,0 +1,16 @@
+#软件工程 = Software engineering
+#计算机网络
+#微处理器系统设计
+#操作系统
+#软件工程基础 = Fundamentals of software engineering
+#软件工程 = Software engineering : theory and practice
+*锋利的 jQuery
+*21天学通C++
+*MySQL 入门很简单
+*数据结构 (Java版)
+*操作系统概念 : Java实现 = Operating system concepts with JAVA
+*Head First 软件开发 : 中文版
+*会计报表的阅读与分析
+*Google软件测试之道 : 像Google一样进行软件测试
+*网络协议分析 = Network protocol analysis
+*现代操作系统 = Modern operating systems

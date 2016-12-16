@@ -1,0 +1,12 @@
+#Python程序设计教程
+#R语言核心技术手册 = R in a nutshell
+*大数据挖掘 = Using big data to build your business : 系统方法与实例分析
+*无线传感器网络
+*R语言初学者指南 = A Beginner's guide to R
+*观手识人 = Palmistry from apprentice to pro in twenty four hours
+*Python入门经典 = The Practice of computing using Python : 以解决计算问题为导向的Python编程实践
+*深度解析SDN : 利益、战略、技术、实践
+*MATLAB从入门到精通
+*频谱灵活光网络 = Flexible spectrum optical networks
+*组合优化导论
+*近似算法 = Approximation algorithms

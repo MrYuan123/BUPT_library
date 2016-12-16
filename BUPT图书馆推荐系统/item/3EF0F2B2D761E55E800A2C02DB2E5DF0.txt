@@ -1,0 +1,13 @@
+#Python程序设计 = An introduction to programming using python
+#Ubuntu Server 最佳方案
+#Windows 7 注册表秘技大搜捕
+*数学分析 . 下
+*R语言数据挖掘方法及应用
+*数学分析 . 上
+*机器学习实战 = Machine learning in action
+*Python程序设计基础
+*西方语言学流派 = Schools of linguistics
+*通信原理学习辅导
+*Б.П. 吉米多维奇数学分析习题集题解 . 3
+*微机原理与接口技术 (含汇编) 习题解析及实验案例分析
+*Python基础教程 = Beginning python : from novice to professional

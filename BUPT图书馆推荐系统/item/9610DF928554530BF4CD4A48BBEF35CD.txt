@@ -1,0 +1,12 @@
+#卫星通信网路由技术及其模拟 = Satellite communication network routing technology and simulation
+#卫星通信导论
+*卫星通信系统
+*卫星通信 = Satellite communications
+*卫星网络鲁棒路由算法及TCP协议
+*卫星网络鲁棒 QoS 路由技术研究
+*数字调制解调技术的MATLAB和FPGA实现
+*龙族 = Dragon raja . 2 , 悼亡者之瞳
+*网络安全 : 加密原理、算法与协议
+*网络安全 = Network security
+*人工神经网络及其融合应用技术
+*网络流量监测与控制

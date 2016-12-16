@@ -1,0 +1,27 @@
+#大学英语六级词汇 : 熟记这些词就够
+#数码单反摄影完全宝典
+#构图决定一切 = Composition is everything
+#C++ 实用编程技术 : 百例精编与妙解
+#新日本语能力测试50天逐级突破N5 N4 N3阅读天天做
+#面对面 : Rick Sammon人像摄影完全指南
+#Core Java.Vol. I,Fundamentals =Java核心技术.卷I,基础知识.上 /Java 核心技术
+#Core Java.Vol. I,Fundamentals =Java核心技术.卷I,基础知识.下 /Java 核心技术
+#线性代数学习指导与习题解
+#Photoshop CC人像调色秘籍一本通
+#自然摄影经典教程
+#信号与系统习题解答与实验指导
+#C++程序设计经典300例
+#Photoshop核心应用修炼 : 专业调色技法
+#Photoshop + Lightroom摄影师必备后期处理技法
+#21天学通JavaScript
+#5分钟修出好照片 : Photoshop CC实例精讲版
+*JAVA核心技术 . 卷I , 基础知识 = Core Java . volume I , Fundamentals
+*算法设计与分析基础
+*四元数矩阵
+*惯性导航
+*Verilog数字系统设计教程
+*Java 编程思想 = Thinking in Java
+*疯狂Java讲义
+*惯性导航基础
+*惯性导航与组合导航基础 = Fundamentals of inertial navigation and integrated navigation
+*6 级词汇 : 词以类记 = Classified vocabulary

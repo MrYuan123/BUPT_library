@@ -1,0 +1,15 @@
+#机器学习实战 = Machine learning in action
+#机器学习与R语言 = Machine learning with R
+#机器学习基础教程 = A First course in machine learning
+#线性算子理论
+#泛函分析 = Analyse fonctionnelle : 理论和应用theorie et applications
+*机器学习与智能决策支持系统
+*模式识别导论
+*Mahout实战 = Mahout in action
+*机器学习系统设计 = Building machine learning systems with python
+*Java必须知道的300个问题
+*Java经典编程300例
+*正则表达式必知必会 = Sams teach yourself regular expressions in 10 minutes
+*算法导论 = Introduction to algorithms
+*Java 编程思想 = Thinking in Java
+*疯狂Android讲义

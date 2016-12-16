@@ -1,0 +1,11 @@
+#大话数据结构 = Play with data structure
+*编程之美 : 微软技术面试心得
+*大话数据挖掘
+*Head First Python中文版
+*JavaScript设计模式与开发实践
+*雨季不再来
+*梦里花落知多少
+*Excel 2013从新手到高手
+*剑指Offer : 名企面试官精讲典型编程题
+*人性的弱点 : 名著双语读物·中文导读+英文原版 = How to win friends and influence people
+*Head First Java (中文版)

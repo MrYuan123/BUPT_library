@@ -1,0 +1,13 @@
+#光传送网(OTN)技术的原理与测试
+#移动通信原理
+#光传送网 : 前沿技术与应用
+*LTE无线网络规划与设计 = LTE wireless network planning & design
+*LTE 基础原理与关键技术
+*大话无线通信
+*无线通信 = Wireless communications
+*无线通信原理与应用 = Wireless communications principles and practice
+*文献检索与论文写作
+*移动通信系统中广播多播技术与应用
+*曾国藩 , 血祭
+*矩阵分析与应用习题解答 = Problem solutings for matrix analysis and applications
+*移动通信原理、技术与系统

@@ -1,0 +1,14 @@
+#Hadoop大数据处理 = Big data processing
+#轻松学Java
+#解惑大数据 = Big data
+#实战Hadoop : 开启通向云计算的捷径
+*疯狂Java : 突破程序员基本功的16课
+*Java 程序员面试宝典
+*Python入门经典 = The Practice of computing using Python : 以解决计算问题为导向的Python编程实践
+*Java 轻松入门
+*Java 面向对象程序设计
+*EDA技术及应用 , Verilog HDL版
+*PHP从入门到精通
+*网络科学 : 原理与应用 = Network science : theory and applications
+*考研英语词汇词根 + 联想记忆法 : 乱序版
+*电子与通信工程专业英语

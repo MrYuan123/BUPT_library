@@ -1,0 +1,13 @@
+#莫泊桑小说精选
+#推销员之死 = Death of a salesman and other plays
+#挪威的森林
+*信号与系统
+*工科数学分析习题与例题解析 . 上册
+*放学后
+*简·奥斯汀
+*家
+*文本挖掘原理
+*Hadoop实战手册
+*解密搜索引擎技术实战 : Lucene & Java精华版
+*发现数据之美 = = Discover the beauty of data : 数据分析原理与实践
+*数据挖掘原理与算法

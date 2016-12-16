@@ -1,0 +1,17 @@
+#计算机网络技术
+#7天攻克500强面试英语
+#现代通信技术概论
+#国家公务员考试专业考试用书 , 银监监管类专业知识 : 2015最新版
+#Linux系统应用与开发教程 = Linux system administration and application development
+#跟老外学面试英语 = Interview English follow me
+#路由和交换技术
+*跌荡一百年 : 中国企业1870-1977 . 上
+*跌荡一百年 : 中国企业1870-1977 . 下
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

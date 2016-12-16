@@ -1,0 +1,11 @@
+#VxWorks 内核、设备驱动与 BSP 开发详解
+*儒教简史
+*步进电动机伺服控制技术
+*计算机操作系统
+*中国之为中国 : 正统与异端之辩
+*内核漏洞的利用与防范 = A Guide to kernel exploitation : attacking the core
+*数据结构教程 : C++版
+*梁启超论儒家哲学
+*原儒
+*计算机组成与体系结构 : 性能设计 = Computer organization and architecture : designing for performance
+*现代控制理论

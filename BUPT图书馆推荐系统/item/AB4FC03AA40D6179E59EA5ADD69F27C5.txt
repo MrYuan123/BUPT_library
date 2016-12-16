@@ -1,0 +1,13 @@
+#Python基础教程 = Beginning python : from novice to professional
+#Java 7程序设计入门与提高
+#Python程序设计
+*Web程序设计
+*信息论与编码技术
+*深入理解计算机系统 = Computer systems : a programmer's perspctive
+*C 程序设计
+*数据挖掘理论与技术
+*综合布线技术与实验教程
+*大数据的力量 = The Power of big data
+*版本控制之道 : 使用Git = Pragmatic version control using Git
+*The art of public speaking =演讲的艺术 /演讲的艺术
+*Python 学习手册

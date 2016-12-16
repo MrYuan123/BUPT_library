@@ -1,0 +1,12 @@
+#屠夫毕加索 : 形态语言
+#神秘金手指 = Gold finger
+*俄罗斯之爱 = From Russia with love
+*重现杀机 = You only live twice
+*第七情报员
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

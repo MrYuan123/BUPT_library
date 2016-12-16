@@ -1,0 +1,14 @@
+#Android群英传
+#深入理解Android . 卷1 = Understanding Android internals . Volume I
+#深入理解Android . 卷Ⅱ = Understanding android internals . volume Ⅱ
+#Ubuntu Linux 应用技术教程
+*第一行代码 : Android
+*Linux操作系统 = Linux operating system
+*Unix Shell 编程
+*Linux Shell脚本攻略 = Linux Shell Scripting Cookbook
+*算法与数据结构 : Java语言描述
+*编程之美 : 微软技术面试心得
+*数据结构 : 从应用到实现(Java版) = Data structures outside in with Java
+*Isight参数优化理论与实例详解
+*数据结构 : Java版
+*计算机网络

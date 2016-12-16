@@ -1,0 +1,11 @@
+#Java程序员面试宝典
+*程序员面试宝典
+*Java虚拟机精讲
+*数据结构 : Java版
+*解密搜索引擎技术实战 : Lucene & Java精华版
+*信息检索导论 = Introduction to information retrieval
+*零基础学Java : 13小时多媒体教学视频
+*UNIX网络编程 . 卷1 , 套接字联网API
+*MySQL技术内幕 = MySQL
+*MySQL数据库管理与开发实践教程
+*MySQL技术内幕 : SQL编程 = Inside MySQL : SQL programming

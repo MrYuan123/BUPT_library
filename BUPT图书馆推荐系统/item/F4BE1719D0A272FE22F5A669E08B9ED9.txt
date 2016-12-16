@@ -1,0 +1,11 @@
+#UNIX环境高级编程
+*计算机网络
+*精通 Linux C 编程
+*并行程序设计导论 = An Introduction to parallel programming
+*Python自然语言处理
+*Unix/Linux 编程实践教程
+*Hadoop 权威指南 : 中文版
+*UNIX 网络编程 . 卷1 , 套接字联网API = UNIX network programming . volume 1 , The Sockets networking API
+*应用密码学 : 协议、算法与C源程序 = Applied cryptography : protocols, algorithms, and source code in C
+*深入学习MongoDB = Scaling mongoDB. 50 tips and tricks for mongoDB developers
+*计算机程序的构造和解释 = Structure and interpretation of computer programs

@@ -1,0 +1,13 @@
+#Shell 脚本学习指南
+#相守一生的秘密 : 幸福婚姻枕边书
+#ns-3网络模拟器基础及应用
+*深入浅出Linux工具与编程
+*Netty权威指南
+*数据结构、算法与应用 : C++语言描述 = Data structures, algorithms, and applications in C++
+*jQuery网页开发实例精解
+*图论导引 = Introduction to graph theory
+*Web 搜索 = Web search
+*数据库系统 = Database systems : 概念、设计及应用concepts, design and applications
+*Java 8基础应用与开发
+*Linux Shell命令行及脚本编程实例详解
+*Java并发编程的艺术 = The art of Java concurrency programming

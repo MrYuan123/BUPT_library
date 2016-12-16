@@ -1,0 +1,13 @@
+#微机原理与接口技术
+#Selenium自动化测试指南 = Automated Web testing with selenium
+#ARM9 嵌入式开发实验与实践
+*微计算机解题指南与应用软件开发
+*信号与系统
+*通信系统 = Communication systems
+*ADS2011射频电路设计与仿真实例
+*Intel 微处理器 = The Intel microprocessors : 8086/8088, 80186/80188, 80286, 80386, 80486, Pentium, Pentium Pro Processor, Pentium II, Pentium III, Pentium 4, and Core2 with 64-bit extensions : architecture, programming, and interfacing
+*Java语言程序设计
+*通信原理 : 精简本
+*汇编语言简明教程
+*Linux C从入门到精通
+*汇编语言 = Assembly language

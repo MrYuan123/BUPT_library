@@ -1,0 +1,15 @@
+#埃隆·马斯克与SPACEX的商业传奇 = SPACEX : making commercial spaceflight a reality
+#一九八四 = Nineteen eighty-four
+#百家争鸣
+#从春秋到战国
+#网络设计的原理
+*路西法效应 : 好人是如何变成恶魔的
+*假面自白
+*计算机网络 : 网络设计的原理、技术和协议 = Computer networks : principles, technologies and protocols for network design
+*自动机理论、语言和计算导论 = Introduction to automata theory, languages, and computation
+*数据挖掘 = Data mining : 实用机器学习技术practical machine learning tools and techniques
+*Python编程入门 = Python : Visual quickstart guide
+*看图自学钢琴演奏 = Teach yourself visually piano : 一看就懂的图解钢琴自学书
+*数据挖掘 : 实用机器学习工具与技术 = Data mining : practical machine learning tools and techniques
+*逆向工程实战 = Practical reverse engineering x86 x64 ARM windows kernel, reversing tools and obfuscation
+*机器学习 = Machine learning

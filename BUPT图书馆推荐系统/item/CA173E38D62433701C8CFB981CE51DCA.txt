@@ -1,0 +1,14 @@
+#全球通史 : 从史前史到21世纪 = A Global history : from prehistory to the 21st century . 上
+#高等近世代数 = Advanced modern algebra
+#巨人传 . 下
+#巨人传 . 上
+*机器学习实战 = Machine learning in action
+*全球通史 : 从史前史到21世纪 = A Global history : from prehistory to the 21st century . 下
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

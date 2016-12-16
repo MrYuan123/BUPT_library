@@ -1,0 +1,14 @@
+#矩阵论教程
+#数学之美 = Beauty of mathematics
+#移动平台 : 托起企业“互联网+”的基石
+#LTE协议栈与信令分析 = LTE protocol stack and signaling analysis
+*LTE系统原理及应用
+*大话核心网
+*实变函数习题精选
+*运筹学教程
+*Linux Shell脚本攻略 = Linux Shell Scripting Cookbook
+*LTE及LTE-Advanced无线协议
+*4G移动通信技术权威指南 : LTE与LTE-Advanced = 4G LTE/LTE-Advanced for mobile broadband
+*LTE/LTE-Advanced-UMTS长期演进理论与实践 = LTE-LTE UMTS long term evolution : from theory to practice
+*Hadoop大数据处理 = Big data processing
+*LTE网络规划设计手册 = LTE network planning and design handbook

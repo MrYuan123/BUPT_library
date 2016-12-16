@@ -1,0 +1,11 @@
+#TCP/IP 详解 . 卷 1 , 协议
+*Artificial intelligence :a modern approach = 人工智能 : 一种现代方法 /人工智能 :
+*深入浅出Node.js
+*深入PHP : 面向对象、模式与实践 = PHP objects, patterns, and practice
+*JavaScript 高级程序设计 = Professional JavaScript for web developers
+*面向计算机科学的数理逻辑 = Logic in computer science : 系统建模与推理modelling and reasoning about systems
+*鸟哥的 Linux 私房菜 , 基础学习篇
+*神经网络与机器学习 = Neural networks and learning machines
+*HTTP权威指南 = HTTP : the definitive guide
+*Java核心技术 . 卷1 , 基础知识 = Core Java . Volume I , Fundamentals
+*凸优化 = Convex optimization

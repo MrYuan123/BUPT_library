@@ -1,0 +1,11 @@
+#Java基础入门
+*数学历年真题权威解析 , 数学三
+*2015年考研数学最新精选600题 , 理工类
+*Android移动编程实用教程
+*Android移动应用开发从入门到精通
+*Android应用开发实战 = Android in action
+*深入理解Java 7 : 核心技术与最佳实践 = Understanding the Java 7 : the core techniques and best practice
+*机器学习导论 = Introduction to machine learning
+*机器学习 : 实用案例解析
+*机器学习系统设计 = Building machine learning systems with python
+*计算机网络

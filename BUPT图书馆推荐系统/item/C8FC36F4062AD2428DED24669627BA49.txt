@@ -1,0 +1,13 @@
+#红书 = Liber Novus
+#文化复兴论 : 公共儒学的进路
+#启蒙论 : 社会学与中国文化启蒙 = On enlightenment : sociology and Chinese enlightenment
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

@@ -1,0 +1,13 @@
+#Java 编程思想 = Thinking in Java
+#Head First 设计模式
+#JAVA 核心技术 . 卷II , 高级特性 = Core Jave . Volume II , Advanced features
+*Hadoop权威指南
+*Hadoop 技术内幕 : 深入解析MapReduce架构设计与实现原理 = Hadoop internals : in-depth study of MapReduce
+*Effective Java 中文版 = Effective Java
+*深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM : advanced features and best practices
+*Nginx高性能Web服务器详解
+*Storm实时数据处理 = Storm real-time processing cookbook
+*3GPP 长期演进 (LTE) 技术原理与系统设计 = 3GPP long term evolution : principle and system design
+*雍正皇帝 : 评注本
+*机器学习实战 = Machine learning in action
+*自然的故事 = Stories about nature

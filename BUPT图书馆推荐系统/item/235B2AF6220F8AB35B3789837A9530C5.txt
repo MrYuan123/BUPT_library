@@ -1,0 +1,30 @@
+#Spring 3.0就这么简单
+#Hadoop实战手册
+#Storm实时数据处理 = Storm real-time processing cookbook
+#Hadoop MapReduce实战手册
+#数据挖掘与R语言 = Data mining with R : learning with case studies
+#PHP项目开发实战密码
+#数据挖掘 : R语言实战
+#Spark MLlib机器学习实践
+#编写高质量代码 = Writing solid web front-end code : Web前端开发修炼之道
+#Hadoop海量数据处理 : 技术详解与项目实战
+#JavaScript设计模式与开发实践
+#妙趣横生的算法 : C++语言实现
+#实战大数据 : 移动互联网时代的商业应用
+#Head First 设计模式
+#NumPy攻略 = NumPy cookbook : Python科学计算与数据分析
+#微信公众平台应用开发从入门到精通
+#Photoshop CS6图像处理 : 实例版
+#Vim实用技巧 = Practical Vim : edit text at the speed of thought
+#Redis入门指南
+#Nginx高性能Web服务器详解
+*Spark大数据处理技术
+*由浅入深学C++ : 基础、进阶与必做300题
+*深入理解计算机系统 = Computer systems : a programmer's perspective
+*设计模式之禅 = The Zen of design patterns
+*我的宝贝
+*Java 编程思想 = Thinking in Java
+*Java多线程编程实战指南 , 设计模式篇
+*Netty权威指南
+*精通 SQL : 结构化查询语言详解
+*深入云计算 : Hadoop应用开发实战详解

@@ -1,0 +1,14 @@
+#Java 语言程序设计
+#操作系统概念 = Operating system concepts
+#经济学原理 = Principles of economics
+#新大学日语标准教程 , 基础篇 . 1
+*新大学日语标准教程 (基础篇) 练习册
+*微机原理与接口技术习题与解析
+*操作系统习题与解析
+*计算机组成与设计 : 硬件/软件接口 = Computer organization and design : the hardware/software interface
+*计算机组成原理 : 学习指导与习题解答
+*计算机组成原理 : 第五版·立体化教材
+*现代通信网监控与管理
+*大学英语六级词汇过关必练1500题
+*生活中的中国式智慧
+*神圣的渴望 = Sacred hunger

@@ -1,0 +1,13 @@
+#宏观经济学 = Macroeconomics
+#SPSS统计分析与应用
+#傲慢与偏见 = Pride and prejudice : 插图·中文导读英文版
+*有限元方法基础教程 : 国际单位制版 = A first course in the finite element method
+*ANSYS 13.0有限元分析从入门到精通
+*Excel与数据分析
+*SQL Server 2012数据库技术与应用
+*竞争战略 : 分析产业和竞争者的技巧
+*宏观经济学 = Macroeconomics : 精要版
+*求职, 从大一开始
+*经济法
+*科技英语综合教程 = Est integrated course
+*产业组织理论 = Theory of industrial organization

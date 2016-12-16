@@ -1,0 +1,17 @@
+#iOS应用逆向工程 = iOS app reverse engineering
+#2011 年计算机学科专业基础考研辅导
+#软件设计师考试考眼分析与样卷解析 : 2014版
+#软件设计师考试试题分类精解
+#iOS应用安全攻防实战
+#全国硕士研究生入学统一考试计算机核心习题集 : 绿宝书
+#网络工程师考试考眼分析与样卷解析 : 2014版
+*网络工程师教程
+*Head First Java (中文版)
+*曾国藩传
+*沉默的羔羊 = The Silence of the lambs
+*Head First Servlets & JSP : 中文版
+*Objective-C基础教程 = Learn Objective-C on the mac for OS X and iOS
+*弗洛伊德文集 = The selected works of Sigmund Freud . 1
+*弗洛伊德文集 = The selected works of Sigmund Freud . 2
+*习近平谈治国理政
+*iOS开发指南 : 从零基础到App Store上架

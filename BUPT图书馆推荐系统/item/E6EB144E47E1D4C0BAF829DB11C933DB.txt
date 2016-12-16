@@ -1,0 +1,13 @@
+#羊脂球 = Boule de suif : 插图·中文导读英文版
+#生如夏花 : 泰戈尔经典诗选 . II
+#英语经典文学作品选读 = Selected readings of English literature
+*数字信号处理教程习题分析与解答
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学

@@ -1,0 +1,19 @@
+#常微分方程
+#微积分学教程 . 第3卷
+#复分析导论 . 第一卷 , 单复变函数
+#复变函数论方法
+#电子电路分析与设计 = Microelectronics circuit analysis and design , 半导体器件及其基本应用
+#微积分学教程 . 第1卷
+#线性代数应该这样学 = Linear algebra done right
+#复分析 = Complex analysis
+#电子电路分析与设计 = Electronic circuit analysis and design
+*线性代数题解手册
+*计算思维 : 计算学科导论
+*高等数学指导
+*周恩来传 . 上
+*线性代数与几何 . 上
+*图论导引 = Introduction to graph theory
+*分布式系统 = Distributed systems : 概念与设计concepts and design
+*数学建模方法与分析 = Mathematical modeling
+*拯救我的新GRE写作 = Saving my revised GRE argument
+*十天突破新托福 ESSAYS = The Ten-day step-by-step guide to the TOEFL iBT writing module

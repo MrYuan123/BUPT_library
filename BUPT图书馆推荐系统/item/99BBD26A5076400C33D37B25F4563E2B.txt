@@ -1,0 +1,14 @@
+#机器学习 = Machine learning
+#国家
+#国际经济学原理 = An introduction to international economics new perspectives on the world economy
+#当今比较政治学 : 世界视角 = Comparative Politics today : a world view
+*计算机网络 : 网络设计的原理、技术和协议 = Computer networks : principles, technologies and protocols for network design
+*数据挖掘 : 概念、模型、方法和算法
+*操作系统原理与Linux实践教程
+*MATLAB 神经网络 30 个案例分析
+*六级词汇词根+联想记忆法
+*神经网络原理 = Neural networks : a comprehensive foundation
+*电子电路基础及通信电子电路学习指导书
+*莫急, 你要的岁月都会给你
+*数据挖掘 : 概念与技术
+*嵌入式系统设计与实践

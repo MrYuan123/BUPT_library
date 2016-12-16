@@ -1,0 +1,13 @@
+#Java语言程序设计 , 基础篇 = Introduction to Java programming , Comprehensive version
+#慢慢来, 比较快 : 停止炫耀你的忙碌 = Slowly, slowly 20 reasons to take it easy
+#心若浮尘, 浅笑安然 : 心安即是幸福
+*JavaScript 高级程序设计 = Professional JavaScript for web developers
+*大话数据挖掘
+*通信原理习题集
+*这一辈子
+*CSS 基础教程 = Beginning CSS web development
+*大话移动APP测试 : Android与iOS应用测试指南
+*大话数据结构 = Play with data structure
+*JavaScript DOM 编程艺术 = DOM Scripting : web design with JavaScript and the document object model
+*通信原理
+*计算机网络

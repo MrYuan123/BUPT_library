@@ -1,0 +1,16 @@
+#通信之道 : 从微积分到5G
+#无线通信系统仿真 : IT++分析与实例
+#MIMO-OFDM无线通信技术及MATLAB实现 = MIMO-OFDM wireless communications with MATLAB
+#LDPC 码理论与应用
+#3GPP LTE物理层和空中接口技术
+#Turbo 与 LDPC 编解码及其应用
+*Turbo 码设计与应用
+*3GPP 长期演进 (LTE) 系统架构与技术规范 = 3GPP long term evolution : architecture and specification
+*高效信道编译码技术及其应用
+*差错控制编码 = Error control coding from theory to practice
+*统计信号处理基础 : 估计与检测理论 . 卷I = Fundamentals of statistical signal processing . volume I , estimation theory统计信号处理基础 : 估计与检测理论 . 卷II = Fundamentals of statistical signal processing . volume II , detection theory
+*移动传播环境 : 理论基础·分析方法和建模技术
+*数据链技术与系统
+*多元LDPC码及其在无线通信中的应用 = Nonbinary low-density parity-check codes and their applications in wireless communications
+*数据链理论与系统 = Theory and system of data link
+*MATLAB 应用与实验教程

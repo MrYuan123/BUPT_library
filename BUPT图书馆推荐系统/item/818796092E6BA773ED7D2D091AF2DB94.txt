@@ -1,0 +1,19 @@
+#光网络信息传输技术
+#C++ 语言从入门到精通
+#移动通信原理
+#现代密码学
+#密码学原理与实践 = Cryptography theory and practice
+#计算机网络简明教程
+#数字签名 = Digital signatures
+#计算机网络
+#深入浅出密码学 : 常用加密技术原理与应用
+*密码学与网络安全
+*LTE无线网络规划与设计 = LTE wireless network planning & design
+*程序设计基础 : Python语言
+*C 程序设计实验与实践教程
+*游戏策划教程
+*游戏机制 : 高级游戏设计技术
+*Java 从入门到精通
+*信息安全中的数学方法与技术
+*Android安全架构深究 = Android security internals an in-depth guide to andriod's security architecture
+*无线传感器网络轻量级密码算法与协议 = Lightweight cryptographic algorithms and protocols for wireless sensor networks

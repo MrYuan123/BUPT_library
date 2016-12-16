@@ -1,0 +1,13 @@
+#SPSS统计分析实用教程 = SPSS guide to data analysis
+#数据挖掘技术
+#SPSS统计分析
+*机械原理
+*SPSS宝典
+*风险管理与金融机构 = Risk management and financial institutions
+*MATLAB数据分析与挖掘实战 = MATLAB data analysisanddata mining
+*审计
+*Head First Python中文版
+*趣学Python编程 = Python for kids
+*2007 年 CPA 易考通 , 审计
+*技术创新经济学 = Economics of technological innovation
+*Hadoop基础教程 = Hadoop beginner's guide

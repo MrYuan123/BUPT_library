@@ -1,0 +1,14 @@
+#电脑硬件维修从入门到精通
+#无线通信原理与应用 = Wireless communications principles and practice
+#Verilog数字系统设计教程
+#计算机系统概论 = Introduction to computing systems
+*无线通信 = Wireless communications
+*移动通信原理
+*无线传感器网络
+*C程序设计教程学习辅导
+*新智元 : 机器 + 人类 = 超智能时代
+*C 语言程序设计
+*搜酷 : 全球智能硬件与技术精华集
+*移动传播环境 : 理论基础·分析方法和建模技术
+*现代无线通信 = Modern wireless communications
+*MIMO-OFDM无线通信基带接收机设计 = Baseband receiver design for wireless MIMO-OFDM communications

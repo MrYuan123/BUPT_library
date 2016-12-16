@@ -1,0 +1,14 @@
+#NS2 与网络模拟
+#NS 网络模拟和协议仿真
+#卫星通信
+#空间激光通信技术与系统 = The Technologies and systems of space laser communication
+*NS2 网络模拟器的原理和应用
+*GPS接收机硬件实现方法 = Fundamentals of GPS receivers : a hardware approach
+*卫星光网络技术
+*GPS 卫星导航定位原理与方法
+*光信道编码
+*星地激光通信链路原理与技术 = The principle and technology of the satellite-to-ground laser communication links
+*无线通信 FPGA 设计
+*Visual C++网络通信编程技术详解 = Network communication programming using visual C++
+*Network Warrior中文版 : 思科网络工程师必备手册
+*OMNeT++网络仿真

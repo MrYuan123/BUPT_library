@@ -1,0 +1,27 @@
+#jQuery应用开发实践指南 = Learning jQuery : a hands-on guide to building rich interactive web front ends
+#软件工程 = Software engineering
+#C++面向对象程序设计
+#Head First jQuery : 中文版
+#HTML 5与CSS 3权威指南 = HTML 5 and CSS 3 : the definitive guide . 上册
+#JavaScript高级程序设计 = Professional JavaScript for web developers
+#领域驱动设计 : 软件核心复杂性应对之道 = Domain-driven design : tackling complexity in the heart of software
+#学习 PHP 和 MySQL
+#Backbone.js应用程序开发
+#啊哈! 算法 = Aha! algorithms
+#UML 和模式应用 = Applying UML and patterns : an introduction to object-oriented analysis and design and iterative development
+#DIV+CSS网站布局案例精粹
+#Learning PHP设计模式
+#C语言程序设计
+#JavaScript实战 : JavaScript、jQuery、HTML5、Node.js实例大全
+#HTML 5与CSS 3 权威指南 = HTML 5 and CSS 3 : the definitive guide . 下册
+#精通JavaScript开发 = Pro JavaScript development : coding, capabilities, and tooling
+*HTML5权威指南 = The Definitive guide to HTML5
+*C++语言程序设计教程与实验
+*HTML5程序设计 = Pro HTML5 programming
+*LTE : UMTS长期演进理论与实践 = LTE-the UMTS long term evolution from theory to practice
+*Spring 3.0就这么简单
+*精通 Hibernate
+*21天学通C++
+*MySQL 入门很简单
+*PHP 和 MySQL Web 开发 = PHP and MySQL Web development
+*JavaScript经典实例

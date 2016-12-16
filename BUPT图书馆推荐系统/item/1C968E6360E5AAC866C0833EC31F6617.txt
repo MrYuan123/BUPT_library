@@ -1,0 +1,13 @@
+#教父 . II , 西西里人 = The godfather . II , the sicilian
+#教父 = The godfather
+#教父 . III , 最后的教父 = The godfather . III , the last don
+*数学建模
+*嫌疑人X的献身
+*数学模型
+*MATLAB 在数学建模中的应用
+*时间回旋 = Spin
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

@@ -1,0 +1,14 @@
+#数据分析
+#乌合之众 : 大众心理研究 = a Study of the popular mind
+#放学后
+#解忧杂货店
+*MySQL数据库应用从入门到精通
+*SAS统计分析与应用从入门到精通
+*JavaScript 高级程序设计 = Professional JavaScript for web developers
+*工科数学分析习题与例题解析 . 上册
+*倾城之恋
+*羊脂球 = Contes et nouvelles de maupassant : 莫泊桑中短篇小说选
+*挪威的森林
+*红玫瑰与白玫瑰
+*消失的地平线
+*菊与刀 : 日本文化模式论

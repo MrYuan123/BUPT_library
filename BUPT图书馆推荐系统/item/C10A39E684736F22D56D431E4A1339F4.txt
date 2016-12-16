@@ -1,0 +1,12 @@
+#管理的实践 = The practice of management
+#管理 : 使命、责任、实务 , 实务篇 = Management : tasks, responsibilities, practices
+*商业模式新生代 = Business model generation
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学

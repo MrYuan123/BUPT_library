@@ -1,0 +1,12 @@
+#MySQL入门经典
+#数据结构教程 (Java 语言描述)
+*Java 面向对象程序设计教程
+*世界是平的 : 21世纪简史 = The world is flat : a brief history of the twenty-first century
+*浪潮之巅 = On top of tides . 下册
+*面向对象开发参考手册
+*不可思议的古文明 = Marvellous ancient world . I , 世界之初与魔法秘境
+*变身 PPT 高手 : PowerPoint核心关键技术解析
+*MySQL数据库基础与实例教程 = MySQL fundamentals & practices
+*MySQL技术内幕 : SQL编程 = Inside MySQL : SQL programming
+*零基础学算法 : 19.5小时多媒体教学视频
+*Redis设计与实现 = The design and implementation of Redis

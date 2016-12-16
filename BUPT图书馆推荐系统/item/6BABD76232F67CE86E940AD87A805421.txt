@@ -1,0 +1,13 @@
+#算法艺术与信息学竞赛
+#数据结构教程
+#数学建模 = A first course in mathematical modeling
+*数学模型
+*数据结构
+*罗辑思维 : 在知识中寻找见识
+*信号与系统
+*新托福考试专项进阶 = How to master skills for the TOEFL iBT
+*数学建模方法与CUMCM赛题详解
+*高性能FPGA系统 : 时序设计与分析
+*算法设计编程实验 : 大学程序设计课程与竞赛训练教材 = Algorithm design experiment : for collegiate programming contest and education
+*Excel/PPT 2013办公应用从入门到精通
+*深入理解Spark : 核心思想与源码分析 = Spark internals : core design and source code analysis

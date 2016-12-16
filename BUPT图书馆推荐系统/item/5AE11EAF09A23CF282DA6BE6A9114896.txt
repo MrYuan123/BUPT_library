@@ -1,0 +1,15 @@
+#SQL Server从入门到精通
+#Visual C++典型模块与项目实战大全
+#数据挖掘 : 概念与技术
+#Windows Server 2008 服务器架设与配置实战指南
+#Java Web从入门到精通
+*21天学通Java Web开发
+*PHP 从入门到精通
+*概率论与随机过程
+*网站数据挖掘与分析 : 系统方法与商业实践 = Web data mining and analysis : systematic approach and business practice
+*数据挖掘导论 = Introduction to data mining
+*数据挖掘 : 概念、模型、方法和算法
+*计算机网络 : 网络设计的原理、技术和协议 = Computer networks : principles, technologies and protocols for network design
+*机器学习 = Machine learning
+*Android移动开发一本就够
+*Android应用开发入门经典

@@ -1,0 +1,14 @@
+#计算机网络 : 原理、技术与应用
+#精通 Verilog HDL 语言编程
+#玩转UML与Rose
+#下一代无源光网络
+*机器学习系统设计 = Building machine learning systems with python
+*计算机操作系统
+*离散数学
+*数据挖掘教程
+*LTE教程 : 原理与实现
+*光网络新技术解析与应用 = Optical network-new technology and implementtation
+*60GHz频段短距离无线通信 = Short-range wireless communications in 60GHz
+*宽带功率放大器预失真原理
+*5G : 开启移动网络新时代
+*下一代融合网络理论与实践

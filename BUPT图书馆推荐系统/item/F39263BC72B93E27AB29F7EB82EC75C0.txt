@@ -1,0 +1,12 @@
+#深入云计算 : Hadoop应用开发实战详解
+#Hadoop技术内幕 : 深入解析YARN架构设计与实现原理 = Hadoop internals : in-depth study of YARN
+*MATLAB实用教程 = The practical textbook of MATLAB
+*Hadoop云计算实战 = Hadoop cloud computing practice
+*实战Hadoop : 开启通向云计算的捷径
+*Hadoop YARN权威指南
+*MapReduce 2.0源码分析与编程实战
+*MySQL数据库应用从入门到精通
+*Hadoop技术内幕 : 深入解析Hadoop Common和HDFS架构设计与实现原理 = Hadoop internals : in-depth study of common and HDFS
+*Hadoop技术详解
+*.NET之美 : .NET关键技术深入解析 = Beautiful .NET : in-depth analysis of key points of .NET
+*集体智慧编程 = Programming collective intelligence

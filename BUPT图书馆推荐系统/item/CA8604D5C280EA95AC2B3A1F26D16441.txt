@@ -1,0 +1,12 @@
+#数据结构与算法 : C语言版 = Data structures and algorithms in C
+#离散数学
+*离散数学教程
+*无线传感器网络
+*MySQL技术内幕
+*正则指引 = Regular expression yet another introduction
+*Hadoop 权威指南 : 中文版
+*Python 3 程序开发指南 = Programming in Python 3
+*Python 3面向对象编程 = Python 3 object oriented programming
+*离散数学基础
+*离散数学学习指导
+*数字逻辑基础

@@ -1,0 +1,19 @@
+#高性能网站建设指南 = High performance web sites
+#高性能网站建设进阶指南 : Web开发者性能优化最佳实践 = Even faster Web sites : performance best practices for Web developers
+#JavaScript语言精粹 = JavaScript : the good parts
+#Linux环境编程 = Linux programming
+#移动Web手册 = The mobile Web handbook
+#程序员面试金典 = Cracking the coding interview : 150 programming questions and solutions
+#JavaScript设计模式
+#CoffeeScript程序设计 = Programming in CoffeeScript
+#Node.js实战 = Learning Node.js : a hands-on guide to building web applications in JavaScript
+*Node.js实战
+*深入浅出Node.js
+*CSS 权威指南
+*Node.js开发指南
+*只是为了好玩 : Linux之父林纳斯自传 = Just for fun : the story of an accidental revolutionary
+*Node学习指南
+*前端面试江湖
+*Java程序设计教程 = Building Java programs : a back to basics approach
+*疯狂Java讲义精粹
+*Node.js实战 = Node.js in action

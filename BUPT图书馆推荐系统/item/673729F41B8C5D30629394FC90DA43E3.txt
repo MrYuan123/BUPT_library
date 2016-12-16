@@ -1,0 +1,13 @@
+#诗经
+#模拟电子技术基础习题解答
+#模拟电子技术基础
+*足球的科学 = The science of soccer
+*嵌入式开发工程师入行手册
+*电路分析基础
+*信号与系统
+*数字设计与Verilog实现 = Digital design with an introduction to the Verilog HDL
+*英语四级词根词汇巧记忆
+*模拟电子线路学习指导与习题详解
+*电路与信号
+*大学英语新四级模拟与指导
+*复变函数与积分变换

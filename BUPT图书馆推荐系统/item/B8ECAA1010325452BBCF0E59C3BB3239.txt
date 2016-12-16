@@ -1,0 +1,11 @@
+#你不知道的JavaScript = Scope & closures this & object prototypes . 上卷
+*Python宝典
+*Python 高级编程
+*AngularJS 高级编程
+*冰与火之歌 . 卷一 , 权力的游戏 . 下 = A Song of ice and fire , a game of thrones
+*国际顶尖插画艺术家的创造力X商业力
+*正则指引 = Regular expression yet another introduction
+*Wow! 不一样的插画设计 : Chunso的梦幻世界
+*JavaScript面向对象编程指南
+*单页Web应用 : JavaScript从前端到后端 = Single page Web applications
+*冰与火之歌 . 卷一 , 权力的游戏 . 上 = A Song of ice and fire , a game of thrones

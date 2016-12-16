@@ -1,0 +1,14 @@
+#文本挖掘原理
+#Java程序设计教程
+#预测性文本挖掘基础 = Fundamentals of predictive text mining
+#数据与文本挖掘及其在研发决策中的应用 = Data and text mining and its application in research and development decision-making
+*Spark技术内幕 : 深入解析Spark内核架构设计与实现原理 = Spark internals : design and implement principle of Spark core
+*深入解析Android 5.0系统
+*Linux内核设计的艺术 = The art of Linux kernel design : 图解Linux操作系统架构设计与实现原理
+*移动宽带技术 : LTE = Mobile broadband technology
+*大话移动通信
+*考研英语词汇词根 + 联想记忆法 : 乱序版
+*JAVA 2 核心技术 = Core Java 2 . 卷Ⅰvolume Ⅰ , 基础知识fundamentals
+*考研日记
+*Java 高级语言程序设计
+*李十三推磨

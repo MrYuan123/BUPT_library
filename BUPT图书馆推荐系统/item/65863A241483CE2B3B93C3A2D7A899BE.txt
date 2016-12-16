@@ -1,0 +1,11 @@
+#矩阵论导教·导学·导考
+*矩阵论典型题解析及自测试题
+*数字图像处理 = Digital image processing
+*信息论基础习题解答 = Elements of information theory : solutions to exercises
+*异构无线网络融合理论与技术实现
+*异构无线网络切换技术
+*应用随机过程
+*LTE/LTE-Advanced-UMTS长期演进理论与实践 = LTE-LTE UMTS long term evolution : from theory to practice
+*MIMO系统与空时编码 : 分集的理论与实践 = MIMO system and STC : the theory and practice of diversity
+*运动改造大脑 = Spark : the revolutionary new science of exercise and the brain
+*唐宁街岁月 = The Downing Street years : 撒切尔夫人自传 . 下

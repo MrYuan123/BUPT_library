@@ -1,0 +1,12 @@
+#博弈论及其在无线通信网络中的应用
+#无线资源管理
+*无线网络中的博弈论研究 = = Game theory for wireless engineers
+*车联网技术及应用
+*VANET : 车载网技术及应用 = VANET : vehicular applications and inter-networking technologies
+*内容中心网络体系架构
+*C++ 面向对象程序设计
+*程序员求职宝典
+*Visual C++网络编程案例实战
+*从零开始学 C++
+*C 语言课程设计
+*程序设计基础 : C语言

@@ -1,0 +1,15 @@
+#计算机控制系统
+#西门子S7-200 PLC基础及典型应用
+#机器学习 : 实用案例解析
+#计算机控制技术与应用
+#西门子 PLC 工业通信网络应用案例精讲
+*电机学
+*计算机控制技术
+*先进 PID 控制 MATLAB 仿真
+*机器学习理论、方法及应用
+*Python入门经典 = The Practice of computing using Python : 以解决计算问题为导向的Python编程实践
+*Python程序设计基础
+*高等机构学
+*现代机构学进展 . 第1卷
+*Android移动编程实用教程
+*Android应用开发实战 = Android in action

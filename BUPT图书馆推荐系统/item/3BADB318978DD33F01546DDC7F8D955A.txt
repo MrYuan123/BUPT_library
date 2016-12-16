@@ -1,0 +1,12 @@
+#Android应用程序开发
+#Android核心技术与实例详解
+*Hadoop权威指南
+*Java多线程编程核心技术 = Java multi-thread programming
+*Android编程宝典
+*数据挖掘 : 概念、模型、方法和算法
+*线性代数
+*用户网络行为画像 : 大数据中的用户网络行为画像分析与内容推荐应用
+*C++程序设计
+*Android 开发入门教程 = Beginning Android 2 : begin the journey toward your own successful Android 2 applications
+*编译原理 : 编译程序构造与实践教程 = Principles of compiling : a course in constructing and practising of compiler
+*C++程序设计 = Introduction to programming with C++

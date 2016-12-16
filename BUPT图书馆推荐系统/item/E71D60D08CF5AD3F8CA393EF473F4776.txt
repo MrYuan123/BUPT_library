@@ -1,0 +1,12 @@
+#经济学原理 = Principles of economics
+#编程之美 : 微软技术面试心得
+*大话数据结构 = Play with data structure
+*Java Web 整合开发王者归来 : JSP+Servlet+Struts+Hibernate+Spring
+*大学英语六级词汇过关必练1500题
+*神圣的渴望 = Sacred hunger
+*生活中的中国式智慧
+*算法导论 = Introduction to algorithms
+*Android群英传
+*算法与数据结构 : Java语言描述
+*人际博弈论 = The interpersonal game theory : 掌控绝对优势的交际策略
+*观测宇宙学

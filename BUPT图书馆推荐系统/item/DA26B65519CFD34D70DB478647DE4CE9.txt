@@ -1,0 +1,11 @@
+#C++程序设计
+*Java程序设计基础
+*Photoshop数码照片处理与修饰技巧
+*UG NX 6.0数控加工教程
+*嵌入式操作系统原理与应用
+*数据结构基础 = Fundamentals of data structures in C++ : C++ 语言版
+*经典短篇小说
+*Java程序设计 = Introduction to Java programming
+*优化设计
+*当代自然辩证法教程
+*嵌入式 Linux 系统实用开发

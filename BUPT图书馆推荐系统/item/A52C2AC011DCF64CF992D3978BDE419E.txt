@@ -1,0 +1,12 @@
+#Maven 实战 = Maven 3 in action
+#OSGi实战 = OSGi in action : creating modulaer applications in Java
+*疯狂Java程序员的基本修养
+*信息检索导论 = Introduction to information retrieval
+*经济学基础 = Essentials of economics
+*物流规划原理与方法
+*腾云 : 云计算和大数据时代网络技术揭秘
+*线性代数
+*现代优化计算方法
+*Docker开发实践
+*非线性最优化理论与方法
+*Netty权威指南

@@ -1,0 +1,13 @@
+#人工神经网络原理及仿真实例
+#机器学习实践指南 = The practice of machine learning : 案例应用解析
+#机器学习理论、方法及应用
+*机器学习 : 实用案例解析
+*人工神经网络及其融合应用技术
+*卫星网络中的资源管理 : 优化与跨层设计 = Resource management in satellite networks optimization and cross-layer design
+*卫星通信系统
+*神经网络模糊推理智能信息融合及其工程应用
+*动态模糊神经网络 : 设计与应用
+*卫星通信网路由技术及其模拟 = Satellite communication network routing technology and simulation
+*卫星网络鲁棒 QoS 路由技术研究
+*MATLAB神经网络43个案例分析
+*现代信号处理 = Modern signal processing

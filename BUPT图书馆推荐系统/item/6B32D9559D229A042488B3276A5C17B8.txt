@@ -1,0 +1,22 @@
+#信息论基础
+#计算方法 : C语言版
+#C++ API设计 = API design for C++
+#实用偏微分方程 = Applied partial differential equations : with Fourier series and boundary value problems
+#游戏引擎架构 = Game engine architecture
+#设计模式 : 可复用面向对象软件的基础 = Design patterns : elements of reusable object-oriented software
+#新日本语能力测试 N3 词汇必备
+#Windows 系统编程 = Windows system programming
+#现代编译原理 = Modern compiler implementation in C : C语言描述
+#深入 Linux 内核架构 = Professional Linux kernel architecture
+#程序设计语言 : 实践之路 = Programming language pragmatics
+#C语言接口与实现 : 创建可重用软件的技术 = C interfaces and implementations : techniques for creating reusable software
+*人民观 : 一个民族的品质
+*C#多线程编程实战 = Multithreading in C# 5.0 cookbook
+*C#并发编程经典实例 = Concurrency in C# cookbook
+*现代数值分析方法
+*非线性规划 = Nonlinear programming
+*最优化原理、方法及求解软件
+*现代数值计算方法
+*最优化技术与数学建模
+*详解MATLAB在最优化计算中的应用 : 配视频教程
+*C++代码设计与重用 = Designing and coding reusable C++

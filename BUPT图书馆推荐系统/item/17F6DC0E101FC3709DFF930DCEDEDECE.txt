@@ -1,0 +1,14 @@
+#光通信中的 OFDM = OFDM for optical communications
+#紫外光自组织网络理论
+#无线通信的 MATLAB 和 FPGA 实现
+#无线光通信
+*MIMO 通信系统编码 = Coding for MIMO communication systems
+*光纤通信技术
+*下一代宽带无线通信系统 : OFDM与WiMAX
+*光纤通信 = Optical fiber communications
+*ADS射频电路设计与仿真入门及应用实例
+*天线测量实用手册 = Antenna measurement engineering handbook
+*相控阵天线理论和技术
+*半导体偏微分方程引论
+*MATLAB工程仿真与应用30例
+*MATLAB R2013a工程分析与仿真

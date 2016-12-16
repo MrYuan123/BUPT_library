@@ -1,0 +1,11 @@
+#PostgreSQL 9从零开始学
+*jQuery应用开发实践指南 = Learning jQuery : a hands-on guide to building rich interactive web front ends
+*麦田里的守望者
+*当哲学家遇上心理医生
+*培训行业这一年
+*Word排版之道 = The tao of typesetting
+*智慧教育 : 互联网+时代的教育大转型
+*Bootstrap实战 = Bootstrap site blueprints
+*终身学习视野下的微型移动学习资源建设
+*创新者的课堂 : 颠覆式创新如何改变教育 = Disrupting class : how disruptive innovation will change the way the world learns
+*深入体验Java Web项目开发

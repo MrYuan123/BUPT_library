@@ -1,0 +1,12 @@
+#数据结构 (Java版)
+#操作系统
+*数据结构和 Java 集合框架
+*计算机网络
+*操作系统概念 : Java实现 = Operating system concepts with JAVA
+*网络协议分析 = Network protocol analysis
+*锋利的 jQuery
+*微处理器系统设计
+*软件工程 = Software engineering : theory and practice
+*软件工程 = Software engineering
+*软件工程基础 = Fundamentals of software engineering
+*通信收发信机的 Verilog 实现与仿真

@@ -1,0 +1,14 @@
+#Linux C从入门到精通
+#Winodows网络编程 = Windows network programming
+#Kali Linux渗透测试的艺术 = Kali Linux: assuring security by penetration testing
+#Oday 安全 : 软件漏洞分析技术
+*Kali Linux渗透测试技术详解
+*Zigbee开发技术及实践
+*模式识别
+*Python 基础教程 = Beginning Python from novice to professional
+*Python入门经典 = The Practice of computing using Python : 以解决计算问题为导向的Python编程实践
+*网络攻防技术与实践
+*应用密码学 : 协议、算法与 C 源程序
+*Java从入门到精通
+*第一行代码 : Android
+*微机原理与接口技术

@@ -1,0 +1,14 @@
+#MATLAB与科学计算教程
+#MATLAB R2014a从入门到精通
+#大学数学复习指南 : 理工类、经济类
+#微分方程及边值问题 = Differential equations and boundary value problems : 计算与建模computing and modeling
+*MATLAB从入门到精通
+*美国高校创业教育
+*创新人才培养理念与模式
+*数学物理方法习题全解
+*高等微波网络
+*微波网络及其应用
+*射频电路设计原理
+*无线通信基础
+*电磁兼容测试技术
+*MIMO 技术原理及应用

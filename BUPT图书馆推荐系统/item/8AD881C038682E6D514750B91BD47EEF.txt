@@ -1,0 +1,11 @@
+#MySQL技术内幕
+*C#本质论 = Essential C# 5.0
+*LTE网络规划设计手册 = LTE network planning and design handbook
+*学习R = Learning R
+*SQL Server 2012数据库应用案例课堂
+*C++ Primer 中文版
+*无线传感器网络
+*正则指引 = Regular expression yet another introduction
+*Python 3 程序开发指南 = Programming in Python 3
+*Python 3面向对象编程 = Python 3 object oriented programming
+*数据结构与算法 : C语言版 = Data structures and algorithms in C

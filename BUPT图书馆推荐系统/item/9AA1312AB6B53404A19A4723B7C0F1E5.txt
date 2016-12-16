@@ -1,0 +1,12 @@
+#编译原理课程辅导
+#操作系统同步辅导教程
+*2016版操作系统高分笔记
+*Java 语言程序设计
+*2015年操作系统联考复习指导 = Review guide of operating systems entrance exam
+*微机原理与接口技术习题与解析
+*操作系统习题与解析
+*微型计算机基本原理与接口技术学习指导
+*耶鲁大学最受推崇的领袖能力课
+*重构 : 改善既有代码的设计 = Refactoring : improving the design of existing code
+*大学生领导力 = Exploring leadership : for college students who want to make a difference
+*人工鱼 : 计算机动画的人工生命方法

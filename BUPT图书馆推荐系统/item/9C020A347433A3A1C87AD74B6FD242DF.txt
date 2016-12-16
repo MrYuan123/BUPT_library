@@ -1,0 +1,12 @@
+#ACM/ICPC算法基础训练教程
+#埃及
+*Python Cookbook (第3版) 中文版
+*财务报表分析 = Financial statement Analysis
+*财务管理 : 基于实践的方法 = Financial management : a practical approach
+*大空头 = The big short
+*数据库原理与应用
+*实时分析 : 流数据的分析与可视化技术 = Real-time analytics : techniques to analyze and visualize streaming data
+*操作系统 : 精髓与设计原理 = Operating systems : internals and design principles
+*期权、期货及其他衍生产品 = Options, futures and other derivatives
+*混合神经网络技术
+*机器学习导论 = Introduction to machine learning

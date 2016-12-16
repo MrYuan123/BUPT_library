@@ -1,0 +1,12 @@
+#Head First Java (中文版)
+#疯狂Java : 突破程序员基本功的16课
+*大话数据结构 = Play with data structure
+*轻松学Java
+*疯狂Java讲义
+*数字图像处理 = Digital image processing
+*第一行代码 : Android
+*大话数据挖掘
+*轻松学Java编程
+*喻世明言 : 足本
+*沉默的羔羊 = The Silence of the lambs
+*曾国藩传

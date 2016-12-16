@@ -1,0 +1,12 @@
+#微波光子学原理与应用
+#全面详解LTE : MATLAB建模、仿真与实现
+*没有色彩的多崎作和他的巡礼之年
+*LTE 基础原理与关键技术
+*NS-2 网络模拟基础与应用
+*Python 学习手册
+*Effective C++ : 改善程序与设计的55个具体做法 : 中文版 = Effective C++ : 55 specific ways to improve your programs and designs
+*MIMO 技术原理及应用
+*3GPP 长期演进 (LTE) 技术原理与系统设计 = 3GPP long term evolution : principle and system design
+*C++ 编程规范 : 101条规则、准则与最佳实践 = C++ coding standards : 101 rules, guidelines, and best practices
+*TD-LTE 技术原理与系统设计 = TD-LTE principles and system design
+*华尔街之狼 = The wolf of Wall Street : 我走过的金钱、权力与欲望的迷途

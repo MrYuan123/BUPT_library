@@ -1,0 +1,12 @@
+#通信原理学习辅导与习题解答
+#通信原理学习与实验指导 = Instruction to exercise and experiment for communication principle
+*应用STATA做统计分析 = Statistics with STATA : 更新至STATA10.0版
+*中级会计实务
+*樊昌信《通信原理》 (第6版) 笔记和课后习题 (含考研真题) 详解
+*数学建模方法及其应用
+*算法竞赛入门经典训练指南
+*通信原理 = Communication principles
+*数字信号处理原理及实现学习指导
+*Android 4编程入门经典 : 开发智能手机与平板电脑应用
+*电磁场与电磁波学习指导与习题详解
+*电磁场与电磁波教学、学习与考研指导 = Guidance for field and wave electromagnetics: teaching, leaning and graduate student entrance examination

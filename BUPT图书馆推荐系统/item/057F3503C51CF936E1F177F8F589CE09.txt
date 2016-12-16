@@ -1,0 +1,12 @@
+#Linux从入门到精通
+#Shell从入门到精通
+*CentOS 7系统管理与运维实战
+*软件功能测试 : 基于QuickTest Professional应用
+*Oracle 数据库基础
+*软件测试基础与测试案例分析
+*移动互联网之智能终端安全揭秘
+*Linux shell脚本攻略
+*数据结构 : Java语言描述
+*人工神经网络原理
+*神经网络与机器学习 = Neural networks and learning machines
+*Java语言程序设计教程

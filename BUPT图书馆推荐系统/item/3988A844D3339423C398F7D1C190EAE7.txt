@@ -1,0 +1,22 @@
+#超越金融 : 索罗斯的哲学 = The soros lectures
+#HTML 5 Canvas游戏开发实战 = HTML 5 Canvas development by example
+#文本挖掘原理
+#即用即查 HTML+CSS 标签参考手册
+#jQuery高级编程
+#jQuery 攻略 = jQuery recipes a problem-solution approach
+#数据挖掘教程
+#JavaScript从入门到精通
+#JavaScript Web开发技术
+#苦才是人生 , 索达吉堪布教你守住
+#The art of public speaking =演讲的艺术 /演讲的艺术
+#这个时代的无知与傲慢 : 索罗斯给开放社会的建言 = The Age of fallibility : the consequences of the war on terror
+*即用即查 JavaScript 核心对象参考手册
+*ATmega 128/2560 系列单片机原理与高级应用
+*ATmega128 单片机原理与开发指导
+*微波射频测量技术基础
+*HTML 5和CSS 3从基础到应用
+*游戏设计全方位学习
+*HTML5游戏开发进阶指南 = Pro HTML5 games
+*Unity3D游戏开发基础
+*CSS 设计彻底研究
+*Spring源码深度解析

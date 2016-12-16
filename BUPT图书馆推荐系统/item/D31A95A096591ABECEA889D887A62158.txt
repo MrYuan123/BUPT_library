@@ -1,0 +1,11 @@
+#游戏设计艺术 = The art of game design
+*深入浅出Node.js
+*Node.js实战 : 第2季
+*HTML5游戏编程核心技术与实战
+*Node.js实战
+*数据隐藏技术揭秘 : 破解多媒体、操作系统、移动设备和网络协议中的隐秘数据 = Data hiding exposing concealed data in multimedia operating systems, mobile devices and network protocols
+*Python袖珍指南
+*JavaScript函数式编程
+*算法导论 = Introduction to algorithms
+*正则表达式经典实例
+*深入浅出密码学 : 常用加密技术原理与应用

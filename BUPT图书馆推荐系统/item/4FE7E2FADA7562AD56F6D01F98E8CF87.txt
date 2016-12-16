@@ -1,0 +1,13 @@
+#QTP 自动化测试实践
+#数据挖掘十大算法
+#Python数据分析基础教程 : NumPy学习指南 = NumPy beginner's guide
+*Python语言程序设计
+*Hadoop实战 = Hadoop in action
+*疯狂Android讲义
+*机器学习实战 = Machine learning in action
+*Python语言程序设计 = Introduction to programming using Python
+*利用Python进行数据分析
+*说孝庄
+*实战Hadoop : 开启通向云计算的捷径
+*空谷幽魂 = The hollow
+*正则表达式经典实例

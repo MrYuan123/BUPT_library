@@ -1,0 +1,14 @@
+#Linux服务器配置与管理
+#深度实践嵌入式Linux系统移植 = Inside explore the embedded Linux systems porting
+#Linux服务器架设指南
+#嵌入式Linux从入门到精通
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

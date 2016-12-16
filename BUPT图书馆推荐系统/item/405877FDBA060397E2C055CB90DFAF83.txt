@@ -1,0 +1,14 @@
+#至简 SSH : 精通Java Web实用开发技术Struts+Spring+Hibernate
+#Flex 4实战
+#SQL 编程基础 = SQL fundamentals
+#Programming Flex 3 中文版 = Programming Flex 3
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

@@ -1,0 +1,13 @@
+#Java 程序员面试宝典
+#轻松学Java
+#Java 轻松入门
+*疯狂Java : 突破程序员基本功的16课
+*C# 与 .NET 程序员面试宝典
+*C#初学者指南 = C# : a beginner's tutorial
+*Java 面向对象程序设计
+*Python入门经典 = The Practice of computing using Python : 以解决计算问题为导向的Python编程实践
+*实战Hadoop : 开启通向云计算的捷径
+*解惑大数据 = Big data
+*Java JDK 6 学习笔记
+*电子与通信工程专业英语
+*Hadoop大数据处理 = Big data processing

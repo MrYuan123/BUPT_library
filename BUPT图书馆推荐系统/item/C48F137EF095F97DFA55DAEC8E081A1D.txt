@@ -1,0 +1,14 @@
+#少年维特的烦恼 = Die leiden des jungen Werthers
+#基督山伯爵 . 上 = Le comte de Monte-Cristo
+#大话通信 : 通信基础知识读本
+#通信行业求职宝典 : 猎头视角
+*大话无线通信
+*大话移动通信
+*通信之道 : 从微积分到5G
+*面试技巧
+*高端应聘 : 咨询行业求职面试全攻略
+*求职必看
+*1 分钟打动面试官
+*神秘岛 = The Mysterious island : 插图·中文导读英文版 . 上部
+*云存储解析 = Cloud storage analytics
+*Head First 设计模式

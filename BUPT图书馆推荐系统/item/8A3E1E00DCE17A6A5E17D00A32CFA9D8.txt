@@ -1,0 +1,11 @@
+#编程珠玑 = Pragramming pearls
+*数据结构与算法 = Data structures and algorithm
+*程序员的思维修炼开发认知潜能的九堂课 = Pragmatic thinking and learning refactor your wetware
+*算法与数据结构习题精解与实验指导
+*Kali Linux渗透测试技术详解
+*离散数学及应用
+*零基础学算法 : 19.5小时多媒体教学视频
+*解忧杂货店
+*Linux常用命令手册
+*挑战程序设计竞赛
+*黑客札记 , 网络安全手册

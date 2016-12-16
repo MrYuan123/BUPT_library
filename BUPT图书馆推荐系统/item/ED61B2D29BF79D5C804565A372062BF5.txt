@@ -1,0 +1,15 @@
+#SPSS统计分析从零开始学
+#MATLAB 2009从入门到精通
+#LabVIEW虚拟仪器从入门到测控应用130例
+#LabVIEW 2013完全自学手册
+#SolidWorks 2012中文版入门与提高
+*Linux入门很简单
+*精通LabVIEW虚拟仪器程序设计
+*高等数学练习与自测
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

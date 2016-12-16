@@ -1,0 +1,12 @@
+#信息处理与编码
+#现代无线系统射频电路实用设计 = Practical RF circuit design for modern wireless systems . 卷ⅡVolume Ⅱ , 有源电路与系统active circuits and system
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

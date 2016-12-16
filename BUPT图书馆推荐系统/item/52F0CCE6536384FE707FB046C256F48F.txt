@@ -1,0 +1,14 @@
+#光网络 = Optical networks : a practical perspective . 上卷 , 光纤通信技术与系统
+#LTE教程 : 原理与实现
+#IEEE 802.11 无线局域网
+#LTE : UMTS长期演进理论与实践 = LTE-the UMTS long term evolution from theory to practice
+*MATLAB仿真在现代通信中的应用
+*大话移动通信
+*PPT, 要你好看
+*LTE系统原理及应用
+*计算机网络
+*C语言程序设计
+*M2M通信
+*Qt 5开发及实例
+*无线通信与网络 = Wireless communications and networks
+*LTE FDD技术原理与网络规划 = LTE FOD technology principle and Network planning

@@ -1,0 +1,13 @@
+#信号与系统考研指导
+#信号与系统 (第三版) 习题解析
+#撒冷镇 = 'Salem's lot
+*离散时间信号处理 = Discrete-time signal processing
+*信号与系统重点与难点解析及模拟题
+*模拟电路分析与设计基础
+*浪潮之巅 = On top of tides . 上册
+*你是人间四月天
+*概率论与数理统计 (第四版) 简明本
+*无价 : 洞悉大众心理玩转价格游戏 = Priceless : the myth of fair value (and how to take advantage of it)
+*数学建模 = A first course in mathematical modeling
+*鲍尔学习法 = Power learning
+*MATLAB R2014a从入门到精通

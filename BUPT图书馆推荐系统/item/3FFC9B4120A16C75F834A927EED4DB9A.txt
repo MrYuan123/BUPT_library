@@ -1,0 +1,14 @@
+#HTML5 Canvas开发详解
+#Java程序开发范例宝典
+#jQuery网页开发实例精解
+#由浅入深学SQL Server : 基础、进阶与必做300题
+*HTML5 Canvas核心技术 : 图形、动画与游戏开发 = Core HTML5 Canvas : graphics, animation, and development
+*HTML5 Canvas基础教程 = Foundation HTML5 Canvas : for games and entertainment
+*Head First jQuery : 中文版
+*JavaScript学习指南
+*Shell 脚本学习指南
+*Java 8基础应用与开发
+*Linux Shell命令行及脚本编程实例详解
+*计算机网络
+*线性代数
+*高等数学 . 上册

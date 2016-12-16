@@ -1,0 +1,14 @@
+#MySQL快速入门
+#数据库原理与实现
+#MySQL 完全手册 = MySQL: the complete reference
+#深入浅出MySQL : 数据库开发、优化与管理维护
+*数据与算法
+*Java Web 应用与开发教程 : 使用Oracle Database 10g Express Edition
+*Java程序设计案例教程
+*从零开始学Java
+*PHP 和 MySQL Web 开发 = PHP and MySQL Web development
+*JavaScript高级程序设计 = Professional JavaScript for web developers
+*HTML、CSS、JavaScript网页制作从入门到精通
+*大话数据库
+*Spring实战 = Spring in action
+*Java虚拟机规范 : Java SE 8版 = The Java virtual machine specification : Java SE 8 Edition

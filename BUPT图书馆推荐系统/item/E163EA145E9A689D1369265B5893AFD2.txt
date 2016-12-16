@@ -1,0 +1,13 @@
+#R语言实用教程
+#互联网金融 : 逻辑与结构 = Internet finance : logic and structure
+#中国资本市场制度变革研究 = Study on the regulation transformation of China capital market
+*社交网站的数据挖掘与分析
+*Python 核心编程
+*Hadoop权威指南
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

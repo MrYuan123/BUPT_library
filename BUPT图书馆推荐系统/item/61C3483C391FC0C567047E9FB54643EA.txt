@@ -1,0 +1,13 @@
+#Python高手之路 = The Hacker's guide to Python
+#编程导论 = Introduction to computation and programming using Python
+#Sed 与 awk
+*稻城 : 香格里拉精神史
+*MySQL开发与实践
+*数据库系统原理 = Information technology
+*数据库系统原理习题集与上机指导
+*Web 搜索 = Web search
+*HTTP权威指南 = HTTP : the definitive guide
+*STL源码剖析 = The Annotated STL sources
+*离散数学及其应用 = Discrete mathematics and its applications
+*编码的奥秘
+*云计算导论

@@ -1,0 +1,13 @@
+#C 程序设计
+#C 语言程序设计
+#濒死之眼
+*C 程序设计教程
+*高等数学
+*软件测试实践
+*C 语言程序设计上机指导与习题解答
+*射频电路工程设计 = RF circuit design
+*电路基础 = Fundamentals of electric circuits
+*锁相环设计、仿真与应用
+*不爱学习的校园侦探
+*月与蟹
+*模拟电子技术基础 : 系统方法 = Analog fundamentals a systems approach

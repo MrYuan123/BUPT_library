@@ -1,0 +1,11 @@
+#数字通信 = Digital communications
+*数字与模拟通信系统 = Digital and analog communication systems
+*数字通信 : 基础与应用 = Digital communications : fundamentals and applications
+*数字通信 : 中文精简版 = Digital communications
+*TCP/IP 协议族
+*通信系统中的多采样率信号处理 = Multirate signal processing for communication systems
+*数学经验 : 学习版 = The mathematical experience : study edition
+*电磁学专题研究
+*电磁通论 = A treatise on electricity and magnetism
+*Turbo 码设计与应用
+*统计信号处理基础 : 估计与检测理论 . 卷I = Fundamentals of statistical signal processing . volume I , estimation theory统计信号处理基础 : 估计与检测理论 . 卷II = Fundamentals of statistical signal processing . volume II , detection theory

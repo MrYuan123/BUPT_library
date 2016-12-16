@@ -1,0 +1,14 @@
+#ELK stack权威指南 = The definitive guide to Elasticsearch + Logstash + Kibana
+#程序员代码面试指南 : IT名企算法与数据结构题目最优解
+#写给大忙人看的Java核心技术 = Core Java for the impatient
+#RabbitMQ实战 : 高效部署分布式消息队列 = RabbitMQ in action : distributed messaging for everyone
+*Java多线程编程实战指南 , 设计模式篇
+*TCP/IP网络编程
+*Netty权威指南
+*HotSpot实战
+*易学Python
+*让云落地 : 云计算服务模式 (SaaS、PaaS和IaaS) 设计Architecting the cloud : design decisions for cloud computing service models (SaaS、PaaS, and IaaS)
+*大数据挑战与NoSQL数据库技术
+*编写高质量代码 = Writing solid web front-end code : Web前端开发修炼之道
+*Redis入门指南
+*Head First 设计模式

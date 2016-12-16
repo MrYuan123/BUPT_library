@@ -1,0 +1,13 @@
+#高级数字图像处理技术
+#MATLAB数字图像处理实战
+#数字图像处理原理与实践 : 基于Visual C++开发
+*数字图像处理及应用
+*彩色数字图像处理 = Digital color image processing
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

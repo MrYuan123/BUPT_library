@@ -1,0 +1,14 @@
+#PHP+MySQL 开发实战
+#PHP 和 MySQL Web 开发 = PHP and MySQL Web development
+#新一代 PHP + MySQL + Dreamweaver 网站建设典型案例
+#微信公众平台开发基础与实战
+*微信公众平台应用开发实战 = Wechat public platform application developing
+*微信公众平台开发实战与应用案例
+*JavaScript高级程序设计 = Professional JavaScript for web developers
+*博弈论基础 = A Primer in Game Theory
+*哈佛博弈论 : 日常生活中的智慧策略
+*Head First PHP & MySQL : 中文版
+*MYSQL从入门到精通 : 视频教学版
+*微信公众平台JSSDK开发实战 : 公众号与HTML 5混合模式揭秘
+*合成孔径雷达对抗技术
+*精通HTML+CSS : 100%网页设计与布局密码

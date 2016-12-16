@@ -1,0 +1,20 @@
+#Java EE Web开发与项目实战
+#计算机网络
+#计算机网络与因特网 = Computer networks and internets
+#周鸿祎自述 : 我的互联网方法论
+#我的 J2EE 成功之路 : 实战Ajax, JSP, Struts 2, Spring, Hibernate
+#VOA慢速英语随身听 , 听力词汇双突破
+#Three. js开发指南 = Learning three.js : the JavaScript 3D library for WebGL
+#UML2基础、建模与设计教程
+#工程力学 = Engineering mechanics : 动力学Dynamics
+#大象 : Thinking in UML
+*深入分析Java Web技术内幕
+*Data structures and algorithm analysis in Java =数据结构与算法分析 : Java语言描述 /数据结构与算法分析 
+*Java EE核心框架实战
+*美国总统就职演说赏析 = Appreciating the inaugural addresses of the U.S. presidents : 1789-20051789-2005
+*大型网站系统与Java中间件实践
+*大规模分布式存储系统原理解析与架构实战
+*大型分布式网站架构设计与实践
+*HBase企业应用开发实战 = Enterprise application development with HBase
+*美国历届总统就职演说 = The inaugural speeches of the U. S. presidents
+*会计

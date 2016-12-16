@@ -1,0 +1,13 @@
+#矩阵分析
+#矩阵论札记
+#线性代数及其应用导论 = Linear algebra : a first course with applications to differential equations
+*图论算法理论、实现及应用
+*数据结构 : 用面向对象方法与 C++ 语言描述
+*Java程序设计教程 = Building Java programs : a back to basics approach
+*快速数论变换
+*现代控制理论
+*最新托福词汇科学快捷记忆手册
+*最优化方法及其 Matlab 程序设计
+*读故事记单词托福必备短语
+*矩阵分析学习指导
+*高级微观经济理论 = Advanced microeconomic theory

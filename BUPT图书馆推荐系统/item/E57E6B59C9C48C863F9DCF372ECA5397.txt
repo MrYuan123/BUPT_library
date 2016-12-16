@@ -1,0 +1,14 @@
+#模糊测试强制发掘安全漏洞的利器 = Fuzzing brute force vulnerability discovery
+#加密与解密
+#渗透测试实践指南 : 必知必会的工具与方法 = The basics of Hacking and penetration testing : ethical Hacking and penetration testing made easy
+#软件调试 = Software debugging
+*编译原理 = Compilers : principles, techniques and tools
+*Haskell趣学指南 = Learn you a haskell for great good!
+*算法心得 : 高效算法的奥秘 = Hacker's delight
+*算法的乐趣
+*算法帝国 = Automate this : how algorithms came to rule our world
+*Linux/UNIX系统编程手册 = The Linux programming interface a linux and unix system programming handbook . 上册
+*逆向工程核心原理
+*程序员之禅 = The zen programmer
+*跟兄弟连学PHP
+*黑客攻防技术宝典 = The Shellcoder's handbook

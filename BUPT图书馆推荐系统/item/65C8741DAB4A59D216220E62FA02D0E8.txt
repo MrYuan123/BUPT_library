@@ -1,0 +1,13 @@
+#大嘴巴漫谈数据挖掘
+#分布式计算
+#大数据挖掘 = Using big data to build your business : 系统方法与实例分析
+*R语言核心技术手册 = R in a nutshell
+*数据结构与问题求解 : Java语言版
+*数据结构
+*从大学数学走向现代数学
+*应用MATLAB实现神经网络
+*数学桥 : 对高等数学的一次观赏之旅 = A Mathematical bridge : an intuitive journey in higher mathematics
+*MATLAB技术大全
+*数学哲学
+*奥黛丽·赫本传
+*不可不知的朝韩史

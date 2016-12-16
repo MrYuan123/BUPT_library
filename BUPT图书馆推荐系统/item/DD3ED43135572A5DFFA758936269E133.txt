@@ -1,0 +1,13 @@
+#5G: 关键技术与系统演进
+#LTE权威指南 = Fundamentals of LTE
+#4G移动通信技术权威指南 : LTE与LTE-Advanced = 4G LTE/LTE-Advanced for mobile broadband
+*大话移动通信
+*3G 核心网技术
+*TD-LTE-Advanced移动通信系统设计 = TD-LTE-Advanced mobile communications system design
+*移动通信技术
+*MATLAB图像处理实例详解
+*TD-LTE 技术原理与系统设计 = TD-LTE principles and system design
+*LTE自组织网络 (SON) : 网络管理自动化提升运维效率
+*大话数据库
+*申论其实很简单 : 李国斌讲申论
+*LTE FDD网络规划与设计 = LTE FDD network planning and design

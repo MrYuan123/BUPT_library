@@ -1,0 +1,12 @@
+#统计学 = Statistics
+#AMOS 与研究方法
+*回归分析 : 因变量统计模型 = Regression Analysis : statistical modeling of a response variable
+*SPSS统计分析与行业应用案例详解
+*MATLAB 8.0从入门到精通
+*消费者行为及网络购物
+*Excel 2010数据处理与分析实战技巧精粹
+*广告理论与策划
+*广告原理与实务
+*Python 学习手册
+*R语言轻松入门与提高
+*广告心理学教程 = Advertising psycology tutorial

@@ -1,0 +1,14 @@
+#爱伦·坡短篇小说精选 = The Selected short stories of allan poe = 中文导读英文版
+#消失的地平线 = Lost horizon
+#2012 : 失落的预言 = The nostradamus prophecies
+#逃离奥斯维辛
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

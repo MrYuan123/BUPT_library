@@ -1,0 +1,13 @@
+#史蒂夫·乔布斯传 = Steve Jobs
+#数据结构 : C++语言版
+#学习 OpenCV : 中文版
+*电磁场与电磁波习题精解
+*精通MATLAB智能算法 = Proficient in MATLAB intelligent algorithm
+*数字图像处理 = Digital image processing
+*实用MATLAB图像和视频处理 = Practical image and video processing using MATLAB
+*C 语言范例开发大全
+*社会心理学
+*高等数学习题集
+*线性代数全程学习指导
+*英语专业四级考试 , 阅读精练200篇
+*线性代数精讲精练

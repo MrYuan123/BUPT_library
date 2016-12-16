@@ -1,0 +1,18 @@
+#LTE-Advanced宽带移动通信系统 = LTE-Advanced broadband mobile communications system
+#大型网站系统与Java中间件实践
+#LTE-Advanced : 面向IMT-Advanced的3GPP解决方案
+#不要让未来的你讨厌现在的自己 = Writing the future
+#Java并发编程实战 = Java concurrency in practice
+#分布式系统原理与范型
+#LTE-A和下一代无线网络 : 信道建模与传播 = LTE-advanced and next generation wireless networks : channel modelling and propagation
+#Redis设计与实现 = The design and implementation of Redis
+*MySQL技术内幕 : SQL编程 = Inside MySQL : SQL programming
+*深入理解Java虚拟机 : JVM高级特性与最佳实践 = Understanding the JVM : advanced features and best practices
+*三重门
+*深入理解计算机系统 = Computer systems : a programmer's perspective
+*Go语言程序设计 = Programming in Go : creating applications for the 21st century
+*苏菲的世界 = Sophie's world
+*Java虚拟机规范 : Java SE 7版 = The Java Virtual machine specification : Java SE 7 edition
+*现代无线通信原理
+*高等数理统计 = Advanced mathematical statistics
+*概率论与数理统计 : 习题精选

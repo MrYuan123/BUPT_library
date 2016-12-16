@@ -1,0 +1,13 @@
+#纠删码存储集群系统设计与优化 = Design and optimization of erasure-coded clustered storage systems
+#自制编程语言
+#大规模分布式存储系统原理解析与架构实战
+*Qt 高级编程 = Advanced Qt programming creating great software with C++ and Qt 4
+*复杂性思考
+*机器学习 : 实用案例解析
+*Effective C++ : 改善程序与设计的55个具体做法 : 中文版 = Effective C++ : 55 specific ways to improve your programs and designs
+*Qt 5开发及实例
+*模式识别中的核自适应学习及应用
+*人工神经网络与微粒群优化
+*MATLAB智能算法超级学习手册
+*美国总统就职演说赏析 = Appreciating the inaugural addresses of the U.S. presidents : 1789-20051789-2005
+*大型分布式网站架构设计与实践

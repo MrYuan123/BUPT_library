@@ -1,0 +1,13 @@
+#汇编语言
+#鸟哥的 Linux 私房菜 , 基础学习篇
+#Python 学习手册
+*VHDL 入门·解惑·经典实例·经验总结
+*Java 编程思想 = Thinking in Java
+*图解TCP/IP
+*JavaScript 高级程序设计 = Professional JavaScript for web developers
+*2015版数据结构高分笔记
+*微机原理与接口技术习题与解析
+*C语言程序设计与项目实践
+*MATLAB 函数速查手册
+*推荐系统 = Recommender systems : an introduction
+*激光原理及应用

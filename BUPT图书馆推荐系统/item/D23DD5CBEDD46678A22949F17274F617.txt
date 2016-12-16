@@ -1,0 +1,14 @@
+#SQL Server 2008数据库应用与开发
+#Java语言程序设计 , 基础篇 = Introduction to Java programming
+#SQL Server 2008数据库应用与开发习题解答与上机指导
+#Oracle PL/SQL 完全自学手册
+*计算机科学导论 = Foundations of computer science
+*Linux 命令、编辑器与 Shell 编程
+*拉曼谱学 : 峰强中的信息
+*Java JDK 5.0 学习笔记
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理

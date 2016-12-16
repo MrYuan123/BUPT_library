@@ -1,0 +1,17 @@
+#数学建模
+#数学建模案例集
+#数学建模原理与方法
+#运筹学 : 数据、模型与决策 = Operation research : data, model and decision
+#不确定理论教程 = A course in uncertainty theory
+#算法之道 = Ex nihilo : algorithmica logos
+#数学建模算法与应用
+*数学模型
+*2015考研英语 (二) 实用复习教程
+*深度解析SDN : 利益、战略、技术、实践
+*算法技术手册
+*运筹学 = Operations research
+*数学建模方法与分析 = Mathematical modeling
+*数学建模简明教程 = A Concise course in mathematical modeling
+*优化建模与 LINDO/LINGO 软件
+*SPSS 19.0统计分析入门与提高
+*SPSS 19.0统计分析综合案例详解

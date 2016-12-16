@@ -1,0 +1,11 @@
+#JavaScript权威指南
+*荷塘月色
+*Hibernate 开发与实战
+*精通 Hibernate
+*精通jQuery = Pro jQrery 2.0
+*CSS 设计彻底研究
+*超实用的CSS代码段
+*jQuery高级编程
+*Spring源码深度解析
+*AngularJS高级程序设计
+*算法竞赛入门经典训练指南

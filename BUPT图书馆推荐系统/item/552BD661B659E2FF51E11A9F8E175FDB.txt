@@ -1,0 +1,15 @@
+#PHP 和 MySQL Web 开发 = PHP and MySQL Web development
+#数据通信与网络 = Data communications and networking
+#JavaScript高级程序设计 = Professional JavaScript for web developers
+#TCP/IP 协议族
+#现代控制系统 = Modern control systems
+*通信原理 : 基于Matlab的计算机仿真
+*TCP/IP入门经典
+*微信公众平台开发基础与实战
+*MySQL快速入门
+*HTML、CSS、JavaScript网页制作从入门到精通
+*MATLAB 与控制系统仿真实践
+*数据库设计教程 = Database solutions : a step-by-step guide to building database
+*美国走着瞧 = Roaming around in the USA
+*PHP+MySQL 开发实战
+*新一代 PHP + MySQL + Dreamweaver 网站建设典型案例

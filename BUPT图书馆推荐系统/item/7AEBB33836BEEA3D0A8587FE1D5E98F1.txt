@@ -1,0 +1,12 @@
+#深入云计算 : Hadoop应用开发实战详解
+#MATLAB实用教程 = The practical textbook of MATLAB
+*Java 程序设计之网络编程
+*数学建模方法及其应用
+*Hadoop技术内幕 : 深入解析YARN架构设计与实现原理 = Hadoop internals : in-depth study of YARN
+*实战Hadoop : 开启通向云计算的捷径
+*Hadoop云计算实战 = Hadoop cloud computing practice
+*MATLAB基础教程
+*数据可视化
+*鲜活的数据 : 数据可视化指南
+*Python入门经典
+*机器学习系统设计 = Building machine learning systems with python

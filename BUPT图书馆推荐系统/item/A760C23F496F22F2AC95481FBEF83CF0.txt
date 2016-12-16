@@ -1,0 +1,13 @@
+#博弈与信息 : 博弈论概论 = Games and information : an introduction to game theory
+#应用回归分析 = Applied regression analysis
+#基于SPSS的数据分析
+*数据挖掘 : 实用案例分析 = Data mining : practical case analysis
+*数据挖掘 = Data mining : 概念与技术concepts and techniques
+*反腐败经济学 = Anti-corruption economics
+*申论写作技巧 50 例 : 申论写作词语汇编
+*服务型政府与政府网站建设
+*SPSS 统计分析精要与实例详解
+*思考, 快与慢 = Thinking, fast and slow
+*SQL Server 2012从零开始学
+*基于SPSS Modeler的数据挖掘
+*IBM SPSS Modeler数据与文本挖掘实战

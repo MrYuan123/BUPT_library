@@ -1,0 +1,12 @@
+#神经网络设计方法与实例分析
+#贝叶斯概率风险评估 = Bayesian inference for probabilistic risk assessment
+*MATLAB神经网络编程
+*神经网络盲均衡理论、算法与应用
+*Java 编程入门经典
+*神经网络 = Neural networks
+*MATLAB GUI设计入门与实战
+*神经网络
+*Head First Python中文版
+*神经网络专家系统
+*MATLAB神经网络应用设计
+*精通 MATLAB 神经网络

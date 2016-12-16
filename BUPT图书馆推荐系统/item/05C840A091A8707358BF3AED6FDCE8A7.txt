@@ -1,0 +1,14 @@
+#运筹学 = Operations research
+#Java语言与面向对象程序设计
+#随机过程习题解答
+#矩阵理论与应用
+*矩阵论
+*运筹学学习指导及习题集
+*2015考研英语 (二) 实用复习教程
+*数学建模案例集
+*凉生, 我们可不可以不忧伤 . 4 , 彩云散
+*数学建模 = A first course in mathematical modeling
+*侦探推理游戏大全集
+*如果巴黎不快乐 . Ⅲ
+*数学模型
+*矩阵计算 = Matrix computations

@@ -1,0 +1,15 @@
+#Hadoop技术内幕 : 深入解析Hadoop Common和HDFS架构设计与实现原理 = Hadoop internals : in-depth study of common and HDFS
+#MySQL数据库应用从入门到精通
+#Hadoop YARN权威指南
+#MapReduce 2.0源码分析与编程实战
+#Hadoop技术内幕 : 深入解析YARN架构设计与实现原理 = Hadoop internals : in-depth study of YARN
+*大数据时代的IT架构设计
+*Spring MVC 学习指南
+*Redis入门指南
+*深入理解计算机网络 = Understanding computer networks
+*深入云计算 : Hadoop应用开发实战详解
+*Spark核心技术与高级应用 = Spark core technology and advanced applications
+*计算机网络
+*Imagine Cup微软“创新杯”作品集 . 2015 = A collection of Imagine Cup China competition projects . 2015
+*《微型计算机原理 (第五版)》学习指导
+*Hive编程指南

@@ -1,0 +1,11 @@
+#电磁场与电磁波名师大课堂
+*数据结构与算法分析新视角
+*通信原理习题集
+*微机原理与接口技术
+*电磁场与电磁波 = Electromagnetic field theory fundamentals
+*数字图像压缩编码
+*Ubuntu Linux从入门到精通
+*电磁场与电磁波
+*通信原理 . 上
+*Intel 微处理器 = The Intel microprocessors : 8086/8088, 80186/80188, 80286, 80386, 80486, Pentium, Pentium Pro Processor, Pentium II, Pentium III, Pentium 4, and Core2 with 64-bit extensions : architecture, programming, and interfacing
+*微机原理与接口技术 : 辅导及习题

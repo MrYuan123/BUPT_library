@@ -1,0 +1,12 @@
+#黑客攻防从入门到精通
+#黑客大曝光 = Hacking exposed : 网络安全机密与解决方案
+*黑客攻防从新手到高手
+*黑客远程控制服务攻击技术与安全搭建实战
+*超好学! 黑客攻防入门全图解
+*Python Cookbook (第3版) 中文版
+*ELK stack权威指南 = The definitive guide to Elasticsearch + Logstash + Kibana
+*PHP&MySQL跨设备网站开发实例精粹
+*看，这是哲学 = Looking at philosophy : the unbearable heaviness of philosophy made lighter donald palmer
+*利用Python进行数据分析
+*黑客攻防实战从入门到精通
+*MATLAB GUI设计入门与实战

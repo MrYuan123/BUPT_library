@@ -1,0 +1,11 @@
+#数理统计学教程
+*广义线性模型
+*测度论与概率论基础
+*概率论基础
+*代码大全 = Code complete
+*学会提问 = Asking the right questions : a guide to critical thinking
+*冒号课堂 : 编程范式与OOP思想
+*普林斯顿数学指南 . 第1卷
+*信息科学原理
+*Accelerated C++中文版 : 通过示例进行编程实践 = Accelerated C++ : practical programming by example
+*怎样解题 = How to solve it : 数学思维的新方法a new aspect of mathematical method

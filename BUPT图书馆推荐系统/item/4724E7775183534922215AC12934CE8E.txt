@@ -1,0 +1,12 @@
+#电磁场与电磁波习题精解
+#学习 OpenCV : 中文版
+*通信原理习题集
+*微机原理与接口技术 : 辅导及习题
+*数字图像处理 = Digital image processing
+*数据结构 : C++语言版
+*实用MATLAB图像和视频处理 = Practical image and video processing using MATLAB
+*史蒂夫·乔布斯传 = Steve Jobs
+*高等代数 . 上册 : 大学高等代数课程创新教材
+*信息简史 = The Information : a history, a theory, a flood
+*代数结构
+*精通MATLAB智能算法 = Proficient in MATLAB intelligent algorithm

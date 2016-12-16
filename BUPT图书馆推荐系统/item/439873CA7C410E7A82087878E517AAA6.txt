@@ -1,0 +1,14 @@
+#共享经济 : 重构未来商业新模式 = Peers inc : how people and platforms are inventing the collaborative economy and reinventing capitalism
+#智能制造 : 未来工业模式和业态的颠覆与重构 = Smart production
+#数据之巅 : 大数据革命，历史、现实与未来 = Big data history, reality and future
+#文明的度量 : 社会发展如何决定国家命运 = The measure of civilization : how social development decides the fate of nations
+*程序员面试金典 = Cracking the coding interview : 150 programming questions and solutions
+*公务员考霸学习笔记 . 1 , 实战绝技申论答题基本功
+*互联网金融知识读本 = Internet finance guide
+*Java多线程编程核心技术 = Java multi-thread programming
+*大规模分布式系统架构与设计实战 = Architecture and design of large scale distributed system
+*OpenStack设计与实现
+*保险学
+*哥德尔、艾舍尔、巴赫 : 集异璧之大成
+*自适应Fourier变换 : 一个贯穿复几何, 调和分析及信号分析的数学方法
+*征服C指针

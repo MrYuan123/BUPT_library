@@ -1,0 +1,12 @@
+#jQuery权威指南 = jQuery : the definitive guide
+#现代密码学教程
+*2016年计算机网络联考复习指导 = Review guide of computer networks entrance exam
+*jQuery实战 = jQuery in action
+*JavaScript权威指南 : ECMAScript5+HTML5DOM+HTML5BOM
+*近世代数及其应用
+*轻量级Java EE企业应用实战 : Struts 2＋Spring 3＋Hibernate整合开发
+*Java Web 开发实战经典基础篇 : JSP、Servlet、Struts、Ajax
+*Eclipse 完全手册 : 基础·进阶·高级
+*算法竞赛入门经典训练指南
+*现代密码分析学 : 破译高级密码的技术 = Modern cryptanalysis : techniques for advanced code breaking
+*图论

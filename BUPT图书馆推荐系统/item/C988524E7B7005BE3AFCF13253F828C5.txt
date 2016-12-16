@@ -1,0 +1,13 @@
+#Hadoop技术内幕 : 深入解析Hadoop Common和HDFS架构设计与实现原理 = Hadoop internals : in-depth study of common and HDFS
+#Imagine Cup微软“创新杯”作品集 . 2015 = A collection of Imagine Cup China competition projects . 2015
+#《微型计算机原理 (第五版)》学习指导
+*Hadoop硬实战 = Hadoop in practice
+*Hive编程指南
+*MySQL数据库应用从入门到精通
+*Hadoop YARN权威指南
+*MapReduce 2.0源码分析与编程实战
+*Hadoop技术内幕 : 深入解析YARN架构设计与实现原理 = Hadoop internals : in-depth study of YARN
+*学习 OpenCV : 中文版
+*数据挖掘教程
+*数据挖掘技术应用实例
+*数据挖掘原理与算法

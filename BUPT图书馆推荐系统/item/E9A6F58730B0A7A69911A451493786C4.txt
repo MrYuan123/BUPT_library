@@ -1,0 +1,13 @@
+#神经网络与机器学习 = Neural networks and learning machines
+#无线通信 = Wireless communications
+#无线通信基础 = Fundamentals of wireless communication
+*无线通信原理与应用 = Wireless communications principles and practice
+*现代无线通信原理
+*神经网络控制
+*SQL查询的艺术
+*最优化方法及其 Matlab 程序设计
+*Effective C++ : 改善程序与设计的55个具体做法 : 中文版 = Effective C++ : 55 specific ways to improve your programs and designs
+*空时无线通信导论
+*3GPP 长期演进 (LTE) 系统架构与技术规范 = 3GPP long term evolution : architecture and specification
+*失控 = Out of control : 全人类的最终命运和结局
+*网络与 TCP/IP 协议

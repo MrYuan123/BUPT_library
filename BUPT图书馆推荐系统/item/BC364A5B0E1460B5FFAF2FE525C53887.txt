@@ -1,0 +1,12 @@
+#Docker技术入门与实战
+#模式识别 = Pattern recognition
+*特征提取与图像处理 = Feature extraction and image processing
+*Go语言·云动力
+*Docker : 容器与容器云
+*Kubernetes权威指南 : 从Docker到Kubernetes实践全接触
+*DevOps故障排除 : Linux服务器运维最佳实践 = DevOps troubleshooting : Linux server best practices
+*Kubernetes实战
+*Java 语言程序设计 = Introduction to Java programming , 基础篇comprehensive version
+*实施工业4.0 : 智能工厂的生产·自动化·物流及其关键技术、应用迁移和实战案例
+*图像模式识别 : VC++技术实现
+*C# 数字图像处理算法典型实例

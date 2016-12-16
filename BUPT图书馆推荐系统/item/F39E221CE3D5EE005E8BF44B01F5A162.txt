@@ -1,0 +1,14 @@
+#计算机网络安全基础 = The basis of computer network security
+#全国计算机技术与软件专业技术资格 (水平) 考试 , 网络工程师分册
+#C 语言程序设计应用教程
+#SQL Server入门很简单
+*跟老齐学Python : 从入门到精通
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学

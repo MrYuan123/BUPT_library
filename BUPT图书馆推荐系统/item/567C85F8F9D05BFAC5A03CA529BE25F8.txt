@@ -1,0 +1,12 @@
+#Java 范例开发大全
+#MySQL 入门很简单
+*Java Web 整合开发实战 : 基于Struts 2+Hibernate+Spring
+*21天学通C++
+*软件工程 = Software engineering
+*Digital and analog communication systems =数字与模拟通信系统 /数字与模拟通信系统
+*数字通信 = Digital Communications
+*数字与模拟通信系统 = Digital and analog communication systems
+*数字通信 : 基础与应用 = Digital communications : fundamentals and applications
+*MYSQL从入门到精通 : 视频教学版
+*社交网站的数据挖掘与分析
+*数据挖掘技术 : 市场营销、销售与客户关系管理领域应用 = Data mining techniques : for marketing, sales and customer relationship management

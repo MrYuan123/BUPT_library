@@ -1,0 +1,12 @@
+#控制工程基础
+#控制系统 MATLAB 计算及仿真实训
+*ANSYS 12 有限元分析自学手册
+*新编控制系统MATLAB仿真实训
+*控制系统仿真实验技术 = Experiment of control system simulation
+*控制系统仿真
+*MATLAB 控制系统设计与仿真
+*MATLAB遗传算法工具箱及应用
+*奇点临近 = The singularity is near when humans transcend biology
+*有限元方法基础教程 : 国际单位制版 = A first course in the finite element method
+*自动控制原理习题解析
+*微机原理与接口技术 : 基于32位机

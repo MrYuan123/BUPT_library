@@ -1,0 +1,18 @@
+#高等数学 , 理工类 . 上册
+#概率统计
+#高等数学 . 下册
+#大数据分析的道与术
+#线性代数 = Linear algebra
+#概率论与数理统计
+#机器学习 = Machine learning
+#线性代数
+*高等数学 . 上册
+*2015年考研数学新编考试参考书
+*复变函数
+*离散数学常见题型解析及模拟题
+*凸优化 = Convex optimization
+*计量经济学 = Econometrics
+*计算机英语 , 学生用书
+*半生缘
+*计算机网络 : 网络设计的原理、技术和协议 = Computer networks : principles, technologies and protocols for network design
+*概率论与随机过程

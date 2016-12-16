@@ -1,0 +1,16 @@
+#Verilog 数字系统设计教程
+#Xilinx FPGA开发实用教程 = Xilinx FPGA : development and application
+#FPGA 应用开发入门与典型实例
+#Xilinx ISE 9.x FPGA/CPLD 设计指南
+#无线通信的 MATLAB 和 FPGA 实现
+#基于 Verilogrr 的 FPGA 设计基础
+*无线通信 = Wireless communications
+*概率论·数理统计·随机过程
+*概率论及其应用 = An introduction to probability theory and its applications . 卷1
+*随机过程 . Ⅰ = Random process . Ⅰ
+*美国人最喜欢和你聊的 50 个话题 = The 50 hottest topics in America
+*交际英语应急口语 900 句
+*MIMO 通信系统编码 = Coding for MIMO communication systems
+*下一代宽带无线通信系统 : OFDM与WiMAX
+*Verilog 嵌入式数字系统设计教程 = Digital design : ean embedded systems approach using Verilog
+*Java 7从入门到精通

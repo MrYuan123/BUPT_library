@@ -1,0 +1,13 @@
+#高效人士四小时熟睡法 = なぜ成功者ほど睡眠を短くできるのか?
+#视觉不哭 : 美人心计视觉营销夺流量 = How to attract customers through visual marketing
+#运营不累 : 弹指神通布局规划思路通 = How to manage operation through strategic planning
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

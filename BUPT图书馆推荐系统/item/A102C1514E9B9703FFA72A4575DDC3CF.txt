@@ -1,0 +1,14 @@
+#机器学习 = Machine learning
+#莫急, 你要的岁月都会给你
+#MATLAB 神经网络 30 个案例分析
+#神经网络原理 = Neural networks : a comprehensive foundation
+*MATLAB 神经网络应用设计
+*计算机网络 : 网络设计的原理、技术和协议 = Computer networks : principles, technologies and protocols for network design
+*数据融合驱动电气设备故障的智能诊断
+*泛函分析 = Functional analysis
+*智能无线传感器网络系统
+*振动信号的现代分析技术与应用 = Modern analysis techniques and application of vibration signals
+*交通信息智能预测理论与方法
+*神经网络在应用科学和工程中的应用 : 从基本原理到复杂的模式识别
+*机器学习基础教程 = A First course in machine learning
+*MATLAB神经网络编程

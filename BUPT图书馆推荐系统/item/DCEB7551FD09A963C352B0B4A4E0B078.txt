@@ -1,0 +1,14 @@
+#先生
+#PHP 5.3 入门经典
+#MATLAB从入门到精通
+#数据通信与网络 = Data communications and networking
+*现代控制系统 = Modern control systems
+*美国走着瞧 = Roaming around in the USA
+*基于 MATLAB 7.x 的系统分析与设计 : 信号处理
+*MATLAB基础教程
+*TCP/IP入门经典
+*MATLAB GUI 设计学习手记
+*MATLAB 与外部程序接口编程
+*MATLAB与科学计算教程
+*美国高校创业教育
+*创新人才培养理念与模式

@@ -1,0 +1,11 @@
+#计量经济学基础 . 上册 = Basic econometrics
+*时间序列分析 : 预测与控制 = Time series analysis : forecasting and control
+*实变函数论 = Theory of functions of a real variable
+*运筹学
+*SPSS 19.0统计分析入门与提高
+*R编程入门经典 : 大数据时代的统计分析语言
+*Stata数据统计分析教程 = Data analysis and statistics in Stata
+*计量经济学基础 . 下册 = Basic econometrics
+*国富论 = An Inquiry into the nature and causes of the wealth nations : 中文导读英文版 . 上册
+*计算机网络
+*线性代数

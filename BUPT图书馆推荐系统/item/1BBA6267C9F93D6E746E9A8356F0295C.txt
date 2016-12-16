@@ -1,0 +1,16 @@
+#应用时间序列分析
+#EViews统计分析与应用
+#应用计量经济学 : 时间序列分析 = Applied econometric time series
+#时间序列分析 : 预测与控制 = Time series analysis : forecasting and control
+#时间序列分析 = Time series analysis
+#时间序列分析及应用 : R语言 = Time series analysis with applications in R
+*实变函数论 = Theory of functions of a real variable
+*计量经济学基础 . 上册 = Basic econometrics
+*运筹学
+*模糊数学理论及其应用
+*模糊数学及其应用
+*应用时间序列分析 = Applied time series analysis
+*深入理解云计算 : 基本原理和应用程序编程技术 = Mastering cloud computing : foundations and applications programming
+*金融时间序列分析 = Analysis of financial time series
+*架构大数据 : 大数据技术及算法解析
+*第四范式 : 数据密集型科学发现

@@ -1,0 +1,12 @@
+#信息可视化设计
+#影视技术导论
+*信息设计 = Information design
+*信息图表设计
+*产品设计程序
+*用户体验与产品创新设计 = User experience and product innovation design
+*创造突破性产品 : 从产品策略到项目定案的创新
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计

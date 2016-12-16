@@ -1,0 +1,13 @@
+#运筹学 = Operations research
+#2015考研英语 (二) 实用复习教程
+#数学建模案例集
+*运筹学学习指导及习题集
+*算法之道 = Ex nihilo : algorithmica logos
+*不确定理论教程 = A course in uncertainty theory
+*数学建模
+*数学建模原理与方法
+*运筹学 : 数据、模型与决策 = Operation research : data, model and decision
+*数学建模算法与应用
+*Java语言与面向对象程序设计
+*随机过程习题解答
+*矩阵理论与应用

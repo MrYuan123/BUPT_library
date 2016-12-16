@@ -1,0 +1,14 @@
+#CDN技术详解
+#腾云 : 云计算和大数据时代网络技术揭秘
+#图解TCP/IP
+#云计算网络珠玑
+*OpenStack实战指南 = OpenStack in action
+*OpenStack部署实践
+*信息检索导论 = Introduction to information retrieval
+*OSGi实战 = OSGi in action : creating modulaer applications in Java
+*线性代数
+*JAVA 2 核心技术 = Core Java 2 . 卷Ⅰvolume Ⅰ , 基础知识fundamentals
+*编程之美 : 微软技术面试心得
+*现代通信网概论 = Modern communication networks
+*SQL必知必会 = Same teach yourself SQL in 10 minutes
+*Git权威指南 = Got Git : the definitive guide of Git

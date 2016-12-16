@@ -1,0 +1,12 @@
+#数据驱动安全 : 数据安全分析、可视化和仪表盘 = Data-driven security : analysis, visualization and dashboards
+#现代操作系统 = Modern operating systems
+*数据之美 : 一本书学会可视化设计 = Pata points : visualization that means something
+*数据之美
+*MATLAB数据分析与挖掘实战 = MATLAB data analysisanddata mining
+*数据科学 : 理论、方法与R语言实践 = Practical data science with R
+*日志管理与分析权威指南 = Logging and log management : the authoritative guide to understanding the concepts surrounding logging and log management
+*安全之美
+*数据约简 : 样例约简与属性约简
+*Spark原理、机制及应用
+*会计报表的阅读与分析
+*软件工程 = Software engineering : theory and practice

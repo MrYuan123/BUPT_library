@@ -1,0 +1,13 @@
+#金字塔原理 : 思考、表达和解决问题的逻辑 = The minto pyramid principle : logic in writing, thinking and problem solving
+#拆掉思维里的墙 : 原来我还可以这样活
+#基础会计学 = Fundamentals of accounting
+*高鸿业《西方经济学 (宏观部分) 》 (第5版) 笔记和课后习题 (含考研真题) 详解
+*Python项目开发实战
+*计算机网络 : 网络设计的原理、技术和协议 = Computer networks : principles, technologies and protocols for network design
+*概率论、随机过程与数理统计
+*高性能网站建设进阶指南 : Web开发者性能优化最佳实践 = Even faster web sites : performance best practices for web developers
+*统计学 : 在经济和管理中的应用 = Managerial statistics
+*薪酬管理 : 理论·实务·案例 = Compensation management : theory, practice, case
+*Java性能优化权威指南 = Java performance
+*批判性思维 : 带你走出思维的误区 = Critical thinking
+*谈话的力量=Conversationally speaking

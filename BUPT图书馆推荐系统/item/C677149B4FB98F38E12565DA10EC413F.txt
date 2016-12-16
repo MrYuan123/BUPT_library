@@ -1,0 +1,14 @@
+#差错控制编码与安全
+#人和吞食者 : 刘慈欣最具代表中短篇小说集
+#数字图像处理 = Digital image processing
+#图灵的秘密 = The Annotated turing : 他的生平、思想及论文解读
+*数字图像处理 = Digital image processing : MATLAB版using MATLAB
+*王小波散文精选
+*温网荣耀 : 穆雷自传 = Andy Murray: seventy-seven  : my road to wimbledon glory
+*电影欣赏 = Movie appreciation
+*红高梁家族
+*数字图像处理 : MATLAB版 : 本科教学版 = Digital image processing using MATLAB
+*Head First Java (中文版)
+*图像处理、分析与机器视觉 = Image processing, analysis, and machine vision
+*矩阵论典型题解析及自测试题
+*矩阵论导教·导学·导考

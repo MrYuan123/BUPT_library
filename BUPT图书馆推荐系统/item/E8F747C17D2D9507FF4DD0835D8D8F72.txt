@@ -1,0 +1,14 @@
+#亲密关系
+#飘 = Gone with the wind
+#设计心理学 . 3 , 情感设计 = Emotional design
+#60设计师演讲录 : icograda世界设计大会产业论坛
+*C++ 语言程序设计
+*C++ 程序设计
+*工程力学学习指导典型题解
+*亲爱的三毛
+*用户体验草图设计 : 正确地设计, 设计得正确 = Sketching user experiences : getting the design right and the right design
+*工业设计教程
+*可用性工程 = Usability engineering
+*通用设计方法 = Universal methods of design
+*top 3d 造型技术 : Rhino 3高级应用技法详解
+*计算智能导论

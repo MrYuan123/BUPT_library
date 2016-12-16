@@ -1,0 +1,13 @@
+#算法设计
+#数学建模方法及其应用
+#中级运筹学
+*大学英语四、六级词汇记忆 : 词根+词缀+联想
+*樊昌信《通信原理》 (第6版) 笔记和课后习题 (含考研真题) 详解
+*MATLAB实用教程 = The practical textbook of MATLAB
+*通信原理学习辅导与习题解答
+*Java 程序设计之网络编程
+*大学英语六级5套模拟+3套真题
+*MATLAB从入门到精通
+*Python程序设计教程
+*组合优化导论
+*频谱灵活光网络 = Flexible spectrum optical networks

@@ -1,0 +1,13 @@
+#网络控制系统的分析与综合
+#网络控制系统与应用 = Networked control system and its application
+#MATLAB 控制系统仿真与实例详解
+*单片机C语言程序设计实训100例 : 基于8051+Proteus仿真
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学

@@ -1,0 +1,11 @@
+#大话Java性能优化
+*ELK stack权威指南 = The definitive guide to Elasticsearch + Logstash + Kibana
+*白帽子讲浏览器安全
+*OpenStack开源云王者归来 : 云计算、虚拟化、Nova、Swift、Quantum与Hadoop
+*Netty权威指南
+*Bootstrap基础教程
+*Java特种兵 . 上册
+*编写高质量代码 = Writing solid web front-end code : Web前端开发修炼之道
+*HotSpot实战
+*RabbitMQ实战 : 高效部署分布式消息队列 = RabbitMQ in action : distributed messaging for everyone
+*实战Java虚拟机 : JVM故障诊断与性能优化

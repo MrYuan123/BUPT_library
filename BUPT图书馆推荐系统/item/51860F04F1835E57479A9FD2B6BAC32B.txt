@@ -1,0 +1,16 @@
+#天线 = Antennas : for all applications . 下册
+#天线 = Antennas : for all applications . 上册
+#天线理论
+#电磁场与电磁波教学、学习与考研指导 = Guidance for field and wave electromagnetics: teaching, leaning and graduate student entrance examination
+#CST天线仿真与工程设计
+#数学物理方法
+*天线 = Antennas :  for all applications . 上册
+*通信原理习题集
+*C++ Primer Plus(第五版) 中文版
+*天线 = Antennas :  for all applications . 下册
+*HFSS天线设计
+*数学物理方法简明教程
+*MATLAB数学实验
+*通信原理学习辅导与习题解答
+*电磁场与电磁波学习指导与习题详解
+*托福考试听力特训 = IBT general course for the TOEFL listening

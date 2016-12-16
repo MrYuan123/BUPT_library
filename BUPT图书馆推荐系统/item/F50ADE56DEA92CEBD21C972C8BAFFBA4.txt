@@ -1,0 +1,14 @@
+#东方人与西方人的 50 个思维差异 = 50 thinking differences between easterner and westerner
+#应对中国 : 日本经济对策
+#101 个哲学问题 = 101 philosophy problems
+#不顾诸神 : 现代印度的崛起与发现 = In spite of the gods : the strange rise of modern India : 未来之国 . 2
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

@@ -1,0 +1,11 @@
+#Mahout实战 = Mahout in action
+*Mahout算法解析与案例实战 = Mahout in action : algorithm and cases
+*机器学习与R语言 = Machine learning with R
+*机器学习系统设计 = Building machine learning systems with python
+*视读人工智能 = Artificial intelligence
+*软件测试教程 = Software testing
+*Mahout实践指南 = Apache mahout cookbook
+*信息推荐系统
+*Python 学习手册
+*Python计算机视觉编程 = Programming computer vision with Python
+*Python科学计算

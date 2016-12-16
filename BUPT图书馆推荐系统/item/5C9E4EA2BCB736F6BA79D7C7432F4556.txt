@@ -1,0 +1,15 @@
+#Java程序员面试宝典
+#零基础学算法 : 19.5小时多媒体教学视频
+#MySQL技术内幕 : SQL编程 = Inside MySQL : SQL programming
+#Redis设计与实现 = The design and implementation of Redis
+#MySQL入门经典
+*程序员面试宝典
+*大型网站系统与Java中间件实践
+*解密搜索引擎技术实战 : Lucene & Java精华版
+*数据结构教程 (Java 语言描述)
+*跟老齐学Python : 从入门到精通
+*Java虚拟机精讲
+*MySQL数据库基础与实例教程 = MySQL fundamentals & practices
+*变身 PPT 高手 : PowerPoint核心关键技术解析
+*数据结构 : Java版
+*Spring 高级程序设计 = Pro Spring 2.5

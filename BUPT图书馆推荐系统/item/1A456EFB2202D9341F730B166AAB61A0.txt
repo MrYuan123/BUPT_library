@@ -1,0 +1,13 @@
+#矩阵理论与方法
+#矩阵理论与方法学习指导
+#现代控制理论基础
+*Spring 高级程序设计 = Pro Spring 2.5
+*Node即学即用 = Node : up and running, scalable server-side code with JavaScript
+*线性代数
+*控制论 : 或关于在动物和机器中控制和通信的科学
+*例说ZigBee
+*ZigBee原理、实践及综合应用
+*机械原理
+*微型计算机系统原理及应用 (第四版) 习题集、习题解答与实验指导
+*HTML + CSS 网页布局开发指南
+*微机原理与接口技术学习指导

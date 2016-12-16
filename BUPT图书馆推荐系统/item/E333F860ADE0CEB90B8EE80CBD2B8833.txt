@@ -1,0 +1,13 @@
+#概率统计学习指导
+#电磁场理论基础 : 概念、题解与自测
+#固体物理学
+*通信原理学习辅导 = Tutorial of problems and test papers for communication principles
+*信息论与编码学习辅导及习题详解
+*2015版计算机网络高分笔记
+*微型计算机原理与接口技术学习指导与习题解答
+*微波技术基础
+*数字信号处理教程习题分析与解答
+*我的团长我的团 = Soldiers and their commander . 上部
+*通信原理学习与考研指导
+*数字信号处理教程
+*计算机网络

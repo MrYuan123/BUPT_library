@@ -1,0 +1,15 @@
+#数据挖掘 : 实用机器学习工具与技术 = Data mining : practical machine learning tools and techniques
+#数据挖掘十大算法
+#数据挖掘 : 概念与技术 = Data mining : concepts and techniques
+#2016版数据结构高分笔记
+#数据挖掘 : 概念、模型、方法和算法
+*Hadoop应用开发技术详解 = Programming hadoop
+*2016版计算机网络高分笔记
+*机器学习 = Machine learning
+*计算机网络 : 网络设计的原理、技术和协议 = Computer networks : principles, technologies and protocols for network design
+*数据挖掘教程
+*数据挖掘导论 : 完整版 = Introduction to data mining
+*数据结构习题精析与考研辅导 = Detailed solutions of the data structure's exercises for graduate entrance examination
+*计算机组成与结构 (第5版) 习题详解、实验和CPU设计指导
+*深入体验Java项目开发
+*数据挖掘导论 = Introduction to data mining

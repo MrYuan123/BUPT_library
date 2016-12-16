@@ -1,0 +1,13 @@
+#疯狂 XML 讲义
+#数据结构、算法与应用 : C++语言描述 = Data structures, algorithms, and applications in C++
+#Java简明教程
+*Web 搜索 = Web search
+*ns-3网络模拟器基础及应用
+*图像处理、分析与机器视觉 = Image processing, analysis, and machine vision
+*计算机图形学
+*数字视频编码技术原理 = Principles of digital video coding technology
+*新概念英语语法详解大全
+*软件测试教程 = Software testing
+*大话软件测试
+*当代自然辩证法教程
+*Java 编程那些事儿

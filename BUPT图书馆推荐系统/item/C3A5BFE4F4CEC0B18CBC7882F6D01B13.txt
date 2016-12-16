@@ -1,0 +1,13 @@
+#信息处理与编码 = Information processing and coding
+#Python 基础教程 = Beginning Python from novice to professional
+#经济学原理 = Principles of economics
+*信息论与编码
+*信息论与编码学习辅导及习题详解
+*信息论 : 基础理论与应用
+*Python 学习手册
+*模式识别
+*Linux C从入门到精通
+*Python宝典
+*微信公众平台应用开发 : 方法、技巧与案例 = Wechat public platform application developing : method, technique and example
+*信息论基础 = Elements of information theory
+*大学英语六级词汇过关必练1500题

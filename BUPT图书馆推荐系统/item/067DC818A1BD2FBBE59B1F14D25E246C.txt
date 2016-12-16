@@ -1,0 +1,13 @@
+#Python语言程序设计 = Introduction to programming using Python
+#正则表达式经典实例
+#Python数据分析基础教程 : NumPy学习指南 = NumPy beginner's guide
+*Python语言程序设计
+*NumPy攻略 = NumPy cookbook : Python科学计算与数据分析
+*利用Python进行数据分析
+*Android内核剖析
+*C#图解教程 = Illustrated C# 2012
+*ADS 射频电路设计基础与典型应用
+*ADS2008射频电路设计与仿真实例
+*编写高质量代码 : 改善JavaScript程序的188个建议 = Writing soliv JavaScript cove 188 suggestion to improve your JavaScript program
+*jQuery基础教程 = Learning jQuery
+*数据挖掘十大算法

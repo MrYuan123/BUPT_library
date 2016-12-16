@@ -1,0 +1,13 @@
+#咔咔! 我是日语语法书
+#JavaScript 权威指南
+#CSS 权威指南
+*21天学通JavaScript
+*了不起的Node.js : 将JavaScript进行到底 = Smashing Node. js : JavaScript everywhere
+*C++ Primer 中文版
+*Node学习指南
+*只是为了好玩 : Linux之父林纳斯自传 = Just for fun : the story of an accidental revolutionary
+*高性能网站建设指南 = High performance web sites
+*Node.js开发指南
+*深入浅出Node.js
+*JavaScript语言精粹 = JavaScript : the good parts
+*MongoDB权威指南 = MongoDB : the deinitive guide

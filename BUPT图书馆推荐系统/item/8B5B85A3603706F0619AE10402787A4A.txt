@@ -1,0 +1,13 @@
+#精通Excel金融建模 : 公司金融应用指南 = Mastering financial modelling in Microsoft Excel : a practitioner's guide to applied corporate finance
+#私募股权投资理论与应用
+#金融数量分析 : 基于MATLAB编程
+*产业组织理论 = The Theory of industrial organization
+*数理经济学
+*货币金融学 : 美国商学院版 = The Economics of money, banking and financial markets : business school edition
+*精通 MATLAB 金融计算
+*金融建模与投资管理中的数学 = The Mathematics of financial modeling and investment management
+*明明白白看年报
+*金融学 = Financial economics
+*美联储 = Secrets of the temple : how the federal reserve runs the country
+*营销管理 = Marketing management
+*创业学 = Entrepreneurship : 理论、流程与实践theory, process, and practice

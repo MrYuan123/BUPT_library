@@ -1,0 +1,16 @@
+#数学建模
+#统计学
+#ANSYS有限元分析与工程应用
+#现代统计模型
+#热力学·统计物理
+#应用时间序列分析 = Applied time series analysis
+*时间序列分析及应用 : R语言 = Time series analysis with applications in R
+*深入理解云计算 : 基本原理和应用程序编程技术 = Mastering cloud computing : foundations and applications programming
+*金融时间序列分析 = Analysis of financial time series
+*架构大数据 : 大数据技术及算法解析
+*第四范式 : 数据密集型科学发现
+*通信经济学
+*统计学原理
+*统计学 : 原理与SPSS应用
+*排队论
+*数学建模简明教程 = A Concise course in mathematical modeling

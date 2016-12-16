@@ -1,0 +1,14 @@
+#网站安全攻防秘笈 : 防御黑客和保护用户的100条超级策略 = The Web application defender's cookbook : battling hackers and protecting users
+#AJAX 安全技术 = AJAX security
+#Python 网络编程基础 = Foundations of Python network programming
+#Ajax、JavaScript 和 PHP 编程导学 = Sams teach yourself Ajax, JavaScript, and PHP all in one
+*奇风岁月 = Boy's life
+*Ajax 入门经典
+*素描技法从入门到精通 , 草图基础篇
+*深入理解Bootstrap = Understanding Bootstrap
+*Bootstrap实战 = Bootstrap in action
+*程序员的数学思维修练 : 趣味解读
+*大话物联网
+*情境图解英语听力大突破 = Skills and strategies for understanding English from native speakers
+*民国的背影 : 那些人那些事
+*跟司马懿学管理

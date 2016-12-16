@@ -1,0 +1,15 @@
+#深入剖析Android开发 : 小应用里的大智慧
+#Android程序设计实用教程
+#Android移动应用程序开发教程
+#打造高质量Android应用 : Android开发必知的50个诀窍 = 50 Android hacks
+#Android用户界面设计 = Android user interface design : turning ideas and sketches into beautifully designed apps
+*Windows电脑管家 : DOS BIOS技术 注册表 组策略手册
+*MATLAB小波分析
+*Linux操作系统与实训教程
+*OpenCV 教程 , 基础篇
+*C++与数据结构
+*天书夜读 : 从汇编语言到Windows内核编程
+*MATLAB应用图像处理
+*MATLAB动态仿真实例教程 = Simulations using MATLAB
+*JavaScript程序设计 : 基础·PHP·XML = Introduction to JavaScript programming with XML and PHP
+*Keil C51单片机高级语言应用编程技术

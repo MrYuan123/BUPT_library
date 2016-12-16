@@ -1,0 +1,14 @@
+#互联网的逻辑 = The logic of internet : 传统企业的颠覆与重生
+#大数据挖掘与机器学习 : 工业4.0时代重塑商业价值 = Big data, data mining and machine learning : value creation for business leaders and practitioners
+#互联网思维 = Internet thinking : 商业颠覆与重构
+#互联网+红利时代 : 传统企业互联网转型实战
+*完美沟通 . 2 , 完成复杂任务的智慧 = Super-perfect communication , talking way at work
+*启蒙的精神 = L'esprit des lumieres
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

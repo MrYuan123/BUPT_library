@@ -1,0 +1,11 @@
+#网络安全开发包详解
+*Python黑帽子 : 黑客与渗透测试编程之道 = Black hat python : python programming for hackers and pentesters
+*黑客攻防 : Web安全实战详解 = Hacking and defence : the practice detailed of web security
+*Wireshark数据包分析实战 = Practical packet analysis
+*0day安全 : 软件漏洞分析技术
+*XSS跨站脚本攻击剖析与防御
+*Kali Linux无线网络渗透测试详解
+*黑客简史 : 棱镜中的帝国 = A brrif history of the hackers
+*破坏之王 : DDoS攻击与防范深度剖析
+*Web安全深度剖析
+*计算机网络

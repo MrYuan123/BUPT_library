@@ -1,0 +1,14 @@
+#解密搜索引擎技术实战 : Lucene & Java精华版
+#信息检索导论 = Introduction to information retrieval
+#Java程序员面试宝典
+#零基础学Java : 13小时多媒体教学视频
+*程序员面试宝典
+*道德的起源 : 美德、利他、羞耻的演化 = Moral origins : the evolution of virtue, altruism, and shame
+*Linux就是这个范儿 = I'm a newbie, could I master Linux? Sure, just do it
+*MySQL技术内幕 : SQL编程 = Inside MySQL : SQL programming
+*零点起飞学Android开发
+*OSGi实战 = OSGi in action : creating modulaer applications in Java
+*我的第一本C++书
+*腾云 : 云计算和大数据时代网络技术揭秘
+*零点起飞学Java
+*线性代数

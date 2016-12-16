@@ -1,0 +1,13 @@
+#最新六级词汇科学快捷记忆手册
+#哈佛情商课 = EQ curriculum of Harvard : 哈佛精英是怎样炼成的
+#面向对象程序设计Java
+*Altium Designer电路设计从入门到精通
+*Altium Designer 15.0电路仿真、设计、验证与工艺实现权威指南 = The definitive guide of Altium Designer 15.0 circuit design, simulation, verification and technological realization
+*精通 Linux C 编程
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

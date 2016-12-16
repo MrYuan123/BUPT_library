@@ -1,0 +1,13 @@
+#NS 网络模拟和协议仿真
+#计算机网络仿真OPNET实用指南
+#OMNeT++网络仿真
+*Visual C++网络通信编程技术详解 = Network communication programming using visual C++
+*Network Warrior中文版 : 思科网络工程师必备手册
+*RESTful Web Services 中文版 = RESTful web services
+*OMNeT++与网络仿真
+*数据挖掘 = Data mining : 实用机器学习技术practical machine learning tools and techniques
+*分布式算法 = Distributed algorithms
+*Linux命令行大全 = The Linux command line
+*WebGL 高级编程 : 开发Web 3D图形
+*NS2 与网络模拟
+*卫星通信

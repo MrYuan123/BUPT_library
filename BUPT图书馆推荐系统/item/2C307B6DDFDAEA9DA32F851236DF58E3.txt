@@ -1,0 +1,14 @@
+#无线通信 = Wireless communications
+#Xilinx FPGA设计权威指南 = Xilinx FPGA : design and application
+#扩频通信系统的FPGA设计
+#FPGA项目开发实战讲解
+*无线通信原理与应用 = Wireless communications principles and practice
+*现代无线通信原理
+*深入浅出玩转 FPGA
+*FPGA设计技巧与案例开发详解
+*线性代数
+*模拟电子技术基础
+*FPGA 应用开发入门与典型实例
+*数字系统设计与Verilog HDL
+*Verilog数字系统设计教程
+*PID 控制器参数整定与实现

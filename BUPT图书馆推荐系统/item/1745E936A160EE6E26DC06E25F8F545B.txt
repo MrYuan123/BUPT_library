@@ -1,0 +1,14 @@
+#移动传播环境 : 理论基础·分析方法和建模技术
+#无线通信原理与应用 = Wireless communications principles and practice
+#无线通信 = Wireless communications
+#LED可见光通信技术 = LED visible light communication technologies
+*现代无线通信原理
+*移动通信原理
+*通信之道 : 从微积分到5G
+*经济学原理 , 微观经济学分册
+*经济学原理 , 宏观经济学分册
+*自适应滤波器原理 = Adaptive filter theory
+*移动通信系统终端射线跟踪定位理论与方法
+*移动通信无线电波传播
+*小波分析理论与 MATLAB R2007 实现
+*雅思阅读真经总纲

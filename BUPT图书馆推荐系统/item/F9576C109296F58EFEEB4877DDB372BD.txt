@@ -1,0 +1,12 @@
+#跟 100 种动物学生存智慧
+#英语的门槛有多高 = Tips on English learning
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

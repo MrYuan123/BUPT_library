@@ -1,0 +1,17 @@
+#无线传感器网络
+#正则指引 = Regular expression yet another introduction
+#Python 3 程序开发指南 = Programming in Python 3
+#数据结构与算法 : C语言版 = Data structures and algorithms in C
+#Hadoop 权威指南 : 中文版
+#Python 3面向对象编程 = Python 3 object oriented programming
+#MySQL技术内幕
+*Python程序设计基础
+*离散数学
+*深入理解大数据 : 大数据处理与编程实践 = Understanding big data : big data processing and programming
+*Hadoop基础教程 = Hadoop beginner's guide
+*R语言核心技术手册 = R in a nutshell
+*R语言初学者指南 = A Beginner's guide to R
+*零基础学Python = Adventures in Python : 图文版
+*SPSS 与统计分析
+*Python编程实践 = Practical programming : an introduction to computer science using python
+*Docker全攻略

@@ -1,0 +1,12 @@
+#Ubuntu Linux从入门到精通
+#在斯坦福大学听演讲 = Listen to the speeches in Stanford University
+*Eclipse 开发入门与项目实践
+*Hadoop大数据处理 = Big data processing
+*数据结构与算法分析新视角
+*通信原理习题集
+*微机原理与接口技术
+*电磁场与电磁波 = Electromagnetic field theory fundamentals
+*数字图像压缩编码
+*电磁场与电磁波习题精解
+*电磁场与电磁波
+*通信原理 . 上

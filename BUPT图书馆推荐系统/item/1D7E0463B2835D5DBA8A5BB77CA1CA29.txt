@@ -1,0 +1,18 @@
+#单片机原理与项目实践 : 基于C语言
+#科技英语阅读 = A practical course of reading
+#歪歪的漫画书 , 疯狂的4级词汇 = Waiwai's cartoon , Crazy CET-4 vocabulary
+#四级词汇连句记词
+#幻夜
+#跟着《神探夏洛克》轻松练听力
+#物流工程概论 = Fundmentals of logistics engineering
+#Photoshop, 超简单! = Photoshop, so easy!
+*DSLR 数码单反摄影宝典
+*撒哈拉的故事
+*变化的位面 = Changing planes
+*组织文化与领导力 = Organizational culture and leadership
+*管理沟通指南 : 有效商务写作与演讲 = Guide to managerial communication : effective business writing and speaking
+*算法竞赛入门经典
+*幽默与口才
+*异乡人 = Snow hunters
+*这样读书就够了
+*生物特征识别技术与方法 = Biometric technique and method

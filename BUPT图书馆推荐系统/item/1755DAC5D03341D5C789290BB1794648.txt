@@ -1,0 +1,11 @@
+#零基础学Python = Adventures in Python : 图文版
+*最有人性的“人” : 人工智能带给我们的启示 = The Most human human : what talking with computers teaches us about what it means to be alive
+*Python 3面向对象编程 = Python 3 object oriented programming
+*慕课 : 互联网+教育时代的学习革命
+*O2O复盘 = O2O replaying : 10大企业O2O模式与操盘方法解密
+*看见
+*JavaScript快速全栈开发 = Rapid prototyping with JS: agile JavaScript development
+*游戏开发中的人工智能
+*Spark MLlib机器学习实践
+*Visual C++空间图形可视化算法原理与实践 = Algorithmic principles and practice of spatial graphics visualization based on VC++
+*并行编程方法与优化实践 = Parallel programmingmethodology and optimization in action

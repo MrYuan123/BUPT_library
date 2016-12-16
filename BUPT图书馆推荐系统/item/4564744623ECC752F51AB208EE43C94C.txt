@@ -1,0 +1,12 @@
+#Linux 常用工具速查实用手册
+#射频与微波电子学
+*无线Mesh网络基础 = Essentials of wireless mesh networking
+*无线Mesh网络应用技术
+*无线 Mesh 网络架构与协议
+*Linux C编程从入门到精通
+*电路 = Electric circuits
+*MATLAB 通信工程仿真
+*Java 语言程序设计 = Introduction to Java programming , 进阶篇comprehensive version
+*现代电子通信
+*微波工程基础
+*简明天线理论与设计应用

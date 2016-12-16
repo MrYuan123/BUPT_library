@@ -1,0 +1,16 @@
+#JavaScript 基础教程
+#近世代数讲义
+#ACM程序设计竞赛基础教程
+#近世代数习题解答
+#MySQL高效编程
+#Java 算法 . 第1卷
+*Cocos2D-X游戏开发技术精解
+*Cocos2d-x学习笔记 : 完全掌握C + + API与游戏项目开发 = Cocos 2 d-x learning notes : the definitive guide to C + + API and game projects development
+*Cocos2d-x 3.x游戏开发之旅
+*Cocos2d-x实战 , 工具卷 = Cocos2d-x in action , for tools
+*诺桑觉寺 = Northanger abbey
+*零点起飞学HTML+CSS
+*C++沉思录 /
+*高等数学习作课精编
+*Linux 操作系统分析与实战
+*PHP和MySQL Web开发从新手到高手

@@ -1,0 +1,27 @@
+#光纤通信系统
+#多天线系统中的空时码技术
+#光纤通信新技术
+#RFID原理与应用
+#高频RFID技术高级教程
+#射频识别 (RFID) 技术原理与应用
+#无线光接入技术进展和应用
+#光纤通信技术
+#ROF光载无线通信 : 从理论到前沿
+#无线光通信
+#RFID技术在物联网中的应用 = Rfid-radio frequency IDentification
+#分布式天线系统 = Distributed antenna systems open architecture for future wireless communications : 未来无线通信的开放式架构
+#物联网射频识别技术
+#通信原理
+#RFID系统安全测评及防护技术
+#光纤通信 = Optical fiber communications
+#无线通信中的智能天线
+*Windows XP+Office 2003+Internet 办公自动化教程与上机指导
+*现代光纤通信
+*光子学 = Photonics : 现代通信光电子学optical electronics in modern communications
+*光通信中的 OFDM = OFDM for optical communications
+*光纤通信技术 = Optical fiber communications technology
+*计算机网络
+*光纤通信入门130问
+*物联网 : 射频识别 (RFID) 核心技术详解 = Radio frequency identification development internals
+*光纤通信 = Fiber optic communications
+*光纤光栅 : 原理、技术与传感应用

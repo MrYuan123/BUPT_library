@@ -1,0 +1,12 @@
+#大学英语四级词汇记忆 : 词根+词缀+联想
+#JavaScript完全参考手册
+*HTML5权威指南 = The Definitive guide to HTML5
+*精通JavaScript开发 = Pro JavaScript development : coding, capabilities, and tooling
+*排队论
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms

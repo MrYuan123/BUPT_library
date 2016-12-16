@@ -1,0 +1,15 @@
+#移动衰落信道 = Mobile fading channels
+#移动传播环境 : 理论基础·分析方法和建模技术
+#剑桥雅思真题精讲 . 4.5.6
+#雅思阅读真经总纲
+#剑桥雅思真题精讲 . 9
+*雅思写作真经总纲 = IELTS writing
+*Digital and analog communication systems =数字与模拟通信系统 /数字与模拟通信系统
+*数字与模拟通信系统 = Digital and analog communication systems
+*通信之道 : 从微积分到5G
+*移动通信无线电波传播
+*移动通信系统终端射线跟踪定位理论与方法
+*无线通信 = Wireless communications
+*无线通信原理与应用 = Wireless communications principles and practice
+*LED可见光通信技术 = LED visible light communication technologies
+*小波分析理论与 MATLAB R2007 实现

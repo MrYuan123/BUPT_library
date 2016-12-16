@@ -1,0 +1,13 @@
+#R 语言与统计分析 = Statistical analysis with R
+#非线性光纤光学 = Nonlinear fiber optics
+#谁说菜鸟不会数据分析 , 工具篇
+*Photoshop CS4 数码照片处理与精修完全学习手册
+*ANSYS Workbench 14.5有限元分析从入门到精通
+*MATLAB 数理统计 (6.x)
+*电磁场与电磁波
+*谁说菜鸟不会数据分析
+*光纤通信
+*非线性光学
+*深入浅出数据分析 = Head first data analysis
+*可靠性试验及其统计分析
+*Ansys Workbench 14.5有限元分析案例详解

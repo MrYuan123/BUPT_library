@@ -1,0 +1,13 @@
+#Java 编程入门经典
+#零基础学C++
+#C++ PRIMER 中文版 = C++ Primer
+*MATLAB原理及应用案例教程
+*HTML+CSS+JavaScript网页设计简明教程
+*数据结构与算法 : Java版
+*C/C++常用算法手册
+*爱上英文 = Read it love it
+*神经网络 = Neural networks
+*神经网络盲均衡理论、算法与应用
+*MATLAB GUI设计入门与实战
+*神经网络设计方法与实例分析
+*MATLAB神经网络编程

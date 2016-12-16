@@ -1,0 +1,12 @@
+#OFDM 无线局域网
+#无线局域网 (WLAN) : 原理、技术与应用
+*多抽样率信号处理
+*下一代宽带无线通信 OFDM 与 MIMO 技术
+*数字信号处理 : 基于计算机的方法 = Digital signal processing : A Computer-based approach
+*通信中的同步技术及应用
+*多抽样率数字信号处理理论及其应用
+*高级无线通信 : 4G认知与协作宽带技术 = Advanced Wireless communications : 4G cognitive and cooperative broadband technology
+*多抽样率数字信号处理
+*数字通信同步技术的MATLAB与FPGA实现 : Altera/Verilog版
+*MATLAB 数字信号处理
+*宽带无线通信 OFDM 技术

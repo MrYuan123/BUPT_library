@@ -1,0 +1,14 @@
+#数据库原理
+#Visual C#程序设计基础
+#微波技术基础一本通 : 概要、答疑、题解、实验、自测
+#通信原理教程 = Lectures on communication principles
+*数字信号处理原理及实现学习指导 = Study guide for digital signal processing principles and practice
+*微波技术学习与解题指南
+*数字信号处理教程习题分析与解答
+*通信原理学习辅导
+*最优化方法及应用案例
+*无线通信 = Wireless communications
+*数学规划基础
+*图论与网络最优化算法
+*数学规划
+*计算机网络

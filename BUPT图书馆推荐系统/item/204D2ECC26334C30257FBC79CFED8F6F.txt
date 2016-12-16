@@ -1,0 +1,14 @@
+#大话移动通信
+#通信之道 : 从微积分到5G
+#大话通信 : 通信基础知识读本
+#大话无线通信
+*移动传播环境 : 理论基础·分析方法和建模技术
+*LTE轻松进阶
+*移动通信原理
+*少年维特的烦恼 = Die leiden des jungen Werthers
+*基督山伯爵 . 上 = Le comte de Monte-Cristo
+*通信行业求职宝典 : 猎头视角
+*移动通信原理与系统
+*MIMO-OFDM无线通信技术及MATLAB实现 = MIMO-OFDM wireless communications with MATLAB
+*3GPP LTE物理层和空中接口技术
+*无线通信系统仿真 : IT++分析与实例

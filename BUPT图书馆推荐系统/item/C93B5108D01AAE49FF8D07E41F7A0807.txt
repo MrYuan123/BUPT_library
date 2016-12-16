@@ -1,0 +1,15 @@
+#详解MATLAB/Simulink通信系统建模与仿真 : 配视频教程
+#多用户、多小区 MIMO 通信技术 = Multi-user multi-cell MIMO communication technology
+#矩阵计算与应用
+#现代通信理论
+#数学及其认识 = Mathematics and it's recognize
+*矩阵理论与方法导引
+*MIMO 无线通信 : 从真实世界的传播到空-时编码的设计 = MIMO wireless communications : from real-world propagation to space-time code design
+*MATLAB/Simulink 通信系统建模与仿真实例精讲
+*易学Python
+*现代信号处理 = Modern signal processing
+*波达方向估计
+*Android嵌入式系统程序开发 : 基于Cortex-A8
+*3GPP 长期演进 (LTE) 技术原理与系统设计 = 3GPP long term evolution : principle and system design
+*3GPP 长期演进 (LTE) 系统架构与技术规范 = 3GPP long term evolution : architecture and specification
+*CDMA 无线通信原理

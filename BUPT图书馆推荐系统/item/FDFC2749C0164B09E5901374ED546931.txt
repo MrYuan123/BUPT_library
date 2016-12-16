@@ -1,0 +1,12 @@
+#差错控制编码 = Error control coding
+#排队论 : 基础与分析技术
+*现代纠错编码与调制理论及应用 = Modern channel coding and modulation : theory and application
+*Android系统安全和反编译实战
+*深入理解Android , Wi-Fi、NFC和GPS卷 = Understanding android internals , Wi-Fi, NFC and GPS
+*Android物联网开发从入门到实战
+*深入理解 Android . 卷III = Undwestanding android internals . Voiume III
+*LDPC 码基础与应用 = Principle and application of LDPC
+*信道编码与MATLAB仿真
+*西方科学的起源 = The beginnings of western science : 公元前六百年至公元一千四百五十年宗教、哲学和社会建制大背景下的欧洲科学传统
+*信息理论与编码
+*编码 : 隐匿在计算机软硬件背后的语言 = Code : the hidden language of computer hardware and software

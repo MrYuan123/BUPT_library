@@ -1,0 +1,17 @@
+#光纤通信 = Fiber optic communications
+#移动通信网络规划与工程设计
+#数据通信与网络技术
+#云计算的关键技术与应用实例
+#计算机网络
+#移动通信类职位应聘指南 : 知识精要与试题解析
+#现代交换技术 = Modern exchange technology
+*奇点临近 = The singularity is near when humans transcend biology
+*通信原理及MATLAB/Simulink仿真 = Principles and MATLAB/Simulink simulations of communications
+*数字通信原理 = Principles of digital communication
+*MATLAB 2008 全程指南
+*MATLAB R2012a超级学习手册
+*操作系统
+*光纤通信技术
+*光子学 = Photonics : 现代通信光电子学optical electronics in modern communications
+*光纤通信 = Optical fiber communications
+*光纤光栅 : 原理、技术与传感应用

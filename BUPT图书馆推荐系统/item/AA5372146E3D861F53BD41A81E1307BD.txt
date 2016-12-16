@@ -1,0 +1,16 @@
+#王羲之
+#庄子
+#司马迁
+#无线通信基础 = Fundamentals of wireless communication
+#米沃什词典 : 一部20世纪的回忆录 = Milosz's abc's
+#陶渊明
+*微型计算机原理与接口技术实验指导
+*小熊维尼历险记 = Winnie the pooh : 插图·中文导读英文版
+*Ubuntu Linux基础教程
+*无线通信 = Wireless communications
+*神经网络与机器学习 = Neural networks and learning machines
+*3GPP 长期演进 (LTE) 系统架构与技术规范 = 3GPP long term evolution : architecture and specification
+*Effective C++ : 改善程序与设计的55个具体做法 : 中文版 = Effective C++ : 55 specific ways to improve your programs and designs
+*最优化方法及其 Matlab 程序设计
+*空时无线通信导论
+*STM32F10X系列ARM微控制器入门与提高

@@ -1,0 +1,15 @@
+#量子密码协议的设计和分析
+#量子力学习题精选与剖析
+#应用量子密码学 = Applied quantum cryptography
+#信息保护 : 从经典纠错到量子密码 = Protecting information : from classical error correction to quantum cryptography
+#量子计算和量子信息 = Quantum computation and quantum information . 二 , 量子信息部分
+*量子计算和量子信息 = Quantum computation and quantum information . 一 , 量子计算部分
+*量子密码学
+*英语学术论文写作 = English acadeng writing
+*量子信息处理技术及算法设计
+*量子信息处理技术
+*量子力学新进展 . 第五辑 = Recent progress in quantum mechanice . fifth volume
+*信息论基础 = Elements of information theory
+*量子密码通信 = Quantum cryptography communication
+*潮流 : UI设计必修课
+*无约束最优化计算方法

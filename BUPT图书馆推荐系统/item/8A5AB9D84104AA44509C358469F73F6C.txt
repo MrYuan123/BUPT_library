@@ -1,0 +1,19 @@
+#大数据时代 : 生活、工作与思维的大变革 = Big data : a revolution that will transform how we live, work and think
+#数字经济大趋势 : 正在到来的商业机遇 = Unzipping the digital world
+#躺着改变世界
+#从创意到畅销书 : 修改与自我编辑 = Revision and self-editing for publication : techniques for transforming your first draft into a novel that sells
+#解忧杂货店
+#乐观的偏见 : 激发理性乐观的潜在力量 = The optimism bias : a tour of the irrationally positive brain
+#怎样读书
+#众媒时代 : 文字、图像与声音的新世界秩序
+#O2O时代的冲击 : 支付、市场营销、消费者行为的全面革命
+*JavaScript 高级程序设计 = Professional JavaScript for web developers
+*牛奶可乐经济学 : 完整版 = The Economic naturalist : in search of explanations for everyday enigmas
+*智能时代 = On intelligence : 当所有的机器都能学习思考, 我们的生活会如何改变
+*云计算 = Cloud computing : 大数据时代的系统工程
+*基业长青 = Built to last : successful habits of visionary companies
+*乌合之众 : 大众心理研究 = a Study of the popular mind
+*放学后
+*数据分析
+*精通色彩搭配 : 100%全能网页配色密码
+*失乐园 = Paradise lost

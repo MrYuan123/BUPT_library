@@ -1,0 +1,15 @@
+#六级词汇词根+联想记忆法
+#ANSYS Workbench工程应用案例精通
+#Ansys Workbench 14.5有限元分析案例详解
+#ANSYS Workbench 15.0从入门到精通
+#工程力学
+*大学英语六级考试词汇巧记手册
+*深入浅出数据分析 = Head first data analysis
+*谁说菜鸟不会数据分析
+*ANSYS Workbench 14.5有限元分析从入门到精通
+*MATLAB 数理统计 (6.x)
+*可靠性试验及其统计分析
+*谁说菜鸟不会数据分析 , 工具篇
+*操作系统原理与Linux实践教程
+*电子电路基础及通信电子电路学习指导书
+*机器学习 = Machine learning

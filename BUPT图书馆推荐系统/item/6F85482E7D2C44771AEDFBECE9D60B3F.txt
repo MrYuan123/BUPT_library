@@ -1,0 +1,14 @@
+#大话处理器 : 处理器基础知识读本
+#大型RISC处理器设计 : 用描述语言Verilog设计VLSI芯片 = Visi chip design with the hardware description language verilog
+#GPU 精粹 3
+#现代VLSI设计 : 基于IP核的设计 = Modern VLSI design : IP-based design
+*数据结构与STL
+*深入浅出程序设计
+*Head first mobile web中文版
+*Head First PHP & MySQL : 中文版
+*Head First HTML 与 CSS、XHTML (中文版)
+*数学史 = A history of mathematics . 上
+*量化投资 : 策略与技术
+*征服C指针
+*C++ Primer (第4版) 习题解答
+*图解机器学习

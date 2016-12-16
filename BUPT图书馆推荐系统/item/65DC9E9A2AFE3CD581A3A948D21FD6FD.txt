@@ -1,0 +1,15 @@
+#OpenCL实战 = OpenCL in action
+#Nios II 嵌入式处理器设计大赛 2006 年优秀作品精选集
+#OpenCL编程指南 = OpenCL programming guide
+#科技写作教程 = Pocket book of technical writing for engineers and scientists
+#Nios II 系统开发设计与应用案例
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

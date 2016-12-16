@@ -1,0 +1,15 @@
+#Mathematica基础与应用
+#非线性物理学
+#非线性物理概论
+#复变函数·积分变换同步辅导及习题全解
+#物理学中的非线性方程 = Nonlinear equations in physics
+*机械原理 (第七版) 同步辅导及习题全解
+*高等机构学
+*Mathematica 7 实用教程 = Step up to mathematica 7
+*神经网络与机器学习 = Neural networks and learning machines
+*机构动态仿真 : 使用MATLAB和SIMULINK = Simulations of machines : Using MATLAB and SIMULINK
+*机器人机构学的数学基础
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统

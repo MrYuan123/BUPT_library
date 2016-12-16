@@ -1,0 +1,15 @@
+#MATLAB通信系统建模与仿真 = Modeling and simulation of MATLAB communication system
+#详解MATLAB/Simulink通信系统建模与仿真 : 配视频教程
+#MATLAB/Simulink 通信系统建模与仿真实例精讲
+#现代通信系统 = Contemporary communication systems using MATLAB and simulink : MATLAB版
+#精通MATLAB信号处理 = Proficient in MATLAB signal processing
+*Simulink与信号处理
+*Python宝典
+*MATLAB基础与应用
+*Matlab/Simulink 通信系统建模与仿真实例分析
+*定位技术理论与方法
+*通信系统中 MATLAB 基础与仿真应用
+*数值分析
+*位置计算 : 无线网络定位与可定位性 = Location-based computing : localization and localizability of wireless-networks
+*数值分析与科学计算
+*室内外无线定位与导航

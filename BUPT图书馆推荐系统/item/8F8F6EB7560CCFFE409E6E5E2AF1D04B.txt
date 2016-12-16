@@ -1,0 +1,16 @@
+#网络服务器组建、配置和管理 , Windows篇
+#Raspberry Pi入门指南
+#树莓派应用速成 : 网络应用秘方
+#Raspberry Pi树莓派实作应用 = Practical raspberry pi
+#树莓派应用速成 : Raspbmc媒体中心
+#树莓派(Raspberry Pi)实战指南 : 手把手教你掌握100个精彩案例 = The practical developing guide for Raspberry Pi : learning 100 excellent projects step by step
+*MATLAB智能算法30个案例分析
+*数字信号处理 = Understanding digital signal processing
+*微波工程 = Microwave engineering
+*Raspberry Pi实战攻略
+*高级编程技术
+*Modern electronic communication =现代电子通信 /现代电子通信
+*爱上Raspberry Pi
+*树莓派Python编程指南 = Learning python with raspberry pi
+*真实世界的Python仪器监控 : 数据采集与控制系统自动化 = Real world instrumentation with python
+*计算机网络

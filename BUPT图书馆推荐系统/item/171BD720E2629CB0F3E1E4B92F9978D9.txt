@@ -1,0 +1,12 @@
+#深入浅出数据分析 = Head first data analysis
+#多媒体通信技术基础
+*易学 C++
+*谈笑间
+*Photoshop CS6从入门到精通
+*Photoshop CS6完全自学教程
+*数据之美
+*啤酒与尿布 : 神奇的购物篮分析
+*大数据分析 : 用互联网思维创造惊人价值 = Win with advanced business analytics : creating business value from your data
+*算法设计、分析与应用教程
+*中国周边安全形势评估 . 2016 = China's regional security environment review . 2016 , “一带一路”：战略对接与安全风险
+*Ansys Workbench 14.5有限元分析案例详解

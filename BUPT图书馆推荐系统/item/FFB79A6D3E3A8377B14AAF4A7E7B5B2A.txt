@@ -1,0 +1,15 @@
+#概率论与数理统计
+#高等代数与解析几何习题精解
+#空间解析几何 : 综合学习与指导
+#线性代数及其应用 = Linear algebra and its applications
+#Б. П.吉米多维奇数学分析习题集 : 提示·解题思路·答案
+*姐姐的守护者 = My sister's keeper
+*数学建模 = Mathematical modeling
+*数学分析
+*算法引论 = Introduction to algorithms : 一种创造性方法a creative approach
+*数学史
+*大浴女
+*计量经济学 = Econometrics
+*高等数学 . 上册
+*线性代数解题指导
+*线性代数与解析几何

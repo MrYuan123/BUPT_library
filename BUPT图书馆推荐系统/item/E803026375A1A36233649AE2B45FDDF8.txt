@@ -1,0 +1,19 @@
+#乱世佳人 . 上 = Gone with the wind
+#大师画本 : 彭大立手稿典藏
+#Photoshop CS4 广告设计高级教程
+#公钥密码学 : 设计原理与可证安全 = Public key cryptology : design principle and provable security
+#密码协议形式化分析
+#手绘创意草图1000例 : 私人速写簿中的灵感闪现
+#密码学导引 = Introduction to cryptography : 原理与应用principles and applications
+#游戏动画角色设计 = Alive character design : 苏海涛角色设计教程
+#可证明安全算法与协议
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计
+*离散数学
+*Java 编程思想 = Thinking in Java

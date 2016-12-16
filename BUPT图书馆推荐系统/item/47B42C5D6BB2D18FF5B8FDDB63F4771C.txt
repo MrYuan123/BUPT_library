@@ -1,0 +1,13 @@
+#轻松应对面试难题 = Answering tough interview questions for dummies
+#互联网求职全攻略
+#优雅 = Elegance
+*MySQL 必知必会 = MySQL crash course
+*SPSS Modeler数据挖掘方法及应用
+*计算机网络
+*线性代数
+*高等数学 . 上册
+*信号与系统
+*概率论与数理统计
+*通信原理
+*算法导论 = Introduction to algorithms
+*C 语言程序设计

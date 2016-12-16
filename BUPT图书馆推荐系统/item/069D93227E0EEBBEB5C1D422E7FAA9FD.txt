@@ -1,0 +1,14 @@
+#Python 语言入门
+#精通MATLAB R2014a = Proficient in MATLAB R2014a
+#Head first Python =深入浅出Python /深入浅出Python
+#基于 MATLAB 的实用数值计算
+*机器学习及其应用2011
+*设计模式解析 = Design patterns explained : a new perspective on object-oriented design
+*利用Python进行数据分析
+*人月神话 : 32 周年中文纪念版
+*用 Python 学编程 = Learn to program using python
+*统计学习方法
+*第一本Docker书 = The docker book
+*大数据 = The big data revolution : 正在到来的数据革命, 以及它如何改变政府、商业与我们的生活
+*城市物流 : 网络建模与智能交通系统 = City logistics : network modelling and intelligent transport systems
+*组合最优化 : 理论与算法

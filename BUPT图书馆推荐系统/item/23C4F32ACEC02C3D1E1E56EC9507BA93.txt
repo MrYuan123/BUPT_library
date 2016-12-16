@@ -1,0 +1,14 @@
+#朗读者 = Der vorleser
+#贝叶斯网络在智能信息处理中的应用 = Applications of Bayesian network in intelligent information processing
+#南京安魂曲
+#数据挖掘与R语言 = Data mining with R : learning with case studies
+*色 = Pornografia
+*产业经济学教程与案例 = Industrial economics text and cases
+*万物既伟大又渺小 = All creatures great and small
+*源氏物语图典
+*动物农庄 = Animal farm
+*半导体材料
+*R语言实战 = R in action : data analysis and graphics with R
+*数据挖掘原理与算法
+*MySQL 5.6从零开始学 : 视频教学版
+*光电子材料与器件

@@ -1,0 +1,13 @@
+#Kali Linux无线网络渗透测试详解
+#Linux 程序设计 = Beginning Linux programming
+#软件无线电原理与应用
+*Swift开发iOS App快速入门与实战
+*iOS 8应用开发从入门到精通
+*Swift基础教程
+*LabVIEW 宝典
+*数字信号处理原理及其LabVIEW实现
+*软件无线电原理与技术 = Software radio principle and technology
+*LabVIEW 2013中文版虚拟仪器从入门到精通
+*Java 编程思想 = Thinking in Java
+*LabVIEW程序设计与应用
+*Python黑帽子 : 黑客与渗透测试编程之道 = Black hat python : python programming for hackers and pentesters

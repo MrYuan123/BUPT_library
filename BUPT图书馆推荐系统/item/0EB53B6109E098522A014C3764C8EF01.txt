@@ -1,0 +1,14 @@
+#MATLAB 8.0从入门到精通
+#AMOS 与研究方法
+#回归分析 : 因变量统计模型 = Regression Analysis : statistical modeling of a response variable
+#SPSS统计分析与行业应用案例详解
+*Python编程实践 = Practical programming : an introduction to computer science using python
+*统计学 = Statistics
+*快学Scala = Scala for the impatient
+*消费者行为及网络购物
+*广告心理
+*广告理论与策划
+*广告原理与实务
+*广告心理学教程 = Advertising psycology tutorial
+*广告心理学 = Psychology of advertising
+*广告效果

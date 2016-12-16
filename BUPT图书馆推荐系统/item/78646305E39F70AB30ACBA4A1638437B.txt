@@ -1,0 +1,16 @@
+#Docker技术入门与实战
+#Kubernetes实战
+#Go语言·云动力
+#DevOps故障排除 : Linux服务器运维最佳实践 = DevOps troubleshooting : Linux server best practices
+#Kubernetes权威指南 : 从Docker到Kubernetes实践全接触
+#Docker : 容器与容器云
+*OpenStack云计算实战手册
+*Docker全攻略
+*六级词汇词根 + 联想记忆法 : 乱序版
+*Docker开发实践
+*模式识别 = Pattern recognition
+*OpenStack开源云王者归来 : 云计算、虚拟化、Nova、Swift、Quantum与Hadoop
+*深入理解Nginx : 模块开发与架构解析 = Understanding Nginx : modules development and architecture resolveing
+*Java Web 开发实践教程 : 从设计到实现
+*计算机网络
+*线性代数

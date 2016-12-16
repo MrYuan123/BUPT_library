@@ -1,0 +1,16 @@
+#OS X系统管理和部署
+#Linux系统命令及Shell脚本实践指南 = Linux commands and shell scripting
+#OS X与iOS内核编程 = OS X and iOS kernel programming
+#Linux性能优化大师
+#精通Linux内核网络 = Linux kernel networking : implementation and theory
+#深入理解程序设计 : 使用Linux汇编语言 = Programming from the ground up
+*语义网基础教程 = A semantic Web primer
+*Java Web开发技术教程
+*下一代网络核心控制协议 : SIP及其应用
+*Linux实用教程
+*Wireshark数据包分析实战详解
+*计算机图形学 : OpenGL版
+*App后台开发运维和架构实践
+*OpenGL 超级宝典 = OpenGL superbible
+*另一个地球 : 互联网+社会 = Society and the internet : how networks of information and communication are changing our lives
+*计算机网络课程设计

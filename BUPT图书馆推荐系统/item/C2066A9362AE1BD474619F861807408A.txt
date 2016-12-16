@@ -1,0 +1,12 @@
+#编译原理 = Compilers : principles, techniques and tools
+#加密与解密
+*汇编语言 : 基于Linux环境
+*模糊测试强制发掘安全漏洞的利器 = Fuzzing brute force vulnerability discovery
+*渗透测试实践指南 : 必知必会的工具与方法 = The basics of Hacking and penetration testing : ethical Hacking and penetration testing made easy
+*软件调试 = Software debugging
+*白帽子讲Web安全
+*揭秘家用路由器0day漏洞挖掘技术
+*Linux C编程从基础到实践
+*Android应用开发实践教程
+*高质量嵌入式Linux C编程
+*柔性字符串匹配 = Flexible pattern matching in strings : practical on-line search algorithms for texts and biological sequences

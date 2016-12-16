@@ -1,0 +1,12 @@
+#HTML5权威指南 = The Definitive guide to HTML5
+#JavaScript高级程序设计 = Professional JavaScript for web developers
+*PHP 和 MySQL Web 开发 = PHP and MySQL Web development
+*精通JavaScript开发 = Pro JavaScript development : coding, capabilities, and tooling
+*jQuery Mobile快速入门
+*Java 编程思想 = Thinking in Java
+*jQuery实战 = jQuery in action
+*牛奶可乐经济学 = The economic naturalist : in search of explanations for everyday enigmas
+*JavaScript完全参考手册
+*排队论
+*PHP 网络编程技术与实例
+*别具光芒 , CSS 属性、浏览器兼容与网页布局

@@ -1,0 +1,13 @@
+#Java程序设计教程
+#大话移动通信
+#移动宽带技术 : LTE = Mobile broadband technology
+*LTE系统原理及应用
+*移动通信原理与系统
+*JAVA 2 核心技术 = Core Java 2 . 卷Ⅰvolume Ⅰ , 基础知识fundamentals
+*数据与文本挖掘及其在研发决策中的应用 = Data and text mining and its application in research and development decision-making
+*预测性文本挖掘基础 = Fundamentals of predictive text mining
+*Java 高级语言程序设计
+*文本挖掘原理
+*大话移动通信网络规划
+*李十三推磨
+*考研英语词汇词根 + 联想记忆法 : 乱序版
